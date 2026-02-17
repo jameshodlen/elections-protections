@@ -1,0 +1,127 @@
+# Implementing 18 U.S.C. § 592 polling place protections in New Mexico municipalities
+
+New Mexico offers a viable pathway for Madison-style municipal ordinances protecting polling places from armed federal personnel, though strategic navigation of the state's hybrid home rule system is essential. The state's ten charter cities—particularly Santa Fe and Las Cruces—have both the legal authority and progressive political environments to serve as launching points for this campaign. Recent passage of the New Mexico Voting Rights Act (2023) and the first-in-the-nation Native American Voting Rights Act demonstrates strong coalitional infrastructure for election protection measures. However, a January 2025 New Mexico Supreme Court decision establishes important limits on local ordinances that conflict with state policy on matters of "statewide concern," requiring careful legal positioning.
+
+## Section 1: New Mexico operates as a hybrid Dillon's Rule state with optional home rule
+
+New Mexico's municipal legal framework creates a **two-tiered system** where most municipalities operate under strict Dillon's Rule limitations while ten charter cities enjoy substantially broader authority. Understanding this distinction is critical for targeting ordinance adoption.
+
+**N.M. Const. art. X, § 6** (adopted November 3, 1970) provides the constitutional foundation for municipal home rule, explicitly stating: "The purpose of this section is to provide for maximum local self-government. A liberal construction shall be given to the powers of municipalities." This provision authorizes municipalities to adopt charters through voter approval and exercise "all legislative powers and perform all functions not expressly denied by general law or charter."
+
+The ten current **home rule municipalities** are Alamogordo, Albuquerque, Clovis, Gallup, Grants, Hobbs, Las Cruces, Los Alamos, Rio Rancho, and Santa Fe. These cities operate under **NMSA 1978 § 3-15-13**, which establishes charter supremacy: "A municipality organized under the Municipal Charter Act shall be governed by the provisions of the charter adopted pursuant to that act, and no law relating to municipalities inconsistent with the provisions of the charter shall apply to any such municipality."
+
+For the **93 non-charter municipalities**, Dillon's Rule applies strictly—powers are limited to those expressly granted by statute, necessarily implied from express grants, or absolutely essential to declared purposes. Any doubt about municipal authority is resolved against the municipality.
+
+### Preemption risks require careful ordinance framing
+
+The landmark **State ex rel. Torrez v. Board of County Commissioners for Lea County** (N.M. Supreme Court, January 9, 2025) establishes critical preemption doctrine. The court struck down local "Sanctuary Cities for the Unborn" ordinances, holding that even home rule municipalities cannot adopt ordinances contradicting state law on matters of **statewide concern**. The court found that the state's Reproductive and Gender-Affirming Health Care Freedom Act (HB7) expressly preempted local action by "invalidating any existing law and prohibiting any prospective law in conflict."
+
+Notably, **New Mexico has no anti-sanctuary legislation** requiring local cooperation with federal immigration enforcement. Cities including Santa Fe, Albuquerque, and Las Cruces maintain immigrant-friendly policies limiting cooperation with ICE, and these remain unchallenged. This precedent supports local discretion over law enforcement cooperation with federal authorities.
+
+Three forms of state preemption apply under *Rancho Lobo, Ltd. v. Devargas* (10th Cir. 2002): express preemption through explicit statutory language, implied conflict preemption where an ordinance permits what statute prohibits or vice versa, and field preemption where the legislature demonstrates intent to occupy an entire regulatory field.
+
+### Federal supremacy arguments can strengthen local ordinances
+
+**18 U.S.C. § 592** provides: "Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held... shall be fined under this title or imprisoned not more than five years, or both." The sole exception permits force "necessary to repel armed enemies of the United States."
+
+A municipal ordinance supporting this federal statute can be legally positioned through several strategies. First, frame the ordinance as **policy resolution directing local resources** rather than creating new regulatory requirements. Second, emphasize that the ordinance implements existing federal law under the Supremacy Clause (U.S. Const. art. VI, cl. 2), particularly since 18 U.S.C. Chapter 29 contains express federal preemption of state law respecting federal elections. Third, invoke municipal **police power** under NMSA 1978 § 3-17-1, which authorizes ordinances "providing for the safety, preserving the health, promoting the prosperity and improving the morals, order, comfort and convenience of the municipality and its inhabitants."
+
+The key legal distinction from *Torrez* is that a polling place protection ordinance would **support federal law enforcement** rather than create local restrictions conflicting with state policy. New Mexico has no state statute permitting armed federal personnel at polling places, so there is no direct state-local conflict to trigger preemption.
+
+## Section 2: New Mexico's statutory framework provides robust foundation
+
+New Mexico's Election Code contains extensive protections that municipal ordinances can reference and reinforce. Most significantly, the 2024 legislative session added **NMSA 1978 § 1-20-24**, creating criminal penalties for firearm possession near polling places—demonstrating clear state policy against armed presence at elections.
+
+### Voter intimidation and polling place protection statutes
+
+**NMSA 1978 § 1-20-14** (Intimidation) establishes voter intimidation as a **fourth-degree felony**: "Intimidation consists of inducing or attempting to induce fear in any member of an election board, voter, challenger, or watcher by use of or threatened use of force, violence, infliction of damage, harm or loss, or any form of economic retaliation for the purpose of impeding or preventing the free exercise of the elective franchise."
+
+**NMSA 1978 § 1-20-24** (Unlawful possession of a firearm at a polling place), enacted in 2024, prohibits loaded or unloaded firearms within **100 feet** of polling place entrances at schools, county clerk offices, alternate voting locations, and mobile voting sites, and within **50 feet** of monitored secured ballot containers beginning 28 days before an election. Exceptions apply for certified law enforcement officers on duty, persons in private automobiles, and concealed handgun license holders. Violations constitute petty misdemeanors.
+
+Additional protective statutes include **NMSA 1978 § 1-20-16** (electioneering within 100 feet of polling places), **§ 1-20-17** (obstructing polling places—50-foot restriction), and **§ 1-20-20** (disturbing the polling place).
+
+### Municipal authority and police power statutes
+
+**NMSA 1978 § 3-17-1** grants municipalities broad ordinance authority for purposes including "effecting or discharging powers and duties conferred by law," "providing for the safety, preserving the health, promoting the prosperity and improving the morals, order, comfort and convenience of the municipality and its inhabitants," and "carrying into effect any powers granted by the Municipal Code." Per *City of Hobbs v. Biswell* (1970-NMCA-086), this section confers "police power" upon municipalities.
+
+**NMSA 1978 § 3-18-1** establishes general municipal powers including acquiring, holding, and conveying property, entering contracts, and exercising all powers specifically conferred by the Municipal Code. The Court of Appeals held in *New Mexicans for Free Enterprise v. City of Santa Fe* (2006-NMCA-007) that these powers are "independent municipal powers within the meaning of the home rule amendment."
+
+**NMSA 1978 § 3-13-2** defines municipal police authority, providing that officers "shall suppress all riots, disturbances, and breaches of the peace" and "in the discharge of proper duties, a police officer shall have the same powers and be subject to the same responsibilities as sheriffs in similar cases."
+
+The **Municipal Charter Act** (NMSA 1978 §§ 3-15-1 through 3-15-16) authorizes home rule municipalities to provide for "any system or form of government that may be deemed expedient and beneficial," with restrictions only against inconsistency with the state constitution, unauthorized taxes, or non-public expenditures.
+
+## Section 3: Santa Fe and Las Cruces present optimal targets for ordinance adoption
+
+Three cities emerge as priority targets based on charter authority, political composition, and demonstrated willingness to pass civil liberties ordinances protecting residents from federal overreach.
+
+### Santa Fe offers the strongest foundation with explicit precedent
+
+Santa Fe ranks as the **top target** for several compelling reasons. The city has explicit precedent for polling place protection ordinances: **Resolution 2002** (2001), titled "Supporting the Bill of Rights and Civil Liberties for Santa Feans," directly opposed USA PATRIOT ACT provisions and **directed local law enforcement to "preserve and uphold residents' freedom" even if "requested to do otherwise by federal or state law enforcement agencies."** This resolution provides direct legal and political precedent.
+
+The city operates under a **Council-Manager system** with a 9-member governing body (8 Councilors plus Mayor). Current members include Mayor Michael Garcia (took office January 2026), Councilors Pilar Faulkner, Jamie Cassutt, Alma Castro, Carol Romero-Wirth, Lee Garcia, and Amanda Chávez—all progressive-leaning Democrats. Santa Fe gave Kamala Harris **78.1% of the vote** in 2024, the strongest Democratic performance in the state.
+
+As state capital, home to St. John's College and the Institute of American Indian Arts (tribal college), and a hub for arts and activist communities, Santa Fe offers both legal authority and symbolic significance. The city has also implemented ranked-choice voting and maintains "Welcoming City" immigrant protections (Resolution 1999/2017).
+
+### Las Cruces presents a progressive supermajority ready to act
+
+Las Cruces offers an **actively progressive council with a 5-2 majority** and a proven track record of bold ordinances. The 7-member City Council includes Mayor Eric Enriquez, Mayor Pro Tem Johana Bencomo (strongly progressive, endorsed by Working Families Party, Planned Parenthood Votes NM, Sierra Club, and Senator Heinrich), and progressive Councilors Becki Graham, Becky Corran, Yvonne Flores, and Cassie McClure. Only Councilor Bill Mattiace consistently votes conservative.
+
+Recent progressive ordinances demonstrate the council's willingness to act: commercial plastic bag bans, zero-fare public transit, **guaranteed basic income pilot program**, landlord anti-discrimination protections, $6 million affordable housing bonds, and Project LIGHT crisis intervention teams. The council elected in 2021 was notably the **first all-women council** in city history.
+
+As New Mexico's second-largest city (**112,000 population**), home to New Mexico State University's main campus, and seat of Doña Ana County, Las Cruces combines strong legal authority with substantial voter protection impact. The city has been a home rule charter municipality since 1985.
+
+### Albuquerque requires strategic coalition-building
+
+Albuquerque presents the **largest potential impact** (560,000 population, 32nd largest U.S. city) but faces a **split council** that leans conservative. Mayor Tim Keller (Democrat) would likely support such an ordinance, but the 9-member City Council currently includes approximately 5 Republican/conservative members (Brook Bassan, Dan Lewis, Renée Grout, and others) against 4 progressive Democrats (Klarissa Peña, Tammy Fiebelkorn, Stephanie Telles).
+
+The council has demonstrated this split by repealing the city's plastic bag ban and contentiously debating progressive initiatives. However, the city's charter includes Human Rights (Article VIII) and Environmental Protection (Article IX) provisions demonstrating institutional support for progressive values, and Albuquerque is listed on DHS's "sanctuary jurisdictions" list.
+
+Strategy for Albuquerque should focus on working through Mayor Keller's office, identifying persuadable swing councilors, and building public pressure before formal introduction.
+
+**Taos** merits consideration for a supportive resolution rather than enforceable ordinance. As a Town (not city) currently working toward home rule charter adoption, Taos lacks full charter authority but has strong progressive/artist community support. Mayor Dan Barrone (took office January 2026, endorsed by Governor Lujan Grisham) would likely champion such a resolution.
+
+## Section 4: Coalition infrastructure is exceptionally strong in New Mexico
+
+New Mexico's civic engagement infrastructure includes established election protection programs, Native American voting rights organizations with recent legislative victories, and progressive coalitions that successfully passed landmark 2023 legislation.
+
+### Established election protection organizations should anchor the coalition
+
+**Common Cause New Mexico** has operated the state's premier election protection program since 2008 in partnership with ACLU-NM. Executive Director Heather Ferguson leads the organization from offices at 113 Sixth Street NW, Suite C, Albuquerque, NM 87102 (505-323-6399). The program operates the **866-OUR-VOTE** hotline staffed by attorneys familiar with New Mexico Election Code, trains poll watchers and monitors, and coordinates volunteer deployment through protectthevote.net. Media contact Mario Jimenez (mjimenez@commoncause.org, 575-571-8507) handles press inquiries.
+
+**ACLU of New Mexico** provides legal expertise and community engagement capacity. Community Engagement Specialist Tatiana Prieto (tprieto@aclu-nm.org) coordinates civic engagement, while local chapters in Northern NM (northernchapter@aclu-nm.org) and Southwestern NM (swchapter@aclu-nm.org) offer regional reach. The organization helped pass the NM Voting Rights Act (2023) and publishes voter education materials including the "New Mexico Votes 2024" guide.
+
+**League of Women Voters of New Mexico** operates through four active local chapters: LWV of Central New Mexico (lwvcnm.org, covering Bernalillo, Sandoval, Torrance, Valencia counties), LWV of Santa Fe County (lwvsfc.org), LWV of Southern New Mexico (lwvsnm.org, Doña Ana County), and LWV of Los Alamos. State President Hannah Burling leads voter registration drives, candidate forums, and the VOTE411.org voter information portal.
+
+### Native American voting organizations bring unique capacity and recent victories
+
+**NAEVA (Native American Voters Education and Advocacy)** represents the primary Indigenous organizing infrastructure at 7906 Menaul Blvd NE, Albuquerque, NM 87110 (505-246-1819, admin@naeva.org). The organization was instrumental in passing both the **first Native American Voting Rights Act** (2023) in any state and the broader NM Voting Rights Act. NAEVA works with all 20 Pueblos, Navajo Nation, Jicarilla Apache Nation, and Mescalero Apache Tribe. Its 501(c)(4) arm, **NM Native Vote** (nmnativevote.org), handles electoral mobilization.
+
+**All Pueblo Council of Governors** (APCG) provides official tribal representation at 2401 12th Street NW, Albuquerque, NM 87104 (505-212-7041). Executive Director Teran Villa (Jemez), Chairman James Mountain (San Ildefonso), and Vice-Chair Dominic Gachupin (Jemez) lead advocacy on voting infrastructure including polling places and ballot drop boxes on tribal lands.
+
+**Native American Rights Fund** leads the national Native American Voting Rights Coalition and published "New Mexico Natives Vote" voter guides for 2024.
+
+### Progressive coalition infrastructure provides organizing muscle
+
+**Center for Civic Policy** convenes the **NM Civic Engagement Table (NMCET)**—a coalition of **40+ nonprofit civic engagement organizations** that represents the state's progressive organizing infrastructure. CEO Oriana Sandoval coordinates this State Voices affiliate network across democracy reform, economic justice, climate justice, immigration reform, and redistricting issues.
+
+**OLÉ (Organizers in the Land of Enchantment)** provides grassroots organizing of working families under Executive Director Andrea Serrano (olenm.org). The organization played key roles in NM Voting Rights Act advocacy, runs the "Unlock Civics NM" program restoring civic participation for formerly incarcerated people, and partners with ACLU-NM on criminal justice reform.
+
+**ProgressNow New Mexico** operates the Progressive Voters Guide (progressivevotersguide.com/newmexico) under Executive Director Alissa Barnes, coordinating progressive coalition communications and voter education.
+
+Additional coalition partners include **Equality New Mexico** (LGBTQ+ civic engagement, CEO Marshall Martinez), **Somos Un Pueblo Unido/Somos Acción** (immigrant voter engagement), **El CENTRO de Igualdad y Derechos** (immigration and civil rights, Civic Engagement Coordinator Rosalinda Dorado), and **Conservation Voters New Mexico** (democracy reform alongside environmental issues).
+
+### Labor and cross-partisan opportunities exist
+
+**AFSCME Council 18** represents over 50 local unions across New Mexico from Albuquerque headquarters (505-266-2505) under President Casey Padilla. **New Mexico Federation of Labor, AFL-CIO** (nmfl.org) publishes legislator scorecards and engages in civic organizing.
+
+The **Libertarian Party of New Mexico** (lpnm.us, 8100 Wyoming Blvd. NE, Suite M4, Albuquerque, NM 87113) presents a potential cross-partisan ally. The party has maintained major party status since 2016 when Gary Johnson received over 9% of the statewide vote, supports election systems "more representative of the electorate," and opposes laws excluding alternative candidates—values potentially aligned with opposing federal overreach at polling places.
+
+## Conclusion: A clear pathway exists through charter cities and established coalitions
+
+New Mexico presents favorable conditions for municipal ordinances protecting polling places from armed federal personnel. The state's home rule framework provides clear legal authority for charter cities, recent state legislation demonstrates strong policy alignment with election protection goals, and the January 2025 *Torrez* decision—while establishing preemption limits—does not directly threaten ordinances that support federal law enforcement rather than conflict with state policy.
+
+The recommended implementation sequence should begin with **Santa Fe**, leveraging the city's 2002 Resolution precedent and overwhelmingly progressive council to establish the first ordinance. **Las Cruces** should proceed simultaneously given its 5-2 progressive supermajority and demonstrated willingness to pass bold measures. **Albuquerque** requires longer-term coalition building through Mayor Keller's office and targeted outreach to swing councilors.
+
+The **Common Cause NM/ACLU-NM Election Protection partnership** provides the natural anchor for coalition coordination, with NAEVA and APCG bringing critical Native American community engagement. The **Center for Civic Policy's NM Civic Engagement Table** offers access to 40+ organizations for grassroots mobilization.
+
+Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.

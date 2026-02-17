@@ -1,0 +1,168 @@
+# Adapting a Municipal Election Protection Ordinance to Washington State
+
+**A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places is legally viable in Washington State, but must be carefully drafted to avoid firearms preemption.** Washington's hybrid home rule system grants code cities and first-class charter cities substantial authority under Article XI of the state constitution, while the Keep Washington Working Act establishes a supportive precedent for limiting local police cooperation with federal authorities. The primary legal vulnerability is RCW 9.41.290's complete state preemption of firearms regulation—meaning any ordinance must frame itself around voter protection and resource allocation rather than weapons restrictions. Optimal target cities include Seattle, Olympia, and Spokane, where progressive councils and existing sanctuary infrastructure provide both legal authority and political will.
+
+---
+
+## Section 1: The legal battlefield favors municipal action
+
+### Washington follows a hybrid home rule system
+
+Washington State operates under a **hybrid home rule/Dillon's Rule framework** that grants substantial authority to code cities and first-class charter cities. The constitutional foundation rests on **Article XI, Section 11**, which directly delegates police power to municipalities:
+
+> "Any county, city, town or township may make and enforce within its limits all such local police, sanitary and other regulations as are not in conflict with general laws."
+
+The Washington Supreme Court has characterized this as "a direct delegation of the police power as ample within its limits as that possessed by the Legislature itself" (*City of Spokane v. Portch*, 92 Wn.2d 342, 1979). For code cities specifically, **RCW 35A.11.020** provides that legislative bodies "shall have all powers possible for a city or town to have under the Constitution of this state, and not specifically denied to code cities by law." RCW 35A.11.050 mandates these powers "shall be construed liberally in favor of such cities."
+
+### Municipal classifications determine authority levels
+
+Washington's **197 code cities** possess the broadest statutory powers, while the state's **10 first-class charter cities** (Seattle, Tacoma, Spokane, Vancouver, Yakima, Everett, Bellingham, Bremerton, Aberdeen, Richland) derive authority from individual charters under Article XI, Section 10. Second-class cities and towns still operate under Dillon's Rule with more limited authority. For an election protection ordinance, either code city or first-class charter city status provides sufficient legal foundation.
+
+The critical legal principle from *Winkenwerder* holds that "the only limitation on the power of cities of the first class is that their action cannot contravene any constitutional provision or any legislative enactment." This creates a presumptive authority framework where cities may act unless expressly prohibited.
+
+### The Keep Washington Working Act provides supportive precedent
+
+Enacted in 2019, the **Keep Washington Working Act** (codified at RCW 43.17.420-425 and RCW 10.93.160) establishes that Washington limits—rather than mandates—local police cooperation with federal authorities. Key provisions prohibit local law enforcement from:
+
+- Inquiring into immigration/citizenship status unless connected to criminal investigation
+- Honoring civil immigration warrants or detainers
+- Providing information to federal immigration authorities for civil enforcement
+- Entering 287(g) agreements granting federal civil immigration authority
+- Entering immigration detention agreements
+
+The Act creates a **floor, not a ceiling**—municipalities may adopt additional protections beyond state minimums. This directly contradicts any argument that Washington law requires police cooperation with federal agencies. The Washington Attorney General has confirmed that "no provision of federal law... requires state or local law enforcement officers to assist with federal immigration enforcement" under the Tenth Amendment's anti-commandeering doctrine.
+
+### No anti-sanctuary laws exist in Washington
+
+Unlike states such as Texas or Florida, Washington has enacted **no anti-sanctuary legislation**. In May 2025, the Department of Homeland Security designated Washington as a "State Sanctuary Jurisdiction," with 35 of 39 counties and major cities including Seattle, Tacoma, Olympia, Yakima, and Everett included in that designation.
+
+---
+
+## Section 2: Localization requires navigating firearms preemption
+
+### Washington's voter intimidation statute provides strong foundation
+
+**RCW 29A.84.620** establishes Washington's primary voter intimidation prohibition:
+
+> "Any person who uses menace, force, threat, or any unlawful means towards any voter to hinder or deter such a voter from voting... is guilty of a class C felony punishable under RCW 9A.20.021."
+
+This carries penalties of up to **5 years imprisonment and/or $10,000 fine**. Additionally, **RCW 29A.84.630** criminalizes attempts to influence voters through "menace or unlawful means" as a gross misdemeanor (up to 364 days imprisonment).
+
+### RCW 29A.84.510 already authorizes municipal law enforcement action
+
+Critically for the proposed ordinance, **RCW 29A.84.510(3)** explicitly authorizes municipal police intervention at polling places:
+
+> "Any sheriff, deputy sheriff, or **municipal law enforcement officer** shall stop the prohibited activity, and may arrest any person engaging in the prohibited activity."
+
+This state authorization establishes that municipal law enforcement has recognized authority at voting centers, supporting—rather than preempting—local ordinances directing police conduct at these locations.
+
+### Existing restricted zones create statutory framework
+
+Washington law already establishes buffer zones around voting locations:
+- **100 feet** from voting center or student engagement hub entrances
+- **25 feet** from ballot drop boxes
+- **100 feet** from ballot counting centers (for electioneering)
+
+**RCW 9.41.284** specifically addresses weapons at voting facilities, prohibiting firearms, dangerous weapons, air guns, and stun guns at ballot counting centers, voting centers, student engagement hubs, and county elections offices. However, a critical exception exists: **licensed concealed carry IS permitted at voting centers** (though all weapons remain prohibited at ballot counting centers).
+
+### Firearms preemption is the primary legal obstacle
+
+**RCW 9.41.290** presents the most significant legal challenge:
+
+> "The state of Washington hereby fully occupies and preempts the entire field of firearms regulation within the boundaries of the state... Local laws and ordinances that are inconsistent with, more restrictive than, or exceed the requirements of state law shall not be enacted and are preempted and repealed, regardless of the nature of the code, charter, or home rule status of such city, town, county, or municipality."
+
+This preemption is absolute and applies regardless of home rule status. An election protection ordinance **cannot** create additional weapons restrictions at voting locations beyond what RCW 9.41.284 already establishes. The ordinance must therefore be framed around:
+
+- **Voter protection and intimidation prevention** (not firearms regulation)
+- **Municipal resource allocation** (directing how city resources are deployed)
+- **Police enforcement priorities** (directing officers to enforce existing state law)
+- **Cooperation policies** (limiting assistance to armed federal personnel)
+
+AGO 2008 No. 8 distinguished between firearms "regulation" (preempted) and employment/proprietary rules (not preempted). An ordinance addressing city police conduct as an employment/resource matter—rather than regulating public firearms possession—may operate in a different preemption space.
+
+### 18 U.S.C. § 592 reinforces federal protection
+
+The federal statute provides additional legal foundation:
+
+> "Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held, unless such force be necessary to repel armed enemies of the United States, shall be fined under this title or imprisoned not more than five years, or both."
+
+DOJ guidance confirms armed federal agents are "absolutely barred from polling places" and federal monitors have "no power to enforce the law" and "cannot enter polling places without permission from state/local election officials." A municipal ordinance reinforcing these federal protections—rather than conflicting with them—would likely survive preemption analysis under *Printz v. United States*'s anti-commandeering doctrine, which prohibits federal commandeering of local officials but does not prohibit voluntary local action paralleling federal law.
+
+---
+
+## Section 3: Target cities show favorable political alignment
+
+### Tier 1 priority cities combine charter authority and progressive leadership
+
+**Seattle** offers the strongest combination of legal authority and political infrastructure. As a first-class charter city with home rule powers since 1890, Seattle has maintained sanctuary policies since Ordinance 121063 in 2003. The current council includes progressive voices like **Alexis Mercedes Rinck** (Position 8), elected in 2024 with 215,000 votes—described as "the largest municipal mandate in city's history." The strong mayor-council system requires council introduction and mayoral signature for ordinances.
+
+**Olympia** provides symbolic importance as the state capital combined with demonstrated progressive action. The code city's 7-member at-large council includes proven progressives like **Clark Gilman** (who proposed $30K for immigrant/refugee families in 2025), **Robert Vanderpool** (co-sponsored reparations resolution), and **Kelly Green**. Recent victories include comprehensive renter protections (April 2024) with relocation assistance for rent increases exceeding 7%, and existing sanctuary policies dating to at least 2003.
+
+**Spokane** represents a strategic breakthrough opportunity. The first-class charter city achieved a **6-1 progressive supermajority** following November 2025 elections—described as the "largest leftward swing since 2017." Progressive Mayor **Lisa Brown** took office in 2024. Key progressive council members include Zack Zappone, Kitty Klitzke, Paul Dillon, Lili Navarrete, Kate Telis, and Sarah Dixit. Spokane's Eastern Washington location provides geographic diversity and demonstrates such ordinances aren't limited to the Puget Sound region.
+
+### Tier 2 cities offer strong implementation potential
+
+**Tacoma's** first-class charter and council-manager system provide efficient passage mechanisms. Progressive Mayor-elect **Anders Ibsen** won in November 2025, and the council has demonstrated capacity through successful renter protection ballot initiatives in 2023. **Bellingham** shows consistent progressive action—the council unanimously opposed all four Republican-sponsored ballot initiatives in October 2024 and has passed renter protection and minimum wage measures. **Burien** may see a progressive takeover following November 2025 primaries, where progressive candidates led in 3 of 4 races.
+
+### Governing body structures vary by city
+
+| City | Body | Members | Ordinance Process |
+|------|------|---------|-------------------|
+| Seattle | City Council | 9 (7 district, 2 at-large) | Council passes, Mayor signs |
+| Tacoma | City Council | 9 (Mayor + 5 district + 3 at-large) | Council passes, City Manager implements |
+| Spokane | City Council | 7 (6 district + 1 at-large president) | Council passes, Mayor signs |
+| Olympia | City Council | 7 (all at-large, including Mayor) | Council majority passes |
+| Bellingham | City Council | 7 (6 ward + 1 at-large) | Council passes |
+| Burien | City Council | 7 (all at-large) | Council majority passes |
+
+### Recent municipal campaigns provide organizational models
+
+The minimum wage campaign infrastructure offers a replicable template: **SeaTac** (2013), **Seattle** (2014), **Tukwila** (2022 ballot initiative achieving $21.65/hr—highest in the region), **Renton** (February 2024 adopting the Tukwila model), **Bellingham** (2024), and **Burien** (2024). These campaigns demonstrate successful voter initiative and council-passage pathways.
+
+Existing sanctuary city ordinances—Seattle (2003), King County (2014), Olympia (pre-2019)—provide direct precedent for local police cooperation policies. The organizational infrastructure from these campaigns remains active.
+
+---
+
+## Section 4: Coalition partners span legal, civic, and labor sectors
+
+### Core legal and democracy organizations
+
+**ACLU of Washington** (aclu-wa.org) leads Washington Voting Rights Act enforcement through litigation, with recent victories including the June 2024 Sunnyside School District case. Their 10+ years of WVRA advocacy since the landmark *Montes v. Yakima* (2014) establishes deep election law expertise. Contact: 206-624-2184.
+
+**League of Women Voters of Washington** (lwvwa.org) operates the VOTE411.org voter education platform (9+ million users nationally in 2024), trains volunteer election observers, and co-hosts annual Democracy Lobby Day with Fix Democracy First. Their grassroots network spans Washington counties with multi-language resources. Contact: 206-622-8961, President Mary Coltrane.
+
+**Fix Democracy First** (fixdemocracyfirst.org), directed by Cindy Black, championed Seattle's Democracy Voucher Program (I-122, 2015) and the Seattle foreign money in elections ordinance (2020). Their Women in Office Now (WON) training program and weekly Democracy Happy Hour provide ongoing engagement infrastructure.
+
+### Voting justice coalition infrastructure
+
+The **Washington Voting Justice Coalition** (wavotingjustice.org) coordinates non-partisan advocacy for expanded voting access, hosting annual Democracy Lobby Day (January 23, 2026 upcoming) and developing the 2025 "Voter Power Package" of priority legislation. Key members include The Washington Bus, FairVote Washington, Fix Democracy First, and OneAmerica. Contact: info@wavotingjustice.org.
+
+**FairVote Washington** (fairvotewa.org), directed by Elise Orlick, brings electoral reform expertise from ranked-choice voting campaigns and experience working with local jurisdictions on implementation.
+
+### Immigrant rights organizations bring municipal advocacy experience
+
+**OneAmerica** (weareoneamerica.org), Washington's largest immigrant and refugee advocacy organization founded post-9/11 by Rep. Pramila Jayapal, operates active programs in SeaTac, Tukwila, Federal Way, Kent, and Burien. Their political arm **OneAmerica Votes** endorses candidates and builds political power. Executive Director: Roxana Norouzi.
+
+**Washington Immigrant Solidarity Network** (waisn.org) coordinates the state's largest immigrant-led coalition with 400+ organizational members, a statewide hotline (360,000+ calls since 2017), and rapid response networks. Their experience supporting sanctuary policies at state level (Washington became an official sanctuary jurisdiction in 2025) provides directly relevant expertise.
+
+### Labor and progressive coalitions provide mobilization capacity
+
+The **Washington State Labor Council, AFL-CIO** (wslc.org) represents 650+ local unions and 600,000+ members with legislative lobbying power and Labor Neighbor voter outreach programs. Contact: Sybill Hyppolite (Government Affairs), John Traynor (Legislative Director).
+
+**SEIU 775** (seiu775.org) represents 43,000+ long-term care workers with major political spending capacity ($18M+ in 2024 cycle). **SEIU Healthcare 1199NW** adds 28,000+ healthcare workers. Together with the Washington Education Association, these unions form the New Direction PAC alliance.
+
+**Fuse Washington** (fusewashington.org), the state's largest progressive organization (100,000+ email list), produces the Progressive Voters Guide (since 2008, 4+ million users) and coordinates independent expenditure campaigns for local candidates. Campaigns Director: Rosey Barber (rosey@fusewashington.org).
+
+The **Working Families Party - Washington** (@wfp_wa) successfully endorsed Seattle City Council candidates in 2024-2025 including Alexis Mercedes Rinck, with 30+ volunteer events and 1,000+ volunteers mobilized since May 2024.
+
+---
+
+## Conclusion: Strategic recommendations
+
+An election protection ordinance is legally viable in Washington if drafted to emphasize **voter protection, municipal resource allocation, and police cooperation policies** rather than firearms regulation. The strongest legal foundation combines Article XI Section 11 police powers, RCW 35A.11.020's liberal construction mandate for code cities, the Keep Washington Working Act's precedent for limiting federal cooperation, and RCW 29A.84.510(3)'s explicit authorization of municipal law enforcement at voting centers.
+
+**Primary legal vulnerabilities** include firearms preemption under RCW 9.41.290 (requiring careful drafting to avoid weapons-specific language) and potential general preemption claims under Title 29A (though RCW 29A.84.510's municipal authorization provides counter-authority). Post-*Bruen* Second Amendment challenges remain possible but defensible under sensitive-places doctrine.
+
+**Optimal implementation path**: Begin with **Spokane** (new progressive supermajority, first-class charter, Eastern WA location provides proof-of-concept outside Puget Sound) and **Olympia** (state capital symbolism, demonstrated progressive capacity, code city efficiency). Build toward **Seattle** (maximum visibility but more complex political dynamics) using early victories as momentum.
+
+**Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
