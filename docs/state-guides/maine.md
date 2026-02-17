@@ -1,3 +1,15 @@
+---
+title: Maine — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political analysis for Maine municipal election protection ordinances under Article VIII Part Second constitutional home rule, covering 30-A M.R.S. § 3001, § 2671(2) explicit police power limitation authority, LD 1971 (December 2025), and target city analysis for Portland, Bangor, and Lewiston.
+tags:
+  - tier-green
+  - maine
+  - home-rule
+  - portland
+  - ld-1971
+---
+
 # Maine Municipal Election Protection Ordinance: Legal and Political Analysis
 
 A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places faces an unusually favorable legal landscape in Maine. The state's strong home rule framework, absence of anti-sanctuary laws, and recent progressive electoral victories in key cities create optimal conditions for passage—particularly in **Portland**, where the city council unanimously condemned ICE enforcement tactics in September 2025.

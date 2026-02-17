@@ -1,3 +1,16 @@
+---
+title: ICE at Polling Places — Federal Legal Framework
+description: >-
+  Legal analysis of 18 U.S.C. § 592 (Troops at Polls) and VRA Section 11(b) as the statutory basis for preventing ICE interference at polling places, with model municipal ordinance language for Minnesota and Wisconsin.
+tags:
+  - core-legal
+  - federal-law
+  - 18-usc-592
+  - vra
+  - ice
+  - voter-intimidation
+---
+
 # Federal Legal Framework for Preventing ICE Interference at Polling Places
 
 ## Legal Analysis for Minnesota and Wisconsin Municipal Policy Development

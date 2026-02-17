@@ -1,3 +1,16 @@
+---
+title: Wisconsin — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political research guide for Wisconsin municipal election protection ordinances, covering Article XI Section 3 modified home rule, the firearms preemption trap under Wis. Stat. § 66.0409, and target city analysis for Racine, Green Bay, and La Crosse.
+tags:
+  - tier-yellow
+  - wisconsin
+  - home-rule
+  - madison
+  - racine
+  - firearms-preemption
+---
+
 # Wisconsin Municipal Election Protection Ordinance: Legal and Political Research Guide
 
 Wisconsin cities can legally adopt ordinances directing local police not to assist armed federal personnel near polling places, but **careful drafting is essential** to survive preemption challenges. The state's modified home rule framework provides a workable path, though significant legal risks—particularly Wisconsin's firearms preemption statute—require strategic ordinance language that avoids triggering state law conflicts. With Madison's original ordinance as the model, **Racine, Green Bay, and La Crosse** emerge as the highest-priority targets for adoption, supported by a robust coalition infrastructure led by Voces de la Frontera and the ACLU of Wisconsin.

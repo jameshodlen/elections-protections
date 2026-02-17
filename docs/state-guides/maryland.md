@@ -1,3 +1,15 @@
+---
+title: Maryland — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political implementation guide for Maryland election protection ordinances, covering the three-article home rule framework, Election Law § 16-903 (100-foot firearms ban), and target analysis for Baltimore City, Montgomery County, and Howard County.
+tags:
+  - tier-green
+  - maryland
+  - home-rule
+  - baltimore
+  - montgomery-county
+---
+
 # Maryland Election Protection Ordinance: Legal and Political Implementation Guide
 
 Maryland offers a **favorable but legally nuanced environment** for municipal election protection ordinances modeled on Madison, Wisconsin's approach to enforcing 18 U.S.C. § 592. The state's robust home rule framework, absence of anti-sanctuary laws, and concentration of progressive charter jurisdictions create viable pathways—though Maryland's comprehensive Election Law Article presents **moderate-to-high preemption risk** that requires careful ordinance drafting. Baltimore City, Montgomery County, and Howard County emerge as optimal launch jurisdictions, supported by an established coalition infrastructure centered on ACLU of Maryland and Common Cause Maryland.

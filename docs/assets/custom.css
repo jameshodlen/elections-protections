@@ -1,0 +1,305 @@
+/* ============================================================
+   MUNICIPAL ELECTION INTEGRITY ORDINANCE — CUSTOM STYLES
+   ============================================================ */
+
+/* ============================================================
+   DENSE LEGAL TABLES
+   The 50-state table has 6 columns; needs horizontal scroll
+   on mobile and compact typography
+   ============================================================ */
+
+.md-typeset table:not([class]) {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  font-size: 0.84em;
+}
+
+/* Allow wrapping for content-heavy columns */
+.md-typeset table:not([class]) td {
+  white-space: normal;
+  min-width: 100px;
+}
+
+/* Keep short columns compact */
+.md-typeset table:not([class]) td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* Alternating row colors for readability on long tables */
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: var(--md-default-bg-color--light);
+}
+
+/* Sticky header for long scrollable tables */
+.md-typeset table:not([class]) thead {
+  position: sticky;
+  top: 0;
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  z-index: 1;
+}
+
+.md-typeset table:not([class]) thead th {
+  color: var(--md-primary-bg-color);
+  font-weight: 700;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.6rem 0.8rem;
+}
+
+/* ============================================================
+   COALITION DIRECTORY SECTIONS
+   Coalition partner contact info uses definition lists
+   ============================================================ */
+
+.md-typeset dt {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  margin-top: 1rem;
+  font-size: 0.95em;
+}
+
+.md-typeset dd {
+  margin-left: 1.5rem;
+  font-size: 0.9em;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   STATUTE AND ORDINANCE TEXT
+   Legal text (blockquotes) gets monospace treatment
+   ============================================================ */
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: var(--md-code-bg-color);
+  padding: 0.8rem 1.2rem;
+  font-size: 0.9em;
+  font-family: var(--md-code-font-family);
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset blockquote p {
+  margin: 0.4rem 0;
+}
+
+/* ============================================================
+   50-STATE INTERACTIVE TABLE FILTER BAR
+   ============================================================ */
+
+#tier-filter-bar {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1.2rem 0 0.8rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#tier-filter-bar .filter-label {
+  font-weight: 600;
+  font-size: 0.875em;
+  color: var(--md-default-fg-color--light);
+  align-self: center;
+}
+
+.tier-filter-btn {
+  padding: 5px 16px;
+  border-radius: 20px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.8em;
+  letter-spacing: 0.02em;
+  transition: all 0.15s ease;
+  line-height: 1.4;
+  font-family: inherit;
+}
+
+.tier-filter-btn[data-tier="all"] {
+  background: var(--md-default-bg-color--dark);
+  color: var(--md-default-fg-color);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.tier-filter-btn[data-tier="GREEN"] {
+  background: #1b5e20;
+  color: #ffffff;
+}
+
+.tier-filter-btn[data-tier="YELLOW"] {
+  background: #e65100;
+  color: #ffffff;
+}
+
+.tier-filter-btn[data-tier="RED"] {
+  background: #b71c1c;
+  color: #ffffff;
+}
+
+.tier-filter-btn.active {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  transform: translateY(-1px);
+}
+
+.tier-filter-btn:hover:not(.active) {
+  opacity: 0.82;
+  transform: translateY(-1px);
+}
+
+#tier-result-count {
+  font-size: 0.8em;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+  align-self: center;
+  margin-left: 0.25rem;
+}
+
+/* ============================================================
+   HOMEPAGE ENHANCEMENTS
+   ============================================================ */
+
+/* Tier color accents on homepage grid cards */
+.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(1) {
+  border-top: 3px solid #2e7d32;
+}
+
+.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(2) {
+  border-top: 3px solid #e65100;
+}
+
+.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(3) {
+  border-top: 3px solid #c62828;
+}
+
+/* ============================================================
+   NAVIGATION IMPROVEMENTS
+   ============================================================ */
+
+/* Slightly reduce sidebar font size for long nav trees */
+.md-nav--secondary .md-nav__link {
+  font-size: 0.78rem;
+}
+
+/* Highlight active state guide in nav */
+.md-nav__item--active > .md-nav__link {
+  font-weight: 700;
+}
+
+/* ============================================================
+   PRINT STYLES
+   Legal professionals frequently print state guides
+   ============================================================ */
+
+@media print {
+  .md-header,
+  .md-sidebar,
+  .md-footer,
+  .md-search,
+  .md-tabs,
+  #tier-filter-bar,
+  .md-top {
+    display: none !important;
+  }
+
+  .md-main__inner {
+    margin: 0 !important;
+  }
+
+  .md-content {
+    max-width: 100% !important;
+  }
+
+  .md-typeset {
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  .md-typeset table:not([class]) {
+    white-space: normal;
+    font-size: 0.75em;
+    overflow: visible;
+    display: table;
+  }
+
+  .md-typeset table:not([class]) thead {
+    background-color: #3f51b5 !important;
+    color: white !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Append URLs after links for printed documents */
+  .md-typeset a[href^="http"]::after,
+  .md-typeset a[href^="https"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.7em;
+    color: #666;
+    word-break: break-all;
+  }
+
+  /* Don't append for internal/anchor links */
+  .md-typeset a[href^="#"]::after,
+  .md-typeset a[href^="/"]::after {
+    content: none;
+  }
+
+  /* Page breaks */
+  h1, h2 {
+    page-break-before: auto;
+    page-break-after: avoid;
+  }
+
+  table {
+    page-break-inside: avoid;
+  }
+
+  .admonition {
+    page-break-inside: avoid;
+    border: 1px solid #ccc !important;
+  }
+}
+
+/* ============================================================
+   SEARCH RESULT ENHANCEMENTS
+   ============================================================ */
+
+.md-search-result__teaser mark {
+  background-color: rgba(255, 235, 59, 0.4);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ============================================================
+   ADMONITION REFINEMENTS FOR TIER CONTENT
+   ============================================================ */
+
+/* Make success (GREEN tier) admonitions use green */
+.md-typeset .admonition.success,
+.md-typeset details.success {
+  border-color: #2e7d32;
+}
+
+.md-typeset .success > .admonition-title,
+.md-typeset .success > summary {
+  background-color: rgba(46, 125, 50, 0.12);
+}
+
+.md-typeset .success > .admonition-title::before,
+.md-typeset .success > summary::before {
+  color: #2e7d32;
+}
+
+/* Code copy button enhancement */
+.md-typeset .md-clipboard {
+  color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .md-clipboard:hover {
+  color: var(--md-accent-fg-color);
+}

@@ -1,3 +1,16 @@
+---
+title: Ballot Security Injunctions — A Legal History (2008–2020)
+description: >-
+  History of ballot security litigation across three election cycles, covering the DNC v. RNC consent decree (1982–2017), 18 U.S.C. § 592 as a never-litigated statute, and key cases including CAIR v. Atlas Aegis, NCBCP v. Wohl, and Fair Fight v. True the Vote.
+tags:
+  - core-legal
+  - litigation-history
+  - dnc-v-rnc
+  - ballot-security
+  - cair-v-atlas-aegis
+  - election-law
+---
+
 # Ballot security injunctions across three election cycles: a legal history
 
 **The legal architecture governing ballot security operations at American polling places has undergone a fundamental transformation between 2008 and 2020.** For 35 years, the DNC v. RNC consent decree (Civ. No. 2:81-cv-03876, D.N.J.) served as the primary judicial mechanism restraining organized ballot security programs — and its expiration in December 2017 reshaped the litigation landscape entirely. Meanwhile, 18 U.S.C. § 592, the Civil War-era prohibition on armed troops at polling places, has operated as a statutory ghost: universally cited in legal memoranda, never once adjudicated in a reported federal case. The three election cycles examined here reveal a clear trajectory — from consent decree enforcement (2008), through its contentious final chapter (2016), to a post-decree world where voters and advocacy organizations must litigate voter intimidation claims case-by-case under the Voting Rights Act and the Ku Klux Klan Act (2020).

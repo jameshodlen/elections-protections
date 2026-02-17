@@ -1,3 +1,16 @@
+---
+title: Michigan — Municipal Election Protection Ordinance Guide
+description: >-
+  Strategic implementation guide for Michigan election protection ordinances under Article VII constitutional home rule, covering MCL 750.234d (2025 firearms at polls), Proposal 2 (2022), and target city analysis for East Lansing, Ann Arbor, and Ferndale.
+tags:
+  - tier-green
+  - michigan
+  - home-rule
+  - ann-arbor
+  - east-lansing
+  - detroit
+---
+
 # Michigan election protection ordinance: A strategic implementation guide
 
 **Michigan's constitutional framework strongly supports municipal election protection ordinances** prohibiting city resources from assisting armed federal personnel near polling places. As a definitively home rule state with robust constitutional protections for local authority, Michigan charter cities possess broad powers to direct municipal police departments and allocate city resources—powers directly applicable to enforcing 18 U.S.C. § 592. Three cities stand out as optimal launch targets: East Lansing (currently Michigan's only municipality on the DOJ sanctuary list), Ann Arbor (designated an ACLU "Freedom City"), and Ferndale (LGBTQ civil rights hub). A strong coalition infrastructure already exists through Promote the Vote Michigan's network of 40+ organizations with established election protection programming.

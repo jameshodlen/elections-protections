@@ -1,3 +1,16 @@
+---
+title: Illinois — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political roadmap for Illinois election protection ordinances under Article VII Section 6 home rule (224 municipalities), covering the Illinois TRUST Act, express preemption doctrine, and target city analysis for Chicago, Evanston, and Oak Park.
+tags:
+  - tier-green
+  - illinois
+  - home-rule
+  - chicago
+  - trust-act
+  - express-preemption
+---
+
 # Illinois election protection ordinance: A legal and political roadmap
 
 Illinois offers an exceptionally favorable landscape for municipal election protection ordinances based on 18 U.S.C. § 592. The state's robust home rule framework under **Article VII, Section 6** of the Illinois Constitution, combined with established sanctuary law precedents (TRUST Act and Way Forward Act) and a landmark July 2025 federal court victory upholding non-cooperation policies, creates a strong legal foundation. Chicago, Evanston, and Oak Park emerge as tier-one targets, each with progressive governing bodies and demonstrated willingness to pioneer civil liberties ordinances. The Just Democracy Illinois coalition—led by Chicago Lawyers' Committee for Civil Rights, ICIRR, and Common Cause—provides ready infrastructure for campaign support.

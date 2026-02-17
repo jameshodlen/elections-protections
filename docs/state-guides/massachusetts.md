@@ -1,3 +1,14 @@
+---
+title: Massachusetts — Municipal Election Protection Ordinance Guide
+description: >-
+  Strategic implementation analysis for Massachusetts municipal election protection ordinances under Article 89 home rule, covering Lunn v. Commonwealth (2017), H.4885 firearms ban at polls, and target city analysis for Cambridge, Somerville, and Northampton.
+tags:
+  - tier-green
+  - massachusetts
+  - home-rule
+  - lunn-v-commonwealth
+---
+
 # Massachusetts Municipal Election Protection Ordinance: Strategic Implementation Analysis
 
 A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places faces **moderate-to-high legal complexity** in Massachusetts due to constitutional constraints on local election regulation—but viable pathways exist. Massachusetts's Home Rule status, absence of anti-sanctuary laws, and established progressive municipal infrastructure create favorable conditions in select jurisdictions, with **Cambridge, Somerville, and Northampton** emerging as optimal launch sites.

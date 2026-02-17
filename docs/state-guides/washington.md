@@ -1,3 +1,16 @@
+---
+title: Washington State — Municipal Election Protection Ordinance Guide
+description: >-
+  Adaptation guide for Washington State municipal election protection ordinances under Article XI hybrid home rule and the Keep Washington Working Act, covering RCW 9.41.290 firearms preemption, RCW 29A.84.510(3), and target city analysis for Seattle, Olympia, and Spokane.
+tags:
+  - tier-green
+  - washington
+  - home-rule
+  - seattle
+  - spokane
+  - keep-washington-working-act
+---
+
 # Adapting a Municipal Election Protection Ordinance to Washington State
 
 **A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places is legally viable in Washington State, but must be carefully drafted to avoid firearms preemption.** Washington's hybrid home rule system grants code cities and first-class charter cities substantial authority under Article XI of the state constitution, while the Keep Washington Working Act establishes a supportive precedent for limiting local police cooperation with federal authorities. The primary legal vulnerability is RCW 9.41.290's complete state preemption of firearms regulation—meaning any ordinance must frame itself around voter protection and resource allocation rather than weapons restrictions. Optimal target cities include Seattle, Olympia, and Spokane, where progressive councils and existing sanctuary infrastructure provide both legal authority and political will.
