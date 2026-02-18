@@ -1,3 +1,16 @@
+---
+title: Connecticut — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political research report for Connecticut election protection ordinances, covering the hybrid Dillon's Rule framework, CGS § 7-192a explicit election preemption obstacle, the 2025 TRUST Act, and target city analysis for New Haven, Hartford, and Hamden.
+tags:
+  - tier-yellow
+  - connecticut
+  - dillons-rule
+  - trust-act
+  - new-haven
+  - hartford
+---
+
 # Connecticut Election Protection Ordinance: Legal and Political Research Report
 
 **Connecticut presents a challenging but navigable legal landscape for municipal election protection ordinances.** While the state's hybrid Dillon's Rule system and explicit election preemption statute (CGS § 7-192a) create significant barriers, municipalities retain authority over police operations and local resources that could support a carefully framed ordinance. Three municipalities—New Haven, Hartford, and Hamden—offer the strongest prospects for success, backed by an existing coalition infrastructure that successfully passed the nation's strongest state voting rights act in 2023.

@@ -1,3 +1,18 @@
+---
+title: Minnesota & Wisconsin — ICE and Sanctuary Municipal Policy Guide
+description: >-
+  Practical guide for Minnesota and Wisconsin municipalities seeking to protect polling places from ICE interference, covering the sensitive locations gap, voter data protection statutes, actionable policies from analogous jurisdictions, and the 2026 implementation pathway.
+tags:
+  - tier-green
+  - tier-yellow
+  - minnesota
+  - wisconsin
+  - ice
+  - sanctuary-policy
+  - sensitive-locations
+  - voter-data-protection
+---
+
 # Protecting elections from ICE: A municipal policy guide for Minnesota and Wisconsin
 
 **Minnesota and Wisconsin cities have significant but distinct legal pathways to insulate elections from federal immigration enforcement.** Minnesota municipalities operate in a permissive environment with no state preemption and supportive Attorney General opinions, while Wisconsin cities face constraints from a 2017 anti-sanctuary law requiring detainer compliance. The core legal reality is this: cities cannot prevent ICE from operating in public spaces including near polling places, but they can refuse to assist federal enforcement, protect local data, and create policies that reduce the chilling effect on immigrant communities.

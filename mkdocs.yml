@@ -1,0 +1,128 @@
+site_name: Municipal Election Integrity Ordinance
+site_description: >-
+  Legal analysis and implementation guides for municipal ordinances protecting
+  polling places from armed federal personnel interference under
+  18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+site_author: Election Integrity Project
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.tooltips
+    - toc.follow
+  icon:
+    logo: material/gavel
+
+extra_css:
+  - assets/custom.css
+
+extra_javascript:
+  - assets/custom.js
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: On this page
+      toc_depth: 3
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - How to Use This Guide: how-to-use.md
+  - Legal Foundation:
+      - Overview: legal-foundation/index.md
+      - Federal Governance Framework: legal-foundation/governance-framework.md
+      - ICE at Polling Places — Federal Law: legal-foundation/ice-polling-places-law.md
+      - Insurrection Act Analysis: legal-foundation/insurrection-act-analysis.md
+      - The Supremacy Clause: legal-foundation/supremacy-clause.md
+      - Ballot Security Injunction History: legal-foundation/ballot-security-history.md
+      - 50-State Viability Analysis: legal-foundation/50-state-overview.md
+  - State Guides:
+      - State Guide Overview: state-guides/index.md
+      - "Tier 1 — Strong Viability":
+          - California: state-guides/california.md
+          - Illinois: state-guides/illinois.md
+          - Oregon: state-guides/oregon.md
+          - Washington: state-guides/washington.md
+          - Michigan: state-guides/michigan.md
+          - Massachusetts: state-guides/massachusetts.md
+          - New York: state-guides/new-york.md
+          - Colorado: state-guides/colorado.md
+          - Ohio: state-guides/ohio.md
+          - Minnesota: state-guides/minnesota.md
+          - New Jersey: state-guides/new-jersey.md
+          - Rhode Island: state-guides/rhode-island.md
+          - New Mexico: state-guides/new-mexico.md
+          - Maryland: state-guides/maryland.md
+          - Maine: state-guides/maine.md
+          - Alaska: state-guides/alaska.md
+      - "Tier 2 — Proceed with Caution":
+          - Connecticut: state-guides/connecticut.md
+          - Wisconsin: state-guides/wisconsin.md
+      - "Regional Guides — Minnesota & Wisconsin":
+          - "MN + WI: ICE & Sanctuary Policy": state-guides/minnesota-wisconsin-ice-guide.md
+          - "MN + WI: Election Security Without Federal Support": state-guides/minnesota-wisconsin-security-guide.md
+
+extra:
+  generator: false
+
+copyright: Municipal Election Integrity Ordinance Project

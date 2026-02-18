@@ -1,3 +1,16 @@
+---
+title: 50-State Legal and Strategic Viability Analysis
+description: >-
+  Comprehensive classification of all 50 states by home rule framework, anti-sanctuary law status, and strategic tier (GREEN/YELLOW/RED), with implementation timeline and swing state analysis for the Municipal Election Integrity Ordinance.
+tags:
+  - strategy
+  - 50-states
+  - home-rule
+  - sanctuary-law
+  - implementation-guide
+  - tier-analysis
+---
+
 # Municipal Election Integrity Ordinance: 50-State Legal and Strategic Viability Analysis
 
 **Prohibiting city employees and resources from assisting armed federal personnel near polling places—a comprehensive assessment grounded in 18 U.S.C. § 592 and 52 U.S.C. § 10307(b)**

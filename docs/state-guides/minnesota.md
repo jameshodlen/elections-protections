@@ -1,3 +1,16 @@
+---
+title: Minnesota — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political analysis for Minnesota municipal ordinances enforcing 18 U.S.C. § 592, covering the hybrid Dillon's Rule and constitutional home rule framework, Minn. Stat. § 204C.06, and target city analysis for Minneapolis, St. Paul, and Duluth.
+tags:
+  - tier-green
+  - minnesota
+  - home-rule
+  - minneapolis
+  - st-paul
+  - 18-usc-592
+---
+
 # Minnesota Municipal Ordinance Implementation: Legal and Political Analysis for 18 U.S.C. § 592 Enforcement
 
 Minnesota presents an unusually favorable legal environment for municipal ordinances reinforcing federal restrictions on armed presence at polling places. The state already codifies peace officer restrictions at polls under **Minn. Stat. § 204C.06**, its home rule charter framework grants broad municipal authority, and established civil liberties coalitions provide ready infrastructure for advocacy. Minneapolis, St. Paul, and Duluth emerge as optimal launch cities, each offering charter authority, progressive councils, and histories of pioneering civil liberties legislation.

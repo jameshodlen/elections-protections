@@ -1,3 +1,15 @@
+---
+title: California — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political analysis for California municipal election protection ordinances, covering charter city home rule authority under Article XI, SB 54 sanctuary state precedent, Elections Code §§ 18544–18545, and target city analysis for Berkeley, San Francisco, and West Hollywood.
+tags:
+  - tier-green
+  - california
+  - home-rule
+  - sanctuary-state
+  - charter-city
+---
+
 # California's legal and political landscape favors municipal election protection ordinances
 
 California offers an unusually favorable environment for local election protection ordinances based on 18 U.S.C. § 592. The state's robust Home Rule doctrine, explicit constitutional protection for charter city control over police and elections, existing state law prohibiting armed presence at polls, and the precedent established by SB 54's successful defense against federal challenge create a strong legal foundation. **Berkeley, San Francisco, and West Hollywood emerge as optimal targets**, with a well-established coalition infrastructure ready to mobilize.

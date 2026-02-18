@@ -1,3 +1,17 @@
+---
+title: Minnesota & Wisconsin — Election Security Without Federal Support
+description: >-
+  Technical guide to securing Minnesota and Wisconsin elections following CISA staff reductions and the EI-ISAC fee transition, covering independent state cyber capabilities, physical security protocols, chain of custody, and official contacts for both states.
+tags:
+  - minnesota
+  - wisconsin
+  - election-security
+  - cybersecurity
+  - cisa
+  - ei-isac
+  - voter-protection
+---
+
 # Securing elections in Minnesota and Wisconsin without federal support
 
 **The federal government's withdrawal from election security assistance creates urgent gaps that state and local officials must fill before 2026.** With CISA's election staff reduced by 130+ positions, the EI-ISAC losing federal funding, and interagency task forces dismantled, Minnesota and Wisconsin cannot rely on the protective infrastructure that safeguarded recent elections. However, both states possess substantial independent authority, existing resources, and partnership opportunities to maintain election integrity—if officials act decisively in the months ahead.

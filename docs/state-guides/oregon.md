@@ -1,3 +1,16 @@
+---
+title: Oregon — Municipal Election Protection Ordinance Guide
+description: >-
+  Adaptation guide for Oregon municipal election protection ordinances under constitutional home rule since 1906 (all 241 cities), covering ORS 181A.820 (sanctuary since 1987), City of La Grande v. PERB (1978), and target city analysis for Portland, Bend, and Corvallis.
+tags:
+  - tier-green
+  - oregon
+  - home-rule
+  - portland
+  - sanctuary-state
+  - la-grande
+---
+
 # Adapting a Municipal Election Protection Ordinance to Oregon
 
 **Oregon offers exceptionally favorable legal terrain for a municipal ordinance prohibiting city resources from assisting armed federal personnel at polling places.** The state's strong home rule framework, nation-leading sanctuary law precedent, and presumption against preemption create a solid constitutional foundation. Portland's October 2025 "Protect Portland Initiative"—which unanimously passed a sanctuary ordinance using nearly identical legal architecture—provides a ready-made template. Target cities with progressive councils and existing organizing infrastructure include Portland, Bend, Corvallis, and Ashland.

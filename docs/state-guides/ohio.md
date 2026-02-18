@@ -1,3 +1,16 @@
+---
+title: Ohio — Municipal Election Protection Ordinance Guide
+description: >-
+  Municipal legal and political roadmap for Ohio election protection ordinances under the 1912 constitutional home rule (Article XVIII), covering the Canton four-part preemption test, ORC § 737.05, and target city analysis for Columbus, Cleveland, and Cincinnati.
+tags:
+  - tier-green
+  - ohio
+  - home-rule
+  - columbus
+  - cleveland
+  - cincinnati
+---
+
 # Ohio election protection ordinance: A municipal legal and political roadmap
 
 Ohio's robust home rule tradition creates a viable pathway for cities to adopt election protection ordinances that prohibit local police from assisting armed federal personnel near polling places. The **1912 Ohio Constitution grants municipalities sweeping local self-government powers**, and recent litigation victories—particularly *Columbus v. Ohio* (2025)—have reaffirmed cities' authority to resist state preemption. A coordinated campaign across Ohio's major charter cities, leveraging the existing Ohio Voter Rights Coalition infrastructure, could establish a powerful precedent for municipal-level enforcement of the federal prohibition on armed troops at polls under 18 U.S.C. § 592.

@@ -1,3 +1,15 @@
+---
+title: Insurrection Act Analysis — Impact on Polling Place Protections
+description: >-
+  Analysis of whether the Insurrection Act overrides 18 U.S.C. § 592, incorporating the Supreme Court's ruling in Trump v. Illinois (December 2025). Includes Election Day 2026 scenario analysis and swing state deployment landscape.
+tags:
+  - core-legal
+  - insurrection-act
+  - 18-usc-592
+  - trump-v-illinois
+  - 2026-elections
+---
+
 # Insurrection Act Impact Analysis
 ## Implications for the Municipal Election Integrity Ordinance
 

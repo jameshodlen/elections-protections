@@ -1,3 +1,16 @@
+---
+title: Colorado — Municipal Election Protection Ordinance Guide
+description: >-
+  Legal and political analysis of Colorado's strongly favorable landscape for municipal election protection ordinances, covering the 2021 repeal of firearms preemption (SB 21-256), the Vote Without Fear Act (HB22-1086), and target city analysis for Boulder, Denver, and Aurora.
+tags:
+  - tier-green
+  - colorado
+  - home-rule
+  - boulder
+  - denver
+  - vote-without-fear-act
+---
+
 # Colorado legal landscape strongly favors municipal election protection ordinances
 
 **Colorado offers exceptionally fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the optimal launch city, with Denver and the newly progressive Aurora as strong secondary targets.

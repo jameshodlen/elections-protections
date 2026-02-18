@@ -1,3 +1,15 @@
+---
+title: Federal, State, and Local Authority Framework for Elections
+description: >-
+  Comprehensive legal analysis of the decentralized American election system, covering constitutional basis for local election authority, division of authority between federal, state, and local governments, and implications for a Municipal Election Integrity Ordinance.
+tags:
+  - core-legal
+  - governance
+  - federal-authority
+  - local-authority
+  - constitutional-law
+---
+
 # Governing Relationships and Duties for Elections
 ## Federal, State, and Local Authority Framework
 

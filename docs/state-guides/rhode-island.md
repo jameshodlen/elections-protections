@@ -1,3 +1,15 @@
+---
+title: Rhode Island — Municipal Election Protection Ordinance Guide
+description: >-
+  Strategic legal and political roadmap for Rhode Island municipal election protection ordinances under Article XIII constitutional home rule, covering the 2022 North Providence v. FOP decision and target city analysis for Providence and Central Falls.
+tags:
+  - tier-green
+  - rhode-island
+  - home-rule
+  - providence
+  - central-falls
+---
+
 # Rhode Island election protection ordinance: A strategic legal and political roadmap
 
 Rhode Island presents **exceptionally favorable conditions** for adapting a municipal election protection ordinance prohibiting city resources from assisting armed federal personnel near polling places. The state's constitutional home rule framework (Article XIII), absence of anti-sanctuary preemption laws, and established municipal precedents—most notably Providence's Community-Police Relations Act—create strong legal footing. A 2022 Rhode Island Supreme Court decision confirming municipal "indispensable managerial rights" over police operations further strengthens the legal case. Providence and Central Falls emerge as priority targets, with existing sanctuary infrastructure, progressive leadership, and proven federal court victories defending local autonomy.

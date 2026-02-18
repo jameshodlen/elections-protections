@@ -1,3 +1,16 @@
+---
+title: The Supremacy Clause — Federal Power, State Resistance, and American Federalism
+description: >-
+  Comprehensive analysis of the Supremacy Clause, anti-commandeering doctrine, and federal preemption taxonomy from the founding through the Roberts Court, with application to sanctuary city doctrine and municipal non-cooperation ordinances.
+tags:
+  - core-legal
+  - supremacy-clause
+  - anti-commandeering
+  - federalism
+  - preemption
+  - constitutional-law
+---
+
 # The Supremacy Clause: federal power, state resistance, and the unfinished architecture of American federalism
 
 The Supremacy Clause of the U.S. Constitution stands as the single most consequential conflict-of-laws provision in American governance — and yet, more than two centuries after its adoption, its boundaries remain fiercely contested. **Article VI, Clause 2 establishes that the Constitution, federal statutes enacted pursuant to it, and treaties constitute "the supreme Law of the Land,"** binding state judges regardless of contrary state law. This seemingly absolute declaration has generated a rich, evolving, and often contradictory body of jurisprudence. From the Marshall Court's sweeping affirmations of federal authority through the Rehnquist and Roberts Courts' structural counter-revolution — culminating in the anti-commandeering doctrine — the Clause has served as both sword and shield in an ongoing negotiation between national power and state sovereignty. Today, that tension plays out in concrete, high-stakes arenas: **24 states have legalized recreational marijuana in open defiance of the federal Controlled Substances Act**, sanctuary cities refuse to cooperate with federal immigration enforcement, and Texas has deployed its National Guard in direct confrontation with federal border authority. This report examines the Clause's origins, its judicial evolution, the preemption doctrine it spawned, and the contemporary conflicts that reveal the living, contested nature of American federalism.

@@ -1,3 +1,16 @@
+---
+title: New York — Municipal Election Protection Ordinance Guide
+description: >-
+  Implementation guide for polling place protection ordinances in New York State under Article IX constitutional home rule and the Municipal Home Rule Law, covering the New York Voting Rights Act (2022), and target city analysis for New York City, Ithaca, and Rochester.
+tags:
+  - tier-green
+  - new-york
+  - home-rule
+  - new-york-city
+  - nyvra
+  - let-ny-vote
+---
+
 # Implementing polling place protection ordinances in New York State
 
 New York's robust home rule framework provides strong legal authority for municipalities to enact ordinances directing local police not to assist armed federal personnel at polling places—but preemption risks require careful drafting. The combination of NY Constitution Article IX, Municipal Home Rule Law § 10, and the absence of anti-sanctuary statutes creates a viable legal pathway, particularly when ordinances are framed as police operational directives rather than election regulations. **New York City**, **Ithaca**, and **Rochester** emerge as the top three strategic targets based on political composition, progressive legislative history, and established civil liberties infrastructure.
