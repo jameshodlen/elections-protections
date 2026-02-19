@@ -36,44 +36,44 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 | State | Home Rule/Dillon's Rule | Key Legal Citation | Anti-Sanctuary Laws | Tier | Target Cities |
 |-------|------------------------|-------------------|--------------------|----- |---------------|
 | **Alabama** | Dillon's Rule (strict) | AL Const. 1901, Amend. 825; Code §11-40-1 | Proposed; HB 56 (2011) active | **RED** | — |
-| **Alaska** | Home Rule (strong) | AK Const. Art. X, §11 | None | **GREEN** | Anchorage, Juneau |
+| **[Alaska](../state-guides/alaska.md)** | Home Rule (strong) | AK Const. Art. X, §11 | None | **GREEN** | Anchorage, Juneau |
 | **Arizona** | Hybrid (HR 3,500+) | AZ Const. Art. XIII, §2 | SB 1070 (2010); SB 1487 (2016) preemption | **RED** | See swing state section |
 | **Arkansas** | Dillon's Rule + limited HR | AR Const. Art. 12, §3; Code §14-42-307 | 2019 ban | **RED** | — |
-| **California** | Home Rule (charter cities) | CA Const. Art. XI, §§5, 7 | **Sanctuary State (SB 54)** | **GREEN** | Los Angeles, San Francisco, San Jose, Oakland |
-| **Colorado** | Home Rule (strong, since 1902) | CO Const. Art. XX, §6 | None | **GREEN** | Denver, Aurora, Boulder |
-| **Connecticut** | Home Rule | CT Const. Art. X; CGS §7-148 | None | **GREEN** | New Haven, Hartford, Bridgeport |
+| **[California](../state-guides/california.md)** | Home Rule (charter cities) | CA Const. Art. XI, §§5, 7 | **Sanctuary State (SB 54)** | **GREEN** | Los Angeles, San Francisco, San Jose, Oakland |
+| **[Colorado](../state-guides/colorado.md)** | Home Rule (strong, since 1902) | CO Const. Art. XX, §6 | None | **GREEN** | Denver, Aurora, Boulder |
+| **[Connecticut](../state-guides/connecticut.md)** | Home Rule | CT Const. Art. X; CGS §7-148 | None | **GREEN** | New Haven, Hartford, Bridgeport |
 | **Delaware** | Statutory HR (municipal)/Dillon's (counties) | 22 Del. C. Ch. 8 | None | **YELLOW** | Wilmington |
 | **Florida** | Home Rule (except taxation) | FL Const. Art. VIII, §2(b); F.S. Ch. 166 | SB 168 (2019) | **RED** | — |
 | **Georgia** | Dillon's Rule + limited HR | GA Const. Art. IX, §2; O.C.G.A. §36-35-3 | HB 87 (2011); HB 301 (2024) | **RED** | See swing state section |
 | **Hawaii** | Dillon's Rule (counties only) | HI Const. Art. VIII | None | **YELLOW** | Honolulu |
 | **Idaho** | Hybrid | ID Const. Art. XII, §2 | HB 465 (2012) | **RED** | — |
-| **Illinois** | Home Rule (strong, constitutional) | IL Const. Art. VII, §6 | **Illinois Trust Act protections** | **GREEN** | Chicago, Aurora, Evanston |
+| **[Illinois](../state-guides/illinois.md)** | Home Rule (strong, constitutional) | IL Const. Art. VII, §6 | **Illinois Trust Act protections** | **GREEN** | Chicago, Aurora, Evanston |
 | **Indiana** | Statutory HR (weak) | IC 36-1-3 | SB 590 (2011); SB 181 (2024); AG active enforcement | **RED** | — |
 | **Iowa** | Constitutional HR (since 1968) | IA Const. Art. III, §38A | SF 481 (2018) statewide ban | **RED** | — |
 | **Kansas** | Home Rule (strong, since 1961) | KS Const. Art. 12, §5 | None formal; conservative governance | **YELLOW** | Kansas City, Lawrence |
 | **Kentucky** | Dillon's Rule | KY Const. §§156-160; KRS Ch. 82-83 | None | **YELLOW** | Louisville, Lexington |
 | **Louisiana** | Hybrid (Dillon's pre-1974/HR post-1974) | LA Const. 1974 Art. VI | None | **YELLOW** | New Orleans (existing sanctuary) |
-| **Maine** | Home Rule (strong) | ME Const. Art. VIII, Part 2, §1 | None | **GREEN** | Portland, Lewiston |
-| **Maryland** | Home Rule (tiered) | MD Const. Art. XI-A, XI-E, XI-F | None | **GREEN** | Baltimore, Montgomery County |
-| **Massachusetts** | Home Rule (hybrid) | MA Const. Amend. Art. 89 | None | **GREEN** | Boston, Cambridge, Worcester |
-| **Michigan** | Home Rule (strong, constitutional) | MI Const. Art. VII, §§21-22 | Pending (HB 4338-4342) | **GREEN** | See swing state section |
-| **Minnesota** | Dillon's Rule + optional HR charter | MN Const. Art. XII, §§3-5; Ch. 410 | None; multiple sanctuary counties | **GREEN** | Minneapolis, St. Paul |
+| **[Maine](../state-guides/maine.md)** | Home Rule (strong) | ME Const. Art. VIII, Part 2, §1 | None | **GREEN** | Portland, Lewiston |
+| **[Maryland](../state-guides/maryland.md)** | Home Rule (tiered) | MD Const. Art. XI-A, XI-E, XI-F | None | **GREEN** | Baltimore, Montgomery County |
+| **[Massachusetts](../state-guides/massachusetts.md)** | Home Rule (hybrid) | MA Const. Amend. Art. 89 | None | **GREEN** | Boston, Cambridge, Worcester |
+| **[Michigan](../state-guides/michigan.md)** | Home Rule (strong, constitutional) | MI Const. Art. VII, §§21-22 | Pending (HB 4338-4342) | **GREEN** | See swing state section |
+| **[Minnesota](../state-guides/minnesota.md)** | Dillon's Rule + optional HR charter | MN Const. Art. XII, §§3-5; Ch. 410 | None; multiple sanctuary counties | **GREEN** | Minneapolis, St. Paul |
 | **Mississippi** | Dillon's Rule | MS Const. Art. 4, §88; Code Title 21 | SB 2988 (2008) | **RED** | — |
 | **Missouri** | Constitutional HR (charter cities) | MO Const. Art. VI, §19 | State ban | **RED** | — |
 | **Montana** | Home Rule (strong) | MT Const. Art. XI, §§4, 6 | HB 200 (2017) | **RED** | — |
 | **Nebraska** | Hybrid (Dillon's + limited HR >5,000) | NE Const. Art. XI, §2 | None formal | **YELLOW** | Omaha, Lincoln |
 | **Nevada** | Hybrid (Dillon's modified 2015) | NV Const. Art. VIII; NRS 268.001 | DOJ Agreement (2025) | **YELLOW** | See swing state section |
 | **New Hampshire** | Dillon's Rule (strict) | NH Const. Art. 39, Part I; RSA 49-B | None | **YELLOW** | Manchester, Nashua |
-| **New Jersey** | Statutory HR (liberal construction) | NJ Const. Art. IV, §7; N.J.S.A. 40:42-4 | None | **GREEN** | Newark, Jersey City |
-| **New Mexico** | Home Rule (strong) | NM Const. Art. X, §6 | None | **GREEN** | Albuquerque, Santa Fe |
-| **New York** | Home Rule (constitutional) | NY Const. Art. IX; Mun. Home Rule Law §10 | None | **GREEN** | New York City, Buffalo, Albany |
+| **[New Jersey](../state-guides/new-jersey.md)** | Statutory HR (liberal construction) | NJ Const. Art. IV, §7; N.J.S.A. 40:42-4 | None | **GREEN** | Newark, Jersey City |
+| **[New Mexico](../state-guides/new-mexico.md)** | Home Rule (strong) | NM Const. Art. X, §6 | None | **GREEN** | Albuquerque, Santa Fe |
+| **[New York](../state-guides/new-york.md)** | Home Rule (constitutional) | NY Const. Art. IX; Mun. Home Rule Law §10 | None | **GREEN** | New York City, Buffalo, Albany |
 | **North Carolina** | Hybrid (modified Dillon's) | NC Const. Art. VII; G.S. 160A-4 | State ban; HB 10 (2024) | **RED** | See swing state section |
 | **North Dakota** | Constitutional HR (since 1966) | ND Const. Art. VII; NDCC 40-05.1 | 2011 legislation | **RED** | — |
-| **Ohio** | Home Rule (strong, since 1912) | OH Const. Art. XVIII, §§1-14 | None; Cincinnati/Cleveland sanctuary | **GREEN** | Cleveland, Cincinnati, Columbus |
+| **[Ohio](../state-guides/ohio.md)** | Home Rule (strong, since 1912) | OH Const. Art. XVIII, §§1-14 | None; Cincinnati/Cleveland sanctuary | **GREEN** | Cleveland, Cincinnati, Columbus |
 | **Oklahoma** | Dillon's Rule + HR provisions | OK Const. Art. XVIII | HB 1804 (2007) | **RED** | — |
-| **Oregon** | Home Rule (strong, since 1906) | OR Const. Art. XI, §2 | None; Portland sanctuary | **GREEN** | Portland, Eugene, Salem |
+| **[Oregon](../state-guides/oregon.md)** | Home Rule (strong, since 1906) | OR Const. Art. XI, §2 | None; Portland sanctuary | **GREEN** | Portland, Eugene, Salem |
 | **Pennsylvania** | HR (optional charter since 1972) | PA Const. Art. IX, §2; 53 Pa.C.S. §2901 | None; firearms preemption precedent | **YELLOW** | See swing state section |
-| **Rhode Island** | Home Rule (constitutional) | RI Const. Art. XIII | None | **GREEN** | Providence |
+| **[Rhode Island](../state-guides/rhode-island.md)** | Home Rule (constitutional) | RI Const. Art. XIII | None | **GREEN** | Providence |
 | **South Carolina** | Home Rule (Dillon's Rule abolished 1993) | SC Const. Art. VIII; S.C. Code §5-7-30 | SB 20 (2011) E-Verify | **YELLOW** | Charleston, Columbia |
 | **South Dakota** | Dillon's Rule | SD Codified Laws | 2011 legislation | **RED** | — |
 | **Tennessee** | Hybrid (Dillon's + exceptions) | TN Const. Art. XI, §9; TCA Title 6 | **SB 6002 (2025) - FELONY for officials** | **RED** | — |
@@ -81,9 +81,9 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 | **Utah** | Home Rule (strong) | UT Const. Art. XI, §5 | None formal | **YELLOW** | Salt Lake City |
 | **Vermont** | Dillon's Rule (strict) | VT Const. Ch. II, §§2, 6; 24 V.S.A. | None | **YELLOW** | Burlington |
 | **Virginia** | Dillon's Rule (strictest in nation) | VA Const. Art. VII; Code Title 15.2 | Effective via Dillon's Rule | **RED** | — |
-| **Washington** | Hybrid (HR for first-class cities) | WA Const. Art. XI, §§10-11 | None; Seattle sanctuary | **GREEN** | Seattle, Tacoma |
+| **[Washington](../state-guides/washington.md)** | Hybrid (HR for first-class cities) | WA Const. Art. XI, §§10-11 | None; Seattle sanctuary | **GREEN** | Seattle, Tacoma |
 | **West Virginia** | Hybrid (statutory 1969) | WV Const. Art. VI; Code §8-12-2 | Comprehensive ban | **RED** | — |
-| **Wisconsin** | Constitutional HR (limited) | WI Const. Art. XI, §3 | 2019 ban (Walker); DHS designations | **YELLOW** | See swing state section |
+| **[Wisconsin](../state-guides/wisconsin.md)** | Constitutional HR (limited) | WI Const. Art. XI, §3 | 2019 ban (Walker); DHS designations | **YELLOW** | See swing state section |
 | **Wyoming** | Dillon's Rule | WY Const. Art. XIII | State policy | **RED** | — |
 
 ---
@@ -282,6 +282,155 @@ This framing:
 "Section 1. No city employee shall, while acting in their official capacity: (a) Provide transportation, communications support, or logistical assistance to armed federal personnel conducting operations at or within [500 feet] of any polling place during voting hours on any election day; (b) Grant access to city facilities for the purpose of staging armed federal personnel for operations near polling places on election days.
 
 Section 2. Nothing in this ordinance shall: (a) Prohibit city employees from responding to emergencies or threats to public safety; (b) Prevent cooperation with federal law enforcement for purposes unrelated to polling place operations on election days; (c) Interfere with any federal officer's independent exercise of federal authority."
+
+---
+
+## Coalition building should precede adoption
+
+Before any city adopts the ordinance, coordinate with established organizations that bring legal expertise, electoral credibility, community organizing capacity, and litigation support. Simultaneous adoption across multiple jurisdictions creates mutual support and spreads political targeting risk. A coordinated multi-city campaign is more defensible than isolated local efforts.
+
+### Legal and Litigation Organizations
+
+**[American Civil Liberties Union (ACLU)](https://www.aclu.org)**
+: The ACLU's Voting Rights Project litigates federal and state cases protecting access to the ballot. State affiliates in every Tier 1 state have dedicated election protection programs, poll monitoring operations, and staff who have drafted model ordinances for local governments. The ACLU operates the **866-OUR-VOTE** election protection hotline in partnership with Common Cause and the Lawyers' Committee. Contact national Voting Rights Project: votingrights@aclu.org.
+
+**[Brennan Center for Justice](https://www.brennancenter.org)**
+: NYU School of Law-based nonpartisan institute with a dedicated Democracy Program focused on voting rights, elections, and government accountability. Provides research support, amicus briefs, model legislation, and expert witnesses for litigation. Democracy Program Director Wendy Weiser leads work on executive overreach and voter protection. Contact: brennancenter.org/contact.
+
+**[Lawyers' Committee for Civil Rights Under Law](https://www.lawyerscommittee.org)**
+: Co-leads the national Election Protection Coalition with Common Cause and the ACLU. Operates the **866-OUR-VOTE** and **888-VE-Y-VOTA** hotlines on Election Day. Has field offices in key states including Illinois (Chicago Lawyers' Committee) and Michigan (Ami Gandhi, Director of Strategic Initiatives and Midwest Voting Rights Program, agandhi@clccrul.org). Deploys thousands of volunteer lawyers for Election Day monitoring.
+
+**[Georgetown Institute for Constitutional Advocacy and Protection (ICAP)](https://www.law.georgetown.edu/icap/)**
+: Georgetown Law's litigation arm specializing in constitutional challenges. Has filed amicus briefs and direct litigation on Insurrection Act, anti-commandeering doctrine, and voting rights. Particularly valuable for challenges to federal overreach in election administration.
+
+**[States United Democracy Center](https://statesuniteddemocracy.org)**
+: Nonpartisan organization focused on election integrity through law, research, and communications. Works with election officials across party lines and has experience supporting local ordinances against election interference. Maintains rapid response legal capacity for election challenges.
+
+**[Protect Democracy](https://protectdemocracy.org)**
+: Nonpartisan organization litigating against executive overreach. Has challenged unlawful federal interference in state elections and maintains a legal team experienced in emergency injunctive relief. Particularly relevant given the Insurrection Act scenarios analyzed in this project.
+
+**[Democracy Forward](https://democracyforward.org)**
+: Public interest law firm focusing on challenging unlawful executive actions. Has filed administrative challenges and federal litigation to protect state and local prerogatives against federal overreach.
+
+**[National Association for the Advancement of Colored People Legal Defense Fund (NAACP LDF)](https://www.naacpldf.org)**
+: Separate from the NAACP, LDF is a civil rights law organization with a dedicated Voting Rights Practice. Has litigated landmark cases on voter intimidation and polling place access. Contact: info@naacpldf.org.
+
+---
+
+### Election Protection and Voting Rights Organizations
+
+**[Common Cause](https://www.commoncause.org)**
+: National nonpartisan organization co-leading the Election Protection Coalition. Co-operates the **866-OUR-VOTE** hotline and deploys poll monitors on Election Day. State chapters in all Tier 1 states have established relationships with local governments and can facilitate council outreach. National office: 202-833-1200, Washington, D.C.
+
+**[League of Women Voters (LWV)](https://www.lwv.org)**
+: 104-year-old nonpartisan organization with chapters in all 50 states. Conducts voter registration drives, operates the **VOTE411.org** voter information portal, provides poll observer training, and co-hosts Election Day protection programs with ACLU and Common Cause chapters. LWV's nonpartisan status provides crucial credibility for municipal ordinance campaigns. National office: 1233 20th Street NW, Suite 500, Washington, DC 20036; (202) 429-1965.
+
+**[Fair Elections Center](https://www.fairelectionscenter.org)**
+: Nonprofit law firm and advocacy organization focused on voter registration, voting access, and election administration litigation. Provides legal support for cities and counties facing federal challenges to voter protection measures.
+
+**[Voting Rights Lab](https://votingrightslab.org)**
+: Tracks voting rights legislation across all 50 states in real time and provides analysis of state law changes affecting voter access. Useful for monitoring preemption threats to local ordinances as they develop.
+
+**[Verified Voting](https://www.verifiedvoting.org)**
+: Focuses on election security and accurate vote counting. Maintains a database of voting equipment used in every jurisdiction and advocates for paper ballot trails. Relevant to the technical election security components of this project.
+
+**[FairVote](https://www.fairvote.org)**
+: Advocates for ranked-choice voting and proportional representation. Has municipal ordinance experience in jurisdictions that have adopted RCV locally. Relevant in several target cities (Minneapolis, Santa Fe, Corvallis) that already use RCV.
+
+---
+
+### Civil Rights and Immigrant Rights Organizations
+
+**[MALDEF — Mexican American Legal Defense and Educational Fund](https://www.maldef.org)**
+: Litigates civil rights cases affecting Latino communities, including voting rights and voter intimidation. Has offices in Los Angeles, San Antonio, Chicago, Atlanta, and Washington, D.C. Relevant for ordinance campaigns in cities with large Latino populations. Contact: (213) 629-2512; info@MALDEF.org.
+
+**[NAACP](https://www.naacp.org)**
+: The nation's oldest and largest civil rights organization. State and local branches in nearly every target city can mobilize communities and provide political support for municipal ordinance adoption. National: 4805 Mt. Hope Drive, Baltimore, MD 21215; (877) NAACP-98.
+
+**[Asian Americans Advancing Justice (AAJC)](https://www.advancingjustice-aajc.org)**
+: National advocacy and legal organization focused on voting rights for Asian Americans. Enforces Section 203 of the Voting Rights Act (language assistance requirements) and operates multilingual voter hotlines in eight languages including Chinese, Korean, Vietnamese, and others. Has affiliates in Chicago, Los Angeles, Atlanta, and the San Francisco Bay Area.
+
+**[UnidosUS](https://www.unidosus.org)** (formerly National Council of La Raza)
+: The largest Latino civil rights and advocacy organization in the United States, with 300+ affiliated community-based organizations across the country. Focuses on civic engagement, voter registration, and policy advocacy. Has established relationships with municipal governments.
+
+**[NALEO Educational Fund](https://www.naleo.org)** (National Association of Latino Elected and Appointed Officials)
+: Focuses on Latino civic participation including candidate recruitment, voter registration, and election protection. Particularly valuable for outreach to Latino elected officials who are potential ordinance champions.
+
+**[LULAC — League of United Latin American Citizens](https://www.lulac.org)**
+: The oldest and largest Hispanic civil rights organization in the United States, founded in 1929. Has 1,000+ councils nationwide and long experience with voter intimidation litigation and election protection at the local level.
+
+**[Mi Familia Vota](https://www.mifamiliavota.org)**
+: Latino civic engagement organization with strong operations in Arizona, Colorado, Florida, Nevada, and Texas. While Arizona and Florida are Tier 3 states, Mi Familia's experience with hostile political environments is directly relevant to Tier 2 and swing state campaigns.
+
+**[OneAmerica](https://www.weareoneamerica.org)**
+: Seattle-based immigrant rights organization representing 70+ member organizations across Washington State. Deep municipal advocacy experience and established relationships with Seattle and Spokane city governments. Key partner for Washington State ordinance campaigns. Contact: (206) 623-5038.
+
+**[CHIRLA — Coalition for Humane Immigrant Rights](https://www.chirla.org)**
+: Los Angeles-based immigrant rights organization with statewide reach in California. Has experience supporting local sanctuary ordinances and has coordinated with Los Angeles and other California cities on immigration-related municipal policy. Contact: (888) 624-4725; 1533 W. 8th Street, Los Angeles.
+
+**[Voces de la Frontera](https://vdlf.org)**
+: Wisconsin's largest immigrant and labor rights organization, with Milwaukee as its base. Has partnered with ACLU of Wisconsin on ICE-related litigation and is the primary community organizing partner for Wisconsin ordinance campaigns. Contact: (414) 643-1620.
+
+**[ISAIAH / Faith in Minnesota](https://www.isaiah-mn.org)**
+: Minnesota faith-based organizing network with 100+ congregations across the state. Mobilizes faith communities on economic and racial justice issues. Key partner for Minneapolis and St. Paul ordinance campaigns. Contact: (651) 529-0888.
+
+---
+
+### Labor and Progressive Organizations
+
+**[AFL-CIO](https://aflcio.org)**
+: The largest U.S. federation of labor unions, representing 12.5 million workers in 57 affiliated unions. State federations (AFL-CIO affiliates) in every target state can mobilize member-voters and provide political pressure on city councils. Relevant state affiliates include: WSLC (Washington, 600,000+ members), MN AFL-CIO (300,000+ members), IL AFL-CIO (1,000+ local unions).
+
+**[SEIU — Service Employees International Union](https://www.seiu.org)**
+: 2 million members in healthcare, public services, and property services. SEIU locals in target cities include many municipal employees whose cooperation is directly relevant to ordinance implementation. Has extensive experience with local government advocacy.
+
+**[AFSCME — American Federation of State, County and Municipal Employees](https://www.afscme.org)**
+: 1.3 million members who are state and local government employees, including election workers, poll workers, and city administrative staff who would be directly affected by ordinance implementation. AFSCME has taken public positions on protecting election workers.
+
+**[TakeAction Minnesota](https://www.takeactionminnesota.org)**
+: Minnesota's largest progressive membership organization with 50,000+ members and chapters across the state. Coordinates the Restore the Vote Coalition with 50+ organizations. Key partner for Minneapolis and St. Paul campaigns.
+
+**[Indivisible](https://indivisible.org)**
+: National network of 6,000+ local groups organized around legislative advocacy. Local Indivisible chapters in target cities can mobilize constituents to contact city council members and attend hearings. Indivisible's distributed structure is particularly effective for simultaneously pressuring multiple cities.
+
+---
+
+### Municipal Associations
+
+**[U.S. Conference of Mayors (USCM)](https://www.usmayors.org)**
+: The official nonpartisan organization of U.S. cities with populations of 30,000 or more. Has adopted resolutions on voting rights, immigration, and civil liberties. Mayor champions can introduce ordinance resolutions through USCM, lending national legitimacy to the campaign. Contact: 1620 Eye Street NW, Washington, DC 20006; (202) 293-7330.
+
+**[National League of Cities (NLC)](https://www.nlc.org)**
+: Represents 19,000+ cities, towns, and villages. The NLC's Race, Equity, and Leadership (REAL) program and Cities of Opportunity initiative are natural organizational homes for this effort. Can provide model ordinance distribution, peer-to-peer city learning, and federal advocacy support.
+
+**[National Conference of State Legislatures (NCSL)](https://www.ncsl.org)**
+: While primarily a legislative resource, NCSL's elections team tracks preemption legislation and home rule developments in all 50 states. Their research staff can provide rapid analysis of state-level preemption threats to local ordinances.
+
+---
+
+### Academic and Research Partners
+
+**[Harvard Law School Election Law Clinic](https://hls.harvard.edu/clinic/)**
+: Provides litigation support and model legislation drafting for voting rights campaigns. Has experience with local ordinance development and can provide pro bono legal assistance to cities with limited legal resources.
+
+**[MIT Election Data and Science Lab](https://electionlab.mit.edu)**
+: Maintains comprehensive databases of state election laws, voting equipment, and electoral outcomes. Provides research support for documenting the need for polling place protections.
+
+**[Brennan Center for Justice — Democracy Program](https://www.brennancenter.org/issues/ensure-every-american-can-vote)**
+: In addition to litigation, Brennan Center publishes the definitive annual reports on voting restrictions and expansions across all 50 states. Their "Voting Laws Roundup" is the most comprehensive tracker of state preemption legislation that could threaten local ordinances.
+
+---
+
+### Emergency Hotlines and Rapid Response
+
+| Resource | Phone | Languages | Purpose |
+|---|---|---|---|
+| Election Protection (866-OUR-VOTE) | 1-866-687-8683 | English | Operated by Lawyers' Committee, Common Cause, ACLU |
+| Election Protection en Español | 1-888-839-8682 | Spanish | 888-VE-Y-VOTA |
+| Asian-language Election Protection | 1-888-274-8683 | Chinese, Korean, Vietnamese, others | 888-API-VOTE |
+| Arabic-language Election Protection | 1-844-925-5287 | Arabic | 844-YALLA-US |
+| ACLU National Voting Rights Hotline | 1-800-775-2258 | English | Direct legal assistance referrals |
+| Election Protection Legal Hotline | 1-866-OUR-VOTE | English | Immediate legal response on Election Day |
 
 ---
 
