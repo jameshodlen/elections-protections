@@ -31,7 +31,7 @@ The statutory text and legal analysis of **18 U.S.C. § 592** (Troops at Polls, 
 
 ### 3. [50-State Viability Analysis](50-state-overview.md)
 
-The strategic map for which states and cities to prioritize. Classifies all 50 states into GREEN (strong home rule, no anti-sanctuary preemption), YELLOW (mixed), and RED (anti-sanctuary laws, Dillon's Rule constraints) tiers, with an interactive filter. Includes implementation timeline and swing state analysis.
+The strategic map for which states and cities to prioritize. Classifies all 50 states into GREEN (strong home rule, no anti-sanctuary preemption), YELLOW (mixed), and RED (anti-sanctuary laws, Dillon's Rule constraints) tiers, with an interactive filter. Includes swing state analysis.
 
 **Key takeaway:** 16–18 states have strong legal pathways; 6 swing states have specific strategic windows even within Tier 2/3.
 

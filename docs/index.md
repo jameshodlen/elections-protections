@@ -69,7 +69,7 @@ Federal law makes it a felony for armed federal personnel to station themselves 
 
 <div class="grid cards" markdown>
 
--   :material-city-variant:{ .lg .middle } **Municipal Officials & Lobbyists**
+-   :material-city-variant:{ .lg .middle } **Municipal Officials**
 
     ---
 

@@ -290,35 +290,6 @@ The **UW-Madison Elections Research Center** conducts cutting-edge research and 
 
 ---
 
-## Implementation timeline for 2026 elections
-
-### Immediate actions (January-March 2026)
-
-1. **Assess EI-ISAC membership** and budget for fee-based services
-2. **Verify MFA implementation** on all election systems
-3. **Register for free DDoS protection** via Cloudflare Project Galileo or Google Project Shield
-4. **Contact state cybersecurity resources**: MN.IT Services (651-297-1111) or Wisconsin CRT (800-943-0003, option 2)
-5. **Download all available CISA materials** while accessible
-6. **Prepare emergency response templates** including injunction requests citing 18 U.S.C. § 592
-
-### Short-term (April-June 2026)
-
-1. **Conduct self-assessments** using CIS EIAT tool
-2. **Update incident response plans** with state AG rapid response protocols
-3. **Train poll workers** on de-escalation using CISA resources
-4. **Test backup and recovery procedures** for voter registration databases
-5. **Coordinate with academic partners** for additional support
-
-### Pre-election (July-November 2026)
-
-1. **Complete Logic and Accuracy testing** with public observation
-2. **Verify election night reporting redundancy** (backup sites, PDF failovers, media relationships)
-3. **Distribute voter rights information** and hotline numbers
-4. **Brief local law enforcement** on polling place restrictions
-5. **Activate communication chains** between local officials, county attorneys, and state AG
-
----
-
 ## Key contacts for Minnesota and Wisconsin officials
 
 ### Minnesota

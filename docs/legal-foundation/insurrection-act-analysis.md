@@ -389,7 +389,7 @@ Frame your ordinance as **supporting legitimate federal law** (18 U.S.C. § 592)
 
 ## Part IX: Coordination with Minnesota
 
-Given your lobbying registration in Minnesota and the current Minneapolis crisis, there's a strategic opportunity:
+Given the current Minneapolis crisis, there is a strategic opportunity:
 
 ### Immediate Actions
 
@@ -423,16 +423,6 @@ The Insurrection Act analysis **strengthens rather than weakens** your Municipal
 3. **Anti-commandeering doctrine protects local non-cooperation**
 4. **Your framing—federal law compliance—is legally accurate**
 
-### Implementation Timeline
-
-**Phase 1 (Now - March 2026)**: Pass ordinances in Tier 1 states before primary elections begin
-
-**Phase 2 (April - August 2026)**: Expand to Tier 2 states and swing state cities
-
-**Phase 3 (September - October 2026)**: Legal defense preparation; rapid-response team activation
-
-**Phase 4 (November 2026)**: Election week monitoring and enforcement
-
 ### Critical Next Steps
 
 1. **Incorporate Insurrection Act analysis into ordinance preamble** — strengthens legal foundation
@@ -445,7 +435,7 @@ The Insurrection Act analysis **strengthens rather than weakens** your Municipal
 
 5. **Public education campaign** — 18 U.S.C. § 592 awareness; voter rights under federal law
 
-6. **Minnesota focus** — the current crisis creates immediate opportunity for your lobbying work
+6. **Minnesota focus** — the current crisis creates a critical window for ordinance adoption in Minneapolis and St. Paul
 
 ---
 

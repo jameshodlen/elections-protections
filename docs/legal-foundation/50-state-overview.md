@@ -1,7 +1,7 @@
 ---
 title: 50-State Legal and Strategic Viability Analysis
 description: >-
-  Comprehensive classification of all 50 states by home rule framework, anti-sanctuary law status, and strategic tier (GREEN/YELLOW/RED), with implementation timeline and swing state analysis for the Municipal Election Integrity Ordinance.
+  Comprehensive classification of all 50 states by home rule framework, anti-sanctuary law status, and strategic tier (GREEN/YELLOW/RED), with swing state analysis for the Municipal Election Integrity Ordinance.
 tags:
   - strategy
   - 50-states
@@ -282,46 +282,6 @@ This framing:
 "Section 1. No city employee shall, while acting in their official capacity: (a) Provide transportation, communications support, or logistical assistance to armed federal personnel conducting operations at or within [500 feet] of any polling place during voting hours on any election day; (b) Grant access to city facilities for the purpose of staging armed federal personnel for operations near polling places on election days.
 
 Section 2. Nothing in this ordinance shall: (a) Prohibit city employees from responding to emergencies or threats to public safety; (b) Prevent cooperation with federal law enforcement for purposes unrelated to polling place operations on election days; (c) Interfere with any federal officer's independent exercise of federal authority."
-
----
-
-## Implementation timeline should prioritize Tier 1 states before November 2026
-
-**Phase 1 (Q1-Q2 2026): Tier 1 State Adoption**
-Begin in jurisdictions with strongest legal foundations and existing protective infrastructure:
-- California: Los Angeles, San Francisco, San Jose
-- Oregon: Portland
-- Illinois: Chicago
-- Michigan: Ann Arbor, Detroit
-- Washington: Seattle
-- Colorado: Denver
-
-**Phase 2 (Q3 2026): Expansion to Additional Tier 1 States**
-- New York: New York City
-- Massachusetts: Boston
-- Ohio: Cleveland, Cincinnati
-- Minnesota: Minneapolis
-
-**Phase 3 (Post-November 2026): Swing State Implementation**
-Contingent on election outcomes:
-- Michigan: Consolidate and expand
-- Pennsylvania: Pittsburgh (if political environment favorable)
-- Arizona: Phoenix, Tucson (if Democrats retain Governor/AG)
-- Nevada: Las Vegas (if Ford defeats Lombardo)
-
-**Phase 4 (2027): Second-Wave Tier 2 States**
-Based on litigation outcomes and political developments:
-- Carefully selected Tier 2 jurisdictions with favorable local conditions
-
-### Coalition building should precede adoption
-
-Before any city adopts the ordinance, coordinate with:
-- **Legal Organizations**: ACLU, Brennan Center for Justice, Georgetown's Institute for Constitutional Advocacy and Protection
-- **Election Protection Groups**: Common Cause, League of Women Voters, Lawyers' Committee for Civil Rights Under Law
-- **Municipal Associations**: U.S. Conference of Mayors, National League of Cities
-- **Academic Experts**: Constitutional law faculty for litigation support and amicus briefs
-
-Simultaneous adoption across multiple jurisdictions creates mutual support and spreads political targeting risk. A coordinated national campaign is more defensible than isolated local efforts.
 
 ---
 
