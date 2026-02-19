@@ -20,7 +20,7 @@ Each state guide follows a consistent four-section structure:
 
 !!! success "Tier 1: 16 States"
     Strong home rule authority, no anti-sanctuary preemption, and favorable
-    political environments. These states are the primary focus for Q1–Q2 2026
+    political environments. These states have the clearest legal pathways for
     ordinance adoption.
 
 | State | Key Legal Authority | Primary Target Cities | Guide |
@@ -123,15 +123,4 @@ Two specialized guides cover Minnesota and Wisconsin together, addressing the sh
 
 </div>
 
----
 
-## Implementation Timeline (2026)
-
-| Phase | Timeline | Focus |
-|---|---|---|
-| **Phase 1** | Now – April 2026 | Tier 1 states: introduce and pass ordinances in lead cities (Minneapolis, Chicago, Portland, Seattle, Denver, Ann Arbor) |
-| **Phase 2** | April – August 2026 | Expand to additional Tier 1 cities; begin Tier 2 advocacy in CT and WI |
-| **Phase 3** | August – October 2026 | Final pre-election litigation positioning; injunctive relief preparation; poll worker training |
-| **Election Day** | November 3, 2026 | Rapid response legal teams on standby; § 592 enforcement monitoring |
-
-For detailed timeline guidance for specific states, see the "Implementation Pathway" section in each state guide.

@@ -460,7 +460,7 @@ Your ordinance operates in a zone of **strong local authority**:
 
 ## Part VI: State-Specific Considerations
 
-### For Your Minnesota Lobbying Work
+### Minnesota: Implementation Notes
 
 **Minnesota's Structure:**
 - **Chief Election Official**: Secretary of State (elected)
@@ -480,7 +480,7 @@ Your ordinance operates in a zone of **strong local authority**:
 - Strong local authority over municipal affairs
 - Sanctuary city since 2003
 
-### For Your Wisconsin Lobbying Work
+### Wisconsin: Implementation Notes
 
 **Wisconsin's Structure:**
 - **Chief Election Official**: Wisconsin Elections Commission (bipartisan)

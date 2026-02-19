@@ -166,16 +166,6 @@ Litigation risk for this ordinance type in Maine is **low to moderate**. The com
 
 ---
 
-## Recommended implementation strategy
-
-**Phase 1 (January-February 2026):** Approach Democracy Maine coalition and ACLU of Maine to establish legal framework and draft model ordinance language. Secure endorsements from LWVME Portland and Bangor chapters.
-
-**Phase 2 (February-March 2026):** Brief Portland City Council members individually, building on September 2025 ICE resolution momentum. Target introduction at March council meeting with supporting testimony from coalition partners.
-
-**Phase 3 (Concurrent):** Engage Bangor's new progressive councilors while building Lewiston coalition. Approach Libertarian Party for cross-ideological endorsement that neutralizes partisan framing.
-
-**Phase 4 (Post-Portland passage):** Use Portland precedent to accelerate Bangor and Lewiston adoption, creating regional momentum.
-
 ## Conclusion
 
 Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
