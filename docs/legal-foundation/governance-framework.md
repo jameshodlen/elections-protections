@@ -458,48 +458,6 @@ Your ordinance operates in a zone of **strong local authority**:
 
 ---
 
-## Part VI: State-Specific Considerations
-
-### Minnesota: Implementation Notes
-
-**Minnesota's Structure:**
-- **Chief Election Official**: Secretary of State (elected)
-- **Primary Administration**: Counties
-- **Home Rule**: Optional charter home rule for cities over 500 population
-- **Anti-Sanctuary Laws**: None
-- **Sanctuary Status**: Multiple counties (Hennepin, Ramsey) and Minneapolis
-
-**Key Statutes:**
-- Minn. Const. Art. XII, §§ 3-5 (local government)
-- Minn. Stat. Ch. 410 (home rule charters)
-- Minn. Stat. Ch. 201-212 (election code)
-
-**Minneapolis-Specific:**
-- Home rule charter city since 1920
-- City Clerk has election responsibilities
-- Strong local authority over municipal affairs
-- Sanctuary city since 2003
-
-### Wisconsin: Implementation Notes
-
-**Wisconsin's Structure:**
-- **Chief Election Official**: Wisconsin Elections Commission (bipartisan)
-- **Primary Administration**: Municipal clerks (unique—cities, villages, and towns, not counties)
-- **Home Rule**: Constitutional home rule (Art. XI, § 3) but interpreted narrowly
-- **Anti-Sanctuary Laws**: 2019 ban (Walker-era)
-
-**Key Challenge:**
-- Wisconsin Supreme Court has interpreted home rule very narrowly
-- State law prevails on matters of "statewide concern"
-- 2024 partial strike-down of Act 10 may provide new arguments
-
-**Madison-Specific:**
-- City Clerk administers elections
-- Strong progressive tradition
-- Dane County designated as "sanctuary jurisdiction" by DHS (May 2025)
-
----
-
 ## Conclusion
 
 The American election system's decentralized structure creates a **strong constitutional and practical foundation** for your Municipal Election Integrity Ordinance:
@@ -521,27 +479,83 @@ The clearest framing for your ordinance: **Implementing federal election law thr
 ## Appendix: Key Legal Citations
 
 ### Constitutional Provisions
-- U.S. Const. Art. I, § 4 (Elections Clause)
-- U.S. Const. Art. II, § 1, cl. 2 (Presidential Electors)
-- U.S. Const. Amends. XIV, XV, XIX, XXIV, XXVI (Voting Rights)
-- U.S. Const. Amend. X (Reserved Powers)
+
+**[U.S. Const. Art. I, § 4](https://constitution.congress.gov/browse/article-1/section-4/) — Elections Clause**
+: Grants Congress authority to regulate the "Times, Places and Manner" of federal elections, but only by overriding state rules — not by directly administering them. States and localities retain the primary operational role unless Congress expressly displaces it. The Supreme Court in *Arizona v. Inter Tribal Council* (2013) confirmed this clause is the primary source of federal election authority.
+
+**[U.S. Const. Art. II, § 1, cl. 2](https://constitution.congress.gov/browse/article-2/section-1/) — Presidential Electors Clause**
+: Each state "shall appoint, in such Manner as the Legislature thereof may direct," a number of presidential electors. This clause vests exclusive authority over presidential elections in the states, entirely excluding federal executive branch involvement in how electors are chosen. It is one of the strongest textual bases for the principle that the federal executive cannot control state election machinery.
+
+**[U.S. Const. Amend. XIV, § 1](https://constitution.congress.gov/browse/amendment-14/) — Equal Protection Clause**
+: Prohibits states from denying any person equal protection of the laws. As applied to elections, it prohibits discriminatory administration of voting rules and is the foundation of the "one person, one vote" principle. Relevant here because equal protection doctrine has been used to challenge intimidation practices that deter participation of protected groups.
+
+**[U.S. Const. Amend. XV](https://constitution.congress.gov/browse/amendment-15/) — Right to Vote (Race)**
+: Prohibits denial of the right to vote on account of race, color, or previous condition of servitude. Enacted in 1870 as part of Reconstruction; the basis for the Voting Rights Act of 1965.
+
+**[U.S. Const. Amend. XIX](https://constitution.congress.gov/browse/amendment-19/) — Right to Vote (Sex)**
+: Prohibits denial of the right to vote on account of sex. Ratified in 1920.
+
+**[U.S. Const. Amend. XXIV](https://constitution.congress.gov/browse/amendment-24/) — Poll Tax Ban**
+: Prohibits conditioning the right to vote in federal elections on payment of a poll tax or other tax. Ratified in 1964; extended to state elections by *Harper v. Virginia Board of Elections* (1966).
+
+**[U.S. Const. Amend. XXVI](https://constitution.congress.gov/browse/amendment-26/) — Right to Vote (Age)**
+: Extends the right to vote to citizens 18 years of age and older. Ratified in 1971 following *Oregon v. Mitchell* (1970).
+
+**[U.S. Const. Amend. X](https://constitution.congress.gov/browse/amendment-10/) — Reserved Powers**
+: "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people." The foundational basis for state authority over elections — the Constitution grants Congress only limited, specified election powers, leaving the residuum with the states.
+
+---
 
 ### Federal Statutes
-- 18 U.S.C. § 592 (Troops at polls)
-- 52 U.S.C. §§ 10301-10702 (Voting Rights Act)
-- 52 U.S.C. §§ 20501-20511 (NVRA)
-- 52 U.S.C. §§ 20901-21145 (HAVA)
-- 52 U.S.C. §§ 20301-20311 (UOCAVA)
+
+**[18 U.S.C. § 592](https://www.law.cornell.edu/uscode/text/18/592) — Troops at Polls**
+: Makes it a federal felony — up to five years imprisonment plus fines and permanent disqualification from federal office — for any person "in the civil, military, or naval service of the United States" to "order, bring, keep, or have under his authority or control any troops or armed men at any place where a general or special election is held in any State." The only exception is "to repel armed enemies of the United States." Enacted during Reconstruction (1865) and never substantively amended. The primary statutory basis for the Municipal Election Integrity Ordinance.
+
+**[52 U.S.C. §§ 10301–10702](https://www.law.cornell.edu/uscode/text/52/subtitle-I/chapter-103) — Voting Rights Act of 1965**
+: The landmark federal voter protection statute. § 10307(b) (VRA § 11(b)) specifically prohibits "intimidat[ing], threaten[ing], or coerc[ing]" any person "for the purpose of interfering with the right of such other person to vote or to vote as he may choose." Courts have construed this broadly; no proof of intent to intimidate is required — the intimidating *effect* on voters suffices. The statute also authorizes the Attorney General to bring enforcement actions and provides a private right of action.
+
+**[52 U.S.C. §§ 20501–20511](https://www.law.cornell.edu/uscode/text/52/subtitle-II/chapter-205) — National Voter Registration Act (NVRA, 1993)**
+: Requires states to offer voter registration through motor vehicle agencies, public assistance offices, and by mail. Establishes baseline federal standards for voter roll maintenance. Relevant to the governance framework because it demonstrates the layered federal–state–local system: federal law sets floors, states design systems, local offices administer them.
+
+**[52 U.S.C. §§ 20901–21145](https://www.law.cornell.edu/uscode/text/52/subtitle-II/chapter-209) — Help America Vote Act (HAVA, 2002)**
+: Enacted after the 2000 election, HAVA provides federal funding for election administration improvements and sets minimum federal standards for provisional ballots, voting systems, and poll worker training. It created the Election Assistance Commission (EAC) as the federal body responsible for distributing HAVA funds and maintaining voluntary election standards. Critically, HAVA explicitly preserves state and local control over elections: § 21101 provides that "the responsibility for the administration of Federal elections and the power to implement and enforce the rights and remedies" remain with the states.
+
+**[52 U.S.C. §§ 20301–20311](https://www.law.cornell.edu/uscode/text/52/subtitle-II/chapter-203) — Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA, 1986)**
+: Requires states to allow members of the military, merchant marine, and overseas citizens to register and vote absentee in federal elections. Administered by the Federal Voting Assistance Program (FVAP) within the Department of Defense.
+
+---
 
 ### Key Cases
-- *Arizona State Legislature v. Arizona Independent Redistricting Commission*, 576 U.S. 787 (2015)
-- *Arizona v. Inter Tribal Council of Arizona*, 570 U.S. 1 (2013)
-- *Printz v. United States*, 521 U.S. 898 (1997)
-- *Oregon v. Mitchell*, 400 U.S. 112 (1970)
-- *Trump v. Illinois*, 607 U.S. ___ (2025)
 
-### CRS Reports
-- R45549: The State and Local Role in Election Administration
-- R45030: Federal Role in Voter Registration
-- R46406: Voter Registration Policy
-- GAO-01-470: Elections: The Scope of Congressional Authority in Election Administration
+**[*Arizona State Legislature v. Arizona Independent Redistricting Commission*, 576 U.S. 787 (2015)](https://supreme.justia.com/cases/federal/us/576/787/)**
+: Held that the Elections Clause term "Legislature" includes any entity vested with legislative power by the state, including a voter-initiative-created commission. Relevant because it confirms that states have broad latitude to define the institutional structure through which they exercise their election authority, including delegation to local bodies.
+
+**[*Arizona v. Inter Tribal Council of Arizona*, 570 U.S. 1 (2013)](https://supreme.justia.com/cases/federal/us/570/1/)**
+: Held that Arizona could not require proof of citizenship beyond the federal form for federal elections, because Congress had exercised its Elections Clause authority through the NVRA. Important for the preemption analysis: confirms that the Elections Clause is the primary source of federal election authority, and that state rules can be preempted only where Congress has explicitly acted — not simply because the federal government has interests in the area.
+
+**[*Printz v. United States*, 521 U.S. 898 (1997)](https://supreme.justia.com/cases/federal/us/521/898/)**
+: Held the Brady Act's requirement that state law enforcement officers conduct background checks violated the anti-commandeering doctrine. Justice Scalia's majority opinion established that "the Federal Government may not compel the States to enact or administer a federal regulatory program." This is the foundational anti-commandeering precedent protecting local governments from being required to assist federal immigration enforcement at polling places.
+
+**[*Oregon v. Mitchell*, 400 U.S. 112 (1970)](https://supreme.justia.com/cases/federal/us/400/112/)**
+: A fractured Supreme Court decision upholding Congress's authority under the Fourteenth and Fifteenth Amendments to lower the voting age to 18 for federal elections, while striking down the same provision for state elections. Led directly to the Twenty-Sixth Amendment (1971). Illustrates the constitutional distinction between federal and state election authority, and the limits on Congress's power to regulate state elections absent a specific constitutional grant.
+
+**[*Trump v. Illinois*, 607 U.S. ___ (2025)](https://www.supremecourt.gov/)**
+: Decided December 23, 2025, 6–3. Held that the Insurrection Act does not override the specific prohibitions of 18 U.S.C. § 592, because a general statute cannot implicitly repeal a specific one, and because the Insurrection Act cannot authorize conduct that independently constitutes a federal felony. See the [Insurrection Act Analysis](insurrection-act-analysis.md) for detailed discussion.
+
+---
+
+### Congressional Research Service Reports
+
+These CRS reports are produced by nonpartisan analysts for Congress and are freely available through the CRS website and Congress.gov.
+
+**[R45549 — The State and Local Role in Election Administration](https://crsreports.congress.gov/product/pdf/R/R45549)**
+: Comprehensive overview of the division of election administration responsibilities between federal, state, and local governments. Confirms that polling place selection, poll worker hiring, and day-of-election management are entirely local functions.
+
+**[R45030 — Federal Role in Voter Registration](https://crsreports.congress.gov/product/pdf/R/R45030)**
+: Analysis of federal involvement in voter registration systems under the NVRA, HAVA, and related statutes. Documents the limits of federal authority over voter rolls — states and counties maintain the databases and make the decisions.
+
+**[R46406 — Voter Registration Policy](https://crsreports.congress.gov/product/pdf/R/R46406)**
+: Analysis of state voter registration policies and federal baseline requirements. Useful for documenting the operational realities of local election administration.
+
+**[GAO-01-470 — Elections: The Scope of Congressional Authority in Election Administration](https://www.gao.gov/products/gao-01-470)**
+: U.S. Government Accountability Office analysis of Congress's constitutional authority to regulate elections. Concludes that while Congress has authority to set certain federal election rules, the operational administration of elections — including polling places — remains a state and local function.
