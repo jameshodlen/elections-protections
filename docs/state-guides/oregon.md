@@ -159,3 +159,59 @@ Oregon's legal framework is uniquely favorable for a municipal election protecti
 The recommended approach: Begin with **Portland** (proven infrastructure, recent precedent, 12-member progressive council), then pursue **Bend** and **Corvallis** (demonstrated progressive shifts, RCV/grassroots infrastructure). Coordinate through the existing **Oregonians Together coalition** with ACLU Oregon, LWVOR, Common Cause Oregon, and Western States Center as lead partners.
 
 The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency of [City] shall use agency moneys, equipment, or personnel for the purpose of [assisting armed federal personnel within X feet of polling places during election periods]," with narrow exceptions for responding to genuine criminal activity or emergencies, and reporting requirements for any federal requests.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Oregon's election security infrastructure operates in a distinctive context: as the nation's first 100% vote-by-mail state since 2000, Oregon has no traditional polling places, meaning physical security protections center on ballot drop-off sites and county election offices rather than in-person voting locations. The state's cybersecurity posture was shaped by the 2016 Russian attacks on election infrastructure nationwide, and Oregon is now converting its National Guard units to a dedicated cyber mission. The loss of CISA services and cancellation of planned tabletop exercises in 2025 have created gaps that the state is actively working to fill through its Cybersecurity Center of Excellence and Guard conversion.
+
+### State Election Authority & Legal Framework
+
+**Secretary of State Tobias Read** (D) took office in January 2025 and oversees Oregon's 36 county clerks through the Elections Division. Oregon has been a **100% vote-by-mail state since 2000** -- the nation's first. There are no traditional polling places. County clerks mail ballots 14-20 days before each election, and voters return them by mail or at official ballot drop sites that must remain open on Election Day until 8 PM (ORS 254.470).
+
+Vote-counting systems include **ES&S, Clear Ballot** (ClearVote, processing approximately 57% of state votes), and **Hart InterCivic Verity** -- all optical scan, none internet-connected. Oregon's 36 counties each perform post-election audits. A **5% random post-election retabulation** is required for statistical verification.
+
+Home rule authority exists under Article VI, section 10 and Article XI, section 2 of the Oregon Constitution, but **firearms regulation is preempted at the state level** under ORS 166.170, with limited exceptions for discharge (ORS 166.171-172) and possession of loaded firearms in public places (ORS 166.173). **SB 243 (2025)** proposed giving local governments authority over firearm rules in public buildings -- a potentially significant development for municipal ordinance strategy. **Measure 114** (2022), requiring permits-to-purchase firearms and banning large-capacity magazines, has never gone into effect due to legal challenges; the Oregon Supreme Court heard oral arguments November 6, 2025, with a decision pending.
+
+The **Washington Voting Rights Act** model has not been replicated in Oregon -- no stand-alone Oregon Voting Rights Act exists.
+
+### Cybersecurity Infrastructure & Capabilities
+
+Oregon's cybersecurity is led by **State CISO Stefan Richards** under the State CIO Alex Pettit. The **Oregon Cybersecurity Center of Excellence (OCCoE)**, established under ORS 276A.329 and ORS 276A.555, operates through partnerships with Oregon State University, Portland State University, and the University of Oregon. Oregon State's **ORTSOC** (Oregon Research & Teaching Security Operations Center) provides core operational security. The **Cybersecurity Advisory Council** (established by HB 2049, 2023) includes 21 members with representation from the SOS, AG, and Treasurer offices.
+
+Oregon participated in **CISA's Tabletop the Vote exercises** (50+ representatives in 2024), but a planned June 2025 exercise was **canceled** following CISA cuts. SOS spokesperson Tess Seger confirmed the office is exploring "any and all options" for alternative resources.
+
+Oregon's National Guard is **converting to a cyber mission**: the 116th Air Control Squadron (142nd Wing) completed its final non-cyber mobilization in spring 2025 and is standing up **two new cyber warfare squadrons** -- the first dedicated cyber units in Oregon. The Oregon Guard participated in **Cyber Shield 2025** and the **Ready Redhawk** exercise with Washington.
+
+**HAVA funding totals approximately $55-60 million.** The EAC has an active audit of Oregon's HAVA grants (per 2025 OIG report). Oregon issued an RFP in 2020 to replace its centralized voter registration system, but vendor delays have slowed expenditures.
+
+The CISA withdrawal impact is **moderate to significant**: Oregon's June 2025 tabletop exercise was canceled, and the state is scrambling for alternatives. The conversion of Guard units to cyber provides a medium-term backstop but these units are still standing up.
+
+### Physical Security & Polling Place Protections
+
+Because Oregon has no traditional polling places, protections center on **ballot drop-off sites and county election offices**. ORS 260.695(3) establishes a **100-foot electioneering-free zone** measured radially from any entrance to a building designated for ballot deposit. However, the Oregon AG has concluded this ban may violate the Oregon Constitution's robust free speech provisions (Article I, section 8), meaning campaigning near drop sites may be **protected speech**.
+
+**Firearms protections are limited.** There is **no specific statute** prohibiting firearms at ballot drop sites. However, ORS 166.370 prohibits firearm possession in **public buildings** (a Class C felony), which covers county election offices in government buildings. ORS 166.173 allows cities and counties to regulate loaded firearms in public places. Oregon is generally an **open carry state** with no permit required; concealed carry requires a license (ORS 166.291).
+
+**Poll watchers** must present written authorization signed by a political party officer, candidate, or county clerk (ORS 254.482). Numbers are limited to prevent interference with orderly procedures.
+
+**Voter intimidation** is a **Class C felony** under ORS 260.665 (undue influence: force, violence, restraint, or threat thereof to induce voting behavior). Harassment of an election worker performing official duties is a **Class A misdemeanor** (ORS 166.065(4)(c)). **Unlawful paramilitary activity** is a Class C felony under ORS 166.660. The AG has enforcement authority under ORS 260.995 for civil penalties up to $10,000.
+
+### Legal Strategies & Key Contacts
+
+**Oregon did NOT join the 19-state EO 14248 lawsuit** but filed its **own separate lawsuit** jointly with Washington: *State of Washington v. Trump*, No. 2:25-cv-00602-JHC (W.D. Wash.), filed April 4, 2025. **On January 9, 2026, the court granted judgment in favor of Oregon and Washington**, finding that the President violated the separation of powers. Oregon also filed a 16-state amicus brief in related EO 14248 litigation (November 26, 2025).
+
+In a separate action, the **DOJ sued Oregon** (September 16, 2025) to compel disclosure of the unredacted statewide voter registration list. The **court dismissed the case**, ruling the DOJ had no valid legal basis.
+
+**AG Dan Rayfield** (D) assumed office in late 2024. The AG has enforcement authority under ORS 260.995 for civil penalties and under ORS 247.965 for paramilitary activity investigations. Voter rights violations should be reported to the SOS Elections Division or the Civil Rights Bias Response Hotline.
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Secretary of State Elections Division | (503) 986-1518; 1-866-673-VOTE; elections.sos@sos.oregon.gov |
+| Attorney General | (503) 378-4400; AttorneyGeneral@doj.oregon.gov |
+| Civil Rights Bias Response Hotline | 1-844-924-BIAS (2427) |
+| State Cybersecurity (CIO/CISO) | Oregon Enterprise Information Services |
+| Emergency Management | (503) 378-2911; oem_publicinfo@oem.oregon.gov |

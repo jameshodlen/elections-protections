@@ -310,3 +310,52 @@ The **coalition infrastructure already exists** through Promote the Vote Michiga
 The primary risks center on Michigan's **evolving legislative landscape** (particularly HB 4342) and potential federal funding pressures. Drafting should emphasize the ordinance's federal law enforcement function rather than its limitation on federal authority, framing it as protecting election integrity under 18 U.S.C. § 592 rather than as a sanctuary policy.
 
 With careful drafting that leverages Michigan's constitutional provisions, targets cities with proven civil liberties commitments, and engages the existing coalition infrastructure, this ordinance has strong prospects for passage and durability.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Michigan's election security infrastructure is anchored by exceptionally strong constitutional voter protections following Proposal 2 of 2022, which established voting as a "fundamental right" and created the nation's strongest private right of action for voter intimidation. The state's cybersecurity apparatus benefits from a dedicated Cyber Corps, the 272nd Cyber Operations Squadron (one of only 12 in the Air National Guard), and approximately $49.88 million in audited HAVA grants. Governor Whitmer's 2024 legislation banning open carry of firearms at polling places fills a critical physical security gap. The DOJ's 2025 lawsuit seeking unredacted voter file data -- which Michigan resisted -- demonstrates the state's commitment to defending election infrastructure against federal overreach.
+
+### State Election Authority & Legal Framework
+
+Secretary of State **Jocelyn Benson** serves as Michigan's chief election officer under **MCL section 168.21**, with "supervisory control over local election officials." Her specific duties under **MCL section 168.31** include promulgating rules under the Administrative Procedures Act, directing local officials, establishing training curricula, and creating an **Election Day dispute resolution team** with regional representatives. The Bureau of Elections (430 W. Allegan St., Lansing, MI 48933) is headed by a Director of Elections appointed under civil service regulations.
+
+Michigan's constitutional framework is exceptionally strong following **Proposal 2 of 2022**, which amended **Article II, section 4** to establish voting as a "fundamental right" and created a comprehensive set of self-executing protections including: no-excuse absentee voting, same-day registration, 9 days of early in-person voting, state-funded election security measures, mandatory risk-limiting audits, and ballot tracking. Critically, the amendment includes an **explicit prohibition** on "harassing, threatening, or intimidating conduct" that burdens voting rights.
+
+Michigan's **approximately 1,600 local clerks** (city and township) administer elections in a highly decentralized system, with 83 county clerks playing supervisory roles.
+
+### Cybersecurity Infrastructure & Capabilities
+
+The **Department of Technology, Management & Budget (DTMB)** houses state cybersecurity operations under CSO Jayson Cavendish and CIO Laura Clark. The **2024 Michigan Cyber Roadmap** focuses on five domains: threat mitigation, local government protections, AI, partnerships, and workforce. The **Michigan Cyber Corps** deployed 5 times in 2024-2025 with 7 volunteer members at no cost to recipient entities.
+
+Michigan's **Qualified Voter File (QVF)** (**MCL section 168.509q**) is a state-owned, web-based database accessed by municipal and county clerks with **multi-factor authentication** and specialized training requirements. The QVF is **not connected to tabulators** -- ePollbooks are downloaded pre-election and operate offline. In September 2025, the **DOJ sued SOS Benson** seeking unredacted QVF data; Michigan resisted, citing the Privacy Act, Driver Privacy Protection Act, and state law protections.
+
+The **272nd Cyber Operations Squadron** (110th Wing, Michigan Air National Guard, Battle Creek) is one of only **12 such squadrons** in the Air National Guard. The unit participates in the **Cyber 9-Line** program linking Guard units with U.S. Cyber Command and NSA for rapid election incident response.
+
+Michigan allocated an additional **$5 million** in HAVA grant funding to local jurisdictions ahead of the 2024 election for physical security, cybersecurity resilience, and voting equipment. Total HAVA grants audited at approximately **$49.88 million**.
+
+### Physical Security & Polling Place Protections
+
+**MCL section 168.744** establishes a **100-foot buffer zone** from any entrance to a building containing a polling place, prohibiting voter solicitation, campaign material distribution, and donations. Violation is a **misdemeanor**.
+
+Michigan enacted legislation (signed by Governor Whitmer in 2024) **banning open carry of firearms** within polling places and within 100 feet of entrances on Election Day and during early voting, within 100 feet of absentee ballot drop boxes for 40 days before elections, and within 100 feet of absentee ballot counting boards. Penalties: up to **$100 fine** and/or **90 days imprisonment**. Concealed carry with a valid permit remains permitted.
+
+Michigan uses a distinctive **dual system of challengers and poll watchers**. Challengers (**MCL section 168.730**) must complete mandatory training and receive certificates of completion. Election inspectors may **order challengers to leave** for disorderly conduct or repeatedly ignoring instructions (**MCL sections 168.678; 168.733(3)**); law enforcement may remove those who refuse.
+
+**Voter intimidation** is a **felony with up to 5-year maximum** under **MCL section 168.932(1)(a)**. In the landmark *People v. Burkman and Wohl* case, the Michigan Supreme Court ruled (June 2024) that this statute prohibits **intentionally false speech** related to voting requirements made to deter votes.
+
+### Legal Strategies & Key Contacts
+
+**Michigan IS a party to the 19-state lawsuit** against EO 14248, with AG Dana Nessel joining on April 3, 2025. A federal judge granted a **preliminary injunction on June 13, 2025** blocking documentary proof-of-citizenship requirements.
+
+Michigan's **private right of action** provision (Article II, section 4(1)(a), Proposal 2 of 2022) is the strongest among battleground states: any citizen has standing to bring declaratory, injunctive, and/or monetary relief in circuit court, with **mandatory attorney's fee shifting** if the plaintiff prevails in whole or in part. This provision is self-executing and must be "liberally construed in favor of voters' rights."
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Bureau of Elections | 517-335-3234 |
+| QVF/ePollbook Support | 800-310-5697 / 517-241-1911; EASupport@Michigan.gov |
+| AG Voter Intimidation Reports | 517-335-7659 |
+| DTMB Cybersecurity Grants | DTMB-CIP-SLCGP@michigan.gov |

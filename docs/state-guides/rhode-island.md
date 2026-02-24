@@ -167,3 +167,56 @@ The recommended strategy begins with **Providence** (existing sanctuary framewor
 Key statutory hooks include RIGL § 17-23-5 (felony voter intimidation through "any means of intimidation"), RIGL § 17-19-49 (50-foot buffer zone), and the broad prohibition in § 17-23-17(7) against "willfully hindering the orderly conduct of any election." The 2022 *Town of North Providence v. FOP* decision confirming municipal "indispensable managerial rights" over police operations provides the definitive precedent for ordinance authority.
 
 With Common Cause Rhode Island coordinating existing coalition infrastructure, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Rhode Island operates under a unique dual-authority election system and faces some of the most acute resource constraints among northeastern states following the withdrawal of federal election security services. Despite these challenges, the state pioneered risk-limiting audits in 2017, maintains strong criminal deterrence through felony-level voter intimidation penalties, and benefits from an overwhelmingly supportive political environment with Democratic supermajorities in both legislative chambers. The most significant gap in Rhode Island's election security posture is the absence of a specific polling place firearms prohibition — a surprising vulnerability in an otherwise strong northeast bloc that represents a priority area for both state legislation and municipal ordinance action.
+
+### State Election Authority & Legal Framework
+
+Rhode Island operates under a unique dual-authority system: Secretary of State Gregg Amore (D) serves as chief elections official under HAVA, while the independent Board of Elections (Executive Director Miguel Nunez) regulates the elections process. The state uses ES&S DS200 optical scanners across 590 units statewide and was a national pioneer in risk-limiting audits. 36 of 39 municipalities have adopted Home Rule Charters under Article XIII of the RI Constitution, but election administration remains governed by state law (Title 17).
+
+**Home rule:** Rhode Island's home rule is constitutional but weak — a hybrid between Dillon's Rule and full home rule where the General Assembly maintains dominant authority. The state has no county government whatsoever; all government functions operate at the municipal level. Key case law includes *Bruckshaw v. Paolino* (1989), which held that the General Assembly cannot intrude on charter city local matters except through general law or voter-approved special legislation, and *Sullivan v. Town of Coventry & Town of Middletown* (2010), which held that municipalities properly used authority under § 45-6-1(a) to regulate firearm discharge as "a matter of local concern."
+
+**Sanctuary infrastructure:** Rhode Island, Providence, and Central Falls were placed on the Trump DOJ's "sanctuary jurisdiction" list in May/July 2025. Providence has an active sanctuary ordinance (the "Providence Community-Police Relations Act"), and the City Council finalized limits on police cooperation with ICE in November 2025. The ACLU of Rhode Island is actively developing model sanctuary language. Rhode Island has no anti-sanctuary laws and no state mandates on immigration enforcement cooperation. This framework maps directly onto the proposed election protection ordinance's non-assistance structure.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** CISO Nathan Loura oversees ETSS cybersecurity. The RI State Police Joint Cyber Task Force provides interagency coordination. However, the state **lacks a dedicated National Guard cyber unit**, making it more dependent on civilian cybersecurity resources.
+
+**Cyber maturity: Tier 3 — Developing.** Rhode Island faces very high impact from CISA withdrawal due to resource constraints and the absence of dedicated military cyber assets.
+
+**HAVA funding:** Rhode Island has received standard small-state HAVA allocations across funding rounds.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 50-foot restricted zone from polling place entrances (410-RICR-20-00-12). This is regulatory rather than statutory. Pending legislation H7434 (2026) proposes a 200-foot buffer for ICE enforcement near polling places.
+
+**Firearms:** Rhode Island has **no specific statute prohibiting firearms at polling places** — despite requiring permits for all carry (LCCW required for both open and concealed carry). This is the surprising gap in the otherwise strong northeast bloc. While the permit requirement provides some baseline protection, the absence of a specific ban means legally armed individuals may enter polling places. This could be addressed through municipal ordinances under home rule authority or through state legislation. Risk level: **Moderate-High**.
+
+**Voter intimidation:** Rhode Island treats voter intimidation as a **felony** under § 17-23-5, with permanent loss of voting rights upon conviction — representing strong criminal deterrence. The statute's language ("any means of intimidation") is notably broad. However, no state-level private civil right of action was identified, meaning enforcement relies primarily on criminal prosecution.
+
+**Anti-paramilitary statutes:** §§ 30-12-7 and 11-55-2 provide prohibitions on unauthorized paramilitary activity.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** Rhode Island joined the 19-state coalition. AG Peter F. Neronha has filed or joined 43+ Trump administration cases.
+
+**AG enforcement authority:** AG Neronha is a very active ally — a former Obama-appointed U.S. Attorney now in his second term. He has expressly invoked the anti-commandeering doctrine in a January 2025 joint statement with 10 other state AGs: "It is well-established — through longstanding Supreme Court precedent — that the U.S. Constitution prevents the federal government from commandeering states to enforce federal laws."
+
+**Constitutional basis:** RI Constitution Article II, Section 1 establishes a state constitutional right to vote. Notably, the RI Constitution **does not contain an explicit right to keep and bear arms**, reducing 2A-based opposition arguments for election protection ordinances.
+
+**Legislative environment:** The General Assembly holds overwhelming Democratic supermajorities: Senate 34D-4R; House 64D-10R-1I — one of only seven states with veto-proof supermajorities in both chambers. Governor Daniel McKee (D) signed progressive legislation including an assault weapons ban in 2025. Statewide legislation to close the polling place firearms gap is highly viable.
+
+**Judicial landscape:** The Supreme Court of Rhode Island (5 justices, life tenure) was ranked the 8th most liberal state supreme court. Rhode Island has no intermediate appellate court — appeals go directly from Superior Court to the Supreme Court. The U.S. District Court for the District of Rhode Island feeds to the First Circuit (generally moderate-to-liberal). Likelihood of success in state courts: **Favorable**. In federal court: **Moderately Favorable**.
+
+**Coalition infrastructure:** The ACLU of Rhode Island (Executive Director Steven Brown) is the anchor partner — actively developing model sanctuary ordinance language and invoking anti-commandeering principles. Common Cause Rhode Island (Executive Director John Marion) coordinates the 30+ organization Rhode Island Voting Access Coalition (RIVAC). Roger Williams University School of Law offers clinical capacity, and Brown University's Watson Institute provides academic infrastructure. The RI AFL-CIO (275 affiliates, ~80,000 members) provides organized labor support.
+
+**Key contacts:**
+- **SOS Elections:** (401) 222-2340 / elections@sos.ri.gov / vote.sos.ri.gov
+- **Board of Elections:** (401) 222-2345 / elections.ri.gov
+- **AG Neronha:** (401) 274-4400 / riag.ri.gov
+- **Election Protection Hotline:** 2-1-1, press 5
+- **ETSS/CISO:** etss.ri.gov/cybersecurity

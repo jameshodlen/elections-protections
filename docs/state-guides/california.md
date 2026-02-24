@@ -258,3 +258,56 @@ Three strategic recommendations emerge from this research:
 3. **Leverage SB 54 precedent** both legally (anticommandeering doctrine) and rhetorically (California's established position on limiting local-federal law enforcement cooperation)
 
 The legal risk profile is low to moderate for charter cities, with the strongest protection available for ordinances that focus on directing local police conduct—an expressly enumerated municipal affair under the California Constitution—rather than attempting to directly bind federal agents.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+California's election security infrastructure is among the most layered and well-resourced in the nation, built on comprehensive state-level cybersecurity systems, the nation's strongest firearms prohibitions at polling places, and active litigation defending election integrity against federal overreach. The near-elimination of CISA election security services and 96% decline in HAVA funding make this state-level infrastructure the primary line of defense heading into the 2026 midterms, though the 58-county system means smaller rural counties that relied on federal services face outsized impacts.
+
+### State Election Authority & Legal Framework
+
+**Secretary of State Shirley N. Weber, Ph.D.** (D) administers California's elections, overseeing 58 county registrars of voters. California's Elections Code is among the most comprehensive in the nation, anchored by the **California Voting Rights Act** (Elections Code sections 14025-14032), enacted in 2002, which is stronger than the federal VRA -- requiring no showing of geographically concentrated minority districts and imposing no intent requirement.
+
+California is a universal vote-by-mail state with all active registered voters receiving mail ballots. In-person voting remains available at vote centers. All systems require **paper ballot audit trails** (Elections Code section 19250), with optical scan tabulation (Dominion ImageCast, ES&S, Hart InterCivic Verity) across counties. Los Angeles County uses its custom VSAP system. Risk-limiting audits are supported statewide.
+
+**Key 2024-2025 legislation:** The **PEACE Act** (AB 2642, signed September 24, 2024) is the first-in-nation law creating a **private right of action for voter intimidation** (Elections Code sections 18580-18582) and establishing a legal presumption that open carry of firearms while observing voting constitutes intimidation. The Defending Democracy from Deepfake Deception Act (AB 2655) requires platforms to restrict AI-generated deceptive election content near elections. SB 280 (2025) added Section 8162 to the Elections Code.
+
+### Cybersecurity Infrastructure & Capabilities
+
+California operates one of the most layered cybersecurity ecosystems of any state. The **California Cybersecurity Integration Center (Cal-CSIC)**, codified in Government Code section 8586.5 and housed within Cal OES, serves as the central coordination hub. The **Office of Information Security** within the Department of Technology operates SOCaaS -- a cloud-native, 24/7 Security Operations Center serving 112+ public-sector organizations with estimated savings exceeding $54 million. The **Election Security Task Force** (joint SOS/Cal OES initiative) coordinates county-level cybersecurity with the Election Security Subcommittee of the California Cybersecurity Task Force.
+
+California's National Guard maintains robust cyber capabilities: **Cyber Protection Team 171** (Army), the **195th Wing** (Air National Guard, dedicated cyber), the **261st Cyberspace Operations Squadron**, and Joint Task Force Cyber, which hosts the multi-state **Cyber Dawn** exercise. The Guard's Cyber Network Defense Team conducts penetration tests of state agencies on a rotational basis.
+
+**HAVA funding totals approximately $491 million** -- by far the largest allocation among Pacific and Western states, reflecting California's 12% share of national voting-age population. This includes $73.5 million in Election Security Grants (2018-2020) and $36.5 million in CARES Act funds.
+
+The loss of CISA/EI-ISAC services is significant but manageable for California given its self-funded SOCaaS, Cal-CSIC, and large IT workforce. However, the state's 58-county system means that smaller, rural counties that relied heavily on federal scanning and intelligence services face outsized impacts.
+
+### Physical Security & Polling Place Protections
+
+California maintains a **100-foot electioneering-free buffer zone** (Elections Code sections 18370, 18541, 18546) measured from the entrance to polling places and from the room where voters sign the roster.
+
+**Firearms protections are among the strongest in the nation.** Elections Code section 18544(a) prohibits any person possessing a firearm from being stationed at or near a polling place. Penal Code section 26230(a)(25) prohibits concealed carry licensees from carrying at voting locations. The PEACE Act (Elections Code section 18581) creates a **presumption of intimidation** for open carry while observing voting. Critically, Elections Code section 18544 also prohibits uniformed peace officers, private guards, or security personnel from being stationed at polls **without written authorization** from the elections official -- making unauthorized law enforcement presence a felony.
+
+Poll watchers need no credentials or party affiliation -- anyone may observe (Elections Code section 2300(a)(9)(A)). However, watchers cannot communicate with voters within 100 feet, question voter qualifications, or photograph voters (Elections Code section 18541).
+
+**Voter intimidation** is a felony under Elections Code section 18540 (16 months to 3 years imprisonment). The PEACE Act provides prevailing plaintiffs with attorney's fees, expert fees, and litigation expenses, and grants the AG enforcement authority. The Ralph Civil Rights Act (Civil Code section 51.7) provides an additional civil cause of action for political activity-based threats.
+
+Anti-paramilitary protections include Penal Code section 11460 (assembling as a paramilitary organization) and constitutional subordination of militia to civil authority.
+
+### Legal Strategies & Key Contacts
+
+**California is a co-lead plaintiff** in *State of California v. Trump*, No. 1:25-cv-10810-DJC (D. Mass.), the 19-state challenge to EO 14248. AG Rob Bonta co-led the filing on April 3, 2025. **Judge Denise Casper granted a preliminary injunction on June 13, 2025**, blocking the documentary proof-of-citizenship requirement (section 2(a)), provisions targeting mail ballot receipt deadlines (section 7(a)), and funding conditions (section 7(b)). The injunction was modified July 18 to apply only to plaintiff states. The DOJ appealed to the First Circuit on July 31, 2025 (Case No. 25-1726), with full briefing completed by late January 2026.
+
+AG Bonta has filed **50+ lawsuits** against the Trump administration as of 2025. His office issues pre-election law enforcement bulletins (DLE bulletins) and deploys on-call DOJ attorney teams statewide on Election Day. The AG has direct enforcement authority under the PEACE Act (Elections Code section 18582(c)).
+
+**Private right of action:** The PEACE Act provides a robust private right of action for voter intimidation, with fee-shifting for prevailing plaintiffs. The CVRA similarly provides private enforcement with attorney's fees (Elections Code section 14029).
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Secretary of State | (916) 653-6814; (800) 345-VOTE; elections@sos.ca.gov |
+| AG Election Protection | (916) 210-6300 (Division of Law Enforcement) |
+| Cal-CSIC | (833) REPORT-1; calcsic@caloes.ca.gov |
+| Cal OES | (916) 845-8510 |

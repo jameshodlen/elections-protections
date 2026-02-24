@@ -217,3 +217,45 @@ The most legally defensible approach would direct municipal police departments�
 **New Haven, Hartford, and Hamden** offer the strongest prospects for adoption, with progressive majorities, established sanctuary frameworks, recent ordinance successes, and strong relationships with essential coalition partners. The existing coalition infrastructure from the Connecticut Voting Rights Act and Trust Act campaigns provides organizing capacity that few states can match.
 
 The key strategic recommendation: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Connecticut has positioned itself as a national leader in voter protection through the enactment of a state Voting Rights Act — one of only eight states to do so — and expansive 2025 legislation enhancing access across multiple dimensions. The state's election security posture relies on a foundation of paper ballots, multi-state cybersecurity coordination, and an Attorney General who has been among the most vocal on election protection issues. While Connecticut's cybersecurity resources are modest compared to New York or New Jersey, the state benefits from strong institutional commitment to election integrity and an active legislative environment.
+
+### State Election Authority & Legal Framework
+
+Connecticut's Secretary of the State (SOTS) administers elections, currently under a modernized framework following significant recent legislative action. Connecticut enacted a state Voting Rights Act — one of only eight states to do so — providing enhanced protections modeled on (and in some cases exceeding) the federal VRA, including a private right of action against voter intimidation.
+
+**Key statutes:** Conn. Gen. Stat. § 9-1 et seq. (Election Law); state Voting Rights Act (strongest in the Northeast); 2025 legislation (CT H.B. 7287) requiring curbside voting at polling places, expanded translation protocols, loosened proof-of-residency for same-day registration, mail ballot access for eligible incarcerated individuals, and additional early voting locations on college campuses.
+
+Connecticut municipalities administer elections locally through town clerks and registrars of voters, with SOTS providing oversight, training, and certification.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** Connecticut's Division of Information Technology and cybersecurity operations coordinate with the SOTS office on election infrastructure protection. The state participates in multi-state information sharing and has invested in cybersecurity training for municipal election officials.
+
+**Election-specific resources:** Connecticut has conducted cybersecurity tabletop exercises with municipal election officials and participates in regional cybersecurity coordination. The state uses hand-counted paper ballots or optical scan systems depending on municipality, with a strong paper trail foundation.
+
+**HAVA funding:** Connecticut has received standard HAVA allocations across funding rounds. The state directed funds toward cybersecurity improvements, voter registration database modernization, and poll worker training.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 75-foot restricted zone from polling place entrances (CGS § 9-236). No electioneering, campaign materials, or solicitation within the zone. The moderator has authority to evict any person who interferes with the orderly process of voting.
+
+**Firearms:** Connecticut has strong firearms regulations generally. State law prohibits carrying firearms in state and local government buildings, which encompasses many polling locations. The state does not have a specific standalone polling-place firearms prohibition but achieves broad coverage through its building-type restrictions. Notably, Connecticut does not prohibit firearms at all polling locations — when polling places are in schools, CGS § 29-35 school grounds prohibition applies, but other locations may lack coverage.
+
+**Voter intimidation:** Prohibited under the state Voting Rights Act with enhanced penalties and a private right of action. CGS § 9-364 makes influencing an elector to refrain from voting through force or threat a Class D felony. CGS § 9-364a escalates to a Class C felony for influencing a vote by force, threat, or bribery. The Connecticut Voting Rights Act provides some of the strongest protections in the Northeast, allowing voters and election workers to bring civil suits against intimidators.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** AG William Tong led Connecticut's participation in the 19-state coalition. Tong stated the Constitution "forbids the President from commandeering state election officials to manipulate and micromanage how we vote."
+
+**AG enforcement authority:** AG Tong has been among the most vocal state AGs on election protection. The AG's office actively monitors election-related threats and coordinates with municipal officials.
+
+**Connecticut Voting Rights Act:** Provides a private right of action for voters subjected to intimidation — this is a powerful tool for citizen enforcement that goes beyond what most states offer.
+
+**Key contacts:**
+- **Secretary of the State:** (860) 509-6100, sots.ct.gov
+- **AG Election Protection:** (860) 808-5318, attorney.general@ct.gov

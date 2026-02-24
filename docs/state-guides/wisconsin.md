@@ -188,3 +188,83 @@ Wisconsin's legal framework creates a viable—if narrow—path for municipal el
 The **Voces de la Frontera–ACLU partnership model** demonstrated in current ICE detainer litigation provides the template for coalition advocacy: grassroots mobilization capacity paired with legal expertise. With Madison as the template, campaigns should prioritize **Racine and Green Bay** for immediate outreach given favorable mayors with personal experience in election-related conflicts, followed by La Crosse's new progressive leadership and Milwaukee's scale.
 
 The May 2025 DHS sanctuary designations and ongoing state budget debates create political momentum. The window for municipal action should be leveraged before potential state preemption legislation, making **2026 the critical year** for expansion across Wisconsin's progressive cities.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Wisconsin's election security posture combines significant strengths — $5.6 million in available HAVA funds, a 400+ member Cyber Response Team, a bipartisan Elections Commission that voted to deny DOJ voter data requests, and strong observer/removal authority for chief inspectors — with notable challenges, including a highly decentralized system of 1,850+ municipal clerks, a 2017 anti-sanctuary law constraining local immigration cooperation, and the absence of an express state prohibition on firearms at polling places. The April 2024 constitutional amendments strengthening election administration, combined with the Wisconsin Supreme Court's July 2024 decision upholding drop boxes, demonstrate ongoing institutional commitment to election integrity. Wisconsin's constraints require more creative policy approaches than Minnesota — focusing on data protection, community trust policies, and election worker training rather than direct non-cooperation ordinances — but meaningful protections remain achievable.
+
+### State Election Authority & Legal Framework
+
+The **Wisconsin Elections Commission (WEC)** administers elections, with Administrator Meagan Wolfe serving as chief election officer (position unanimously affirmed by the Wisconsin Supreme Court in February 2025). The WEC has certification and guidance authority and can issue formal advisory opinions under Wis. Stat. § 5.05(6a) with binding legal effect if supported by statute or case law.
+
+**Key statutes:** Wis. Stat. Chapter 5-12 (election code); § 5.37-5.40 (voting equipment approval); § 7.41 (observer rules); § 7.37(2) (chief inspector law enforcement authority); § 12.09 (voter intimidation — Class I felony); § 12.13(3)(x) (disorderly behavior near polling places).
+
+**Constitutional framework:** Wisconsin Constitution Article III was strengthened in April 2024 when voters approved amendments stating "No individual other than an election official designated by law may perform any task in the conduct of any primary, election, or referendum" and prohibiting non-governmental funding of election administration.
+
+**Decentralized structure:** Wisconsin's **1,850+ municipal clerks** hold primary operational responsibility for elections. While this decentralized structure presents coordination challenges, it also provides resilience against centralized attacks.
+
+**Emergency rulemaking:** WEC emergency rulemaking under Wis. Stat. § 227.24 is available when preservation of public peace, health, safety, or welfare necessitates — but **requires Governor approval** before filing. Rules can be implemented relatively quickly with proper emergency justification and last 150 days (extendable by the Joint Committee for Review of Administrative Rules).
+
+**Training mandates:** Completion of the "Securing WisVote" cybersecurity training series is **required** before receiving system credentials. This award-winning online curriculum can be expanded administratively.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** The **Wisconsin Division of Enterprise Technology (DET)** hosts WisVote infrastructure and handles approximately **9 million scanning attempts annually**. Staff hold Secret Security Clearances and provide mandatory cybersecurity training for all state system users.
+
+**Cyber Response Team:** The **Wisconsin Cyber Response Team** under Emergency Management offers particularly valuable capabilities: over **400 volunteer members**, approximately **140 incident responders** deployable across five regional teams (including a National Guard team), and quarterly training exercises. This resource is available to election officials for risk assessments, penetration testing, and incident response.
+
+**Election-specific resources:** WisVote system protections include multi-factor authentication, network segmentation, and role-based access controls. Pre-election Logic and Accuracy (L&A) testing remains mandatory with public observation permitted. Election Management Systems are air-gapped from internet-connected networks, with data transferred only via dedicated USB drives under strict chain of custody.
+
+**HAVA and state funding:** **$5.6 million in available HAVA funds** lasting through approximately May 2028, plus approximately $5.1M GPR annual base funding. The state offers .gov domain subgrant reimbursement for local election offices.
+
+**DDoS mitigation:** Free DDoS mitigation available through Cloudflare Project Galileo and Google Project Shield.
+
+**Wisconsin CRT Emergency Hotline:** (800) 943-0003, option 2 / CRT@widma.gov
+
+### Physical Security & Polling Place Protections
+
+**Observer rules:** Under Wis. Stat. § 7.41 and EL Chapter 4, observers must remain **3-8 feet from voter check-in tables**, sign logs, present photo ID, and wear identifying badges. They cannot initiate contact with voters, handle election documents, or use cameras during voting hours.
+
+**Chief inspector removal authority:** Chief inspectors hold **authority to remove** observers who disrupt operations, engage in electioneering, or fail to comply with instructions. Removal requires a written order stating the reason — election officials should prepare template orders in advance.
+
+**Firearms:** Wisconsin law does **not expressly prohibit firearms at polling places**. The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." Some location-based restrictions apply: firearms are prohibited in K-12 schools (§ 948.605) and courthouses (§ 175.60), affecting many polling places. This gap creates explicit space for local action, though the firearms preemption statute (§ 66.0409) requires very careful drafting.
+
+**Voter intimidation:** Wis. Stat. § 12.09 prohibits use of force, violence, or restraint to induce or compel voting behavior. Violations constitute a **Class I felony** (up to 3.5 years imprisonment, $10,000 fine). Critically, **any elector may sue** for injunctive relief under Wis. Stat. § 5.07 — enabling citizen enforcement. District attorneys hold exclusive prosecution authority for election crimes.
+
+**Ballot chain of custody:** Drop boxes were upheld by the Wisconsin Supreme Court in *Priorities USA v. WEC* (July 2024), overruling *Teigen v. WEC*. Use is discretionary for municipal clerks. Milwaukee's model implementation includes heavy-duty steel construction, permanent ground bolting, 24-hour video surveillance, city property locations with staffed security, and specially trained officials for chain of custody tracking. Multi-partisan custody is required throughout ballot handling, with two-person accountability, tamper-evident seals with recorded serial numbers, and detailed documentation at each transfer point.
+
+**Law enforcement coordination:** Wisconsin's chief inspectors may call law enforcement under Wis. Stat. § 7.37(2) to aid in enforcing law, preserving order, and stopping voter intimidation. Best practice protocols include pre-election meetings between law enforcement and election officials, contingency planning, added patrol staff during voting hours, intelligence monitoring, and clear communication about buffer zone requirements.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** Wisconsin is among the 19 states that sued the Trump Administration in April 2025 over Executive Order 14248. A preliminary injunction was granted in May 2025. AG Josh Kaul continues coordinating legal responses through this coalition.
+
+**Federal prohibition at polling places:** 18 U.S.C. § 592 bars any armed federal agent from election sites. ICE agents, as armed federal law enforcement, fall squarely within this prohibition. Additional federal protections include 18 U.S.C. §§ 593-595 and 52 U.S.C. § 10307(a).
+
+**AG enforcement authority:** The Attorney General can seek injunctive relief, mandamus, or other legal remedy under Wis. Stat. § 5.07.
+
+**Citizen enforcement:** Any elector may sue for injunctive relief under Wis. Stat. § 5.07 — this enables citizen enforcement of election protections and is a powerful tool unavailable in many states.
+
+**Wisconsin's constrained sanctuary landscape:** In 2017, the state legislature passed a law requiring local law enforcement to comply with federal immigration detainer requests and prohibiting municipalities from adopting policies that prevent cooperation with federal authorities. However, the law's scope is narrower than it appears — it focuses on law enforcement detention cooperation, not broader welcoming policies or election protections. Cities like Madison and Milwaukee have maintained community trust policies that work within legal limits. The WEC's **December 2025 vote** to deny DOJ voter data requests demonstrates state-level resistance that cities can build upon.
+
+**Opportunities within constraints:** Wisconsin cities can adopt policies protecting voter information, designating election workers as non-cooperating with ICE inquiries, restricting use of city election facilities, and creating community trust policies that don't directly contradict the 2017 law. Actionable approaches include:
+- Strengthen community trust policies within limits of state law, focusing on election workers and facilities rather than law enforcement detention
+- Adopt data protection ordinances (Colorado's SB 25-276 provides a comprehensive model)
+- Work with WEC to maintain unified resistance to federal data demands
+- Create buffer zone policies for city-owned or -operated early voting sites and election facilities
+- Train election workers on privacy protections and proper response protocols
+
+**Voter data protection:** Wis. Stat. § 6.36 protects dates of birth, driver's license numbers, and Social Security numbers as confidential. The bipartisan WEC voted **5-1 on December 11, 2025** to deny DOJ's demand, directing federal officials to purchase only public data through the state's Badger Voters portal. Wisconsin was sued December 18, 2025.
+
+**The sensitive locations gap:** Federal policy provides no protection for polling places. The Trump administration rescinded all "sensitive location" protections on January 20, 2025, and polling places were never federally designated as sensitive locations under any prior policy. ICE has stated it is "not planning operations targeting polling locations" but explicitly reserves discretion. Election-specific protections must be built at the state and local level.
+
+**Key contacts:**
+- **WEC Help Desk:** (608) 261-2028, elections@wi.gov
+- **Wisconsin Cyber Response Team:** (800) 943-0003 option 2, CRT@widma.gov
+- **County Clerks Association:** wisconsincountyclerks.org
+- **Attorney General:** doj.state.wi.us
+- **EAC Grants:** grants@eac.gov
+- **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
+- **CEIR Legal Defense Network:** legaldefense@electioninnovation.org

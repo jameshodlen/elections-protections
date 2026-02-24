@@ -110,3 +110,57 @@ An ordinance following the Madison model should incorporate these elements to ma
 **Consider NYVRA preclearance**: The 2022 NY Voting Rights Act requires preclearance for local "covered practices" affecting elections—proactively seeking preclearance from the Attorney General or state court could strengthen legal position.
 
 The combination of New York's strong home rule tradition, absence of anti-sanctuary mandates, existing sanctuary city precedent, and federal statutory support through 18 U.S.C. § 592 creates a viable—though not risk-free—pathway for municipal implementation. Success in NYC or Ithaca would establish precedent strengthening legal arguments for broader adoption.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+New York possesses one of the most advanced election security postures in the Northeast, anchored by the state's first comprehensive cybersecurity strategy, a Joint Security Operations Center, landmark 2025 cybersecurity legislation, and among the nation's strongest polling place protections. The state's bipartisan Board of Elections model, combined with hand-marked paper ballots counted on optical scanners statewide, provides a strong foundation for election integrity. However, the loss of free federal EI-ISAC services and the national Election Day situation room creates new cost pressures, particularly for smaller county boards.
+
+### State Election Authority & Legal Framework
+
+New York uses a bipartisan State Board of Elections (NYSBOE) with four commissioners — two appointed by the Governor, two by legislative leaders — rather than a Secretary of State model. The Board has rulemaking authority under N.Y. Elec. Law Article 3 and oversees 62 county boards of elections (each also bipartisan). New York City has its own Board of Elections covering five boroughs.
+
+**Key statutes:** N.Y. Elec. Law § 3-100 et seq. (Board powers); § 7-202 (voting system certification); § 8-104 (polling place operations); § 17-212 (voter intimidation prohibition enacted 2022). New York requires hand-marked paper ballots counted on optical scanners statewide, with a mandatory 0.5% margin hand recount enacted through advocacy by election integrity groups. In 2023, the NYSBOE controversially approved the ES&S ExpressVote XL touchscreen system 3-1, drawing objections from cybersecurity experts who argued it undermines the hand-marked paper ballot standard.
+
+New York's Municipal Home Rule Law grants cities and counties significant authority, but election administration is largely state-controlled through the Election Law and NYSBOE regulations.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** Governor Hochul unveiled New York's first comprehensive cybersecurity strategy in August 2023 and established the Joint Security Operations Center (JSOC) in Brooklyn to coordinate incident response across state and local agencies. Chief Cyber Officer Colin Ahern leads cross-agency coordination. In 2025, Governor Hochul signed S.7672A/A.6769A, landmark legislation enhancing cybersecurity and resilience requirements for state and local government networks — setting a national precedent.
+
+**Election-specific resources:** The NYSBOE operates the Secure Elections Center under the "ARMOR" plan (Assess, Remediate, Monitor, Respond), developed in 2018 with federal DHS partnership. Regional tabletop exercises have been conducted statewide to strengthen cyber incident preparedness. The State Police Computer Crimes Unit, Cyber Analysis Unit, and Internet Crimes Against Children Center provide law enforcement cyber capabilities.
+
+**National Guard:** The New York Army National Guard and Air National Guard maintain cyber operations capabilities available for election support, though specific unit designations for election deployment are coordinated through the Division of Homeland Security and Emergency Services (DHSES).
+
+**HAVA funding:** New York allocated its initial $19.5M HAVA election security grant entirely to cybersecurity improvements. Total HAVA allocation across all rounds exceeds $55M. The state directed funds toward enhanced cybersecurity monitoring, database improvements, and statewide training programs.
+
+**Vulnerability:** EI-ISAC membership provided free threat intelligence sharing and incident response coordination. The transition to paid CIS membership creates cost pressure, particularly for smaller county boards. The loss of the national Election Day situation room was directly felt in November 2025 elections.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 100-foot electioneering-free zone measured from designated entrances (N.Y. Elec. Law § 8-104(1)). No political banners, buttons, posters, or placards within the zone. No alcohol consumption in the polling place.
+
+**Firearms:** New York has among the nation's strongest polling place firearms prohibitions. Under the Concealed Carry Improvement Act (CCIA), polling places are designated "sensitive locations" — possession of a firearm, rifle, or shotgun in or upon a polling place is a criminal offense. The AG's office has confirmed that open carry of handguns, possession of machine guns, and loaded or unloaded assault weapons are prohibited, as is any use of firearms to intimidate or harass. This effectively creates a comprehensive ban on all firearms at polling locations.
+
+**Poll watchers:** Limited to candidates, political parties, political committees, and independent organizations with candidates on the ballot. Maximum three watchers per entity per election district at any time. Watchers must have written certificates of appointment. No unauthorized watchers permitted. Watchers may not be in a position to see or ascertain how a voter votes. Violating voter privacy can constitute intimidation.
+
+**Voter intimidation:** N.Y. Elec. Law § 17-212 (enacted 2022) broadly prohibits intimidation, deception, or obstruction affecting the right to vote. N.Y. Civ. Rights Law § 9 protects free exercise of voting rights. N.Y. Military Law § 240(1) prohibits unauthorized paramilitary organizations from parading with firearms. Penalties include criminal prosecution and civil liability.
+
+**Law enforcement at polls:** In NYC, at least one police or peace officer must be assigned to each polling premises from opening to closing (§ 8-104(6)). Statewide, federal and state prohibitions on intimidation apply to police and peace officers. Impersonating law enforcement at a polling place is a crime.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** New York is among the 19 states that sued the Trump Administration over Executive Order 14248. AG Letitia James called the order "an authoritarian power grab." The coalition filed in U.S. District Court for the District of Massachusetts. A preliminary injunction was granted June 13, 2025, blocking key provisions.
+
+**AG enforcement authority:** AG James operates an Election Protection Hotline — (866) 390-2992 / election.hotline@ag.ny.gov — and has issued comprehensive guidance to BOEs and law enforcement on voter intimidation prevention. The AG's Civil Rights Bureau leads election protection efforts. The AG has authority under N.Y. Exec. Law § 63(12) for civil enforcement and concurrent criminal jurisdiction with district attorneys.
+
+**Private right of action:** N.Y. Elec. Law § 17-212 provides grounds for legal action against intimidation. The state Voting Rights Act (Connecticut-style) has been discussed but not yet enacted as of this writing.
+
+**Active litigation:** The ES&S ExpressVote XL certification has drawn ongoing legal scrutiny from election integrity advocates arguing it violates existing NY law requiring hand-marked paper ballots.
+
+**Key contacts:**
+- **NYSBOE:** (518) 474-6220, info@elections.ny.gov
+- **AG Election Protection Hotline:** (866) 390-2992, election.hotline@ag.ny.gov
+- **JSOC/Cybersecurity:** NYS Chief Cyber Officer through ITS: (518) 402-2813
+- **DHSES:** (518) 292-2301

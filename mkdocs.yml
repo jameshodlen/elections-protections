@@ -96,31 +96,63 @@ nav:
       - The Supremacy Clause: legal-foundation/supremacy-clause.md
       - Ballot Security Injunction History: legal-foundation/ballot-security-history.md
       - 50-State Viability Analysis: legal-foundation/50-state-overview.md
+      - Evidence Collection Framework: legal-foundation/evidence-framework.md
+      - Master Ordinance Template: legal-foundation/master-ordinance-template.md
   - State Guides:
       - State Guide Overview: state-guides/index.md
       - "Tier 1 — Strong Viability":
+          - Alaska: state-guides/alaska.md
           - California: state-guides/california.md
-          - Illinois: state-guides/illinois.md
-          - Oregon: state-guides/oregon.md
-          - Washington: state-guides/washington.md
-          - Michigan: state-guides/michigan.md
-          - Massachusetts: state-guides/massachusetts.md
-          - New York: state-guides/new-york.md
           - Colorado: state-guides/colorado.md
-          - Ohio: state-guides/ohio.md
+          - Illinois: state-guides/illinois.md
+          - Maine: state-guides/maine.md
+          - Maryland: state-guides/maryland.md
+          - Massachusetts: state-guides/massachusetts.md
+          - Michigan: state-guides/michigan.md
           - Minnesota: state-guides/minnesota.md
           - New Jersey: state-guides/new-jersey.md
-          - Rhode Island: state-guides/rhode-island.md
           - New Mexico: state-guides/new-mexico.md
-          - Maryland: state-guides/maryland.md
-          - Maine: state-guides/maine.md
-          - Alaska: state-guides/alaska.md
+          - New York: state-guides/new-york.md
+          - Ohio: state-guides/ohio.md
+          - Oregon: state-guides/oregon.md
+          - Rhode Island: state-guides/rhode-island.md
+          - Washington: state-guides/washington.md
       - "Tier 2 — Proceed with Caution":
           - Connecticut: state-guides/connecticut.md
+          - Delaware: state-guides/delaware.md
+          - Hawaii: state-guides/hawaii.md
+          - Kansas: state-guides/kansas.md
+          - Kentucky: state-guides/kentucky.md
+          - Nebraska: state-guides/nebraska.md
+          - Nevada: state-guides/nevada.md
+          - New Hampshire: state-guides/new-hampshire.md
+          - Pennsylvania: state-guides/pennsylvania.md
+          - Vermont: state-guides/vermont.md
           - Wisconsin: state-guides/wisconsin.md
-      - "Regional Guides — Minnesota & Wisconsin":
-          - "MN + WI: ICE & Sanctuary Policy": state-guides/minnesota-wisconsin-ice-guide.md
-          - "MN + WI: Election Security Without Federal Support": state-guides/minnesota-wisconsin-security-guide.md
+      - "Tier 3 — Significant Barriers":
+          - Alabama: state-guides/alabama.md
+          - Arizona: state-guides/arizona.md
+          - Arkansas: state-guides/arkansas.md
+          - Florida: state-guides/florida.md
+          - Georgia: state-guides/georgia.md
+          - Idaho: state-guides/idaho.md
+          - Indiana: state-guides/indiana.md
+          - Iowa: state-guides/iowa.md
+          - Louisiana: state-guides/louisiana.md
+          - Mississippi: state-guides/mississippi.md
+          - Missouri: state-guides/missouri.md
+          - Montana: state-guides/montana.md
+          - North Carolina: state-guides/north-carolina.md
+          - North Dakota: state-guides/north-dakota.md
+          - Oklahoma: state-guides/oklahoma.md
+          - South Carolina: state-guides/south-carolina.md
+          - South Dakota: state-guides/south-dakota.md
+          - Tennessee: state-guides/tennessee.md
+          - Texas: state-guides/texas.md
+          - Utah: state-guides/utah.md
+          - Virginia: state-guides/virginia.md
+          - West Virginia: state-guides/west-virginia.md
+          - Wyoming: state-guides/wyoming.md
 
 extra:
   generator: false

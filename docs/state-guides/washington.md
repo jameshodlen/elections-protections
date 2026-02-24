@@ -179,3 +179,52 @@ An election protection ordinance is legally viable in Washington if drafted to e
 **Optimal implementation path**: Begin with **Spokane** (new progressive supermajority, first-class charter, Eastern WA location provides proof-of-concept outside Puget Sound) and **Olympia** (state capital symbolism, demonstrated progressive capacity, code city efficiency). Build toward **Seattle** (maximum visibility but more complex political dynamics) using early victories as momentum.
 
 **Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Washington's election security infrastructure is distinguished by the most advanced National Guard cyber capability in the Pacific and Western region, proactive state-funded MS-ISAC membership for all 39 counties after CISA withdrew funding, and comprehensive weapons restrictions at voting facilities enacted in 2022. As a 100% vote-by-mail state, Washington's physical security protections center on voting centers, ballot drop boxes, and ballot counting centers rather than traditional polling places. The state's decisive response to the CISA collapse -- covering MS-ISAC memberships statewide and replacing aging Albert sensors -- positions it as a national model for state-level resilience.
+
+### State Election Authority & Legal Framework
+
+**Secretary of State Steve Hobbs** (D), re-elected in November 2024, administers elections through Title 29A RCW. Washington is a **100% vote-by-mail state** with 39 county auditors serving as local election administrators. Voters receive ballots by mail no later than 18 days before Election Day. As of the 2024 cycle, the state operated **544+ official ballot drop boxes** and **67+ voting centers**. All voting systems operate on **air-gapped networks** with no internet or wireless capability. Signature verification is conducted by staff trained by the State Patrol.
+
+Washington enacted the **Washington Voting Rights Act** (Chapter 29A.92 RCW) in 2018 -- the second state-level VRA after California. **HB 1048 (2023)** strengthened the WVRA by expanding standing and requiring liberal construction of voting rights laws. The Washington Supreme Court unanimously upheld the WVRA in *Portugal v. Franklin County* (June 2023). Automatic voter registration launched July 15, 2024, via SB 5112 (2023).
+
+**Key 2024-2025 legislation:** SB 5444 (2024) expanded "sensitive places" for open carry prohibition to public libraries, zoos, and transit facilities. HB 1163 (2025) established a permit-to-purchase firearms law effective May 1, 2027.
+
+### Cybersecurity Infrastructure & Capabilities
+
+Washington's cybersecurity apparatus is led by **State CISO Ralph Johnson** within the **Office of Cybersecurity (OCS)** at WaTech (RCW 43.105.450). OCS operates a Security Operations Center and Computer Incident Response Team. The **Enterprise IT Security Strategic Plan for 2025-2027** was published in May 2025.
+
+Washington has the **most advanced National Guard cyber capability** in the Pacific and Western region. The **194th Wing** -- the first non-flying wing in the Air National Guard -- operates the **252nd Cyberspace Operations Group** and the **262nd Cyberspace Operations Squadron**, one of the oldest cyber units in the Guard (evolved from a 1953 combat communications squadron). The **143rd Cyberspace Operations Squadron** at Camp Murray provides additional capability. Nearly **1,000 Airmen** serve across the 194th Wing, and Washington pioneered the use of Guard cyber units for elections -- former SOS Kim Wyman invited Guard hackers to conduct penetration testing.
+
+After CISA cut EI-ISAC funding in April 2025, **Secretary Hobbs announced the state would cover MS-ISAC memberships for all 39 counties**. The SOS office has distributed **$3.6+ million** since 2022 in county security grants (up to $80,000 per county). Aging Albert sensors are being replaced under service-level agreements leased by the SOS office. Fifteen of 39 counties were designated "cyber-underserved" by EI-ISAC.
+
+**HAVA funding totals approximately $80-90 million**, with 2022 allocations directed to VoteWA voter registration system ($425,000), cyber/physical security ($425,000), and training ($150,000). Washington has held substantial funds in reserve as a deliberate disaster preparedness strategy.
+
+### Physical Security & Polling Place Protections
+
+**RCW 29A.84.510** establishes a **100-foot buffer zone** around voting centers and student engagement hubs, and a **25-foot buffer zone** around ballot drop boxes. Electronic amplification beyond these distances is also prohibited if audible within the zone.
+
+**RCW 9.41.284** (enacted 2022, HB 1630) specifically addresses weapons at voting facilities: firearms are **unlawful** at ballot counting centers, voting centers, student engagement hubs, and county elections offices. However, there is a **critical exception**: concealed pistol license holders **may carry concealed** at voting centers, student engagement hubs, and elections offices -- though **not at ballot counting centers** (which have an absolute firearms ban). Open carry is prohibited at all these locations. First violation is a misdemeanor; second and subsequent are gross misdemeanors.
+
+**Poll watchers/observers** authorized by political parties may access voting facilities (RCW 29A.84.510(5)). Observers may not touch ballots or election systems (RCW 29A.40.100). Unauthorized access to voting centers or ballot areas is a **Class C felony** (RCW 29A.84.555).
+
+**Voter intimidation** is a **Class C felony** under RCW 29A.84.620 (using menace, force, threat, or unlawful means to hinder/deter voting). Influencing a voter to withhold their vote is a gross misdemeanor (RCW 29A.84.630). Paramilitary organizations are prohibited under RCW 38.40.120 (unlawful for unauthorized bodies to drill or parade with arms).
+
+### Legal Strategies & Key Contacts
+
+**Washington filed its own separate lawsuit** (not the 19-state suit) jointly with Oregon: *State of Washington v. Trump*, No. 2:25-cv-00602 (W.D. Wash.), filed April 4, 2025. **On January 9, 2026, the court granted judgment in favor of Washington and Oregon**, concluding the President violated the separation of powers. The case was filed by **AG Nick Brown** (D), who took office January 2025 after Bob Ferguson became Governor.
+
+The WVRA provides a **private right of action** (RCW 29A.92.090), and courts construe voting rights liberally. The AG can bring civil actions for declaratory or injunctive relief (RCW 29A.84.060).
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Secretary of State Elections Division | (360) 902-4180; (800) 448-4881; elections@sos.wa.gov |
+| Attorney General | (360) 753-6200; atg.wa.gov |
+| WaTech Office of Cybersecurity | officeofcybersecurity@watech.wa.gov; SOC@watech.wa.gov |
+| Emergency Management Division | (253) 512-7000; 1-800-562-6108 |

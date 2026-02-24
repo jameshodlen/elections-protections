@@ -218,3 +218,58 @@ The ACLU's 2024 Election Action Plan explicitly addresses "heightened voter inti
 ## Conclusion
 
 Massachusetts presents a **favorable but legally complex** environment for municipal election protection ordinances. The state's Home Rule status, absence of anti-sanctuary preemption, strong *Lunn* precedent, new H.4885 firearm restrictions, and dense progressive municipal infrastructure create genuine opportunity—but Article 89, Section 7(1)'s reservation of election regulation to the state requires careful legal framing focused on police operations and resource allocation rather than election administration. Cambridge's pioneering sanctuary history, clear legal authority, and unified progressive governance make it the optimal jurisdiction for initial implementation, with Somerville and Northampton providing immediate expansion opportunities and geographic diversity.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Massachusetts is the model state for election security in the Northeast, combining a 150-foot total firearms ban at polling places, a statutory requirement for police at every polling location, the nation's strongest home rule framework for municipal election protection action, and a "whole-of-state" cybersecurity approach through a cabinet-level technology office. The state is the venue for the 19-state EO 14248 lawsuit, has a very active Attorney General who has issued specific advisories citing 18 U.S.C. § 592, and possesses robust National Guard cyber capabilities. Massachusetts's paper ballot foundation, strong home rule authority under Article LXXXIX, and the landmark VOTES Act (2022) establishing no-excuse mail voting and risk-limiting audits place it among the best-protected states in the country.
+
+### State Election Authority & Legal Framework
+
+Massachusetts elections are administered by the Secretary of the Commonwealth, currently William Galvin (the nation's longest-serving secretary of state in this role). The Elections Division oversees 351 city and town clerks who administer elections locally.
+
+**Key statutes:** M.G.L. c. 50-57 (Election Laws); M.G.L. c. 269, § 10 (firearms prohibition at polling places, enacted 2024). The landmark **VOTES Act (2022)** permanently established no-excuse mail voting, expanded early voting, and authorized risk-limiting audits. Massachusetts uses hand-marked paper ballots with optical scanners statewide, providing a strong audit foundation.
+
+**Home rule:** Massachusetts's strong home rule tradition under the Home Rule Amendment (Article LXXXIX) gives municipalities significant authority over local governance. Municipalities can extend the 150-foot buffer zone and adopt additional protective ordinances consistent with state law — making it the most favorable environment for local election security action among northeastern states. Under M.G.L. Ch. 43B, § 13, ordinance authority is self-executing — municipalities do not need enabling legislation provided they avoid conflict with state law. City ordinances do not require Attorney General review (only town bylaws require AG review).
+
+**No state firearms preemption:** Massachusetts has no express state preemption of local firearms regulation. The 2024 Act Modernizing Firearms Laws (H.4885), signed by Governor Healey, significantly strengthened state gun laws but did not add firearms preemption. This absence of preemption is the most favorable condition among northeastern states for municipal ordinance action.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** Massachusetts takes a "whole-of-state" approach through the Executive Office of Technology Services and Security (EOTSS), a cabinet-level office, under CISO Tony O'Neill. The legislatively codified **MassCyberCenter** and its developing CyberTrust Massachusetts shared security operations center for municipalities provide additional institutional depth. The state operates a Security Operations Center and participates in regional cyber threat sharing.
+
+**Election-specific resources:** The Secretary of the Commonwealth's office coordinates election cybersecurity with EOTSS, including vulnerability assessments of voter registration systems and election infrastructure.
+
+**National Guard:** The **Massachusetts National Guard 126th Cyber Protection Battalion** at Joint Base Cape Cod is part of the 91st Cyber Brigade and has deployed for U.S. Cyber Command operations. It is among the nation's more capable state cyber units and is available for election support deployments.
+
+**HAVA funding:** Massachusetts has received standard HAVA allocations across funding rounds. The state directed funds toward cybersecurity improvements, voter registration system modernization, and poll worker training.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 150-foot restricted zone from polling place entrances — among the largest in the nation (M.G.L. ch. 54, §§ 65, 71). No electioneering, campaign materials, or political activity within the zone. Municipalities may extend beyond 150 feet for public safety.
+
+**Firearms:** Massachusetts enacted a specific **polling place firearms prohibition in 2024** (M.G.L. c. 269, § 10), banning guns at polling places, early voting sites, and locations where votes are being counted — a total ban within 150 feet. Combined with the state's already strict firearms licensing requirements, this creates comprehensive armed intimidation prevention. Massachusetts joins Colorado and Vermont with the most complete polling place firearm restrictions in the nation.
+
+**Police at polls:** Massachusetts is the only state in the Northeast that mandates a **constable or police officer at every polling place** (M.G.L. ch. 54, §§ 65, 71). M.G.L. c. 54, § 72 explicitly grants local governing bodies authority to "detail a sufficient number of police officers or constables" for polling places "to preserve order and to protect the election officers."
+
+**Voter intimidation:** M.G.L. c. 56, §§ 29-31 addresses election offenses including intimidation, with penalties up to one year imprisonment and $500 fine. AG Campbell has issued specific advisories citing 18 U.S.C. § 592 and maintains an active election protection program. Federal remedies under 42 U.S.C. § 1983 provide additional enforcement tools.
+
+**Anti-paramilitary statute:** M.G.L. ch. 33, §§ 130-131 prohibit unauthorized paramilitary organizations.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** Massachusetts is the venue state for the 19-state lawsuit (*State of California v. Trump*, filed in U.S. District Court for the District of Massachusetts). Judge Denise Casper issued the preliminary injunction on June 13, 2025, finding the President lacks constitutional authority to commandeer state election officials.
+
+**AG enforcement authority:** AG Andrea Campbell has filed approximately 40 lawsuits against the Trump administration, created a Gun Violence Prevention unit, and filed an amicus brief supporting Boston's Trust Act. The AG's Civil Rights Division leads election protection efforts. AG Campbell has issued specific advisories citing 18 U.S.C. § 592, demonstrating institutional awareness of federal polling place protections.
+
+**Constitutional protections:** Article XVII (right to bear arms) was interpreted narrowly in *Commonwealth v. Davis* (1976), limiting it to military/common defense context — reducing 2A-based opposition arguments to election protection ordinances. The anti-commandeering doctrine (*Printz*, *Murphy*) firmly supports the non-assistance framework.
+
+**Sanctuary precedent:** The SJC's *Lunn v. Commonwealth* (2017) ruling established that Massachusetts law does not authorize holding people solely on federal immigration detainer requests. The Boston Trust Act (2014) limits police involvement with ICE. 49 Massachusetts municipalities have enacted local sanctuary or safe community protections, providing extensive precedent for non-cooperation frameworks.
+
+**Key contacts:**
+- **Secretary of the Commonwealth, Elections Division:** 1-800-462-VOTE / (617) 727-7030, sec.state.ma.us
+- **AG Civil Rights Division:** (617) 963-2917
+- **AG Main:** (617) 727-2200
+- **MassCyberCenter:** masscybercenter.org
+- **EOTSS/CISO:** mass.gov/orgs/cybersecurity-and-enterprise-risk-management

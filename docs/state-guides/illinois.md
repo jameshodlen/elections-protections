@@ -250,3 +250,61 @@ Illinois presents an unusually favorable legal and political environment for ele
 **Evanston and Oak Park offer opportunities for pioneering models.** Both have smaller governing bodies where majorities are easier to build, demonstrated willingness to be first-movers on progressive policy, and recent actions (Oak Park's Flock Safety cancellation) showing readiness for concrete civil liberties measures.
 
 The Just Democracy Illinois coalition provides existing infrastructure for coordinated advocacy, with Chicago Lawyers' Committee offering litigation support and ICIRR contributing grassroots organizing capacity. An organized campaign leveraging these resources, targeting the identified municipalities, and framing the ordinance within the established sanctuary law framework has strong prospects for success.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Illinois's election security infrastructure is nationally recognized, forged by the 2016 Russian breach of the Illinois Voter Registration System -- the incident that catalyzed nationwide election cybersecurity reform. The state's **Cyber Navigator Program (CNP)**, a three-agency partnership that won the 2020 EAC Clearinghouse Award for Outstanding Innovation in Election Cybersecurity, provides nine dedicated cybersecurity specialists serving all 108 election authorities. Illinois is the only state in the Midwest batch that joined the 19-state lawsuit against EO 14248, and AG Kwame Raoul secured a preliminary injunction blocking challenged provisions. Despite strong overall firearms regulation, no explicit statutory ban on firearms at polling places exists -- a gap that HB 5178 (2024) attempted but failed to close. The Democratic supermajority in both chambers (Senate 40-19, House 78-40) makes hostile preemptive legislation virtually impossible.
+
+### State Election Authority & Legal Framework
+
+Illinois is the **only state in the Midwest batch using a Board of Elections model** rather than a Secretary of State. The **Illinois State Board of Elections (SBE)**, established under the 1970 Illinois Constitution, comprises eight members appointed by the Governor -- four from Cook County, four from outside -- with bipartisan balance requirements. The SBE oversees **108 local election authorities** (county clerks and boards of election commissioners).
+
+The Illinois Election Code (10 ILCS 5/) governs all election procedures. Virtually all counties use hand-marked paper ballots with optical scan tabulators; **DRE systems are no longer in use.** Cook County's upgraded touchscreen ballot marking devices still produce paper records. A **5% random post-election retabulation** is required under 10 ILCS 5/24B-15.
+
+Illinois's **exceptionally strong home rule framework** under Article VII, Section 6 of the 1970 Constitution is the most favorable in the Midwest for municipal ordinance strategies. **224 home rule municipalities** automatically qualify (population over 25,000) and may "exercise any power and perform any function pertaining to its government and affairs," with powers construed liberally. Cook County is the only home rule county. The preemption mechanism requires affirmative legislative action: Section 6(g) requires a three-fifths vote to deny or limit home rule powers; Section 6(h) requires specific legislative declaration for exclusive state exercise. This creates a strong presumption favoring local authority.
+
+**Key case law:** *Kanellos v. County of Cook* (1972) established that the 1970 Constitution "was designed to drastically alter the relationship which previously existed between local and state government." *Kalodimos v. Village of Morton Grove* (1984) upheld a complete municipal handgun ban. *Scadron v. City of Des Plaines* (1992) established the "specifically limited" standard for preemption.
+
+The **TRUST Act (2017)** and **Way Forward Act (2021)** provide the exact structural precedent for election protection ordinances. The TRUST Act prohibits state and local law enforcement from participating in immigration enforcement; the Way Forward Act prohibits state/local government contracts for federal immigrant detention. The DOJ sued Illinois over these provisions in 2025; a federal judge **dismissed the suit** in July 2025 in a 64-page ruling citing anti-commandeering principles.
+
+**Key 2024-2025 legislation:** The **Protect Illinois Communities Act (HB 5471, 2023)** banned assault weapons sales, though compliance rates remain extremely low. HB 5178 (2024) proposed an explicit firearms ban at polling places but does not appear to have been enacted.
+
+### Cybersecurity Infrastructure & Capabilities
+
+Illinois's cybersecurity posture was forged by crisis. The **2016 Russian breach** of the Illinois Voter Registration System -- in which attackers hit SBE servers five times per second for a month, viewing **76,000 voter records** and fully compromising 3,500 -- became the catalyst for national election cybersecurity reform. In response, Illinois created the **Cyber Navigator Program (CNP)** in 2018, a nationally recognized three-agency partnership between SBE, the Department of Innovation & Technology (DoIT), and the Illinois State Police's STIC fusion center. Nine dedicated cybersecurity specialists serve all 108 election authorities. The program won the **2020 EAC Clearinghouse Award for Outstanding Innovation in Election Cybersecurity**, and no state-level data breach has occurred since its launch.
+
+HAVA funding includes **$13.2 million from the 2018 allocation**, with at least half dedicated to the CNP. Base $10,000 grants go to every participating county. Original HAVA funding for voting equipment replacement was $140 million, with an estimated $175 million needed for statewide replacement.
+
+The loss of EI-ISAC -- whose funding was terminated by CISA/DHS in March 2025 -- eliminates Albert sensor monitoring and penetration testing services. Illinois's CNP provides a significant state-level buffer, but smaller rural election authorities lacking in-house IT are most vulnerable. A **2024 contractor breach** exposed sensitive voter data in approximately 15 counties through unsecured databases.
+
+### Physical Security & Polling Place Protections
+
+The electioneering buffer zone is **100 feet** from each polling room entrance (10 ILCS 5/17-29). Regulation of electioneering at polling places is an "exclusive power and function of the State."
+
+Despite Illinois's strong overall firearms regulation framework -- FOID card requirements, assault weapons ban, concealed carry restrictions -- **no explicit statutory ban on firearms at polling places exists.** The concealed carry law (430 ILCS 66/65) prohibits firearms in schools, libraries, and government buildings that commonly serve as polling places, but this coverage is incidental to their regular function rather than polling-place-specific. The Movement Advancement Project classifies Illinois as having "no clear prohibition."
+
+Firearms preemption exists under 430 ILCS 66/90 (Firearm Concealed Carry Act), which declares regulation of handguns and ammunition "exclusive powers and functions of the State" and explicitly invokes Section 6(h) as a denial of home rule powers. However, the Protect Illinois Communities Act (2023) notably does NOT preempt home rule municipalities, allowing stricter local bans to remain -- demonstrating the state's comfort with layered local authority on public safety matters adjacent to firearms.
+
+**Voter intimidation** constitutes a **Class 4 felony** under 10 ILCS 5/29-4. Critically, 10 ILCS 5/29-17 establishes an **explicit private right of action**: any citizen whose election rights are deprived "shall be liable to the party injured or any person affected, in any action or proceeding for redress." This is among the strongest citizen enforcement tools in the Midwest.
+
+The AG assigns monitoring teams to polling places statewide on Election Day. Election judges have authority to keep the peace and cause arrests under 10 ILCS 5/18-7.
+
+### Legal Strategies & Key Contacts
+
+**Illinois joined the 19-state lawsuit** against EO 14248 (*State of California v. Trump*, Case No. 1:25-cv-10810, D. Mass.), filed April 3, 2025. **AG Kwame Raoul (D)** secured a preliminary injunction on June 13, 2025, blocking challenged provisions including documentary proof of citizenship requirements and federal funding conditionality. The case is ongoing following the court's denial of the motion to dismiss on September 17, 2025. Illinois is involved in 35+ multistate lawsuits against the federal government as of mid-2025.
+
+AG Raoul has expressly cited Printz anti-commandeering principles in defending the TRUST Act, establishing the doctrinal framework within Illinois jurisprudence. Governor J.B. Pritzker (D) is supportive and has specifically expressed concern about federal interference in 2026 elections.
+
+The risk of hostile preemptive legislation is **near zero**. Republicans would need 36 Senate votes and 71 House votes for the three-fifths supermajority required under Article VII, section 6(g) to deny home rule powers -- numbers far beyond their current caucus.
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| State Board of Elections | (217) 782-4141; elections.il.gov |
+| AG Election Protection (North) | 1-866-536-3496 |
+| AG Election Protection (Central/South) | 1-866-559-6812 |
+| DoIT / Cyber Navigator | (217) 524-3648; James.L.Patterson@illinois.gov |
+| IEMA | (217) 782-2700 |

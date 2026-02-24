@@ -121,3 +121,56 @@ Maryland presents viable terrain for municipal election protection ordinances de
 The critical insight is that **federal supremacy provides the strongest legal foundation**: ordinances explicitly framed as local implementation of 18 U.S.C. § 592's prohibition on armed federal personnel at polling places invoke constitutional protection against state preemption challenges. This framing distinguishes election protection ordinances from pure state-law sanctuary policies and places them within the tradition of local-federal cooperative enforcement.
 
 Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery County's existing civil liberties code framework under Chapter 27, and Howard County's demonstrated voter support for the Liberty Act offer distinct but complementary launch pathways. Coalition outreach should begin with Amy Cruice at ACLU of Maryland and Joanne Antoine at Common Cause Maryland, both organizations with election protection specialization and local ordinance campaign experience. The established Everyone Votes Maryland coalition provides immediate infrastructure for coordinated advocacy across target jurisdictions.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Maryland possesses the strongest cybersecurity posture among eastern states by a significant margin, driven by its proximity to Fort Meade (home to U.S. Cyber Command and NSA), elite National Guard cyber units, and a bipartisan State Board of Elections that has accurately counted over 13 million ballots since 2016. The state's comprehensive voter intimidation framework — including an explicit private right of action, penalties up to $5,000 and 5 years imprisonment, and a total firearms ban at polling places under the 2023 Gun Safety Act — makes Maryland one of the best-protected states in the nation. The Maryland TRUST Act (signed February 2026) and the ongoing pursuit of a Maryland Voting Rights Act further strengthen the election security landscape.
+
+### State Election Authority & Legal Framework
+
+Maryland employs a bipartisan State Board of Elections (Chair Michael Summers) with State Administrator Jared DeMarinis managing operations. The board is structured 3-2 in favor of the governor's party. Maryland's ES&S system has accurately counted over 13 million ballots since 2016. All seven states in the eastern batch (including Maryland) use paper ballots with optical scan tabulation, providing strong audit trails.
+
+**Key statutes:** Maryland Election Law Article governs all election administration. The state is actively pursuing the **Maryland Voting Rights Act** package across multiple bills, with language access provisions signed into law in May 2025.
+
+**Home rule:** Maryland possesses the strongest home rule framework in the region. Article XI-A (charter counties) authorizes counties to adopt charter government with locally elected councils empowered to legislate on local matters. Article XI-E (municipal corporations) provides a broad general grant of authority. Eight counties have home rule charters, and Baltimore City operates as an independent city with its own charter. The Express Powers Act grants charter counties authority to legislate to "prevent nuisances and protect public health, safety, and welfare."
+
+**TRUST Act precedent:** The **Maryland TRUST Act** (SB 245/HB 444), signed by Governor Wes Moore on February 17-18, 2026, as emergency legislation, bans 287(g) agreements between local law enforcement and ICE, effective immediately. Nine counties must terminate existing agreements within 90 days. Montgomery County's Trust Act (Expedited Bill 35-25) codifies a resource firewall: county employees, equipment, and facilities cannot be used for federal civil immigration enforcement. It passed unanimously. Howard County, Prince George's County, and Baltimore County have adopted local versions.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** Maryland's proximity to Fort Meade gives it unparalleled access to cyber talent. Acting CISO James Saunders brings federal experience from OPM and SBA. Governor Moore established a Cybersecurity Task Force in January 2024, and the **Maryland Local Cybersecurity Collaborative** has achieved 100% county participation.
+
+**National Guard cyber assets:** The **169th Cyber Protection Team** (Army National Guard, 134 industry certifications including 16 CISSPs) and the **175th Cyberspace Operations Group** (Air National Guard, actively supporting USCYBERCOM) provide elite capabilities. The **110th Information Operations Battalion** adds additional capacity. These represent the strongest National Guard cyber assets among eastern states.
+
+**Cyber maturity: Tier 1 — Advanced.** Maryland's cyber posture is the strongest among eastern states by a significant margin, with moderate impact from CISA withdrawal due to strong independent capabilities.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 100-foot restricted zone from polling place entrances (EL § 16-206(b)). Montgomery County has an exception allowing 25-100 feet; 50-foot restriction from drop boxes.
+
+**Firearms:** **Total firearms ban at polling places** under the 2023 Gun Safety Act (Criminal Law § 4-111; Election Law § 16-903(a)). The ban was upheld on appeal in January 2026. EL § 16-903(a)(3) specifically prohibits displaying a gun or badge within 100 feet of polling sites, with narrow exceptions for on-duty law enforcement performing official governmental functions. The 2024 Attorney General guidance confirms this interpretation. Risk level: **Low**.
+
+**Voter intimidation:** Maryland provides the most comprehensive voter intimidation framework among eastern states. EL § 16-201 imposes penalties up to **$5,000 and 5 years imprisonment** for intimidation. Critically, EL § 16-201(c) references **Courts Article § 5-106(b)**, creating an explicit **private right of action** for voters — allowing individuals subjected to intimidation to seek legal remedies directly. The AG can also seek injunctive relief under EL § 16-1004(a)(1). Election judges have the duty to maintain order (§ 10-303), and police officers on polling place duty must obey election judge orders (§ 10-304(a)(1)).
+
+**Anti-paramilitary statute:** Public Safety Article § 13-214 prohibits paramilitary activity.
+
+**No state constitutional RKBA provision:** Maryland's Constitution has no provision protecting the right to keep and bear arms — unlike most state constitutions — removing a significant opposition argument for election protection ordinances.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** Maryland joined the 19-state coalition. AG Anthony G. Brown has filed approximately 50 actions against the Trump administration and established a Federal Litigation Unit with dedicated $1.5M funding.
+
+**AG enforcement authority:** AG Brown issued October 2025 guidance limiting what Maryland police can do when working with federal authorities. The AG's Election Protection Hotline operates at (443) 961-2830 / (833) 282-0960 / electionswork@oag.state.md.us.
+
+**Free Elections Clause:** Maryland Declaration of Rights, Article 7 provides a powerful state constitutional hook: "elections ought to be free and frequent; and every citizen having the qualifications prescribed by the Constitution, ought to have the right of suffrage."
+
+**Municipal ordinance strategy:** Charter county ordinances covering Montgomery County (~1 million residents) and Prince George's County (~967,000 residents) demonstrate that election protection non-assistance can operate at population scales comparable to many entire states. The TRUST Act provides the cleanest legal precedent for non-cooperation framing. Maryland's proximity to Washington, D.C. guarantees national media coverage.
+
+**Coalition infrastructure:** The "Everyone Votes Maryland" and "Expand the Ballot, Expand the Vote" coalitions are already organized around the Maryland Voting Rights Act. CASA (We Are Casa), Maryland's largest immigrant rights organization, was instrumental in passing Trust Acts at state and local levels. The ACLU of Maryland, NAACP Maryland State Conference, Campaign Legal Center, League of Women Voters-MD, and Disability Rights Maryland form the core advocacy coalition.
+
+**Key contacts:**
+- **State Board of Elections:** (410) 269-2840 / 1-800-222-8683 / info.sbe@maryland.gov / elections.maryland.gov
+- **AG Election Protection:** (443) 961-2830 / (833) 282-0960 / electionswork@oag.state.md.us
+- **DoIT/CISO:** doit.maryland.gov

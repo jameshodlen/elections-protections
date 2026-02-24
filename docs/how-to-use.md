@@ -69,13 +69,13 @@ This resource serves three distinct audiences with different goals and starting 
 
 **Recommended path:**
 
-1. **[50-State Viability Analysis](legal-foundation/50-state-overview.md)** — start with the interactive tier table. Use the GREEN/YELLOW/RED filter to focus on viable states. The document includes a full implementation timeline (Phase 1: Tier 1 states Q1–Q2 2026; Phase 2: expansion; Phase 3: post-November 2026 swing states).
+1. **[50-State Viability Analysis](legal-foundation/50-state-overview.md)** — start with the interactive tier table. Use the GREEN/YELLOW/RED filter to focus on viable states. The document includes a tiered implementation strategy organized by state viability.
 
 2. Each **[state guide](state-guides/index.md)** Section 4 contains a coalition directory with specific organization names, phone numbers, email addresses, and physical addresses for advocacy partners in that state. Each directory is pre-researched and includes assessment of each organization's election protection experience.
 
-3. The **[MN + WI ICE and Sanctuary Guide](state-guides/minnesota-wisconsin-ice-guide.md)** has a specific implementation pathway section with actionable policies drawn from analogous jurisdictions in other states.
+3. The **[Minnesota](state-guides/minnesota.md)** and **[Wisconsin](state-guides/wisconsin.md)** state guides include implementation pathway sections with actionable policies drawn from analogous jurisdictions in other states.
 
-4. The **[MN + WI Security Guide](state-guides/minnesota-wisconsin-security-guide.md)** has a "Key Contacts" section at the end with official contacts for state election security offices in both states.
+4. Both the **[Minnesota](state-guides/minnesota.md)** and **[Wisconsin](state-guides/wisconsin.md)** guides include "Key Contacts" sections with official contacts for state election security offices.
 
 !!! note "Terminology Strategy"
     In states with anti-sanctuary laws (even Tier 1 states with no ban), avoid
