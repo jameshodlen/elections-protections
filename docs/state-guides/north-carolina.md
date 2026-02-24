@@ -51,10 +51,10 @@ The anti-commandeering doctrine (Printz, Murphy) provides the federal constituti
 - **[N.C.G.S. Section 163-24](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-24.html):** NCSBE constituted as an inferior court with power to commit persons to jail for up to 30 days for disobedience.
 - **[N.C.G.S. Section 163-27.1](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-27.1.html):** Emergency powers -- Executive Director may modify election schedules during natural disasters, extreme weather, or armed conflict.
 - **[N.C.G.S. Section 163-30](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-30.html):** 100 county boards of elections, each with 3 members appointed by the State Board.
-- **N.C.G.S. Section 163-45.1 (S.L. 2023-140):** Election observer rules -- observers must be registered voters in the county, present credentials, and comply with conduct restrictions (no voter interaction, no photography of voters).
-- **N.C.G.S. Section 163-48:** Authorizes officials to "prevent and stop improper practices and attempts to obstruct, intimidate, or interfere."
-- **N.C.G.S. Section 163-166.16 (S.L. 2023-140):** Photo voter ID requirements.
-- **N.C.G.S. Section 14-269.2:** Firearms on educational property -- covers school-located polling places only.
+- **[N.C.G.S. Section 163-45.1](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-45.1.html) (S.L. 2023-140):** Election observer rules -- observers must be registered voters in the county, present credentials, and comply with conduct restrictions (no voter interaction, no photography of voters).
+- **[N.C.G.S. Section 163-48](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-48.html):** Authorizes officials to "prevent and stop improper practices and attempts to obstruct, intimidate, or interfere."
+- **[N.C.G.S. Section 163-166.16](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-166.16.html) (S.L. 2023-140):** Photo voter ID requirements.
+- **[N.C.G.S. Section 14-269.2](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_14/GS_14-269.2.html):** Firearms on educational property -- covers school-located polling places only.
 - **SB 382:** Transferred election board appointment authority from Governor to State Auditor; restricted AG authority.
 - **No Chapter 163 prohibition on firearms at polling places** -- critical gap.
 - **Article I, Section 10 (NC Constitution):** "All elections shall be free."

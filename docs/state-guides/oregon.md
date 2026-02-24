@@ -33,12 +33,12 @@ Research confirms **no Oregon statute preempts** municipal ordinances directing 
 
 **Oregon became the nation's first sanctuary state in 1987**, and this framework provides both legal precedent and model statutory language for an election protection ordinance. The **Sanctuary Promise Act (HB 3265, 2021)** expanded protections and established enforcement mechanisms.
 
-**ORS 181A.820** provides the operative language: "No law enforcement agency of the State of Oregon or of any political subdivision of the state shall use **agency moneys, equipment or personnel** for the purpose of" specified federal enforcement activities. The statute's structure—prohibiting use of municipal resources rather than attempting to regulate federal conduct—has been repeatedly upheld.
+[**ORS 181A.820**](https://www.oregonlegislature.gov/bills_laws/ors/ors181a.html) provides the operative language: "No law enforcement agency of the State of Oregon or of any political subdivision of the state shall use **agency moneys, equipment or personnel** for the purpose of" specified federal enforcement activities. The statute's structure—prohibiting use of municipal resources rather than attempting to regulate federal conduct—has been repeatedly upheld.
 
 Key sanctuary provisions that inform ordinance design:
-- **ORS 181A.823**: Prohibits providing personal information to federal agencies or honoring detainer requests without judicial warrant
-- **ORS 181A.826**: Prohibits using public resources for federal enforcement; requires documentation and reporting of federal requests
-- **ORS 181A.829**: Prohibits certain local-federal cooperation agreements
+- [**ORS 181A.823**](https://www.oregonlegislature.gov/bills_laws/ors/ors181a.html): Prohibits providing personal information to federal agencies or honoring detainer requests without judicial warrant
+- [**ORS 181A.826**](https://www.oregonlegislature.gov/bills_laws/ors/ors181a.html): Prohibits using public resources for federal enforcement; requires documentation and reporting of federal requests
+- [**ORS 181A.829**](https://www.oregonlegislature.gov/bills_laws/ors/ors181a.html): Prohibits certain local-federal cooperation agreements
 
 The sanctuary framework's constitutionality rests on the **anti-commandeering doctrine** established in *Printz v. United States, 521 U.S. 898 (1997)*: "The Federal Government may neither issue directives requiring the States to address particular problems, nor command the States' officers... to administer or enforce a federal regulatory program." The Ninth Circuit upheld California's sanctuary law under this principle in *United States v. California, 921 F.3d 865 (2019)*.
 
