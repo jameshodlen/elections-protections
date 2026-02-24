@@ -47,14 +47,14 @@ South Dakota's state constitutional provisions offer limited independent support
 **Key South Dakota Statutes:**
 
 - **SDCL Title 12** — Election Code (25 chapters, ~395 sections)
-- **SDCL 12-1-9** — State Board of Elections
-- **SDCL 12-17B-2** — Internet connection prohibition for all tabulating equipment
-- **SDCL 12-18-3** — Electioneering prohibition and buffer zone (100 feet from any polling place entrance)
+- **[SDCL 12-1-9](https://law.justia.com/codes/south-dakota/title-12/chapter-01/section-12-1-9/)** — State Board of Elections
+- **[SDCL 12-17B-2](https://law.justia.com/codes/south-dakota/title-12/chapter-17B/section-12-17B-2/)** — Internet connection prohibition for all tabulating equipment
+- **[SDCL 12-18-3](https://law.justia.com/codes/south-dakota/title-12/chapter-18/section-12-18-3/)** — Electioneering prohibition and buffer zone (100 feet from any polling place entrance)
 - **SDCL 12-26** — Offenses against the elective franchise
-- **SDCL Section 9-19-20** — Municipal firearms preemption
-- **SDCL Section 7-18A-36** — County firearms preemption
-- **SDCL Section 8-5-13** — Township firearms preemption
-- **SDCL 9-20-1** — Municipal initiative and referendum (mandatory in all cities)
+- **[SDCL Section 9-19-20](https://law.justia.com/codes/south-dakota/title-9/chapter-19/section-9-19-20/)** — Municipal firearms preemption
+- **[SDCL Section 7-18A-36](https://law.justia.com/codes/south-dakota/title-7/chapter-18A/section-7-18A-36/)** — County firearms preemption
+- **[SDCL Section 8-5-13](https://law.justia.com/codes/south-dakota/title-8/chapter-05/section-8-5-13/)** — Township firearms preemption
+- **[SDCL 9-20-1](https://law.justia.com/codes/south-dakota/title-9/chapter-20/section-9-20-1/)** — Municipal initiative and referendum (mandatory in all cities)
 - **SD Const. Art. IX, Section 2** — Initiative and referendum for local ordinances
 
 No state-level private right of action for voter intimidation exists. Federal remedies (42 U.S.C. Section 1985(3), VRA Section 11(b)) are the primary civil pathways. The *Daschle v. Thune* precedent (D.S.D. 2004) establishes that SD federal courts will enforce voter intimidation claims, where following voters to polling places and recording license plates was found to constitute illegal voter intimidation. **South Dakota has no state voting rights act.**
