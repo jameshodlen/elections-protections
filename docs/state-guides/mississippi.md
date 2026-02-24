@@ -37,16 +37,16 @@ The dual barrier of elections preemption and firearms preemption eliminates virt
 | Statute | Subject | Notes |
 |---------|---------|-------|
 | **Mississippi Code Title 23, Chapter 15** | Election Code | Comprehensive election statutes |
-| **§ 21-17-5(2)(c)** | Municipal election authority | Explicitly **bars** municipalities from changing election requirements/procedures |
-| **§ 45-9-101(13)** | Firearms at polling places | Concealed carry without enhanced permit **prohibited** |
-| **§ 97-37-7(2)** | Concealed carry restrictions | Reinforces polling place prohibition |
-| **§ 23-15-895** | Armed persons at polling places | Only bars **candidates or their representatives** from being "armed or uniformed" |
-| **§ 45-9-51** | Firearms preemption | Prohibits all local regulation; **personal $1,000 fines** on officials |
+| **[§ 21-17-5(2)(c)](https://law.justia.com/codes/mississippi/title-21/chapter-17/section-21-17-5/)** | Municipal election authority | Explicitly **bars** municipalities from changing election requirements/procedures |
+| **[§ 45-9-101(13)](https://law.justia.com/codes/mississippi/title-45/chapter-9/section-45-9-101/)** | Firearms at polling places | Concealed carry without enhanced permit **prohibited** |
+| **[§ 97-37-7(2)](https://law.justia.com/codes/mississippi/title-97/chapter-37/section-97-37-7/)** | Concealed carry restrictions | Reinforces polling place prohibition |
+| **[§ 23-15-895](https://law.justia.com/codes/mississippi/title-23/chapter-15/article-23/section-23-15-895/)** | Armed persons at polling places | Only bars **candidates or their representatives** from being "armed or uniformed" |
+| **[§ 45-9-51](https://law.justia.com/codes/mississippi/title-45/chapter-9/section-45-9-51/)** | Firearms preemption | Prohibits all local regulation; **personal $1,000 fines** on officials |
 | **HB 786 (2016)** | Constitutional carry | Earliest in this batch (2016); permitless carry |
 | **§ 23-15-895 / § 23-17-55** | Electioneering buffer zone | **150 feet** + additional **30-foot loitering prohibition** |
-| **§ 23-15-951** | Election contest standing | Private right to contest elections |
+| **[§ 23-15-951](https://law.justia.com/codes/mississippi/title-23/chapter-15/article-23/section-23-15-951/)** | Election contest standing | Private right to contest elections |
 | **SB 2879 (2022)** | Voting Modernization Act | All 82 counties now use paper ballots with optical scanners |
-| **§ 23-15-211.1** | Chief election officer | Secretary of State |
+| **[§ 23-15-211.1](https://law.justia.com/codes/mississippi/title-23/chapter-15/article-7/section-23-15-211-1/)** | Chief election officer | Secretary of State |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 

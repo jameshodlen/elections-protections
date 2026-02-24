@@ -42,12 +42,12 @@ In October 2018, the Missoula City Council passed **Ordinance 3618**, banning fi
 
 **Key Montana Statutes:**
 
-- **MCA Title 13** — Montana Election Code
-- **MCA Section 13-35-211** — Electioneering buffer zone (100 feet from any entrance)
-- **MCA Section 13-35-218** — Coercion of voters
-- **MCA Section 13-35-214** — Illegal influence
-- **MCA Section 13-35-217** — Officers influencing voters
-- **MCA Section 45-8-351** — Firearms preemption
+- **[MCA Title 13](https://law.justia.com/codes/montana/title-13/)** — Montana Election Code
+- **[MCA Section 13-35-211](https://law.justia.com/codes/montana/title-13/chapter-35/part-2/section-13-35-211/)** — Electioneering buffer zone (100 feet from any entrance)
+- **[MCA Section 13-35-218](https://law.justia.com/codes/montana/title-13/chapter-35/part-2/section-13-35-218/)** — Coercion of voters
+- **[MCA Section 13-35-214](https://law.justia.com/codes/montana/title-13/chapter-35/part-2/section-13-35-214/)** — Illegal influence
+- **[MCA Section 13-35-217](https://law.justia.com/codes/montana/title-13/chapter-35/part-2/section-13-35-217/)** — Officers influencing voters
+- **[MCA Section 45-8-351](https://law.justia.com/codes/montana/title-45/chapter-8/part-3/section-45-8-351/)** — Firearms preemption
 - **MCA Title 13, Ch. 17, Part 5** — Postelection Audit Act (public, random-sample audits with discrepancy threshold of >0.5% or 5 ballots)
 - **Mont. Const. Art. XI, Section 6** — Self-governing municipal authority
 - **Mont. Const. Art. II, Section 13** — Free exercise of suffrage (no civil or military interference)

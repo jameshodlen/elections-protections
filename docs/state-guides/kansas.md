@@ -54,18 +54,18 @@ Kansas constitutional provisions further strengthen the ordinance: Art. 12, Sect
 
 **Key Kansas Statutes:**
 
-- **K.S.A. Chapter 25** — Election Code
+- **[K.S.A. Chapter 25](https://law.justia.com/codes/kansas/chapter-25/)** — Election Code
 - **K.S.A. 25-2301 et seq.** — Voter registration
-- **K.S.A. 25-2430** — Electioneering buffer zone (250 feet; upheld in *Clark v. Schwab*, 2020)
-- **K.S.A. 25-2415** — Voter intimidation (severity level 7, nonperson felony)
-- **K.S.A. 25-3005a** — Poll agents (appointed in writing, OBSERVER badges in 32-point type, one per entity per voting place)
+- **[K.S.A. 25-2430](https://law.justia.com/codes/kansas/chapter-25/article-24/section-25-2430/)** — Electioneering buffer zone (250 feet; upheld in *Clark v. Schwab*, 2020)
+- **[K.S.A. 25-2415](https://law.justia.com/codes/kansas/chapter-25/article-24/section-25-2415/)** — Voter intimidation (severity level 7, nonperson felony)
+- **[K.S.A. 25-3005a](https://law.justia.com/codes/kansas/chapter-25/article-30/section-25-3005a/)** — Poll agents (appointed in writing, OBSERVER badges in 32-point type, one per entity per voting place)
 - **K.S.A. 25-4401 through 25-4416** — Electronic and Electromechanical Voting Systems Act
-- **K.S.A. 25-3009** — Post-election audits
+- **[K.S.A. 25-3009](https://law.justia.com/codes/kansas/chapter-25/article-30/section-25-3009/)** — Post-election audits
 - **K.S.A. 25-4701 through 25-4716** — HAVA administrative complaint procedure
-- **K.S.A. 12-101** — Home rule city powers
-- **K.S.A. 12-16,124** — Firearms preemption (total field preemption for local governments)
-- **K.S.A. 19-101a** — County home rule (statutory, not constitutional); subsection (a)(6) expressly preempts county authority on elections
-- **K.S.A. 75-7c20** — Public building firearms restrictions (requires metal detectors and armed guards)
+- **[K.S.A. 12-101](https://law.justia.com/codes/kansas/chapter-12/article-1/section-12-101/)** — Home rule city powers
+- **[K.S.A. 12-16,124](https://law.justia.com/codes/kansas/chapter-12/article-16/section-12-16-124/)** — Firearms preemption (total field preemption for local governments)
+- **[K.S.A. 19-101a](https://law.justia.com/codes/kansas/chapter-19/article-1/section-19-101a/)** — County home rule (statutory, not constitutional); subsection (a)(6) expressly preempts county authority on elections
+- **[K.S.A. 75-7c20](https://law.justia.com/codes/kansas/chapter-75/article-7c/section-75-7c20/)** — Public building firearms restrictions (requires metal detectors and armed guards)
 - **HB 2138 (2022)** — Mandated voter-verified paper ballots with watermarks effective January 2024; prohibited internet-connected voting equipment
 - **Kan. Const. Art. 12, Section 5** — Constitutional home rule for cities (liberal construction mandate)
 - **Kan. Const. Art. 5, Section 1** — State constitutional right to vote

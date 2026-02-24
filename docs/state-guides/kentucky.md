@@ -56,14 +56,14 @@ Kentucky's **SB 1 (2021)**, passed over Governor Beshear's veto, prohibits citie
 
 | Statute | Subject | Notes |
 |---------|---------|-------|
-| **KRS 82.082** | Home rule | Cities may exercise any power in furtherance of public purpose |
-| **KRS 83.410(4)** | Louisville complete home rule | First Class city status with enhanced authority |
-| **KRS 65.870** | Firearms preemption | Total field preemption; criminal penalties for violations |
-| **KRS 237.110(16)** | Prohibited carry locations | Polling places **not listed** |
-| **KRS 237.115(2)** | Government building exception | Cities may prohibit concealed carry in government buildings (no criminal penalty) |
-| **KRS 117.235(3)** | Electioneering buffer zone | 100 feet from main entrance |
-| **KRS 119.155** | Voter intimidation | Class D felony (1-5 years imprisonment) |
-| **KRS 117.315** | Poll watchers/challengers | 2 challengers per precinct per political party |
+| **[KRS 82.082](https://law.justia.com/codes/kentucky/chapter-82/section-82-082/)** | Home rule | Cities may exercise any power in furtherance of public purpose |
+| **[KRS 83.410(4)](https://law.justia.com/codes/kentucky/chapter-83/section-83-410/)** | Louisville complete home rule | First Class city status with enhanced authority |
+| **[KRS 65.870](https://law.justia.com/codes/kentucky/chapter-65/section-65-870/)** | Firearms preemption | Total field preemption; criminal penalties for violations |
+| **[KRS 237.110(16)](https://law.justia.com/codes/kentucky/chapter-237/section-237-110/)** | Prohibited carry locations | Polling places **not listed** |
+| **[KRS 237.115(2)](https://law.justia.com/codes/kentucky/chapter-237/section-237-115/)** | Government building exception | Cities may prohibit concealed carry in government buildings (no criminal penalty) |
+| **[KRS 117.235(3)](https://law.justia.com/codes/kentucky/chapter-117/section-117-235/)** | Electioneering buffer zone | 100 feet from main entrance |
+| **[KRS 119.155](https://law.justia.com/codes/kentucky/chapter-119/section-119-155/)** | Voter intimidation | Class D felony (1-5 years imprisonment) |
+| **[KRS 117.315](https://law.justia.com/codes/kentucky/chapter-117/section-117-315/)** | Poll watchers/challengers | 2 challengers per precinct per political party |
 | **Section 22, Bill of Rights** | Military subordination | Standing armies dangerous; military subordinate to civil power |
 | **SB 1 (2021)** | Anti-sanctuary | Prohibits sanctuary policies; private enforcement |
 | **SB 150 (2019)** | Constitutional carry | Permitless carry statewide |

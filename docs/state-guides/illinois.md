@@ -84,22 +84,22 @@ The Supreme Court has established that local laws may coexist with federal regul
 
 ### Voter intimidation statutes
 
-**10 ILCS 5/29-4 (Prevention of Voting):**
+**[10 ILCS 5/29-4](https://www.ilga.gov/legislation/ilcs/documents/001000050K29-4.htm) (Prevention of Voting):**
 > "Any person who, by force, intimidation, threat, deception or forgery, knowingly prevents any other person from...registering to vote, or...lawfully voting...shall be guilty of a **Class 4 felony**."
 
-**10 ILCS 5/29-17 (Deprivation of Constitutional Rights):** Creates civil liability for anyone who "subjects...a citizen...to the deprivation of any rights, privileges, or immunities secured by the Constitution or laws" relating to elections.
+**[10 ILCS 5/29-17](https://www.ilga.gov/legislation/ilcs/documents/001000050K29-17.htm) (Deprivation of Constitutional Rights):** Creates civil liability for anyone who "subjects...a citizen...to the deprivation of any rights, privileges, or immunities secured by the Constitution or laws" relating to elections.
 
-**10 ILCS 5/29-18 (Conspiracy):** Establishes civil liability for conspiracies to prevent voting through force, intimidation, or threat.
+**[10 ILCS 5/29-18](https://www.ilga.gov/legislation/ilcs/documents/001000050K29-18.htm) (Conspiracy):** Establishes civil liability for conspiracies to prevent voting through force, intimidation, or threat.
 
-**10 ILCS 5/17-29(a) (Polling Place Zone):** Prohibits electioneering within 100 feet of polling places; critically, states that "no person shall interrupt, hinder or oppose any voter while approaching within those areas for the purpose of voting."
+**[10 ILCS 5/17-29(a)](https://www.ilga.gov/legislation/ilcs/documents/001000050K17-29.htm) (Polling Place Zone):** Prohibits electioneering within 100 feet of polling places; critically, states that "no person shall interrupt, hinder or oppose any voter while approaching within those areas for the purpose of voting."
 
 ### Local control statutes
 
-**65 ILCS 5/11-1-1 (General Police Power):** "The corporate authorities of each municipality may pass and enforce all necessary police ordinances."
+**[65 ILCS 5/11-1-1](https://www.ilga.gov/legislation/ilcs/documents/006500050K11-1-1.htm) (General Police Power):** "The corporate authorities of each municipality may pass and enforce all necessary police ordinances."
 
-**65 ILCS 5/11-1-2 (Police Authority):** Grants police officers conservator of peace authority and explicitly provides: "The corporate authorities of each municipality may prescribe any additional duties and powers of the police officers."
+**[65 ILCS 5/11-1-2](https://www.ilga.gov/legislation/ilcs/documents/006500050K11-1-2.htm) (Police Authority):** Grants police officers conservator of peace authority and explicitly provides: "The corporate authorities of each municipality may prescribe any additional duties and powers of the police officers."
 
-**10 ILCS 5/17-23:** Permits law enforcement "at all times to enter and remain in the polling place" during official duties, and requires "uniformed police officers assigned to polling place duty shall follow all lawful instructions of the judges of election."
+**[10 ILCS 5/17-23](https://www.ilga.gov/legislation/ilcs/documents/001000050K17-23.htm):** Permits law enforcement "at all times to enter and remain in the polling place" during official duties, and requires "uniformed police officers assigned to polling place duty shall follow all lawful instructions of the judges of election."
 
 ### Sanctuary and non-cooperation framework
 

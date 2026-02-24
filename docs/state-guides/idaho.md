@@ -48,17 +48,17 @@ Idaho's state constitutional provisions offer modest additional support. **Artic
 
 **Key Idaho Statutes:**
 
-- **Idaho Code Title 34** — Election Code
-- **Idaho Code Section 34-201** — Secretary of State as chief election officer
-- **Idaho Code Section 34-206** — County clerks exercise local supervision
-- **Idaho Code Section 34-215** — Prohibition on private moneys for election administration
-- **Idaho Code Title 18, Chapter 23** — Election crimes
-- **Idaho Code Section 18-2305** — Intimidation, corruption, and fraud (force, threats, menaces, or bribery to influence voting)
-- **Idaho Code Section 18-2313** — Riotous conduct near elections (misdemeanor)
-- **Idaho Code Section 18-2315** — Default penalty (up to $1,000 fine and/or 5 years imprisonment)
-- **Idaho Code Section 18-2318** — Electioneering buffer zone (250 feet, expanded from 100 feet)
-- **Idaho Code Section 18-3302J** — Firearms preemption ("wholly occupies the field")
-- **Idaho Code Section 18-3302C** — Schools as prohibited carry locations
+- **[Idaho Code Title 34](https://law.justia.com/codes/idaho/title-34/)** — Election Code
+- **[Idaho Code Section 34-201](https://law.justia.com/codes/idaho/title-34/chapter-2/section-34-201/)** — Secretary of State as chief election officer
+- **[Idaho Code Section 34-206](https://law.justia.com/codes/idaho/title-34/chapter-2/section-34-206/)** — County clerks exercise local supervision
+- **[Idaho Code Section 34-215](https://law.justia.com/codes/idaho/title-34/chapter-2/section-34-215/)** — Prohibition on private moneys for election administration
+- **[Idaho Code Title 18, Chapter 23](https://law.justia.com/codes/idaho/title-18/chapter-23/)** — Election crimes
+- **[Idaho Code Section 18-2305](https://law.justia.com/codes/idaho/title-18/chapter-23/section-18-2305/)** — Intimidation, corruption, and fraud (force, threats, menaces, or bribery to influence voting)
+- **[Idaho Code Section 18-2313](https://law.justia.com/codes/idaho/title-18/chapter-23/section-18-2313/)** — Riotous conduct near elections (misdemeanor)
+- **[Idaho Code Section 18-2315](https://law.justia.com/codes/idaho/title-18/chapter-23/section-18-2315/)** — Default penalty (up to $1,000 fine and/or 5 years imprisonment)
+- **[Idaho Code Section 18-2318](https://law.justia.com/codes/idaho/title-18/chapter-23/section-18-2318/)** — Electioneering buffer zone (250 feet, expanded from 100 feet)
+- **[Idaho Code Section 18-3302J](https://law.justia.com/codes/idaho/title-18/chapter-33/section-18-3302j/)** — Firearms preemption ("wholly occupies the field")
+- **[Idaho Code Section 18-3302C](https://law.justia.com/codes/idaho/title-18/chapter-33/section-18-3302c/)** — Schools as prohibited carry locations
 - **Idaho Const. Art. XII, Section 2** — Limited local police power
 - **Idaho Const. Art. I, Section 19** — Right of suffrage
 

@@ -94,37 +94,37 @@ The key legal strategy: an ordinance directing municipal police not to assist ar
 
 ### Voter intimidation provisions carry serious penalties
 
-**CGS § 9-364 (Influencing Elector to Refrain from Voting)** makes it a **Class D felony** for any person who "with intent to disenfranchise any elector, influences or attempts to influence by force or threat, bribery or corrupt, fraudulent or deliberately deceitful means any elector to stay away from any election."
+**[CGS § 9-364](https://law.justia.com/codes/connecticut/title-9/chapter-150/section-9-364/) (Influencing Elector to Refrain from Voting)** makes it a **Class D felony** for any person who "with intent to disenfranchise any elector, influences or attempts to influence by force or threat, bribery or corrupt, fraudulent or deliberately deceitful means any elector to stay away from any election."
 
-**CGS § 9-364a (Acts Prohibited in Elections)** escalates to a **Class C felony** for anyone who "influences or attempts to influence by force or threat the vote, or by force, threat, bribery or corrupt means, the speech, of any person in a primary, caucus, referendum convention or election."
+**[CGS § 9-364a](https://law.justia.com/codes/connecticut/title-9/chapter-150/section-9-364a/) (Acts Prohibited in Elections)** escalates to a **Class C felony** for anyone who "influences or attempts to influence by force or threat the vote, or by force, threat, bribery or corrupt means, the speech, of any person in a primary, caucus, referendum convention or election."
 
-**CGS § 9-365 (Employers' Threats)** makes it a **Class D felony** for employers to threaten workers with employment consequences based on voting within 60 days of an election.
+**[CGS § 9-365](https://law.justia.com/codes/connecticut/title-9/chapter-150/section-9-365/) (Employers' Threats)** makes it a **Class D felony** for employers to threaten workers with employment consequences based on voting within 60 days of an election.
 
 These provisions provide the statutory foundation demonstrating Connecticut's strong policy against voter intimidation—a policy municipal ordinances could complement.
 
 ### Polling place conduct falls under state authority with local police support
 
-**CGS § 9-236** establishes a **75-foot perimeter** around polling place entrances where soliciting, loitering, peddling, and offering ballots is prohibited (Class C misdemeanor). The statute grants the **moderator** authority to "evict any person who in any way interferes with the orderly process of voting."
+**[CGS § 9-236](https://law.justia.com/codes/connecticut/title-9/chapter-146/section-9-236/)** establishes a **75-foot perimeter** around polling place entrances where soliciting, loitering, peddling, and offering ballots is prohibited (Class C misdemeanor). The statute grants the **moderator** authority to "evict any person who in any way interferes with the orderly process of voting."
 
-**CGS § 9-230** creates the mechanism for local police involvement: "The registrars of voters may request the head of the police department of the municipality... to provide police protection at any polling place... where they may anticipate disorder." When disorder occurs, the moderator may "order any officer with power of arrest to take the offender into custody."
+**[CGS § 9-230](https://law.justia.com/codes/connecticut/title-9/chapter-146/section-9-230/)** creates the mechanism for local police involvement: "The registrars of voters may request the head of the police department of the municipality... to provide police protection at any polling place... where they may anticipate disorder." When disorder occurs, the moderator may "order any officer with power of arrest to take the offender into custody."
 
 This statutory scheme places **registrars and moderators** as the primary election security authorities, with municipal police in a **supporting role upon request**. An ordinance could potentially address how police respond to such requests without directly regulating election administration.
 
 ### Municipal police authority provides strongest legal basis
 
-**CGS § 7-276** grants police commissions comprehensive authority:
+**[CGS § 7-276](https://law.justia.com/codes/connecticut/title-7/chapter-104/section-7-276/)** grants police commissions comprehensive authority:
 
 > "Such boards shall have all of the powers given by the general statutes to boards of police commissioners, shall have **general management and supervision of the police department** of such town and of the property and equipment used in connection therewith, shall make **all needful regulations** for the government thereof not contrary to law..."
 
-**CGS § 7-277** confirms municipal budgetary control: "The expenses, salaries and all costs of maintenance and equipment for such police department shall be paid by such town **in the same manner as other expenses of the town government**."
+**[CGS § 7-277](https://law.justia.com/codes/connecticut/title-7/chapter-104/section-7-277/)** confirms municipal budgetary control: "The expenses, salaries and all costs of maintenance and equipment for such police department shall be paid by such town **in the same manner as other expenses of the town government**."
 
-**CGS § 7-148(c)(4)(A)** authorizes municipalities to "provide for police protection, regulate and prescribe the duties of the persons providing police protection with respect to criminal matters within the limits of the municipality."
+**[CGS § 7-148](https://law.justia.com/codes/connecticut/title-7/chapter-99/section-7-148/)(c)(4)(A)** authorizes municipalities to "provide for police protection, regulate and prescribe the duties of the persons providing police protection with respect to criminal matters within the limits of the municipality."
 
 These provisions establish clear municipal authority over police operations, budgets, and policies—authority that could support an ordinance directing how police resources are deployed regarding federal personnel near polling locations.
 
 ### The Voter's Bill of Rights establishes protected interests
 
-**CGS § 9-236b** codifies voter rights including the right to "vote free from coercion or intimidation by election officials or any other person" and to "vote independently and in privacy at a polling place." Voters may file complaints with the State Elections Enforcement Commission.
+**[CGS § 9-236b](https://law.justia.com/codes/connecticut/title-9/chapter-146/section-9-236b/)** codifies voter rights including the right to "vote free from coercion or intimidation by election officials or any other person" and to "vote independently and in privacy at a polling place." Voters may file complaints with the State Elections Enforcement Commission.
 
 An ordinance could reference these statutory protections as the interests being advanced by municipal police policy.
 
