@@ -441,44 +441,6 @@ Before any city adopts the ordinance, coordinate with:
 
 Simultaneous adoption across multiple jurisdictions creates mutual support and spreads political targeting risk. A coordinated national campaign is more defensible than isolated local efforts.
 
-## Messaging Guidance
-
-### For All Audiences
-
-- "Enforcing existing federal law"
-- "Protecting voters from intimidation"
-- "Local control over local resources"
-- "Ensuring peaceful elections"
-
-### For Conservative Audiences
-
-- "Anti-commandeering / Printz v. United States"
-- "Federalism and states' rights -- the Founders designed elections to be locally controlled"
-- "Protecting against federal overreach into our communities"
-- "Taxpayer resources should serve local priorities, not federal deployments"
-- "18 U.S.C. § 592 has been law since Reconstruction -- we're enforcing it"
-
-### For Progressive Audiences
-
-- "Voter protection and anti-intimidation"
-- "Historical context of troops suppressing minority votes"
-- "Community safety at the ballot box"
-- "No voter should see armed federal agents when they go to vote"
-
-### For Moderate/Municipal Audiences
-
-- "Municipal resource management -- nothing more"
-- "We're not blocking federal agents; we're not helping them break federal law"
-- "Bipartisan: every American deserves to vote without intimidation"
-- "This is about good governance and clear chains of command"
-
-### Phrases to Avoid
-
-- "Sanctuary" (triggers anti-sanctuary law enforcement mechanisms)
-- "Resist" or "resistance" (implies obstruction)
-- "Block" or "prevent" federal activity (obstruction framing)
-- Immigration-related terminology of any kind
-
 ## Optional Provisions
 
 ### Personnel Protection Provision (Recommended for All Jurisdictions)
