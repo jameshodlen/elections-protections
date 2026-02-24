@@ -250,16 +250,6 @@ This statute directly supports local ordinances by establishing state policy res
 
 ---
 
-## Conclusion: Minnesota offers model conditions for implementation
-
-Minnesota presents **exceptionally favorable conditions** for municipal ordinances reinforcing federal restrictions on armed presence at polling places. The existing statutory framework—particularly **Minn. Stat. § 204C.06, Subd. 6**, which already restricts peace officers from polling places—provides constitutional and preemption defenses unavailable in most states.
-
-The strategic approach should prioritize **Minneapolis first** given its track record of ordinances becoming statewide law, followed by **St. Paul** for its homogeneous progressive council enabling rapid passage, and **Duluth** to establish outstate legitimacy. The Restore the Vote Coalition's 50+ organizations and Election Protection Coalition's established infrastructure provide ready-made advocacy partnerships.
-
-A model ordinance should cite the existing state restrictions as foundational authority, frame the measure as reinforcing rather than creating new policy, and leverage the identified municipal authority provisions (§§ 412.111, 412.221, 412.241) to establish city council power over police department directives. This approach minimizes litigation exposure while maximizing the ordinance's legal foundation and political viability.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Minnesota possesses one of the most robust independent election security postures in the nation, combining dedicated state cybersecurity infrastructure, one of only four state National Guard Cyber Protection Teams, a $6 million VOTER Fund, and some of the country's most comprehensive polling place protections — including a statutory 50-foot restriction on peace officers from polling place entrances. The state's permissive legal environment for municipal immigration protections, strong home rule charter framework (107 charter cities), and supportive Attorney General create exceptional conditions for layered election security at every level of government. The withdrawal of federal CISA services creates real gaps, but Minnesota's independent capabilities position it better than most states to maintain election integrity through 2026 and beyond.
@@ -353,3 +343,12 @@ Secretary of State Steve Simon administers elections with broad rulemaking autho
 - **Attorney General:** ag.state.mn.us
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
+## Conclusion: Minnesota offers model conditions for implementation
+
+Minnesota presents **exceptionally favorable conditions** for municipal ordinances reinforcing federal restrictions on armed presence at polling places. The existing statutory framework—particularly **Minn. Stat. § 204C.06, Subd. 6**, which already restricts peace officers from polling places—provides constitutional and preemption defenses unavailable in most states.
+
+The strategic approach should prioritize **Minneapolis first** given its track record of ordinances becoming statewide law, followed by **St. Paul** for its homogeneous progressive council enabling rapid passage, and **Duluth** to establish outstate legitimacy. The Restore the Vote Coalition's 50+ organizations and Election Protection Coalition's established infrastructure provide ready-made advocacy partnerships.
+
+A model ordinance should cite the existing state restrictions as foundational authority, frame the measure as reinforcing rather than creating new policy, and leverage the identified municipal authority provisions (§§ 412.111, 412.221, 412.241) to establish city council power over police department directives. This approach minimizes litigation exposure while maximizing the ordinance's legal foundation and political viability.
+
+---

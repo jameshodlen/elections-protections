@@ -215,12 +215,6 @@ The ACLU's 2024 Election Action Plan explicitly addresses "heightened voter inti
 
 ---
 
-## Conclusion
-
-Massachusetts presents a **favorable but legally complex** environment for municipal election protection ordinances. The state's Home Rule status, absence of anti-sanctuary preemption, strong *Lunn* precedent, new H.4885 firearm restrictions, and dense progressive municipal infrastructure create genuine opportunity—but Article 89, Section 7(1)'s reservation of election regulation to the state requires careful legal framing focused on police operations and resource allocation rather than election administration. Cambridge's pioneering sanctuary history, clear legal authority, and unified progressive governance make it the optimal jurisdiction for initial implementation, with Somerville and Northampton providing immediate expansion opportunities and geographic diversity.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Massachusetts is the model state for election security in the Northeast, combining a 150-foot total firearms ban at polling places, a statutory requirement for police at every polling location, the nation's strongest home rule framework for municipal election protection action, and a "whole-of-state" cybersecurity approach through a cabinet-level technology office. The state is the venue for the 19-state EO 14248 lawsuit, has a very active Attorney General who has issued specific advisories citing 18 U.S.C. § 592, and possesses robust National Guard cyber capabilities. Massachusetts's paper ballot foundation, strong home rule authority under Article LXXXIX, and the landmark VOTES Act (2022) establishing no-excuse mail voting and risk-limiting audits place it among the best-protected states in the country.
@@ -273,3 +267,10 @@ Massachusetts elections are administered by the Secretary of the Commonwealth, c
 - **AG Main:** (617) 727-2200
 - **MassCyberCenter:** masscybercenter.org
 - **EOTSS/CISO:** mass.gov/orgs/cybersecurity-and-enterprise-risk-management
+
+## Conclusion
+
+Massachusetts presents a **favorable but legally complex** environment for municipal election protection ordinances. The state's Home Rule status, absence of anti-sanctuary preemption, strong *Lunn* precedent, new H.4885 firearm restrictions, and dense progressive municipal infrastructure create genuine opportunity—but Article 89, Section 7(1)'s reservation of election regulation to the state requires careful legal framing focused on police operations and resource allocation rather than election administration. Cambridge's pioneering sanctuary history, clear legal authority, and unified progressive governance make it the optimal jurisdiction for initial implementation, with Somerville and Northampton providing immediate expansion opportunities and geographic diversity.
+
+---
+

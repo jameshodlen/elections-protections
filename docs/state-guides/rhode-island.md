@@ -154,22 +154,6 @@ RIVAC's recent campaigns include the successful **Let RI Vote Act (2022)** estab
 
 ---
 
-## Conclusion: A clear path forward
-
-Rhode Island's legal landscape presents **unusually favorable conditions** for municipal election protection ordinances. Three factors make this jurisdiction distinctive:
-
-1. **Constitutional home rule with no anti-sanctuary preemption** leaves municipalities free to establish police cooperation policies
-2. **Proven federal court victories** in *City of Providence v. Barr* demonstrate that Rhode Island sanctuary ordinances survive legal challenge
-3. **Existing coalition infrastructure through RIVAC's 30+ organizations** eliminates the need to build advocacy capacity from scratch
-
-The recommended strategy begins with **Providence** (existing sanctuary framework, recent executive action, progressive council allies) and **Central Falls** (established ordinance, battle-tested mayor, immigrant community base), presenting joint action to build regional momentum. The **dual legal framing**—local police management authority under home rule combined with alignment with 18 U.S.C. § 592's federal prohibition—provides defensive strength against preemption challenges.
-
-Key statutory hooks include RIGL § 17-23-5 (felony voter intimidation through "any means of intimidation"), RIGL § 17-19-49 (50-foot buffer zone), and the broad prohibition in § 17-23-17(7) against "willfully hindering the orderly conduct of any election." The 2022 *Town of North Providence v. FOP* decision confirming municipal "indispensable managerial rights" over police operations provides the definitive precedent for ordinance authority.
-
-With Common Cause Rhode Island coordinating existing coalition infrastructure, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Rhode Island operates under a unique dual-authority election system and faces some of the most acute resource constraints among northeastern states following the withdrawal of federal election security services. Despite these challenges, the state pioneered risk-limiting audits in 2017, maintains strong criminal deterrence through felony-level voter intimidation penalties, and benefits from an overwhelmingly supportive political environment with Democratic supermajorities in both legislative chambers. The most significant gap in Rhode Island's election security posture is the absence of a specific polling place firearms prohibition — a surprising vulnerability in an otherwise strong northeast bloc that represents a priority area for both state legislation and municipal ordinance action.
@@ -220,3 +204,19 @@ Rhode Island operates under a unique dual-authority system: Secretary of State G
 - **AG Neronha:** (401) 274-4400 / riag.ri.gov
 - **Election Protection Hotline:** 2-1-1, press 5
 - **ETSS/CISO:** etss.ri.gov/cybersecurity
+## Conclusion: A clear path forward
+
+Rhode Island's legal landscape presents **unusually favorable conditions** for municipal election protection ordinances. Three factors make this jurisdiction distinctive:
+
+1. **Constitutional home rule with no anti-sanctuary preemption** leaves municipalities free to establish police cooperation policies
+2. **Proven federal court victories** in *City of Providence v. Barr* demonstrate that Rhode Island sanctuary ordinances survive legal challenge
+3. **Existing coalition infrastructure through RIVAC's 30+ organizations** eliminates the need to build advocacy capacity from scratch
+
+The recommended strategy begins with **Providence** (existing sanctuary framework, recent executive action, progressive council allies) and **Central Falls** (established ordinance, battle-tested mayor, immigrant community base), presenting joint action to build regional momentum. The **dual legal framing**—local police management authority under home rule combined with alignment with 18 U.S.C. § 592's federal prohibition—provides defensive strength against preemption challenges.
+
+Key statutory hooks include RIGL § 17-23-5 (felony voter intimidation through "any means of intimidation"), RIGL § 17-19-49 (50-foot buffer zone), and the broad prohibition in § 17-23-17(7) against "willfully hindering the orderly conduct of any election." The 2022 *Town of North Providence v. FOP* decision confirming municipal "indispensable managerial rights" over police operations provides the definitive precedent for ordinance authority.
+
+With Common Cause Rhode Island coordinating existing coalition infrastructure, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
+
+---
+

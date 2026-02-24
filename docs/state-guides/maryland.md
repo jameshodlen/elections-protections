@@ -114,16 +114,6 @@ Seeking a **Maryland Attorney General opinion** prior to ordinance adoption woul
 
 ---
 
-## Conclusion: Strategic pathway forward
-
-Maryland presents viable terrain for municipal election protection ordinances despite meaningful legal complexities. The combination of constitutional home rule, absence of anti-sanctuary laws, progressive political control in charter jurisdictions, and established civil liberties coalition infrastructure creates favorable conditions for implementation. 
-
-The critical insight is that **federal supremacy provides the strongest legal foundation**: ordinances explicitly framed as local implementation of 18 U.S.C. § 592's prohibition on armed federal personnel at polling places invoke constitutional protection against state preemption challenges. This framing distinguishes election protection ordinances from pure state-law sanctuary policies and places them within the tradition of local-federal cooperative enforcement.
-
-Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery County's existing civil liberties code framework under Chapter 27, and Howard County's demonstrated voter support for the Liberty Act offer distinct but complementary launch pathways. Coalition outreach should begin with Amy Cruice at ACLU of Maryland and Joanne Antoine at Common Cause Maryland, both organizations with election protection specialization and local ordinance campaign experience. The established Everyone Votes Maryland coalition provides immediate infrastructure for coordinated advocacy across target jurisdictions.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Maryland possesses the strongest cybersecurity posture among eastern states by a significant margin, driven by its proximity to Fort Meade (home to U.S. Cyber Command and NSA), elite National Guard cyber units, and a bipartisan State Board of Elections that has accurately counted over 13 million ballots since 2016. The state's comprehensive voter intimidation framework — including an explicit private right of action, penalties up to $5,000 and 5 years imprisonment, and a total firearms ban at polling places under the 2023 Gun Safety Act — makes Maryland one of the best-protected states in the nation. The Maryland TRUST Act (signed February 2026) and the ongoing pursuit of a Maryland Voting Rights Act further strengthen the election security landscape.
@@ -174,3 +164,14 @@ Maryland employs a bipartisan State Board of Elections (Chair Michael Summers) w
 - **State Board of Elections:** (410) 269-2840 / 1-800-222-8683 / info.sbe@maryland.gov / elections.maryland.gov
 - **AG Election Protection:** (443) 961-2830 / (833) 282-0960 / electionswork@oag.state.md.us
 - **DoIT/CISO:** doit.maryland.gov
+
+## Conclusion: Strategic pathway forward
+
+Maryland presents viable terrain for municipal election protection ordinances despite meaningful legal complexities. The combination of constitutional home rule, absence of anti-sanctuary laws, progressive political control in charter jurisdictions, and established civil liberties coalition infrastructure creates favorable conditions for implementation. 
+
+The critical insight is that **federal supremacy provides the strongest legal foundation**: ordinances explicitly framed as local implementation of 18 U.S.C. § 592's prohibition on armed federal personnel at polling places invoke constitutional protection against state preemption challenges. This framing distinguishes election protection ordinances from pure state-law sanctuary policies and places them within the tradition of local-federal cooperative enforcement.
+
+Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery County's existing civil liberties code framework under Chapter 27, and Howard County's demonstrated voter support for the Liberty Act offer distinct but complementary launch pathways. Coalition outreach should begin with Amy Cruice at ACLU of Maryland and Joanne Antoine at Common Cause Maryland, both organizations with election protection specialization and local ordinance campaign experience. The established Everyone Votes Maryland coalition provides immediate infrastructure for coordinated advocacy across target jurisdictions.
+
+---
+

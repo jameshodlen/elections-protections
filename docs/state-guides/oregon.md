@@ -152,16 +152,6 @@ The sanctuary law framework succeeds precisely because it prohibits use of local
 
 ---
 
-## Conclusion: Strategic path forward
-
-Oregon's legal framework is uniquely favorable for a municipal election protection ordinance. The combination of **strong constitutional home rule**, **nation-leading sanctuary law precedent**, **presumption against state preemption**, and **anti-commandeering doctrine protection** creates a solid foundation. Portland's October 2025 Protect Portland Initiative demonstrates that progressive councils will pass such ordinances.
-
-The recommended approach: Begin with **Portland** (proven infrastructure, recent precedent, 12-member progressive council), then pursue **Bend** and **Corvallis** (demonstrated progressive shifts, RCV/grassroots infrastructure). Coordinate through the existing **Oregonians Together coalition** with ACLU Oregon, LWVOR, Common Cause Oregon, and Western States Center as lead partners.
-
-The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency of [City] shall use agency moneys, equipment, or personnel for the purpose of [assisting armed federal personnel within X feet of polling places during election periods]," with narrow exceptions for responding to genuine criminal activity or emergencies, and reporting requirements for any federal requests.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Oregon's election security infrastructure operates in a distinctive context: as the nation's first 100% vote-by-mail state since 2000, Oregon has no traditional polling places, meaning physical security protections center on ballot drop-off sites and county election offices rather than in-person voting locations. The state's cybersecurity posture was shaped by the 2016 Russian attacks on election infrastructure nationwide, and Oregon is now converting its National Guard units to a dedicated cyber mission. The loss of CISA services and cancellation of planned tabletop exercises in 2025 have created gaps that the state is actively working to fill through its Cybersecurity Center of Excellence and Guard conversion.
@@ -215,3 +205,13 @@ In a separate action, the **DOJ sued Oregon** (September 16, 2025) to compel dis
 | Civil Rights Bias Response Hotline | 1-844-924-BIAS (2427) |
 | State Cybersecurity (CIO/CISO) | Oregon Enterprise Information Services |
 | Emergency Management | (503) 378-2911; oem_publicinfo@oem.oregon.gov |
+## Conclusion: Strategic path forward
+
+Oregon's legal framework is uniquely favorable for a municipal election protection ordinance. The combination of **strong constitutional home rule**, **nation-leading sanctuary law precedent**, **presumption against state preemption**, and **anti-commandeering doctrine protection** creates a solid foundation. Portland's October 2025 Protect Portland Initiative demonstrates that progressive councils will pass such ordinances.
+
+The recommended approach: Begin with **Portland** (proven infrastructure, recent precedent, 12-member progressive council), then pursue **Bend** and **Corvallis** (demonstrated progressive shifts, RCV/grassroots infrastructure). Coordinate through the existing **Oregonians Together coalition** with ACLU Oregon, LWVOR, Common Cause Oregon, and Western States Center as lead partners.
+
+The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency of [City] shall use agency moneys, equipment, or personnel for the purpose of [assisting armed federal personnel within X feet of polling places during election periods]," with narrow exceptions for responding to genuine criminal activity or emergencies, and reporting requirements for any federal requests.
+
+---
+

@@ -129,18 +129,6 @@ Additional coalition partners include **Equality New Mexico** (LGBTQ+ civic enga
 
 The **Libertarian Party of New Mexico** (lpnm.us, 8100 Wyoming Blvd. NE, Suite M4, Albuquerque, NM 87113) presents a potential cross-partisan ally. The party has maintained major party status since 2016 when Gary Johnson received over 9% of the statewide vote, supports election systems "more representative of the electorate," and opposes laws excluding alternative candidates—values potentially aligned with opposing federal overreach at polling places.
 
-## Conclusion: A clear pathway exists through charter cities and established coalitions
-
-New Mexico presents favorable conditions for municipal ordinances protecting polling places from armed federal personnel. The state's home rule framework provides clear legal authority for charter cities, recent state legislation demonstrates strong policy alignment with election protection goals, and the January 2025 *Torrez* decision—while establishing preemption limits—does not directly threaten ordinances that support federal law enforcement rather than conflict with state policy.
-
-The recommended implementation sequence should begin with **Santa Fe**, leveraging the city's 2002 Resolution precedent and overwhelmingly progressive council to establish the first ordinance. **Las Cruces** should proceed simultaneously given its 5-2 progressive supermajority and demonstrated willingness to pass bold measures. **Albuquerque** requires longer-term coalition building through Mayor Keller's office and targeted outreach to swing councilors.
-
-The **Common Cause NM/ACLU-NM Election Protection partnership** provides the natural anchor for coalition coordination, with NAEVA and APCG bringing critical Native American community engagement. The **Center for Civic Policy's NM Civic Engagement Table** offers access to 40+ organizations for grassroots mobilization.
-
-Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 New Mexico possesses the strongest existing election security framework among the states researched for this guide, combining a dedicated Office of Cybersecurity created by the Cybersecurity Act of 2023, a first-in-the-nation firearms prohibition at polling places (NMSA 1978 section 1-20-24, enacted 2024), and a uniquely powerful state constitutional provision -- Article II, section 17 -- explicitly barring both civil and military interference with the right of suffrage. The state was ranked **#1 nationally in election administration** in 2024 and operates under a Democratic trifecta with all three statewide elected officials (Governor, SOS, AG) as Democrats. AG Raul Torrez joined the 19-state EO 14248 coalition and operates an Election Protection Hotline. The primary challenge is the state's **constitutional firearms preemption** (Article II, section 6), which is broader than statutory preemption and demands meticulous ordinance drafting.
@@ -195,3 +183,14 @@ NM's session structure constrains timing: even-year sessions (2026) are **30 day
 | Attorney General / Election Protection Hotline | nmdoj.gov; 1-844-255-9210 |
 | Office of Cybersecurity | NMCYBER@CYBER.NM.GOV |
 | DHSEM | www.dhsem.nm.gov |
+## Conclusion: A clear pathway exists through charter cities and established coalitions
+
+New Mexico presents favorable conditions for municipal ordinances protecting polling places from armed federal personnel. The state's home rule framework provides clear legal authority for charter cities, recent state legislation demonstrates strong policy alignment with election protection goals, and the January 2025 *Torrez* decision—while establishing preemption limits—does not directly threaten ordinances that support federal law enforcement rather than conflict with state policy.
+
+The recommended implementation sequence should begin with **Santa Fe**, leveraging the city's 2002 Resolution precedent and overwhelmingly progressive council to establish the first ordinance. **Las Cruces** should proceed simultaneously given its 5-2 progressive supermajority and demonstrated willingness to pass bold measures. **Albuquerque** requires longer-term coalition building through Mayor Keller's office and targeted outreach to swing councilors.
+
+The **Common Cause NM/ACLU-NM Election Protection partnership** provides the natural anchor for coalition coordination, with NAEVA and APCG bringing critical Native American community engagement. The **Center for Civic Policy's NM Civic Engagement Table** offers access to 40+ organizations for grassroots mobilization.
+
+Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.
+
+---
