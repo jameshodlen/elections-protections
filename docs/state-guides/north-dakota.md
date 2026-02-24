@@ -52,9 +52,9 @@ The state constitution's **Article I, Section 4** protects citizens' right to vo
 - **[NDCC Section 12.1-14-03](https://law.justia.com/codes/north-dakota/title-12-1/chapter-12-1-14/section-12-1-14-03/)** — Discrimination-based interference with civil rights (Class B misdemeanor)
 - **[NDCC Section 62.1-01-03](https://law.justia.com/codes/north-dakota/title-62-1/chapter-62-1-01/section-62-1-01-03/)** — Firearms preemption (covers home rule cities; private civil-action enforcement)
 - **[NDCC Section 62.1-01-03.1](https://law.justia.com/codes/north-dakota/title-62-1/chapter-62-1-01/section-62-1-01-03-1/)** — Prohibits providing assistance to federal agencies on post-2021 firearms enforcement (Second Amendment sanctuary provision)
-- **NDCC Chapter 40-05.1** — Home rule for cities (liberal construction mandate)
-- **NDCC Chapter 11-09.1** — Home rule for counties
-- **NDCC Chapter 40-12** — Municipal initiative/referendum process
+- **[NDCC Chapter 40-05.1](https://law.justia.com/codes/north-dakota/title-40/chapter-40-05-1/)** — Home rule for cities (liberal construction mandate)
+- **[NDCC Chapter 11-09.1](https://law.justia.com/codes/north-dakota/title-11/chapter-11-09-1/)** — Home rule for counties
+- **[NDCC Chapter 40-12](https://law.justia.com/codes/north-dakota/title-40/chapter-40-12/)** — Municipal initiative/referendum process
 - **HB 1588 (2025)** — Grants local governments authority to prohibit firearms in "public areas of publicly owned and operated buildings" ($100 noncriminal penalty)
 - **ND Const. Art. VII, Section 6** — Home rule mandate
 - **ND Const. Art. I, Section 4** — Right to vote

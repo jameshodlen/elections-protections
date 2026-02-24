@@ -43,13 +43,13 @@ The key legal distinction from *Torrez* is that a polling place protection ordin
 
 ## Section 2: New Mexico's statutory framework provides robust foundation
 
-New Mexico's Election Code contains extensive protections that municipal ordinances can reference and reinforce. Most significantly, the 2024 legislative session added **NMSA 1978 § 1-20-24**, creating criminal penalties for firearm possession near polling places—demonstrating clear state policy against armed presence at elections.
+New Mexico's Election Code contains extensive protections that municipal ordinances can reference and reinforce. Most significantly, the 2024 legislative session added **[NMSA 1978 § 1-20-24](https://law.justia.com/codes/new-mexico/chapter-1/article-20/section-1-20-24/)**, creating criminal penalties for firearm possession near polling places—demonstrating clear state policy against armed presence at elections.
 
 ### Voter intimidation and polling place protection statutes
 
-**NMSA 1978 § 1-20-14** (Intimidation) establishes voter intimidation as a **fourth-degree felony**: "Intimidation consists of inducing or attempting to induce fear in any member of an election board, voter, challenger, or watcher by use of or threatened use of force, violence, infliction of damage, harm or loss, or any form of economic retaliation for the purpose of impeding or preventing the free exercise of the elective franchise."
+**[NMSA 1978 § 1-20-14](https://law.justia.com/codes/new-mexico/chapter-1/article-20/section-1-20-14/)** (Intimidation) establishes voter intimidation as a **fourth-degree felony**: "Intimidation consists of inducing or attempting to induce fear in any member of an election board, voter, challenger, or watcher by use of or threatened use of force, violence, infliction of damage, harm or loss, or any form of economic retaliation for the purpose of impeding or preventing the free exercise of the elective franchise."
 
-**NMSA 1978 § 1-20-24** (Unlawful possession of a firearm at a polling place), enacted in 2024, prohibits loaded or unloaded firearms within **100 feet** of polling place entrances at schools, county clerk offices, alternate voting locations, and mobile voting sites, and within **50 feet** of monitored secured ballot containers beginning 28 days before an election. Exceptions apply for certified law enforcement officers on duty, persons in private automobiles, and concealed handgun license holders. Violations constitute petty misdemeanors.
+**[NMSA 1978 § 1-20-24](https://law.justia.com/codes/new-mexico/chapter-1/article-20/section-1-20-24/)** (Unlawful possession of a firearm at a polling place), enacted in 2024, prohibits loaded or unloaded firearms within **100 feet** of polling place entrances at schools, county clerk offices, alternate voting locations, and mobile voting sites, and within **50 feet** of monitored secured ballot containers beginning 28 days before an election. Exceptions apply for certified law enforcement officers on duty, persons in private automobiles, and concealed handgun license holders. Violations constitute petty misdemeanors.
 
 Additional protective statutes include **NMSA 1978 § 1-20-16** (electioneering within 100 feet of polling places), **§ 1-20-17** (obstructing polling places—50-foot restriction), and **§ 1-20-20** (disturbing the polling place).
 
