@@ -50,9 +50,9 @@ The anti-commandeering doctrine (Printz, Murphy) provides the federal constituti
 - **[NRS Section 293.710](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-710/):** Voter intimidation -- **Category E felony**, punishable by 1-4 years imprisonment and fines up to $5,000.
 - **[NRS Section 293.730](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-730/):** Interfering with elections (including remaining at polling places to interfere or setting up unauthorized ballot drop boxes) -- **Category E felony**.
 - **[NRS Section 293.755](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-755/):** Tampering with election equipment with intent to influence outcomes -- **Category B felony**.
-- **NRS Section 293.840:** Civil penalties up to **$20,000 per violation**.
-- **NRS Section 293.705(3):** Disseminating personal identifying information of election officials without consent, where it could cause harm -- **Category E felony**.
-- **NRS Section 202.265:** Firearms on school property -- covers school-located polling places only.
+- **[NRS Section 293.840](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-840/):** Civil penalties up to **$20,000 per violation**.
+- **[NRS Section 293.705(3)](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-705/):** Disseminating personal identifying information of election officials without consent, where it could cause harm -- **Category E felony**.
+- **[NRS Section 202.265](https://law.justia.com/codes/nevada/revised-statutes/title-15/chapter-202/section-202-265/):** Firearms on school property -- covers school-located polling places only.
 - **Article 2, Section 1A (NV Constitution):** Voters' Bill of Rights (2020).
 - **AB 321 (2021):** Permanent universal mail voting.
 - **No specific statute prohibiting firearms at polling places** -- critical gap.

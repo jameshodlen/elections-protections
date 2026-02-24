@@ -44,13 +44,13 @@ The anti-commandeering doctrine (Printz, Murphy) provides the federal constituti
 
 ### Key state statutes
 
-- **N.C.G.S. Section 163-166.4:** Establishes buffer zones of **25 to 50 feet** from the entrance door, with county boards setting the exact distance. County boards must publish the specific measurement and area for lawful electioneering at least 30 days before each election. **No specific statutory penalty** for violating the buffer zone rule per UNC School of Government analysis.
-- **N.C.G.S. Section 163-274:** Interference with voters, boisterous conduct at polling places -- **Class 2 misdemeanor**.
-- **N.C.G.S. Section 163-275(10)-(11), (17):** Intimidating voters, intimidating election officials, or misrepresenting the law to discourage voting -- **Class I felony**.
-- **N.C.G.S. Section 163-22:** NCSBE general supervision over all primaries and elections; rulemaking authority.
-- **N.C.G.S. Section 163-24:** NCSBE constituted as an inferior court with power to commit persons to jail for up to 30 days for disobedience.
-- **N.C.G.S. Section 163-27.1:** Emergency powers -- Executive Director may modify election schedules during natural disasters, extreme weather, or armed conflict.
-- **N.C.G.S. Section 163-30:** 100 county boards of elections, each with 3 members appointed by the State Board.
+- **[N.C.G.S. Section 163-166.4](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-166.4.html):** Establishes buffer zones of **25 to 50 feet** from the entrance door, with county boards setting the exact distance. County boards must publish the specific measurement and area for lawful electioneering at least 30 days before each election. **No specific statutory penalty** for violating the buffer zone rule per UNC School of Government analysis.
+- **[N.C.G.S. Section 163-274](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-274.html):** Interference with voters, boisterous conduct at polling places -- **Class 2 misdemeanor**.
+- **[N.C.G.S. Section 163-275(10)-(11), (17)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-275.html):** Intimidating voters, intimidating election officials, or misrepresenting the law to discourage voting -- **Class I felony**.
+- **[N.C.G.S. Section 163-22](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-22.html):** NCSBE general supervision over all primaries and elections; rulemaking authority.
+- **[N.C.G.S. Section 163-24](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-24.html):** NCSBE constituted as an inferior court with power to commit persons to jail for up to 30 days for disobedience.
+- **[N.C.G.S. Section 163-27.1](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-27.1.html):** Emergency powers -- Executive Director may modify election schedules during natural disasters, extreme weather, or armed conflict.
+- **[N.C.G.S. Section 163-30](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-30.html):** 100 county boards of elections, each with 3 members appointed by the State Board.
 - **N.C.G.S. Section 163-45.1 (S.L. 2023-140):** Election observer rules -- observers must be registered voters in the county, present credentials, and comply with conduct restrictions (no voter interaction, no photography of voters).
 - **N.C.G.S. Section 163-48:** Authorizes officials to "prevent and stop improper practices and attempts to obstruct, intimidate, or interfere."
 - **N.C.G.S. Section 163-166.16 (S.L. 2023-140):** Photo voter ID requirements.
