@@ -44,11 +44,11 @@ Vermont has been a **constitutional carry state since 1793** -- the longest such
 
 ### Key state statutes
 
-- **13 V.S.A. Section 4027 (2024):** **Firearms ban at polling places** -- prohibits carrying firearms at any polling place during voting hours. Penalties include up to one year imprisonment. Governor Scott (R) allowed this to become law without his signature.
-- **17 V.S.A. Section 2508:** **Building-based buffer zone** -- covers the entire building plus walks and driveways; no footage measurement (unique approach). Electioneering is prohibited within this zone.
-- **17 V.S.A. Section 2017:** Voter intimidation ("undue influence") -- imposes only a **$200 fine**, the lowest penalty among all Eastern states analyzed. This is a critical weakness.
-- **17 V.S.A. Section 2493:** Prohibits any voting machine on which a voter casts a vote directly -- all 251 municipalities use hand-marked paper ballots with optical scan tabulators.
-- **24 V.S.A. Section 2295:** Firearms preemption -- municipalities may not adopt ordinances relating to possession, ownership, transfer, purchase, carrying, licensing, or registration of firearms.
+- **[13 V.S.A. Section 4027](https://law.justia.com/codes/vermont/title-13/chapter-85/section-4027/) (2024):** **Firearms ban at polling places** -- prohibits carrying firearms at any polling place during voting hours. Penalties include up to one year imprisonment. Governor Scott (R) allowed this to become law without his signature.
+- **[17 V.S.A. Section 2508](https://law.justia.com/codes/vermont/title-17/chapter-51/section-2508/):** **Building-based buffer zone** -- covers the entire building plus walks and driveways; no footage measurement (unique approach). Electioneering is prohibited within this zone.
+- **[17 V.S.A. Section 2017](https://law.justia.com/codes/vermont/title-17/chapter-43/section-2017/):** Voter intimidation ("undue influence") -- imposes only a **$200 fine**, the lowest penalty among all Eastern states analyzed. This is a critical weakness.
+- **[17 V.S.A. Section 2493](https://law.justia.com/codes/vermont/title-17/chapter-51/section-2493/):** Prohibits any voting machine on which a voter casts a vote directly -- all 251 municipalities use hand-marked paper ballots with optical scan tabulators.
+- **[24 V.S.A. Section 2295](https://law.justia.com/codes/vermont/title-24/chapter-61/section-2295/):** Firearms preemption -- municipalities may not adopt ordinances relating to possession, ownership, transfer, purchase, carrying, licensing, or registration of firearms.
 
 **Critical gap:** Vermont's $200 maximum fine for voter intimidation is the weakest penalty among all states in the Eastern analysis. Legislative advocacy to strengthen voter intimidation penalties would significantly complement existing protections.
 

@@ -76,15 +76,15 @@ Washington law already establishes buffer zones around voting locations:
 - **25 feet** from ballot drop boxes
 - **100 feet** from ballot counting centers (for electioneering)
 
-**RCW 9.41.284** specifically addresses weapons at voting facilities, prohibiting firearms, dangerous weapons, air guns, and stun guns at ballot counting centers, voting centers, student engagement hubs, and county elections offices. However, a critical exception exists: **licensed concealed carry IS permitted at voting centers** (though all weapons remain prohibited at ballot counting centers).
+**[RCW 9.41.284](https://law.justia.com/codes/washington/title-9/chapter-9-41/section-9-41-284/)** specifically addresses weapons at voting facilities, prohibiting firearms, dangerous weapons, air guns, and stun guns at ballot counting centers, voting centers, student engagement hubs, and county elections offices. However, a critical exception exists: **licensed concealed carry IS permitted at voting centers** (though all weapons remain prohibited at ballot counting centers).
 
 ### Firearms preemption is the primary legal obstacle
 
-**RCW 9.41.290** presents the most significant legal challenge:
+**[RCW 9.41.290](https://law.justia.com/codes/washington/title-9/chapter-9-41/section-9-41-290/)** presents the most significant legal challenge:
 
 > "The state of Washington hereby fully occupies and preempts the entire field of firearms regulation within the boundaries of the state... Local laws and ordinances that are inconsistent with, more restrictive than, or exceed the requirements of state law shall not be enacted and are preempted and repealed, regardless of the nature of the code, charter, or home rule status of such city, town, county, or municipality."
 
-This preemption is absolute and applies regardless of home rule status. An election protection ordinance **cannot** create additional weapons restrictions at voting locations beyond what RCW 9.41.284 already establishes. The ordinance must therefore be framed around:
+This preemption is absolute and applies regardless of home rule status. An election protection ordinance **cannot** create additional weapons restrictions at voting locations beyond what [RCW 9.41.284](https://law.justia.com/codes/washington/title-9/chapter-9-41/section-9-41-284/) already establishes. The ordinance must therefore be framed around:
 
 - **Voter protection and intimidation prevention** (not firearms regulation)
 - **Municipal resource allocation** (directing how city resources are deployed)

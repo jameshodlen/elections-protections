@@ -77,18 +77,18 @@ This statute directly supports a municipal ordinance directing police priorities
 
 **[N.J.S.A. 40:48-2](https://law.justia.com/codes/new-jersey/title-40/section-40-48-2/)** provides the general police power grant: municipalities "may make, amend, repeal, and enforce such other ordinances... as it may deem necessary and proper for the good of government, order and protection of person and property, and for the preservation of the public health, safety and welfare."
 
-**N.J.S.A. 40:48-1** authorizes municipalities to "manage, regulate and control the finances and property... of the municipality" and to "prescribe and define... the duties and terms of office or employment, of all officers and employees."
+**[N.J.S.A. 40:48-1](https://law.justia.com/codes/new-jersey/title-40/section-40-48-1/)** authorizes municipalities to "manage, regulate and control the finances and property... of the municipality" and to "prescribe and define... the duties and terms of office or employment, of all officers and employees."
 
 ### Summary citation table for ordinance drafters
 
 | Purpose | Citation | Grade | Key Language |
 |---------|----------|-------|--------------|
-| Voter intimidation prohibition | N.J.S.A. 19:34-1.1 | 2nd degree | Covers all persons including officials |
-| Polling place obstruction | N.J.S.A. 19:34-6(a) | 3rd degree | Obstruction, interference, loitering |
-| Firearms at polling places | N.J.S.A. 2C:58-4.6(a)(5) | 3rd degree | Explicit prohibition with exceptions |
-| Municipal police control | N.J.S.A. 40A:14-118 | — | "Priorities and objectives" of police |
-| General police power | N.J.S.A. 40:48-2 | — | "Public health, safety and welfare" |
-| Liberal construction | N.J.S.A. 40:69A-30 | — | "Greatest power of local self-government" |
+| Voter intimidation prohibition | [N.J.S.A. 19:34-1.1](https://law.justia.com/codes/new-jersey/title-19/section-19-34-1-1/) | 2nd degree | Covers all persons including officials |
+| Polling place obstruction | [N.J.S.A. 19:34-6(a)](https://law.justia.com/codes/new-jersey/title-19/section-19-34-6/) | 3rd degree | Obstruction, interference, loitering |
+| Firearms at polling places | [N.J.S.A. 2C:58-4.6(a)(5)](https://law.justia.com/codes/new-jersey/title-2c/section-2c-58-4-6/) | 3rd degree | Explicit prohibition with exceptions |
+| Municipal police control | [N.J.S.A. 40A:14-118](https://law.justia.com/codes/new-jersey/title-40a/section-40a-14-118/) | — | "Priorities and objectives" of police |
+| General police power | [N.J.S.A. 40:48-2](https://law.justia.com/codes/new-jersey/title-40/section-40-48-2/) | — | "Public health, safety and welfare" |
+| Liberal construction | [N.J.S.A. 40:69A-30](https://law.justia.com/codes/new-jersey/title-40/section-40-69a-30/) | — | "Greatest power of local self-government" |
 
 ---
 
