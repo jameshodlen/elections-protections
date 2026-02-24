@@ -290,3 +290,60 @@ The viability of an Alaska municipal election protection ordinance depends criti
 5. **Invoke federal policy alignment** with 18 U.S.C. § 592 without claiming direct enforcement authority
 
 Anchorage presents the optimal launch opportunity with its progressive supermajority, established civil liberties record, and strong home rule authority. The coalition infrastructure—particularly the newly formalized Native voting partnership and ACLU leadership—provides essential organizational capacity. Legal risks exist primarily around firearms preemption, but careful ordinance drafting focused on resource allocation and police protocols rather than direct firearms regulation offers a viable path forward.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Alaska's election security infrastructure is the most vulnerable in the Pacific and Western region, characterized by significant CISO turnover, minimal National Guard cyber capability, resource-constrained IT systems, and the complete absence of any firearms prohibition at polling places. The state's unique geography -- with 131 hand-count precincts in remote villages accessible only by aircraft, boat, or snowmachine, most with no resident law enforcement -- creates security challenges found nowhere else in the nation. The CISA withdrawal and EI-ISAC defunding have the most severe impact on Alaska of any state studied, as its dependence on federal information-sharing networks was proportionally greater than larger, better-resourced states.
+
+### State Election Authority & Legal Framework
+
+Elections are administered by the **Alaska Division of Elections** under **Lt. Governor Nancy Dahlstrom** (R). **Director Carol Beecher** runs day-to-day operations from four regional offices (Juneau, Anchorage, Fairbanks, Nome). Alaska uses a borough/city municipal system rather than counties.
+
+Alaska is a **paper ballot state** with **270 optical scan precincts** using Dominion ImageCast tabulators (not internet-connected) and **131 hand-count precincts** -- typically in remote rural communities where election boards hand-count ballots and call results to regional offices. Each precinct has at least one accessible voting tablet (BMD) for disability and language assistance. The State Ballot Review Board audits at least 5% of votes from each House district.
+
+**Ranked-choice voting remains in effect** after a 2024 repeal measure (Ballot Measure 2) failed by just **743 votes** (0.23%) following a recount completed December 10, 2024. A new repeal petition (25USCV) is under review as of January 2026.
+
+**Key 2024-2025 legislation:** SB 64, an omnibus election bill, addresses expanded early voting in rural communities, synthetic media in electioneering, voter registration procedures, and strengthened unlawful interference provisions.
+
+Alaska's home rule municipalities (e.g., Municipality of Anchorage, Matanuska-Susitna Borough) can run their own municipal elections but must follow state law for state and federal contests.
+
+### Cybersecurity Infrastructure & Capabilities
+
+Alaska's cybersecurity is led by the **Office of Information Technology** under **CIO Bill Smith**. The state's cybersecurity posture has been described as **"challenged" and "very, very vulnerable"** by former officials. Alaska has experienced **significant CISO turnover** -- at least three CISOs since 2017. Former State CISO Mark Breunig later became CISA's Cybersecurity State Coordinator for Alaska. An $11.6 million cybersecurity contract with Evotek was terminated under disputed circumstances.
+
+Election cybersecurity measures include CISA Cyber Hygiene Scanning registration, EI-ISAC participation (now defunded), logic and accuracy testing, and bipartisan absentee ballot review. The Division of Elections participates in national tabletop exercises.
+
+Alaska's National Guard cyber capability is the **smallest in the Pacific and Western region**: approximately **15 cyber/computer security specialists** who participate in Cyber Shield exercises. No dedicated cyberspace operations squadron exists. Alaska was **not listed** among states that activated Guard cyber units for election support in recent cycles.
+
+**HAVA funding totals approximately $27 million** ($6 million in Election Security Grants at the minimum floor allocation). Alaska's centralized election administration means the state bears nearly all election costs -- creating efficiency but also a single point of failure.
+
+**The CISA withdrawal impact is most severe for Alaska.** The state's resource-constrained cybersecurity, minimal Guard cyber capability, small IT workforce, and dependence on federal information-sharing networks make it the most vulnerable state in the region.
+
+### Physical Security & Polling Place Protections
+
+Alaska maintains a **200-foot electioneering-free buffer zone** (AS 15.15.170, AS 15.56.016) -- one of the largest in the nation.
+
+**Alaska has NO statute prohibiting firearms at polling places.** Alaska is a **constitutional carry state** -- no permit is needed for either open or concealed carry (open carry legal at 16+, concealed at 21+). Article 1, section 19 of the Alaska Constitution provides that the right to keep and bear arms "shall not be denied or infringed by the State or a political subdivision of the State." Alaska's statutory firearms prohibitions are limited to K-12 school grounds (AS 11.61.195), courthouses (AS 11.61.220(a)(2)), child care centers, domestic violence shelters, and bars. **Polling places in community centers, churches, fire stations, or other non-school venues have no firearms restriction whatsoever.**
+
+This gap is compounded by three factors. First, approximately **131 hand-count precincts** operate in remote villages accessible only by aircraft, boat, or snowmachine -- most with **no resident law enforcement**. Alaska State Troopers have extremely limited rural coverage, and Village Public Safety Officer positions face chronic vacancies. Second, Alaska's significant **Alaska Native populations** have historically faced voting access challenges, with the *Toyukak v. Dahlstrom* consent decree requiring comprehensive language assistance through December 2026. Third, the absence of any firearms restriction at polls means the only recourse is **after-the-fact prosecution** under general voter intimidation statutes (AS 15.56.030, a Class C felony), which provides no preventive deterrent.
+
+**Poll watchers** may observe all election procedures, closely observe ballot preparation, and challenge voters they suspect are unqualified (must be in writing with stated reason). Watchers who create a public disturbance may be removed.
+
+### Legal Strategies & Key Contacts
+
+**Alaska did NOT join the EO 14248 lawsuit** and has **cooperated with EO 14248** -- the Lt. Governor's office confirmed that Alaska provided the DOJ with its **complete voter registration list** in December 2025, citing AS 15.07.195(c)(1). Alaska's AG is Republican, and the state has not opposed the executive order.
+
+**AG Stephen J. Cox** was appointed August 29, 2025, replacing Treg Taylor who resigned to run for governor. Cox is a former DOJ official and is subject to legislative confirmation in 2026. There is no AG election protection program or hotline.
+
+Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C. section 20511) and private rights of action under 42 U.S.C. section 1983 remain available. Alaska Native voting protections operate primarily through the Voting Rights Act section 203 consent decree (*Toyukak v. Dahlstrom*), enforceable through federal court.
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Division of Elections | (907) 465-4611; (866) 952-8683; carol.beecher@alaska.gov |
+| Attorney General | (907) 269-5100; law.alaska.gov |
+| Office of Information Technology | oit.alaska.gov |
+| Homeland Security & Emergency Management | (907) 428-7000; ready.alaska.gov |

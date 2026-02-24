@@ -169,3 +169,49 @@ Litigation risk for this ordinance type in Maine is **low to moderate**. The com
 ## Conclusion
 
 Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Maine faces disproportionate challenges from the withdrawal of federal election security services. Secretary of State Shenna Bellows has been one of the most outspoken state officials on the impact of CISA's withdrawal, noting that Maine's November 2025 statewide referendum was "the first time that the state didn't have a mechanism to participate in a nationwide situation room." The state's small election office staff, highly decentralized municipal system (500+ municipalities), and limited cybersecurity resources make the loss of free federal services particularly acute. However, Maine's hand-marked paper ballot foundation, strong voter rejection of restrictive ballot measures, and active AG participation in multistate election protection litigation provide meaningful resilience.
+
+### State Election Authority & Legal Framework
+
+Maine's Secretary of State, Shenna Bellows, administers elections through the Bureau of Corporations, Elections and Commissions. The state's 500+ municipalities range from cities to small towns, creating a highly decentralized system where town clerks administer elections with Secretary of State oversight.
+
+**Key statutes:** 21-A M.R.S. (Maine Election Law); § 681 (polling place operations); § 674 (voter intimidation). Maine voters rejected a restrictive ballot measure in November 2025 (64% opposed) that would have eliminated automatic mail voter status for seniors and people with disabilities, banned prepaid postage for mail ballot return envelopes, expanded frivolous voter eligibility challenges, and required photo ID for in-person and mail voting.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** Maine's Office of Information Technology (OIT) coordinates state cybersecurity including election infrastructure protection. The state operates on a smaller scale than other Northeast states but participates in regional information sharing.
+
+**Election-specific resources:** Secretary Bellows has emphasized the direct impact of losing CISA's Election Day situation room and EI-ISAC services. Maine's small election office staff means the loss of free federal cybersecurity services creates disproportionate burden. The state uses hand-marked paper ballots with optical scanners, providing inherent audit capability.
+
+**HAVA funding:** Maine has received standard small-state HAVA allocations. Limited funding makes the loss of free federal services particularly acute.
+
+**National Guard:** The Maine National Guard maintains limited cyber capabilities that can be activated for election support.
+
+**CISA impact:** Maine is among the states most affected by the withdrawal of federal election security services. Secretary Bellows directly described losing situation room access as unprecedented, and the small state's resource constraints make independent alternatives difficult to fund.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** 250-foot protection zone around polling places (21-A M.R.S. § 682) where influencing voters or interfering with free passage is prohibited as a Class E crime.
+
+**Firearms:** Maine is a constitutional carry state with no permit required for concealed carry. The state does **not** have a specific polling place firearms prohibition, though firearms restrictions apply at school-located polling places. This is a significant gap compared to other Northeast states and represents a priority area for municipal ordinance work under 18 U.S.C. § 592.
+
+**Warden authority:** 21-A M.R.S. § 662(2) grants wardens authority to maintain order: "The warden shall keep order at all times in and around the voting place. The warden shall direct that any person who creates a disturbance or otherwise violates the law at the voting place be removed."
+
+**Voter intimidation:** 21-A M.R.S. § 674 prohibits voter intimidation. § 674(2)(E) makes it a Class D crime to intentionally interfere by force, violence, or intimidation with any public official performing an official function relating to an election. § 674(1)(B) makes interference with a voter attempting to cast a vote a Class E crime.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** Maine joined the 19-state coalition on April 3, 2025. The state participated in the preliminary injunction motion granted June 13, 2025.
+
+**AG enforcement authority:** The Maine AG's office has authority over election law enforcement and has coordinated with the Secretary of State on election protection.
+
+**Key gap:** Maine's lack of a polling place firearms prohibition, combined with its constitutional carry law, creates the weakest armed intimidation protection in the Northeast. Municipal ordinances prohibiting city resources from assisting armed federal personnel near polling places would provide a critical layer of protection not available under state law.
+
+**Key contacts:**
+- **Secretary of State, Elections Division:** (207) 624-7736, sos.maine.gov
+- **AG Office:** (207) 626-8800

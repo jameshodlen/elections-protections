@@ -141,3 +141,58 @@ The legal and political conditions in Ohio favor a municipal election protection
 The recommended approach prioritizes Columbus, Cleveland, and Cincinnati as simultaneous first-movers, leveraging the momentum from *Columbus v. Ohio* (2025) and the proven willingness of these cities to challenge state overreach. Working through the Ohio Voter Rights Coalition structure—rather than building parallel infrastructure—maximizes efficiency and draws on established relationships between ACLU Ohio, League of Women Voters chapters, Common Cause Ohio, and allied organizations.
 
 An ordinance framed as protecting federal election law (18 U.S.C. § 592) rather than defying state authority provides the strongest legal positioning, allowing municipalities to claim they are simply directing local resources consistent with established federal policy dating to Reconstruction. The combination of constitutional home rule authority, statutory control over municipal police, and federal supremacy principles creates multiple defensive layers against state interference.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+Ohio is **nationally recognized as a Tier 1 leader** in election cybersecurity, distinguished by the first-of-its-kind Ohio Cyber Reserve (a volunteer civilian cyber defense force), Albert intrusion detection sensors deployed to all 88 county boards of elections, and a 34-point Security Directive widely considered the most comprehensive in the nation. Secretary of State Frank LaRose won the SANS 2020 Difference Makers Award for cybersecurity and has issued six comprehensive security directives through 2025. However, the state faces a uniquely hostile political environment for municipal election protection ordinances: AG Dave Yost is actively petitioning the 6-1 Republican Ohio Supreme Court to overrule the Canton test -- the primary analytical framework protecting home rule -- and ORC section 9.68 is among the most aggressive firearms preemption statutes in the nation, with mandatory attorney fees against noncompliant cities.
+
+### State Election Authority & Legal Framework
+
+**Secretary of State Frank LaRose (R)** oversees Ohio's election infrastructure through 88 bipartisan county boards of elections, a structure established under O.R.C. Title 35. LaRose won the SANS 2020 Difference Makers Award for cybersecurity and has issued **six comprehensive security directives** to county boards through 2025.
+
+Ohio uses a mixed voting system: **47 counties** use hand-marked paper ballots with optical scanners, **28 counties** use ballot marking devices for all voters, and **13 counties** retain DRE machines -- all with legally mandated voter-verified paper audit trails (O.R.C. section 3506.01(H)). Internet connectivity is prohibited by law. Mandatory post-election audits in all 88 counties returned a **99.98% accuracy rate** in the 2020 general election, with escalation to full hand counts required if accuracy falls below 99.5%.
+
+Ohio's constitutional home rule under Article XVIII, Section 3 grants municipalities authority to exercise "all powers of local self-government." The critical structural detail is that **Section 3 contains three distinct clauses** that operate differently: Clause 1 grants power to exercise "all powers of local self-government" -- this power **stands alone** and is not modified by the conflict clause. Clause 2 grants police power concurrently with the state. Clause 3 (the conflict clause) modifies **only Clause 2**, not Clause 1. Ordinances framed as exercises of local self-government (Clause 1) -- such as management of city resources and personnel -- are generally immune from state preemption, while police power ordinances (Clause 2) may be preempted by conflicting general laws.
+
+Over **300 municipalities** have adopted home rule charters; all target cities -- Columbus, Cleveland, Cincinnati, Dayton -- are charter cities. Home rule is **self-executing** (*Perrysburg v. Ridgway*, 1923). There is **no supremacy clause** in the Ohio Constitution, making preemption narrower than its federal counterpart.
+
+Key recent legislative changes include SB 215 (constitutional carry, effective June 2022) and the defeat of Issue 1 (August 2023), preserving the simple majority threshold for constitutional amendments.
+
+### Cybersecurity Infrastructure & Capabilities
+
+The **Ohio Cyber Reserve (OhCR)**, created by SB 52 under LaRose's leadership, is a first-of-its-kind volunteer civilian cyber defense force under the Adjutant General, modeled on volunteer firefighter departments. Target strength is 200+ vetted members conducting cybersecurity assessments and incident response.
+
+The state has deployed **Albert intrusion detection sensors** to all 88 county boards and all major election system vendors, alongside **SIEM (Security Information and Event Management)** monitoring at every county board. LaRose's 34-point Security Directive (2019) was "widely considered to be the most comprehensive in the United States" and has been used as a model nationally. Additional infrastructure includes MARCS radios for emergency election communications and mandatory DHS cybersecurity training for all board staff.
+
+HAVA funding through 2022 totals **$27.9 million federal plus $3.75 million state match ($31.66 million combined)**, with 88% allocated to cyber and physical security. The Ohio Cyber Integration Center, formally opened in 2025, handles statewide breach reporting. LaRose has been vocal about the need for sustained federal funding, writing in a May 2025 op-ed that the $15 million FY2025 HAVA allocation "is an important step, but election security requires more than temporary funding."
+
+### Physical Security & Polling Place Protections
+
+The electioneering buffer zone is **100 feet** (O.R.C. section 3501.35), marked by small U.S. flags. If voter lines extend beyond flags, campaigning is prohibited within **10 feet of any elector in line** (section 3501.35(A)(1)).
+
+Ohio law does not specifically prohibit carrying firearms at polling places for voters, though several layered restrictions apply: school safety zones (section 2923.122) cover many polling locations; government facility restrictions (section 2923.126) apply to buildings with regular government employees; and **poll observers are specifically prohibited from carrying firearms** (O.R.C. section 3505.21(B)) -- the only election-specific firearms restriction. Constitutional carry since June 2022 (SB 215) means anyone 21+ who is not a prohibited person may carry without a permit.
+
+**ORC section 9.68** is among the most aggressive firearms preemption statutes in the nation. It declares the right to keep and bear arms a "fundamental individual right," preempts ALL local firearms regulation, provides **mandatory attorney fees** against noncompliant cities, and as of April 2025 (SB 58) prohibits firearm liability insurance requirements. Pending legislation (February 2026 hearings) would add **punitive/exemplary damages** against cities enacting local gun ordinances. Any election protection ordinance MUST NOT trigger section 9.68 -- it must be framed strictly as local self-government resource allocation, not as firearms regulation.
+
+**Voter intimidation** is a **felony of the fourth degree** (6-18 months imprisonment, up to $5,000 fine) under O.R.C. section 3599.01(2). The county board or SOS may request police officer assignment to precincts under section 3501.34. No Ohio-specific anti-paramilitary statute was identified.
+
+### Legal Strategies & Key Contacts
+
+Ohio **did not join** the EO 14248 lawsuit. **AG Dave Yost (R)** has no independent prosecution authority for election crimes -- the AG cannot bring criminal charges unless invited by a county prosecutor. Yost is **running for Governor in 2026** and seeking Trump endorsement, making fighting "rogue municipalities" politically advantageous for him. He is **actively petitioning the 6-1 Republican Ohio Supreme Court to overrule the Canton test** in a case involving Columbus tobacco regulation (R.C. 9.681). The Ohio Mayors Alliance calls this "the nuclear option for home rule rights."
+
+**Anti-sanctuary legislation** is advancing: **HB 26 (Protecting Ohio Communities Act, 2025-2026)** requires state and local authorities to cooperate with federal immigration enforcement and imposes **10% funding reductions** for noncompliance. While targeting immigration cooperation specifically, its template could be extended to require cooperation with federal law enforcement operations near polling places.
+
+The **recommended litigation pathway**: (1) Frame ordinances under Article XVIII, section 3, Clause 1 (local self-government -- resource allocation), NOT Clause 2 (police power), to potentially avoid the Canton test entirely; (2) seek filing in or removal to **federal court** where 18 U.S.C. section 592 and constitutional anti-commandeering claims can be adjudicated more favorably -- Northern District of Ohio (Cleveland) or Southern District (Columbus), with appeals to the 6th Circuit (Cincinnati); (3) delay any case from reaching the Ohio Supreme Court; (4) coordinate multiple city ordinances to create mutual defense coalition.
+
+Private rights of action rely on federal statutes (42 U.S.C. section 1983, VRA). **Ballot initiative** is an alternative pathway -- Ohio voters passed the reproductive rights amendment (Issue 1, 2023, approximately 57%) and marijuana legalization (Issue 2, 2023), demonstrating willingness to support progressive causes.
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Secretary of State | (877) 767-6446; Elections@OhioSoS.gov; ohiosos.gov |
+| Attorney General | ohioattorneygeneral.gov |
+| Ohio Cyber Reserve | ohcr.ohio.gov |
+| Ohio EMA | (614) 889-7150; ema.ohio.gov |

@@ -240,3 +240,49 @@ New Jersey municipalities possess the legal authority to pass ordinances reinfor
 **Hoboken** offers the optimal launch platform given its progressive track record, new mayoral leadership, manageable scale, and demonstrated willingness to defend local authority. **Newark** provides maximum visibility and immediate access to coalition legal infrastructure. **Jersey City** combines scale with fresh leadership potentially seeking early policy wins.
 
 The immediate next step is engaging the existing NJ Election Protection Coalition—specifically the NJ Institute for Social Justice and ACLU-NJ—to coordinate ordinance drafting with their legal expertise. The infrastructure exists; the legal pathway is navigable; the political will in target municipalities appears aligned. Success depends on translating this analysis into coordinated action before the next major election cycle.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+New Jersey has built one of the Northeast's most capable election security programs, recognized nationally with an EAC Clearie Award for innovative use of HAVA funds. The state's centralized Division of Elections works in close coordination with the New Jersey Cybersecurity and Communications Integration Cell (NJCCIC), operating a dedicated Security Operations Center for Election Day incident response. Recent 2025 legislation expanding the polling place buffer zone to up to 200 feet demonstrates continued legislative commitment to election security.
+
+### State Election Authority & Legal Framework
+
+New Jersey's Division of Elections within the Department of State administers elections under the Secretary of State. The current Secretary of State structure provides centralized oversight of 21 county boards of elections. The Division of Elections has won EAC Clearie Awards for innovative use of HAVA funds.
+
+**Key statutes:** N.J.S.A. 19:1-1 et seq. (Election Law); N.J.S.A. 19:34-1 et seq. (voter intimidation); the state enacted automatic voter registration in 2018 (effective November 2018 via MVC). Recent 2025 legislation expanded the polling place "protective zone" — county boards of elections may now extend it to up to 200 feet (previously fixed at 100 feet).
+
+New Jersey's Faulkner Act and other municipal governance statutes provide home rule authority, but election administration is primarily state-directed through the Division of Elections.
+
+### Cybersecurity Infrastructure & Capabilities
+
+**State cybersecurity apparatus:** The New Jersey Cybersecurity and Communications Integration Cell (NJCCIC), directed by CISO Michael Geraghty, serves as the state's centralized cybersecurity coordination center. NJCCIC monitors election security threats — both cyber and physical — and partners directly with the Division of Elections.
+
+**Election-specific resources:** Using HAVA funds, New Jersey established a dedicated election security team working with NJCCIC. This team was recognized with a 2023 EAC Clearie Award. Originally focused on cybersecurity, the team has expanded to include Election Day monitoring, a Security Operations Center for election incident response, physical assessment of county election infrastructure, training programs, and awareness campaigns. The team includes three cybersecurity specialists and two full-time IT staff.
+
+**HAVA funding:** New Jersey's total HAVA election security allocation was approximately $10.2M across initial rounds, with $3M (31%) directed to cybersecurity, $2.5M to voting equipment, $2.25M to county vulnerability remediation grants, $1M to physical vulnerability assessment and remediation, and the remainder to voter registration system improvements. The Brennan Center estimated NJ needs $40.4-$63.5M to fully replace paperless voting machines statewide — federal grants covered only a fraction.
+
+**National Guard:** The New Jersey National Guard maintains cyber capabilities through Joint Force Headquarters and can be activated for election support through the Governor's office.
+
+### Physical Security & Polling Place Protections
+
+**Buffer zone:** Previously 100 feet from the outside entrance of any polling site. Under a **new 2025 law**, county boards of elections may extend the protective zone to up to **200 feet** — one of the nation's most expansive buffer zone authorities. Electioneering and voter solicitation are prohibited within the zone.
+
+**Firearms:** New Jersey has comprehensive gun restrictions that extend to polling places. The state's concealed carry permit requirements are among the nation's strictest. Polling places in schools and government buildings carry additional firearms prohibitions under state law.
+
+**Poll watchers:** New Jersey law provides for designated challengers at polling places, regulated by county boards.
+
+**Voter intimidation:** Criminal offense to intimidate, threaten, or coerce voters (N.J.S.A. 19:34-1 et seq.). The AG's Voter Protection Initiative (established 2022) works with community stakeholders to identify and address voting access issues, including violations under the New Jersey Civil Rights Act and the Law Against Discrimination.
+
+### Legal Strategies & Key Contacts
+
+**EO 14248 lawsuit:** AG Matthew J. Platkin joined the 19-state coalition on April 3, 2025. The lawsuit was filed in U.S. District Court for the District of Massachusetts. A preliminary injunction was granted June 13, 2025.
+
+**AG enforcement authority:** AG Platkin has issued updated Attorney General's Guidance on the Role of Law Enforcement in Election Activities to local law enforcement and County Prosecutors statewide. The Office of Public Integrity and Accountability handles election-related enforcement. The AG's Voter Protection Initiative coordinates with the Division of Law for civil enforcement.
+
+**Key contacts:**
+- **Division of Elections:** (609) 292-3760
+- **NJCCIC:** njccic@cyber.nj.gov
+- **AG Election Protection:** Report incidents through the AG's office at (609) 292-4925
+- **Secretary of State:** 33 W. State St., Trenton, NJ 08608

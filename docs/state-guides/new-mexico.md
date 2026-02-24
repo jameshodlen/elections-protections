@@ -138,3 +138,60 @@ The recommended implementation sequence should begin with **Santa Fe**, leveragi
 The **Common Cause NM/ACLU-NM Election Protection partnership** provides the natural anchor for coalition coordination, with NAEVA and APCG bringing critical Native American community engagement. The **Center for Civic Policy's NM Civic Engagement Table** offers access to 40+ organizations for grassroots mobilization.
 
 Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.
+
+---
+
+## Section 5: Election Security Infrastructure
+
+New Mexico possesses the strongest existing election security framework among the states researched for this guide, combining a dedicated Office of Cybersecurity created by the Cybersecurity Act of 2023, a first-in-the-nation firearms prohibition at polling places (NMSA 1978 section 1-20-24, enacted 2024), and a uniquely powerful state constitutional provision -- Article II, section 17 -- explicitly barring both civil and military interference with the right of suffrage. The state was ranked **#1 nationally in election administration** in 2024 and operates under a Democratic trifecta with all three statewide elected officials (Governor, SOS, AG) as Democrats. AG Raul Torrez joined the 19-state EO 14248 coalition and operates an Election Protection Hotline. The primary challenge is the state's **constitutional firearms preemption** (Article II, section 6), which is broader than statutory preemption and demands meticulous ordinance drafting.
+
+### State Election Authority & Legal Framework
+
+The **New Mexico Secretary of State** administers elections through the Bureau of Elections under NMSA section 1-2-1. The current Secretary is **Maggie Toulouse Oliver (D)**, serving since 2017. New Mexico operates under a **Democratic trifecta** (Governor, SOS, AG all Democratic). Elections are executed by 33 county clerks.
+
+New Mexico uses **100% paper ballots** counted by **Dominion Voting Systems optical scan tabulators** -- all air-gapped and prohibited by law from internet connection. Post-election audits are conducted under section 1-14-13.2.
+
+The state constitution grants **home rule authority** (Article X, section 6) to municipalities through the Municipal Charter Act (sections 3-15-1 to 3-15-16). Section 6(D) provides that a charter municipality "may exercise all legislative powers and perform all functions not expressly denied by general law or charter." Section 6(E) contains a critical directive: "The purpose of this section is to provide for maximum local self-government. **A liberal construction shall be given to the powers of municipalities.**" Home rule cities include Albuquerque, Santa Fe, Las Cruces, Alamogordo, Clovis, Gallup, Grants, Hobbs, Los Alamos, and Rio Rancho. Bernalillo County also holds a home rule charter.
+
+**Critical preemption issue**: The NM Constitution, **Article II, section 6** provides that "no municipality or county shall regulate, in any way, an incident of the right to keep and bear arms." This constitutional firearms preemption is extremely broad and would likely prevent firearms-specific ordinances. However, a municipal ordinance enforcing 18 U.S.C. section 592 could be structured as enforcement of existing federal law rather than new firearms regulation.
+
+**Unique constitutional asset**: **Article II, section 17** states: "All elections shall be free and open, and **no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage.**" This language -- explicitly barring both civil and military interference with voting -- directly mirrors the concerns addressed by 18 U.S.C. section 592 and provides a state constitutional mandate for election protection ordinances. No other state studied has language this directly on point.
+
+Key case law: *Apodaca v. Wilson* (1974) held that home rule municipalities look to legislative enactments only for express limitations. *State ex rel. Haynes v. Bonem* (1992) established that state statutes can override home rule only if they relate to a "matter of statewide concern." *New Mexicans for Free Enterprise v. City of Santa Fe* (2005) upheld Santa Fe's minimum wage ordinance and rejected implied preemption.
+
+The **Immigrant Safety Act (HB 9, 2025)** provides direct precedent: the NM Senate passed this legislation 24-15, prohibiting state/local governments from entering 287(g) agreements and banning use of public land for immigration detention -- the identical legal architecture of non-cooperation with federal enforcement.
+
+### Cybersecurity Infrastructure & Capabilities
+
+New Mexico created a dedicated **Office of Cybersecurity (OCS)** under the Cybersecurity Act of 2023 (sections 9-27A-1 to 9-27A-5), led by **CISO Raja Sambandam** (contact: NMCYBER@CYBER.NM.GOV). Governor Lujan Grisham's **Executive Order 2024-011** directed adoption of NIST standards across state agencies.
+
+The state benefits from proximity to **Sandia National Laboratories, Los Alamos National Laboratory**, and the NM Cybersecurity Center of Excellence at NM Tech -- creating a cybersecurity research ecosystem unmatched by most states despite New Mexico's relatively small population.
+
+HAVA election security funding totals approximately **$4.15 million (FY2020)**, declining to an estimated **$150,000 (FY2025)** -- reflecting the 96% national decline in HAVA allocations. The centralized state administration bears most election costs, with county clerks handling local execution.
+
+### Physical Security & Polling Place Protections
+
+New Mexico enacted **section 1-20-24 NMSA (SB 5, 2024)** -- one of the most significant polling-place firearms laws nationally -- prohibiting firearms within **100 feet** of polling place entrances and within **50 feet** of monitored ballot drop boxes during the 28-day pre-election period through Election Day. The law was amended in 2025 (HB 101) to add exceptions for commissioned law enforcement officers. Violations are a **petty misdemeanor**. A notable gap: **concealed handgun license holders are exempt.**
+
+The electioneering buffer zone is **100 feet** (section 1-20-16), and unauthorized persons cannot approach within **50 feet** of the entrance (section 1-20-17). New Mexico is an **open carry state** but requires a permit for concealed carry -- it is **not** a constitutional carry state.
+
+**Voter intimidation** (section 1-20-14) is a **fourth-degree felony** (up to 18 months imprisonment), expanded in 2023 to cover election officials and their employees. Poll watchers must complete mandatory training and receive certification from the county clerk before serving (section 1-2-22).
+
+### Legal Strategies & Key Contacts
+
+**AG Raul Torrez (D)** joined the 19-state EO 14248 coalition and has demonstrated strong election protection enforcement. His office operates an **Election Protection Hotline: 1-844-255-9210**. Torrez is the 32nd AG, took office January 2023, and is running for re-election in 2026 (raised $622K+, unopposed in Democratic primary).
+
+No explicit private right of action for voter intimidation exists under state law, but federal remedies under 42 U.S.C. section 1983 and section 1985(3) are available. The **Ku Klux Klan Act's private right of action** under section 1985(3) is especially significant because it does not depend on federal prosecution and can be brought by individual citizens in federal court.
+
+The Democratic trifecta (Senate 26-16, House 44-26) and supportive AG make hostile preemptive legislation **very unlikely** (estimated 5% probability). Allied legislators include **Speaker Javier I. Martinez** (led NM Voting Rights Act), **Rep. D. Wonda Johnson** (Native American voting rights), and **Sen. Katy Duhigg** (NMVRA Senate sponsor).
+
+NM's session structure constrains timing: even-year sessions (2026) are **30 days**, limited to budgets and governor's call items. The **2027 60-day session** is the key window for statewide legislation. Strategy: pass municipal ordinances in Santa Fe and Albuquerque during 2026, then use municipal success to build momentum for statewide codification in 2027.
+
+**Key contacts:**
+
+| Role | Contact |
+|------|---------|
+| Secretary of State | 505-827-3600 / 1-800-477-3632; Elections@sos.nm.gov |
+| Attorney General / Election Protection Hotline | nmdoj.gov; 1-844-255-9210 |
+| Office of Cybersecurity | NMCYBER@CYBER.NM.GOV |
+| DHSEM | www.dhsem.nm.gov |
