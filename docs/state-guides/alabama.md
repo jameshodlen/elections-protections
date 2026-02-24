@@ -52,15 +52,15 @@ Anti-sanctuary/cooperation mandates are aggressive: **HB 56 (Beason-Hammon Act, 
 
 | Statute | Subject | Notes |
 |---------|---------|-------|
-| **Alabama Code Title 17** | Election administration | Comprehensive state control; field preemption |
-| **§ 13A-11-61.2** | Prohibited firearms locations | Lists courthouses, schools, DA offices — **polling places conspicuously absent** |
-| **§ 13A-11-61.3** | Firearms preemption | "Entire field" preempted; subsection (d) overrides home rule; AG enforcement |
-| **Act 2022-133** | Permitless carry | Concealed carry for adults 19+ without permit or training (effective Jan. 1, 2023) |
-| **§ 17-9-50** | Electioneering buffer zone | **30 feet** — smallest in the Deep South batch and among the smallest nationally |
-| **§ 17-17-33** | Voter intimidation | Class A misdemeanor only — up to 1 year jail and $6,000 fine |
-| **§ 17-15-1** | Election contest standing | Private right to contest elections |
-| **Act 2023-131** | Voting system connectivity | Mandates no internet connectivity for voting systems |
-| **Act 2021-446** | Post-election audits | Authorized but did **not** mandate audits |
+| **[Alabama Code Title 17](https://law.justia.com/codes/alabama/title-17/)** | Election administration | Comprehensive state control; field preemption |
+| **[§ 13A-11-61.2](https://law.justia.com/codes/alabama/title-13a/section-13a-11-61-2/)** | Prohibited firearms locations | Lists courthouses, schools, DA offices — **polling places conspicuously absent** |
+| **[§ 13A-11-61.3](https://law.justia.com/codes/alabama/title-13a/section-13a-11-61-3/)** | Firearms preemption | "Entire field" preempted; subsection (d) overrides home rule; AG enforcement |
+| **[Act 2022-133](https://legiscan.com/AL/bill/HB272/2022)** | Permitless carry | Concealed carry for adults 19+ without permit or training (effective Jan. 1, 2023) |
+| **[§ 17-9-50](https://law.justia.com/codes/alabama/title-17/section-17-9-50/)** | Electioneering buffer zone | **30 feet** — smallest in the Deep South batch and among the smallest nationally |
+| **[§ 17-17-33](https://law.justia.com/codes/alabama/title-17/section-17-17-33/)** | Voter intimidation | Class A misdemeanor only — up to 1 year jail and $6,000 fine |
+| **[§ 17-15-1](https://law.justia.com/codes/alabama/title-17/section-17-15-1/)** | Election contest standing | Private right to contest elections |
+| **[Act 2023-131](https://legiscan.com/AL/bill/HB246/2023)** | Voting system connectivity | Mandates no internet connectivity for voting systems |
+| **[Act 2021-446](https://legiscan.com/AL/bill/SB329/2021)** | Post-election audits | Authorized but did **not** mandate audits |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 
