@@ -86,10 +86,10 @@ Violations constitute a **Class I Felony** under [Wis. Stat. § 12.60(1)(a)](htt
 However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/)** establishes the Police and Fire Commission system that governs most Wisconsin cities. Under [§ 62.13(4)(a)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/), the police chief has authority over "efficient and economical direction of all the activities of the department." AG Opinion 81-1 (1992) established that mayors cannot directly order police chiefs on personnel matters in cities with commissions.
 
 **Effective approach for ordinance implementation:**
-- Frame as **city council resource allocation decision** under § 62.11(5)
+- Frame as **city council resource allocation decision** under [§ 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)
 - Direct that "city resources (vehicles, equipment, personnel time) shall not be used" rather than commanding police operations
 - Coordinate with Police and Fire Commission for operational implementation
-- Reference support for state voter protection law (§ 12.09)
+- Reference support for state voter protection law ([§ 12.09](https://law.justia.com/codes/wisconsin/chapter-12/section-12-09/))
 
 ---
 

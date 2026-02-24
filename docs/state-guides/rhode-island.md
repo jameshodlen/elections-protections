@@ -52,7 +52,7 @@ No Rhode Island Attorney General opinions specifically address § 592, but the a
 
 ### RIGL § 17-23-5 criminalizes voter intimidation as a felony
 
-Rhode Island General Laws § 17-23-5 provides the primary voter intimidation prohibition:
+Rhode Island General Laws [§ 17-23-5](https://law.justia.com/codes/rhode-island/title-17/chapter-17-23/section-17-23-5/) provides the primary voter intimidation prohibition:
 
 > *"Every person...who uses any threat or employs any means of intimidation for the purpose of influencing the elector to vote or withhold that elector's vote for or against any candidate or candidates or proposition pending at an election, shall be guilty of a FELONY."*
 
@@ -60,7 +60,7 @@ The statute's language—**"any means of intimidation"**—is notably broad. Con
 
 ### Additional protective statutes create a comprehensive framework
 
-**RIGL § 17-19-49** establishes a **50-foot buffer zone** from polling place entrances, prohibiting political materials and any conduct that could "intimidate or influence the voters." **RIGL § 17-23-17(7)** broadly prohibits anyone who "willfully hinders the orderly conduct of any election."
+[**RIGL § 17-19-49**](https://law.justia.com/codes/rhode-island/title-17/chapter-17-19/section-17-19-49/) establishes a **50-foot buffer zone** from polling place entrances, prohibiting political materials and any conduct that could "intimidate or influence the voters." [**RIGL § 17-23-17(7)**](https://law.justia.com/codes/rhode-island/title-17/chapter-17-23/section-17-23-17/) broadly prohibits anyone who "willfully hinders the orderly conduct of any election."
 
 Board of Elections regulations (410-RICR-20-00-12) specify that wardens may cause removal or arrest of any person who commits election law violations or "conduct that is designed to discourage a person from exercising his/her right to vote." These existing enforcement mechanisms could support municipal ordinances.
 
@@ -74,7 +74,7 @@ The 2022 Rhode Island Supreme Court decision in *Town of North Providence v. Fra
 
 This "game-changer" decision confirms that police deployment and operational policies fall squarely within municipal authority under home rule.
 
-**RIGL § 45-42-2** governs interlocal police agreements and **requires city/town council approval** for non-emergency cooperation arrangements. This statutory framework reinforces that external cooperation decisions—including those involving federal agencies—require affirmative municipal authorization.
+[**RIGL § 45-42-2**](https://law.justia.com/codes/rhode-island/title-45/chapter-45-42/section-45-42-2/) governs interlocal police agreements and **requires city/town council approval** for non-emergency cooperation arrangements. This statutory framework reinforces that external cooperation decisions—including those involving federal agencies—require affirmative municipal authorization.
 
 Providence's Community-Police Relations Act demonstrates the model:
 - Prohibits providing non-public information to ICE
