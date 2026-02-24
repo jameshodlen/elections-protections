@@ -57,10 +57,10 @@ If any resources are allocated, the ordinance **must** be drafted as a civil/adm
 | Statute | Subject | Notes |
 |---------|---------|-------|
 | **SC Code Title 7** | Election Code | Comprehensive election statutes; State Election Commission administers |
-| **§ 23-31-215(M)(3)** | Firearms at polling places | **Total prohibition** on firearms at polling places on election days |
-| **§ 16-23-20** | Firearms restrictions | Reinforces polling place prohibition |
+| [**§ 23-31-215(M)(3)**](https://law.justia.com/codes/south-carolina/title-23/chapter-31/section-23-31-215/) | Firearms at polling places | **Total prohibition** on firearms at polling places on election days |
+| [**§ 16-23-20**](https://law.justia.com/codes/south-carolina/title-16/chapter-23/section-16-23-20/) | Firearms restrictions | Reinforces polling place prohibition |
 | **H. 3594 (2024)** | Constitutional Carry Act | Explicitly **maintained** polling place prohibition |
-| **§ 23-31-510** | Firearms preemption | Preempts all local firearms regulation; AG actively enforces |
+| [**§ 23-31-510**](https://law.justia.com/codes/south-carolina/title-23/chapter-31/section-23-31-510/) | Firearms preemption | Preempts all local firearms regulation; AG actively enforces |
 | **§ 7-25-180** | Electioneering buffer zone | **500 feet** (expanded from 200 feet in 2022) — second-largest in batch |
 | **Art. VIII, § 14(2) (Constitution)** | Election preemption | "Election and suffrage qualifications" cannot be set aside by local action |
 | **§ 5-7-30** | Municipal police power | Ordinances "not inconsistent with the Constitution and general law" |

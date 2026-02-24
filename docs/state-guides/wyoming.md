@@ -39,19 +39,19 @@ The Wyoming Association of Municipalities has noted that many consider Wyoming m
 **Key Wyoming Statutes:**
 
 - **Wyo. Stat. Title 22** — Election Code of 1973 (as amended)
-- **W.S. 22-6-130** — Post-election ballot audit (enacted 2023; 5% ballot sample for statewide contests)
-- **W.S. 22-15-109** — Poll watchers
-- **W.S. 22-26-101 through 22-26-121** — Offenses and penalties
-- **W.S. 22-26-111** — Voter intimidation (inducing fear through threats of force, violence, harm, or economic/official retaliation — up to 5 years imprisonment and/or $10,000 fine; exclusively a felony)
-- **W.S. 22-26-113** — Electioneering buffer zone (100 yards / 300 feet on Election Day; 100 feet for absentee polling places)
-- **W.S. 22-26-121** — Aggrieved elector complaint mechanism (quasi-private right of action: complaint to SOS/DA, then AG if they refuse to act)
-- **W.S. 6-8-401** — Comprehensive firearms preemption
-- **W.S. 9-14-203** — Second Amendment Protection Act (criminal penalties for enforcing "unconstitutional" federal gun control)
+- **[W.S. 22-6-130](https://law.justia.com/codes/wyoming/title-22/chapter-6/section-22-6-130/)** — Post-election ballot audit (enacted 2023; 5% ballot sample for statewide contests)
+- **[W.S. 22-15-109](https://law.justia.com/codes/wyoming/title-22/chapter-15/section-22-15-109/)** — Poll watchers
+- **[W.S. 22-26-101](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-101/) through [22-26-121](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-121/)** — Offenses and penalties
+- **[W.S. 22-26-111](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-111/)** — Voter intimidation (inducing fear through threats of force, violence, harm, or economic/official retaliation — up to 5 years imprisonment and/or $10,000 fine; exclusively a felony)
+- **[W.S. 22-26-113](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-113/)** — Electioneering buffer zone (100 yards / 300 feet on Election Day; 100 feet for absentee polling places)
+- **[W.S. 22-26-121](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-121/)** — Aggrieved elector complaint mechanism (quasi-private right of action: complaint to SOS/DA, then AG if they refuse to act)
+- **[W.S. 6-8-401](https://law.justia.com/codes/wyoming/title-6/chapter-8/section-6-8-401/)** — Comprehensive firearms preemption
+- **[W.S. 9-14-203](https://law.justia.com/codes/wyoming/title-9/chapter-14/section-9-14-203/)** — Second Amendment Protection Act (criminal penalties for enforcing "unconstitutional" federal gun control)
 - **Wyo. Const. Art. XIII, Section 1** — Home rule (liberally construed, but judicially undermined)
 - **Wyo. Const. Art. 6, Section 27** — Free elections; no civil or military interference with suffrage
 - **Wyo. Const. Art. I, Section 31** — Military subordinate to civil power
 
-Wyoming is **the only state in the Plains and Mountain West batch where voter intimidation is exclusively a felony** (W.S. 22-26-111). W.S. 22-26-121 provides that any aggrieved qualified elector may file a complaint with the SOS or district attorney, and if they refuse to act, with the Attorney General — a **quasi-private right of action** pathway unique in this batch.
+Wyoming is **the only state in the Plains and Mountain West batch where voter intimidation is exclusively a felony** ([W.S. 22-26-111](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-111/)). [W.S. 22-26-121](https://law.justia.com/codes/wyoming/title-22/chapter-26/section-22-26-121/) provides that any aggrieved qualified elector may file a complaint with the SOS or district attorney, and if they refuse to act, with the Attorney General — a **quasi-private right of action** pathway unique in this batch.
 
 **Wyoming has no state voting rights act.** It is exempt from NVRA motor-voter requirements and HAVA provisional ballot requirements due to same-day voter registration.
 
