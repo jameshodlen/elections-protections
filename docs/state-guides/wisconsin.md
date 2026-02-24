@@ -73,17 +73,17 @@ The **Tenth Amendment anti-commandeering doctrine** further supports municipal a
 
 Violations constitute a **Class I Felony** under [Wis. Stat. § 12.60(1)(a)](https://law.justia.com/codes/wisconsin/chapter-12/section-12-60/)—up to 3.5 years imprisonment and $10,000 fine. Additional protections include [§ 12.13(3)(x)](https://law.justia.com/codes/wisconsin/chapter-12/section-12-13/), which prohibits "disorderly behavior at or near a polling place."
 
-**Wisconsin law does not expressly prohibit firearms at polling places.** The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." This gap creates explicit space for local action. Some location-based restrictions apply: firearms are prohibited in K-12 schools (§ 948.605) and courthouses (§ 175.60), affecting many polling places.
+**Wisconsin law does not expressly prohibit firearms at polling places.** The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." This gap creates explicit space for local action. Some location-based restrictions apply: firearms are prohibited in K-12 schools ([§ 948.605](https://law.justia.com/codes/wisconsin/chapter-948/section-948-605/)) and courthouses ([§ 175.60](https://law.justia.com/codes/wisconsin/chapter-175/section-175-60/)), affecting many polling places.
 
 ---
 
 ## Municipal police authority flows through the commission system
 
-**Wis. Stat. § 62.11(5)** grants city councils broad authority:
+**[Wis. Stat. § 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)** grants city councils broad authority:
 
 > *"The council shall have the management and control of the city property, finances, highways, navigable waters, and the public service...The powers hereby conferred shall be in addition to all other grants, and shall be limited only by express language."*
 
-However, **Wis. Stat. § 62.13** establishes the Police and Fire Commission system that governs most Wisconsin cities. Under § 62.13(4)(a), the police chief has authority over "efficient and economical direction of all the activities of the department." AG Opinion 81-1 (1992) established that mayors cannot directly order police chiefs on personnel matters in cities with commissions.
+However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/)** establishes the Police and Fire Commission system that governs most Wisconsin cities. Under [§ 62.13(4)(a)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/), the police chief has authority over "efficient and economical direction of all the activities of the department." AG Opinion 81-1 (1992) established that mayors cannot directly order police chiefs on personnel matters in cities with commissions.
 
 **Effective approach for ordinance implementation:**
 - Frame as **city council resource allocation decision** under § 62.11(5)
