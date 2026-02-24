@@ -45,9 +45,9 @@ The state constitution's **Article I, Section 4** protects citizens' right to vo
 **Key North Dakota Statutes:**
 
 - **NDCC Title 16.1** — Election Code
-- **NDCC Section 16.1-01-04.1** — Voter ID system (North Dakota is the only state without voter registration)
-- **NDCC Section 16.1-10-06** — Electioneering buffer zone (100 feet from polling place room entrance)
-- **NDCC Section 16.1-10-08** — Violation penalty (Class A misdemeanor)
+- **[NDCC Section 16.1-01-04.1](https://law.justia.com/codes/north-dakota/title-16-1/chapter-16-1-01/section-16-1-01-04-1/)** — Voter ID system (North Dakota is the only state without voter registration)
+- **[NDCC Section 16.1-10-06](https://law.justia.com/codes/north-dakota/title-16-1/chapter-16-1-10/section-16-1-10-06/)** — Electioneering buffer zone (100 feet from polling place room entrance)
+- **[NDCC Section 16.1-10-08](https://law.justia.com/codes/north-dakota/title-16-1/chapter-16-1-10/section-16-1-10-08/)** — Violation penalty (Class A misdemeanor)
 - **NDCC Section 12.1-14-02** — Voter intimidation (preventing or obstructing exercise of voting rights through force, threats, or economic coercion — Class C felony)
 - **NDCC Section 12.1-14-03** — Discrimination-based interference with civil rights (Class B misdemeanor)
 - **NDCC Section 62.1-01-03** — Firearms preemption (covers home rule cities; private civil-action enforcement)

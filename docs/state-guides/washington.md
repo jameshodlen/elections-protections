@@ -55,15 +55,15 @@ Unlike states such as Texas or Florida, Washington has enacted **no anti-sanctua
 
 ### Washington's voter intimidation statute provides strong foundation
 
-**RCW 29A.84.620** establishes Washington's primary voter intimidation prohibition:
+**[RCW 29A.84.620](https://law.justia.com/codes/washington/title-29a/chapter-29a-84/section-29a-84-620/)** establishes Washington's primary voter intimidation prohibition:
 
-> "Any person who uses menace, force, threat, or any unlawful means towards any voter to hinder or deter such a voter from voting... is guilty of a class C felony punishable under RCW 9A.20.021."
+> "Any person who uses menace, force, threat, or any unlawful means towards any voter to hinder or deter such a voter from voting... is guilty of a class C felony punishable under [RCW 9A.20.021](https://law.justia.com/codes/washington/title-9a/chapter-9a-20/section-9a-20-021/)."
 
-This carries penalties of up to **5 years imprisonment and/or $10,000 fine**. Additionally, **RCW 29A.84.630** criminalizes attempts to influence voters through "menace or unlawful means" as a gross misdemeanor (up to 364 days imprisonment).
+This carries penalties of up to **5 years imprisonment and/or $10,000 fine**. Additionally, **[RCW 29A.84.630](https://law.justia.com/codes/washington/title-29a/chapter-29a-84/section-29a-84-630/)** criminalizes attempts to influence voters through "menace or unlawful means" as a gross misdemeanor (up to 364 days imprisonment).
 
 ### RCW 29A.84.510 already authorizes municipal law enforcement action
 
-Critically for the proposed ordinance, **RCW 29A.84.510(3)** explicitly authorizes municipal police intervention at polling places:
+Critically for the proposed ordinance, **[RCW 29A.84.510(3)](https://law.justia.com/codes/washington/title-29a/chapter-29a-84/section-29a-84-510/)** explicitly authorizes municipal police intervention at polling places:
 
 > "Any sheriff, deputy sheriff, or **municipal law enforcement officer** shall stop the prohibited activity, and may arrest any person engaging in the prohibited activity."
 
