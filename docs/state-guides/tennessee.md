@@ -51,14 +51,14 @@ Anti-commandeering doctrine faces severe Tennessee-specific complications: the s
 | Statute | Subject | Notes |
 |---------|---------|-------|
 | **Tennessee Code Title 2** | Election Code | Comprehensive; state-administered through appointed County Election Commissions |
-| **T.C.A. § 39-17-1307(g)** | Constitutional carry | Permitless open and concealed carry for 21+ (2021) |
-| **T.C.A. § 39-17-1359** | Government property posting | Entities **can** post to prohibit firearms — but requires metal detectors and security at each entrance |
-| **T.C.A. § 39-17-1314** | Firearms preemption | "Entire field" preempted; 3x attorney's fees against violating localities |
-| **T.C.A. § 2-7-111** | Electioneering buffer zone | **100 feet** — origin of *Burson v. Freeman, 504 U.S. 191 (1992)* |
-| **T.C.A. § 2-7-103(c)** | Law enforcement at polls | Officers barred from within **10 feet** of entrance except by request, to arrest, or to vote |
-| **T.C.A. § 58-1-402** | State guard and elections | Explicitly prohibits state guard supervision of elections |
-| **T.C.A. § 7-68-101 et seq.** | Anti-sanctuary | 2025: **Class E felony** (up to 6 years, $3,000 fine) for officials voting for sanctuary policies |
-| **T.C.A. § 7-51-1802** | Anti-discrimination preemption | Passed specifically to overturn Nashville's LGBTQ+ ordinance |
+| **[T.C.A. § 39-17-1307(g)](https://law.justia.com/codes/tennessee/title-39/chapter-17/part-13/section-39-17-1307/)** | Constitutional carry | Permitless open and concealed carry for 21+ (2021) |
+| **[T.C.A. § 39-17-1359](https://law.justia.com/codes/tennessee/title-39/chapter-17/part-13/section-39-17-1359/)** | Government property posting | Entities **can** post to prohibit firearms — but requires metal detectors and security at each entrance |
+| **[T.C.A. § 39-17-1314](https://law.justia.com/codes/tennessee/title-39/chapter-17/part-13/section-39-17-1314/)** | Firearms preemption | "Entire field" preempted; 3x attorney's fees against violating localities |
+| **[T.C.A. § 2-7-111](https://law.justia.com/codes/tennessee/title-2/chapter-7/part-1/section-2-7-111/)** | Electioneering buffer zone | **100 feet** — origin of *Burson v. Freeman, 504 U.S. 191 (1992)* |
+| **[T.C.A. § 2-7-103(c)](https://law.justia.com/codes/tennessee/title-2/chapter-7/part-1/section-2-7-103/)** | Law enforcement at polls | Officers barred from within **10 feet** of entrance except by request, to arrest, or to vote |
+| **[T.C.A. § 58-1-402](https://law.justia.com/codes/tennessee/title-58/chapter-1/part-4/section-58-1-402/)** | State guard and elections | Explicitly prohibits state guard supervision of elections |
+| **[T.C.A. § 7-68-101](https://law.justia.com/codes/tennessee/title-7/chapter-68/part-1/section-7-68-101/) et seq.** | Anti-sanctuary | 2025: **Class E felony** (up to 6 years, $3,000 fine) for officials voting for sanctuary policies |
+| **[T.C.A. § 7-51-1802](https://law.justia.com/codes/tennessee/title-7/chapter-51/part-18/section-7-51-1802/)** | Anti-discrimination preemption | Passed specifically to overturn Nashville's LGBTQ+ ordinance |
 | **Public Chapter 1144 (2022)** | Paper audit trails | Required VVPAT by Jan. 1, 2024; all 95 counties complied |
 | **Art. XI, § 9 (Constitution)** | Home rule | Adopted 1953; but charters cannot be inconsistent with general state law |
 

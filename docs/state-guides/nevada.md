@@ -46,10 +46,10 @@ The anti-commandeering doctrine (Printz, Murphy) provides the federal constituti
 
 ### Key state statutes
 
-- **NRS Section 293.740:** Establishes a **100-foot buffer zone** from the entrance of any voting location. Violations are a **gross misdemeanor**. County clerks must post visible signs at least 17" x 11" marking the boundary.
-- **NRS Section 293.710:** Voter intimidation -- **Category E felony**, punishable by 1-4 years imprisonment and fines up to $5,000.
-- **NRS Section 293.730:** Interfering with elections (including remaining at polling places to interfere or setting up unauthorized ballot drop boxes) -- **Category E felony**.
-- **NRS Section 293.755:** Tampering with election equipment with intent to influence outcomes -- **Category B felony**.
+- **[NRS Section 293.740](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-740/):** Establishes a **100-foot buffer zone** from the entrance of any voting location. Violations are a **gross misdemeanor**. County clerks must post visible signs at least 17" x 11" marking the boundary.
+- **[NRS Section 293.710](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-710/):** Voter intimidation -- **Category E felony**, punishable by 1-4 years imprisonment and fines up to $5,000.
+- **[NRS Section 293.730](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-730/):** Interfering with elections (including remaining at polling places to interfere or setting up unauthorized ballot drop boxes) -- **Category E felony**.
+- **[NRS Section 293.755](https://law.justia.com/codes/nevada/revised-statutes/title-24/chapter-293/section-293-755/):** Tampering with election equipment with intent to influence outcomes -- **Category B felony**.
 - **NRS Section 293.840:** Civil penalties up to **$20,000 per violation**.
 - **NRS Section 293.705(3):** Disseminating personal identifying information of election officials without consent, where it could cause harm -- **Category E felony**.
 - **NRS Section 202.265:** Firearms on school property -- covers school-located polling places only.
