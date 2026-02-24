@@ -134,16 +134,6 @@ The **November 2022 Franklin County preliminary injunction** against expanded fi
 
 ---
 
-## Conclusion: A coordinated multi-city strategy is achievable
-
-The legal and political conditions in Ohio favor a municipal election protection ordinance campaign. **Article XVIII home rule powers, the Canton test's high bar for state preemption, recent litigation victories, Democratic control of major city councils, and existing OVRC coalition infrastructure** create a favorable environment for action.
-
-The recommended approach prioritizes Columbus, Cleveland, and Cincinnati as simultaneous first-movers, leveraging the momentum from *Columbus v. Ohio* (2025) and the proven willingness of these cities to challenge state overreach. Working through the Ohio Voter Rights Coalition structure—rather than building parallel infrastructure—maximizes efficiency and draws on established relationships between ACLU Ohio, League of Women Voters chapters, Common Cause Ohio, and allied organizations.
-
-An ordinance framed as protecting federal election law (18 U.S.C. § 592) rather than defying state authority provides the strongest legal positioning, allowing municipalities to claim they are simply directing local resources consistent with established federal policy dating to Reconstruction. The combination of constitutional home rule authority, statutory control over municipal police, and federal supremacy principles creates multiple defensive layers against state interference.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Ohio is **nationally recognized as a Tier 1 leader** in election cybersecurity, distinguished by the first-of-its-kind Ohio Cyber Reserve (a volunteer civilian cyber defense force), Albert intrusion detection sensors deployed to all 88 county boards of elections, and a 34-point Security Directive widely considered the most comprehensive in the nation. Secretary of State Frank LaRose won the SANS 2020 Difference Makers Award for cybersecurity and has issued six comprehensive security directives through 2025. However, the state faces a uniquely hostile political environment for municipal election protection ordinances: AG Dave Yost is actively petitioning the 6-1 Republican Ohio Supreme Court to overrule the Canton test -- the primary analytical framework protecting home rule -- and ORC section 9.68 is among the most aggressive firearms preemption statutes in the nation, with mandatory attorney fees against noncompliant cities.
@@ -196,3 +186,12 @@ Private rights of action rely on federal statutes (42 U.S.C. section 1983, VRA).
 | Attorney General | ohioattorneygeneral.gov |
 | Ohio Cyber Reserve | ohcr.ohio.gov |
 | Ohio EMA | (614) 889-7150; ema.ohio.gov |
+## Conclusion: A coordinated multi-city strategy is achievable
+
+The legal and political conditions in Ohio favor a municipal election protection ordinance campaign. **Article XVIII home rule powers, the Canton test's high bar for state preemption, recent litigation victories, Democratic control of major city councils, and existing OVRC coalition infrastructure** create a favorable environment for action.
+
+The recommended approach prioritizes Columbus, Cleveland, and Cincinnati as simultaneous first-movers, leveraging the momentum from *Columbus v. Ohio* (2025) and the proven willingness of these cities to challenge state overreach. Working through the Ohio Voter Rights Coalition structure—rather than building parallel infrastructure—maximizes efficiency and draws on established relationships between ACLU Ohio, League of Women Voters chapters, Common Cause Ohio, and allied organizations.
+
+An ordinance framed as protecting federal election law (18 U.S.C. § 592) rather than defying state authority provides the strongest legal positioning, allowing municipalities to claim they are simply directing local resources consistent with established federal policy dating to Reconstruction. The combination of constitutional home rule authority, statutory control over municipal police, and federal supremacy principles creates multiple defensive layers against state interference.
+
+---

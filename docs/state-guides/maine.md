@@ -166,12 +166,6 @@ Litigation risk for this ordinance type in Maine is **low to moderate**. The com
 
 ---
 
-## Conclusion
-
-Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Maine faces disproportionate challenges from the withdrawal of federal election security services. Secretary of State Shenna Bellows has been one of the most outspoken state officials on the impact of CISA's withdrawal, noting that Maine's November 2025 statewide referendum was "the first time that the state didn't have a mechanism to participate in a nationwide situation room." The state's small election office staff, highly decentralized municipal system (500+ municipalities), and limited cybersecurity resources make the loss of free federal services particularly acute. However, Maine's hand-marked paper ballot foundation, strong voter rejection of restrictive ballot measures, and active AG participation in multistate election protection litigation provide meaningful resilience.
@@ -215,3 +209,10 @@ Maine's Secretary of State, Shenna Bellows, administers elections through the Bu
 **Key contacts:**
 - **Secretary of State, Elections Division:** (207) 624-7736, sos.maine.gov
 - **AG Office:** (207) 626-8800
+
+## Conclusion
+
+Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
+
+---
+

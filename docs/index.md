@@ -119,6 +119,8 @@ Federal law makes it a felony for armed federal personnel to station themselves 
 | [The Supremacy Clause](legal-foundation/supremacy-clause.md) | Anti-commandeering doctrine and federal preemption taxonomy | Attorneys |
 | [Ballot Security Injunction History](legal-foundation/ballot-security-history.md) | DNC v. RNC consent decree and post-2017 litigation landscape | Attorneys |
 | [50-State Viability Analysis](legal-foundation/50-state-overview.md) | Full strategic map with GREEN/YELLOW/RED tiers and swing state windows | All |
+| [Evidence Collection Framework](legal-foundation/evidence-framework.md) | Litigation evidence protocol, chain of custody, expert witness strategy | Attorneys |
+| [Master Ordinance Template](legal-foundation/master-ordinance-template.md) | Model municipal ordinance with 14 operative sections and tier-specific adaptations | Officials, Attorneys |
 
 ---
 

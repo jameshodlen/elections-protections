@@ -161,18 +161,6 @@ The 45+ organization coalition that passed the Colorado Voting Rights Act in 202
 
 ---
 
-## Conclusion: A favorable legal and political window
-
-Colorado's unique combination of repealed firearms preemption, robust home rule authority, existing polling place protections, and established sanctuary law precedent creates an unusually favorable environment for municipal election protection ordinances. The key legal insight is that **the path runs through police power and resource allocation rather than criminal penalties or election administration**—areas where home rule authority is strongest.
-
-The December 2025 *Camp v. Westminster* decision signals courts may scrutinize ordinances that create criminal penalties exceeding state law, making careful drafting essential. However, ordinances directing municipal police not to assist armed federal personnel at polling places—framed as resource allocation and local police directives—should survive preemption analysis.
-
-Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the optimal launch city. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
-
-The most significant strategic advantage is the pre-existing COVRA coalition infrastructure—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Colorado's election security infrastructure is among the most advanced in the nation, built on the first statewide risk-limiting audit system, comprehensive firearms prohibitions at polling places following the Vote Without Fear Act and Sensitive Spaces Act, and a cybersecurity apparatus that benefits from proximity to NORAD, NORTHCOM, and U.S. Space Command. The state's proactive use of National Guard cyber teams for election support since 2018 -- activated by executive order each cycle -- provides a model for state-level cybersecurity independence from federal agencies. The 2024-2025 legislative session produced both the Sensitive Spaces Act (expanding firearms prohibitions to all carry at polling locations) and the Colorado Voting Rights Act (creating a private right of action for voter suppression), further strengthening the legal framework.
@@ -223,3 +211,15 @@ Colorado's sanctuary state legislation provides direct structural precedent for 
 | AG Election Protection | (720) 508-6777; coag.gov/votingadvisory/ |
 | CIAC Watch Center | (877) 509-2422; WatchCenter@state.co.us |
 | DHSEM | (720) 852-6600; dhsem.colorado.gov |
+## Conclusion: A favorable legal and political window
+
+Colorado's unique combination of repealed firearms preemption, robust home rule authority, existing polling place protections, and established sanctuary law precedent creates an unusually favorable environment for municipal election protection ordinances. The key legal insight is that **the path runs through police power and resource allocation rather than criminal penalties or election administration**—areas where home rule authority is strongest.
+
+The December 2025 *Camp v. Westminster* decision signals courts may scrutinize ordinances that create criminal penalties exceeding state law, making careful drafting essential. However, ordinances directing municipal police not to assist armed federal personnel at polling places—framed as resource allocation and local police directives—should survive preemption analysis.
+
+Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the optimal launch city. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
+
+The most significant strategic advantage is the pre-existing COVRA coalition infrastructure—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
+
+---
+

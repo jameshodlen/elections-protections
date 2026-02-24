@@ -181,16 +181,6 @@ Madison's **Police Civilian Oversight Board** with subpoena power represents the
 
 ---
 
-## Conclusion
-
-Wisconsin's legal framework creates a viable—if narrow—path for municipal election protection ordinances. The key is **avoiding the firearms preemption trap** through careful drafting that focuses on resource allocation rather than armed/unarmed distinctions. Cities should frame ordinances as operational directives supporting federal voter protection law under their § 62.11(5) authority over city property, finances, and public services.
-
-The **Voces de la Frontera–ACLU partnership model** demonstrated in current ICE detainer litigation provides the template for coalition advocacy: grassroots mobilization capacity paired with legal expertise. With Madison as the template, campaigns should prioritize **Racine and Green Bay** for immediate outreach given favorable mayors with personal experience in election-related conflicts, followed by La Crosse's new progressive leadership and Milwaukee's scale.
-
-The May 2025 DHS sanctuary designations and ongoing state budget debates create political momentum. The window for municipal action should be leveraged before potential state preemption legislation, making **2026 the critical year** for expansion across Wisconsin's progressive cities.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Wisconsin's election security posture combines significant strengths — $5.6 million in available HAVA funds, a 400+ member Cyber Response Team, a bipartisan Elections Commission that voted to deny DOJ voter data requests, and strong observer/removal authority for chief inspectors — with notable challenges, including a highly decentralized system of 1,850+ municipal clerks, a 2017 anti-sanctuary law constraining local immigration cooperation, and the absence of an express state prohibition on firearms at polling places. The April 2024 constitutional amendments strengthening election administration, combined with the Wisconsin Supreme Court's July 2024 decision upholding drop boxes, demonstrate ongoing institutional commitment to election integrity. Wisconsin's constraints require more creative policy approaches than Minnesota — focusing on data protection, community trust policies, and election worker training rather than direct non-cooperation ordinances — but meaningful protections remain achievable.
@@ -268,3 +258,13 @@ The **Wisconsin Elections Commission (WEC)** administers elections, with Adminis
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
 - **CEIR Legal Defense Network:** legaldefense@electioninnovation.org
+## Conclusion
+
+Wisconsin's legal framework creates a viable—if narrow—path for municipal election protection ordinances. The key is **avoiding the firearms preemption trap** through careful drafting that focuses on resource allocation rather than armed/unarmed distinctions. Cities should frame ordinances as operational directives supporting federal voter protection law under their § 62.11(5) authority over city property, finances, and public services.
+
+The **Voces de la Frontera–ACLU partnership model** demonstrated in current ICE detainer litigation provides the template for coalition advocacy: grassroots mobilization capacity paired with legal expertise. With Madison as the template, campaigns should prioritize **Racine and Green Bay** for immediate outreach given favorable mayors with personal experience in election-related conflicts, followed by La Crosse's new progressive leadership and Milwaukee's scale.
+
+The May 2025 DHS sanctuary designations and ongoing state budget debates create political momentum. The window for municipal action should be leveraged before potential state preemption legislation, making **2026 the critical year** for expansion across Wisconsin's progressive cities.
+
+---
+

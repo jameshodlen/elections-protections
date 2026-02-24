@@ -239,20 +239,6 @@ The **Coalition for Police Contracts Accountability** (cpcachicago.org) includes
 
 ---
 
-## Conclusion: A strategic pathway forward
-
-Illinois presents an unusually favorable legal and political environment for election protection ordinances. The combination of constitutional home rule authority, express preemption doctrine favoring local action, established sanctuary law precedents, and fresh judicial validation creates a strong foundation. Three strategic insights emerge:
-
-**The legal argument is strongest when framed around police cooperation, not election administration.** An ordinance directing municipal police not to assist armed federal personnel near polling places—rather than regulating polling place conduct—avoids the express preemption in 10 ILCS 5/17-29(c) while leveraging the TRUST Act framework that survived federal challenge.
-
-**Chicago's Progressive Caucus offers the most efficient pathway to a high-impact ordinance.** Nineteen alderpersons already aligned on civil liberties issues means a majority coalition of 26 is achievable. The city's experience defending the Welcoming City Ordinance through federal litigation provides institutional confidence and legal expertise.
-
-**Evanston and Oak Park offer opportunities for pioneering models.** Both have smaller governing bodies where majorities are easier to build, demonstrated willingness to be first-movers on progressive policy, and recent actions (Oak Park's Flock Safety cancellation) showing readiness for concrete civil liberties measures.
-
-The Just Democracy Illinois coalition provides existing infrastructure for coordinated advocacy, with Chicago Lawyers' Committee offering litigation support and ICIRR contributing grassroots organizing capacity. An organized campaign leveraging these resources, targeting the identified municipalities, and framing the ordinance within the established sanctuary law framework has strong prospects for success.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Illinois's election security infrastructure is nationally recognized, forged by the 2016 Russian breach of the Illinois Voter Registration System -- the incident that catalyzed nationwide election cybersecurity reform. The state's **Cyber Navigator Program (CNP)**, a three-agency partnership that won the 2020 EAC Clearinghouse Award for Outstanding Innovation in Election Cybersecurity, provides nine dedicated cybersecurity specialists serving all 108 election authorities. Illinois is the only state in the Midwest batch that joined the 19-state lawsuit against EO 14248, and AG Kwame Raoul secured a preliminary injunction blocking challenged provisions. Despite strong overall firearms regulation, no explicit statutory ban on firearms at polling places exists -- a gap that HB 5178 (2024) attempted but failed to close. The Democratic supermajority in both chambers (Senate 40-19, House 78-40) makes hostile preemptive legislation virtually impossible.
@@ -308,3 +294,17 @@ The risk of hostile preemptive legislation is **near zero**. Republicans would n
 | AG Election Protection (Central/South) | 1-866-559-6812 |
 | DoIT / Cyber Navigator | (217) 524-3648; James.L.Patterson@illinois.gov |
 | IEMA | (217) 782-2700 |
+## Conclusion: A strategic pathway forward
+
+Illinois presents an unusually favorable legal and political environment for election protection ordinances. The combination of constitutional home rule authority, express preemption doctrine favoring local action, established sanctuary law precedents, and fresh judicial validation creates a strong foundation. Three strategic insights emerge:
+
+**The legal argument is strongest when framed around police cooperation, not election administration.** An ordinance directing municipal police not to assist armed federal personnel near polling places—rather than regulating polling place conduct—avoids the express preemption in 10 ILCS 5/17-29(c) while leveraging the TRUST Act framework that survived federal challenge.
+
+**Chicago's Progressive Caucus offers the most efficient pathway to a high-impact ordinance.** Nineteen alderpersons already aligned on civil liberties issues means a majority coalition of 26 is achievable. The city's experience defending the Welcoming City Ordinance through federal litigation provides institutional confidence and legal expertise.
+
+**Evanston and Oak Park offer opportunities for pioneering models.** Both have smaller governing bodies where majorities are easier to build, demonstrated willingness to be first-movers on progressive policy, and recent actions (Oak Park's Flock Safety cancellation) showing readiness for concrete civil liberties measures.
+
+The Just Democracy Illinois coalition provides existing infrastructure for coordinated advocacy, with Chicago Lawyers' Committee offering litigation support and ICIRR contributing grassroots organizing capacity. An organized campaign leveraging these resources, targeting the identified municipalities, and framing the ordinance within the established sanctuary law framework has strong prospects for success.
+
+---
+

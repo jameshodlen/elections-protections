@@ -297,22 +297,6 @@ Ferndale passed its Human Rights Ordinance over 15 years ago, prohibiting LGBTQ 
 
 ---
 
-## Conclusion: A strategically favorable environment
-
-Michigan presents an exceptionally favorable legal environment for municipal election protection ordinances. The state's **strong home rule framework** (Article VII, Sections 22 and 34, plus MCL 117.4j) grants charter cities broad authority to direct police resources and manage municipal property—precisely the powers needed for an ordinance prohibiting assistance to armed federal personnel near polling places.
-
-The **alignment with 18 U.S.C. § 592** transforms this from a "sanctuary" ordinance into a federal law enforcement measure, providing a powerful defense against preemption challenges. Combined with the **presumption of ordinance validity** under *Detroit v. Qualls*, municipalities hold significant legal advantages.
-
-**East Lansing's existing sanctuary infrastructure** makes it the optimal launch target—the city has already demonstrated willingness to limit cooperation with federal authorities and has the legal framework in place. **Ann Arbor's extensive civil liberties history** and ACLU relationships provide strong secondary support, while **Ferndale offers a smaller-city model** with proven progressive leadership.
-
-The **coalition infrastructure already exists** through Promote the Vote Michigan's 40+ partner organizations. Rather than building from scratch, this project can leverage existing relationships between ACLU Michigan, League of Women Voters, Michigan Voices, and Detroit Action—organizations already coordinating on election protection.
-
-The primary risks center on Michigan's **evolving legislative landscape** (particularly HB 4342) and potential federal funding pressures. Drafting should emphasize the ordinance's federal law enforcement function rather than its limitation on federal authority, framing it as protecting election integrity under 18 U.S.C. § 592 rather than as a sanctuary policy.
-
-With careful drafting that leverages Michigan's constitutional provisions, targets cities with proven civil liberties commitments, and engages the existing coalition infrastructure, this ordinance has strong prospects for passage and durability.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Michigan's election security infrastructure is anchored by exceptionally strong constitutional voter protections following Proposal 2 of 2022, which established voting as a "fundamental right" and created the nation's strongest private right of action for voter intimidation. The state's cybersecurity apparatus benefits from a dedicated Cyber Corps, the 272nd Cyber Operations Squadron (one of only 12 in the Air National Guard), and approximately $49.88 million in audited HAVA grants. Governor Whitmer's 2024 legislation banning open carry of firearms at polling places fills a critical physical security gap. The DOJ's 2025 lawsuit seeking unredacted voter file data -- which Michigan resisted -- demonstrates the state's commitment to defending election infrastructure against federal overreach.
@@ -359,3 +343,20 @@ Michigan's **private right of action** provision (Article II, section 4(1)(a), P
 | QVF/ePollbook Support | 800-310-5697 / 517-241-1911; EASupport@Michigan.gov |
 | AG Voter Intimidation Reports | 517-335-7659 |
 | DTMB Cybersecurity Grants | DTMB-CIP-SLCGP@michigan.gov |
+
+## Conclusion: A strategically favorable environment
+
+Michigan presents an exceptionally favorable legal environment for municipal election protection ordinances. The state's **strong home rule framework** (Article VII, Sections 22 and 34, plus MCL 117.4j) grants charter cities broad authority to direct police resources and manage municipal property—precisely the powers needed for an ordinance prohibiting assistance to armed federal personnel near polling places.
+
+The **alignment with 18 U.S.C. § 592** transforms this from a "sanctuary" ordinance into a federal law enforcement measure, providing a powerful defense against preemption challenges. Combined with the **presumption of ordinance validity** under *Detroit v. Qualls*, municipalities hold significant legal advantages.
+
+**East Lansing's existing sanctuary infrastructure** makes it the optimal launch target—the city has already demonstrated willingness to limit cooperation with federal authorities and has the legal framework in place. **Ann Arbor's extensive civil liberties history** and ACLU relationships provide strong secondary support, while **Ferndale offers a smaller-city model** with proven progressive leadership.
+
+The **coalition infrastructure already exists** through Promote the Vote Michigan's 40+ partner organizations. Rather than building from scratch, this project can leverage existing relationships between ACLU Michigan, League of Women Voters, Michigan Voices, and Detroit Action—organizations already coordinating on election protection.
+
+The primary risks center on Michigan's **evolving legislative landscape** (particularly HB 4342) and potential federal funding pressures. Drafting should emphasize the ordinance's federal law enforcement function rather than its limitation on federal authority, framing it as protecting election integrity under 18 U.S.C. § 592 rather than as a sanctuary policy.
+
+With careful drafting that leverages Michigan's constitutional provisions, targets cities with proven civil liberties commitments, and engages the existing coalition infrastructure, this ordinance has strong prospects for passage and durability.
+
+---
+

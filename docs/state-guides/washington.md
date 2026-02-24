@@ -170,18 +170,6 @@ The **Working Families Party - Washington** (@wfp_wa) successfully endorsed Seat
 
 ---
 
-## Conclusion: Strategic recommendations
-
-An election protection ordinance is legally viable in Washington if drafted to emphasize **voter protection, municipal resource allocation, and police cooperation policies** rather than firearms regulation. The strongest legal foundation combines Article XI Section 11 police powers, RCW 35A.11.020's liberal construction mandate for code cities, the Keep Washington Working Act's precedent for limiting federal cooperation, and RCW 29A.84.510(3)'s explicit authorization of municipal law enforcement at voting centers.
-
-**Primary legal vulnerabilities** include firearms preemption under RCW 9.41.290 (requiring careful drafting to avoid weapons-specific language) and potential general preemption claims under Title 29A (though RCW 29A.84.510's municipal authorization provides counter-authority). Post-*Bruen* Second Amendment challenges remain possible but defensible under sensitive-places doctrine.
-
-**Optimal implementation path**: Begin with **Spokane** (new progressive supermajority, first-class charter, Eastern WA location provides proof-of-concept outside Puget Sound) and **Olympia** (state capital symbolism, demonstrated progressive capacity, code city efficiency). Build toward **Seattle** (maximum visibility but more complex political dynamics) using early victories as momentum.
-
-**Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Washington's election security infrastructure is distinguished by the most advanced National Guard cyber capability in the Pacific and Western region, proactive state-funded MS-ISAC membership for all 39 counties after CISA withdrew funding, and comprehensive weapons restrictions at voting facilities enacted in 2022. As a 100% vote-by-mail state, Washington's physical security protections center on voting centers, ballot drop boxes, and ballot counting centers rather than traditional polling places. The state's decisive response to the CISA collapse -- covering MS-ISAC memberships statewide and replacing aging Albert sensors -- positions it as a national model for state-level resilience.
@@ -228,3 +216,15 @@ The WVRA provides a **private right of action** (RCW 29A.92.090), and courts con
 | Attorney General | (360) 753-6200; atg.wa.gov |
 | WaTech Office of Cybersecurity | officeofcybersecurity@watech.wa.gov; SOC@watech.wa.gov |
 | Emergency Management Division | (253) 512-7000; 1-800-562-6108 |
+## Conclusion: Strategic recommendations
+
+An election protection ordinance is legally viable in Washington if drafted to emphasize **voter protection, municipal resource allocation, and police cooperation policies** rather than firearms regulation. The strongest legal foundation combines Article XI Section 11 police powers, RCW 35A.11.020's liberal construction mandate for code cities, the Keep Washington Working Act's precedent for limiting federal cooperation, and RCW 29A.84.510(3)'s explicit authorization of municipal law enforcement at voting centers.
+
+**Primary legal vulnerabilities** include firearms preemption under RCW 9.41.290 (requiring careful drafting to avoid weapons-specific language) and potential general preemption claims under Title 29A (though RCW 29A.84.510's municipal authorization provides counter-authority). Post-*Bruen* Second Amendment challenges remain possible but defensible under sensitive-places doctrine.
+
+**Optimal implementation path**: Begin with **Spokane** (new progressive supermajority, first-class charter, Eastern WA location provides proof-of-concept outside Puget Sound) and **Olympia** (state capital symbolism, demonstrated progressive capacity, code city efficiency). Build toward **Seattle** (maximum visibility but more complex political dynamics) using early victories as momentum.
+
+**Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
+
+---
+

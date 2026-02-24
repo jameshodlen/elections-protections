@@ -233,16 +233,6 @@ The existing sanctuary city litigation against Newark, Jersey City, Hoboken, and
 
 ---
 
-## Conclusion: A viable pathway requiring coalition coordination
-
-New Jersey municipalities possess the legal authority to pass ordinances reinforcing 18 U.S.C. § 592 protections, provided they frame such ordinances as exercises of local police power and municipal property management rather than direct election regulation. The Faulkner Act's liberal construction mandate and explicit grant of power over police "priorities and objectives" under N.J.S.A. 40A:14-118 provide the strongest legal foundation.
-
-**Hoboken** offers the optimal launch platform given its progressive track record, new mayoral leadership, manageable scale, and demonstrated willingness to defend local authority. **Newark** provides maximum visibility and immediate access to coalition legal infrastructure. **Jersey City** combines scale with fresh leadership potentially seeking early policy wins.
-
-The immediate next step is engaging the existing NJ Election Protection Coalition—specifically the NJ Institute for Social Justice and ACLU-NJ—to coordinate ordinance drafting with their legal expertise. The infrastructure exists; the legal pathway is navigable; the political will in target municipalities appears aligned. Success depends on translating this analysis into coordinated action before the next major election cycle.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 New Jersey has built one of the Northeast's most capable election security programs, recognized nationally with an EAC Clearie Award for innovative use of HAVA funds. The state's centralized Division of Elections works in close coordination with the New Jersey Cybersecurity and Communications Integration Cell (NJCCIC), operating a dedicated Security Operations Center for Election Day incident response. Recent 2025 legislation expanding the polling place buffer zone to up to 200 feet demonstrates continued legislative commitment to election security.
@@ -286,3 +276,12 @@ New Jersey's Faulkner Act and other municipal governance statutes provide home r
 - **NJCCIC:** njccic@cyber.nj.gov
 - **AG Election Protection:** Report incidents through the AG's office at (609) 292-4925
 - **Secretary of State:** 33 W. State St., Trenton, NJ 08608
+## Conclusion: A viable pathway requiring coalition coordination
+
+New Jersey municipalities possess the legal authority to pass ordinances reinforcing 18 U.S.C. § 592 protections, provided they frame such ordinances as exercises of local police power and municipal property management rather than direct election regulation. The Faulkner Act's liberal construction mandate and explicit grant of power over police "priorities and objectives" under N.J.S.A. 40A:14-118 provide the strongest legal foundation.
+
+**Hoboken** offers the optimal launch platform given its progressive track record, new mayoral leadership, manageable scale, and demonstrated willingness to defend local authority. **Newark** provides maximum visibility and immediate access to coalition legal infrastructure. **Jersey City** combines scale with fresh leadership potentially seeking early policy wins.
+
+The immediate next step is engaging the existing NJ Election Protection Coalition—specifically the NJ Institute for Social Justice and ACLU-NJ—to coordinate ordinance drafting with their legal expertise. The infrastructure exists; the legal pathway is navigable; the political will in target municipalities appears aligned. Success depends on translating this analysis into coordinated action before the next major election cycle.
+
+---

@@ -241,26 +241,6 @@ The **ACLU-LWVC Legal Partnership** has jointly litigated mail ballot protection
 
 ---
 
-## Conclusion: strategic pathway for California implementation
-
-California's legal architecture provides **exceptional foundation** for municipal election protection ordinances. Charter cities possess explicit constitutional authority over both police force regulation and conduct of elections—the two core elements of any ordinance based on 18 U.S.C. § 592. Existing state law through Elections Code § 18544-18545 already prohibits armed presence at polls (including federal agents) without elections official authorization, meaning local ordinances can build on rather than conflict with state policy.
-
-**Berkeley emerges as the optimal launch city** given its charter status, status as America's first sanctuary city, consistently progressive council, and demonstrated recent political will through the 2025 Sanctuary City Ordinance and Election Rigging Response Act resolution. The city offers faster action potential than larger jurisdictions while providing sufficient visibility.
-
-The coalition infrastructure is already in place. Organizations with litigation capacity (ACLU chapters, MALDEF), grassroots voter mobilization (CHIRLA, Mi Familia Vota, California Calls), established election protection operations (Common Cause, LWVC), and language access expertise (Asian Americans Advancing Justice chapters) have existing partnerships and track records of successful collaboration.
-
-Three strategic recommendations emerge from this research:
-
-1. **Target charter cities exclusively** for initial ordinance passage to maximize legal defensibility under the municipal affairs doctrine—Berkeley first, then San Francisco
-
-2. **Frame ordinances as implementing existing state policy** (Election Code § 18544-18545) and aligning with federal law (§ 592) rather than creating new restrictions, reducing preemption vulnerability
-
-3. **Leverage SB 54 precedent** both legally (anticommandeering doctrine) and rhetorically (California's established position on limiting local-federal law enforcement cooperation)
-
-The legal risk profile is low to moderate for charter cities, with the strongest protection available for ordinances that focus on directing local police conduct—an expressly enumerated municipal affair under the California Constitution—rather than attempting to directly bind federal agents.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 California's election security infrastructure is among the most layered and well-resourced in the nation, built on comprehensive state-level cybersecurity systems, the nation's strongest firearms prohibitions at polling places, and active litigation defending election integrity against federal overreach. The near-elimination of CISA election security services and 96% decline in HAVA funding make this state-level infrastructure the primary line of defense heading into the 2026 midterms, though the 58-county system means smaller rural counties that relied on federal services face outsized impacts.
@@ -311,3 +291,23 @@ AG Bonta has filed **50+ lawsuits** against the Trump administration as of 2025.
 | AG Election Protection | (916) 210-6300 (Division of Law Enforcement) |
 | Cal-CSIC | (833) REPORT-1; calcsic@caloes.ca.gov |
 | Cal OES | (916) 845-8510 |
+## Conclusion: strategic pathway for California implementation
+
+California's legal architecture provides **exceptional foundation** for municipal election protection ordinances. Charter cities possess explicit constitutional authority over both police force regulation and conduct of elections—the two core elements of any ordinance based on 18 U.S.C. § 592. Existing state law through Elections Code § 18544-18545 already prohibits armed presence at polls (including federal agents) without elections official authorization, meaning local ordinances can build on rather than conflict with state policy.
+
+**Berkeley emerges as the optimal launch city** given its charter status, status as America's first sanctuary city, consistently progressive council, and demonstrated recent political will through the 2025 Sanctuary City Ordinance and Election Rigging Response Act resolution. The city offers faster action potential than larger jurisdictions while providing sufficient visibility.
+
+The coalition infrastructure is already in place. Organizations with litigation capacity (ACLU chapters, MALDEF), grassroots voter mobilization (CHIRLA, Mi Familia Vota, California Calls), established election protection operations (Common Cause, LWVC), and language access expertise (Asian Americans Advancing Justice chapters) have existing partnerships and track records of successful collaboration.
+
+Three strategic recommendations emerge from this research:
+
+1. **Target charter cities exclusively** for initial ordinance passage to maximize legal defensibility under the municipal affairs doctrine—Berkeley first, then San Francisco
+
+2. **Frame ordinances as implementing existing state policy** (Election Code § 18544-18545) and aligning with federal law (§ 592) rather than creating new restrictions, reducing preemption vulnerability
+
+3. **Leverage SB 54 precedent** both legally (anticommandeering doctrine) and rhetorically (California's established position on limiting local-federal law enforcement cooperation)
+
+The legal risk profile is low to moderate for charter cities, with the strongest protection available for ordinances that focus on directing local police conduct—an expressly enumerated municipal affair under the California Constitution—rather than attempting to directly bind federal agents.
+
+---
+

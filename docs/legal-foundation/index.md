@@ -5,7 +5,7 @@ description: Core constitutional and statutory documents underpinning the Munici
 
 # Legal Foundation
 
-These six documents form the constitutional and statutory basis for the Municipal Election Integrity Ordinance. Every state guide references them. They are written for attorneys and legal advocates but are accessible to any reader.
+These eight documents form the constitutional and statutory basis for the Municipal Election Integrity Ordinance. Every state guide references them. They are written for attorneys and legal advocates but are accessible to any reader.
 
 ---
 
@@ -61,6 +61,22 @@ The DNC v. RNC consent decree history (1982–2017 expiration), why § 592 has n
 
 ---
 
+### 7. [Evidence Collection & Preservation Framework](evidence-framework.md)
+
+A comprehensive litigation evidence protocol covering seven categories of evidence (government statements, chilling effects, polling data, expert witnesses, legislative evidence, precedent case law, and real-time collection infrastructure) across three litigation phases (declaratory relief, preliminary injunctions, emergency TROs). Includes chain of custody protocols with SHA-256 hashing for digital evidence and a priority preservation checklist.
+
+**Key takeaway:** Successful litigation requires a systematic evidence collection infrastructure built *before* deployment occurs. Real-time evidence (voter incident reports, election observer networks) is critical for emergency TRO applications.
+
+---
+
+### 8. [Master Ordinance Template](master-ordinance-template.md)
+
+Model municipal ordinance language with WHEREAS clauses citing anti-commandeering doctrine (*Printz*, *Murphy*), 14 operative sections (from definitions through severability), tier-specific adaptation notes for all three state tiers, optional provisions (personnel protection, funding resilience, risk-limiting audits), and messaging guidance for progressive, conservative, and moderate audiences.
+
+**Key takeaway:** The ordinance template is designed to invoke federal law rather than conflict with it, using the "Federal Felony Exemption" argument — cities cannot be compelled to facilitate federal criminal activity under 18 U.S.C. § 592.
+
+---
+
 ## Reference Documents at a Glance
 
 | Document | Statute/Doctrine | Length | Best For |
@@ -71,3 +87,5 @@ The DNC v. RNC consent decree history (1982–2017 expiration), why § 592 has n
 | [Supremacy Clause](supremacy-clause.md) | Anti-commandeering; preemption doctrine | Very Long | Constitutional law attorneys |
 | [Insurrection Act](insurrection-act-analysis.md) | 10 U.S.C. §§ 251–255; *Trump v. Illinois* | Medium | All audiences |
 | [Injunction History](ballot-security-history.md) | Case law 2008–2020; DNC v. RNC | Medium | Litigation strategy |
+| [Evidence Framework](evidence-framework.md) | 7 evidence categories; 3 litigation phases | Very Long | Attorneys, litigation teams |
+| [Ordinance Template](master-ordinance-template.md) | Model ordinance; 14 operative sections | Very Long | Officials, attorneys |

@@ -208,18 +208,6 @@ The **Trust Act Now Coalition** connects immigrant rights organizations with pro
 
 ---
 
-## Conclusion: A narrow but viable path exists
-
-Connecticut's legal landscape presents genuine obstacles for municipal election protection ordinances—most significantly the explicit election preemption in CGS § 7-192a. However, the research reveals a potential pathway: **framing ordinances as police resource allocation decisions** under the clear municipal authority established by CGS §§ 7-276 and 7-148 rather than as election regulations.
-
-The most legally defensible approach would direct municipal police departments—through police commission regulations or council ordinances—not to allocate resources to assist armed federal personnel in activities near polling locations. This framing invokes the federal policy of 18 U.S.C. § 592, operates within the TRUST Act framework limiting local-federal cooperation, and exercises established municipal authority over police operations while avoiding direct regulation of election conduct reserved to the state.
-
-**New Haven, Hartford, and Hamden** offer the strongest prospects for adoption, with progressive majorities, established sanctuary frameworks, recent ordinance successes, and strong relationships with essential coalition partners. The existing coalition infrastructure from the Connecticut Voting Rights Act and Trust Act campaigns provides organizing capacity that few states can match.
-
-The key strategic recommendation: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
-
----
-
 ## Section 5: Election Security Infrastructure
 
 Connecticut has positioned itself as a national leader in voter protection through the enactment of a state Voting Rights Act — one of only eight states to do so — and expansive 2025 legislation enhancing access across multiple dimensions. The state's election security posture relies on a foundation of paper ballots, multi-state cybersecurity coordination, and an Attorney General who has been among the most vocal on election protection issues. While Connecticut's cybersecurity resources are modest compared to New York or New Jersey, the state benefits from strong institutional commitment to election integrity and an active legislative environment.
@@ -259,3 +247,15 @@ Connecticut municipalities administer elections locally through town clerks and 
 **Key contacts:**
 - **Secretary of the State:** (860) 509-6100, sots.ct.gov
 - **AG Election Protection:** (860) 808-5318, attorney.general@ct.gov
+## Conclusion: A narrow but viable path exists
+
+Connecticut's legal landscape presents genuine obstacles for municipal election protection ordinances—most significantly the explicit election preemption in CGS § 7-192a. However, the research reveals a potential pathway: **framing ordinances as police resource allocation decisions** under the clear municipal authority established by CGS §§ 7-276 and 7-148 rather than as election regulations.
+
+The most legally defensible approach would direct municipal police departments—through police commission regulations or council ordinances—not to allocate resources to assist armed federal personnel in activities near polling locations. This framing invokes the federal policy of 18 U.S.C. § 592, operates within the TRUST Act framework limiting local-federal cooperation, and exercises established municipal authority over police operations while avoiding direct regulation of election conduct reserved to the state.
+
+**New Haven, Hartford, and Hamden** offer the strongest prospects for adoption, with progressive majorities, established sanctuary frameworks, recent ordinance successes, and strong relationships with essential coalition partners. The existing coalition infrastructure from the Connecticut Voting Rights Act and Trust Act campaigns provides organizing capacity that few states can match.
+
+The key strategic recommendation: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
+
+---
+
