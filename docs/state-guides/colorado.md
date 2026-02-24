@@ -63,13 +63,13 @@ The federal statute prohibiting armed troops at polling places applies only to f
 
 ### Voter intimidation provisions anchor the framework
 
-**C.R.S. § 1-13-713** makes it unlawful to "impede, prevent, or otherwise interfere with the free exercise of the elective franchise" or compel any voter to give or refrain from giving their vote. Penalties include up to $1,000 fines and one year imprisonment. Related statutes protect election officials (§ 1-13-701), prohibit interference with voters while voting (§ 1-13-711), and ban electioneering within 100 feet of polling locations (§ 1-13-714).
+**[C.R.S. § 1-13-713](https://law.justia.com/codes/colorado/title-1/article-13/section-1-13-713/)** makes it unlawful to "impede, prevent, or otherwise interfere with the free exercise of the elective franchise" or compel any voter to give or refrain from giving their vote. Penalties include up to $1,000 fines and one year imprisonment. Related statutes protect election officials (§ 1-13-701), prohibit interference with voters while voting (§ 1-13-711), and ban electioneering within 100 feet of polling locations (§ 1-13-714).
 
-**C.R.S. § 1-13-724** (created by the Vote Without Fear Act) specifically prohibits openly carrying firearms at polling locations, drop boxes, and ballot counting facilities. The 2024 expansion to concealed carry means Colorado now joins 13 states plus D.C. with comprehensive polling place firearms protections.
+**[C.R.S. § 1-13-724](https://law.justia.com/codes/colorado/title-1/article-13/section-1-13-724/)** (created by the Vote Without Fear Act) specifically prohibits openly carrying firearms at polling locations, drop boxes, and ballot counting facilities. The 2024 expansion to concealed carry means Colorado now joins 13 states plus D.C. with comprehensive polling place firearms protections.
 
 ### Local control statutes establish municipal authority
 
-**C.R.S. § 31-15-401** grants municipalities general police powers including authority to "regulate the police of the municipality" and "pass and enforce all necessary police ordinances." **C.R.S. § 31-15-103** permits municipalities to "make and publish ordinances not inconsistent with the laws of this state" for safety, health, and public welfare.
+**[C.R.S. § 31-15-401](https://law.justia.com/codes/colorado/title-31/article-15/part-4/section-31-15-401/)** grants municipalities general police powers including authority to "regulate the police of the municipality" and "pass and enforce all necessary police ordinances." **[C.R.S. § 31-15-103](https://law.justia.com/codes/colorado/title-31/article-15/part-1/section-31-15-103/)** permits municipalities to "make and publish ordinances not inconsistent with the laws of this state" for safety, health, and public welfare.
 
 For home rule cities, these statutory powers are supplemented by the broader constitutional grant under Article XX, which courts have interpreted as giving home rule cities "every power possessed by the General Assembly as to local and municipal matters."
 

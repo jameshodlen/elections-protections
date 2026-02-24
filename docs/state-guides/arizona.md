@@ -44,17 +44,17 @@ The anti-commandeering doctrine provides additional federal constitutional suppo
 
 ### Key state statutes
 
-- **A.R.S. Section 16-515:** Establishes a **75-foot buffer zone** around every voting location.
-- **A.R.S. Section 13-3102(A)(11):** **Explicit firearms prohibition at polling places** -- misconduct involving weapons to enter a polling place carrying a deadly weapon on Election Day. Exceptions only for on-duty military and peace officers.
-- **A.R.S. Section 16-1013:** Voter intimidation through force, violence, or threats -- **Class 1 misdemeanor**.
-- **A.R.S. Section 16-1006:** Using corrupt means to change votes -- **Class 5 felony**.
-- **A.R.S. Section 16-1004:** Interference with election officers -- **felony**.
-- **A.R.S. Section 16-452:** Elections Procedures Manual -- SOS rulemaking authority.
-- **A.R.S. Section 16-648, Section 16-662:** SOS certification of results.
-- **A.R.S. Section 16-168:** AVID statewide voter database.
-- **A.R.S. Section 16-442:** Equipment Certification Advisory Committee.
-- **A.R.S. Section 16-1021:** AG and county attorneys may enforce election laws through civil and criminal actions.
-- **A.R.S. Section 12-2021:** Citizens may access mandamus to compel public officials to perform legally imposed duties.
+- [A.R.S. Section 16-515](https://law.justia.com/codes/arizona/title-16/section-16-515/): Establishes a **75-foot buffer zone** around every voting location.
+- [A.R.S. Section 13-3102(A)(11)](https://law.justia.com/codes/arizona/title-13/section-13-3102/): **Explicit firearms prohibition at polling places** -- misconduct involving weapons to enter a polling place carrying a deadly weapon on Election Day. Exceptions only for on-duty military and peace officers.
+- [A.R.S. Section 16-1013](https://law.justia.com/codes/arizona/title-16/section-16-1013/): Voter intimidation through force, violence, or threats -- **Class 1 misdemeanor**.
+- [A.R.S. Section 16-1006](https://law.justia.com/codes/arizona/title-16/section-16-1006/): Using corrupt means to change votes -- **Class 5 felony**.
+- [A.R.S. Section 16-1004](https://law.justia.com/codes/arizona/title-16/section-16-1004/): Interference with election officers -- **felony**.
+- [A.R.S. Section 16-452](https://law.justia.com/codes/arizona/title-16/section-16-452/): Elections Procedures Manual -- SOS rulemaking authority.
+- [A.R.S. Section 16-648](https://law.justia.com/codes/arizona/title-16/section-16-648/), [Section 16-662](https://law.justia.com/codes/arizona/title-16/section-16-662/): SOS certification of results.
+- [A.R.S. Section 16-168](https://law.justia.com/codes/arizona/title-16/section-16-168/): AVID statewide voter database.
+- [A.R.S. Section 16-442](https://law.justia.com/codes/arizona/title-16/section-16-442/): Equipment Certification Advisory Committee.
+- [A.R.S. Section 16-1021](https://law.justia.com/codes/arizona/title-16/section-16-1021/): AG and county attorneys may enforce election laws through civil and criminal actions.
+- [A.R.S. Section 12-2021](https://law.justia.com/codes/arizona/title-12/section-12-2021/): Citizens may access mandamus to compel public officials to perform legally imposed duties.
 - **Article II, Section 21 (AZ Constitution):** Free and equal elections -- "no power, civil or military" shall interfere.
 
 For the full 50-state preemption and home rule comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).

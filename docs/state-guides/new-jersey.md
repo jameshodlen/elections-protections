@@ -59,36 +59,36 @@ The **Tenth Amendment anti-commandeering doctrine** (*Printz v. United States*, 
 
 The strongest foundation for any municipal ordinance lies in New Jersey's existing voter protection statutes:
 
-**N.J.S.A. 19:34-1.1** makes voter intimidation a **crime of the second degree** (5-10 years imprisonment, up to $150,000 fine). It criminalizes knowingly and willfully intimidating, threatening, or coercing any person from voting, attempting to vote, or urging others to vote. This applies to all persons including election officials and law enforcement officers.
+**[N.J.S.A. 19:34-1.1](https://law.justia.com/codes/new-jersey/title-19/section-19-34-1-1/)** makes voter intimidation a **crime of the second degree** (5-10 years imprisonment, up to $150,000 fine). It criminalizes knowingly and willfully intimidating, threatening, or coercing any person from voting, attempting to vote, or urging others to vote. This applies to all persons including election officials and law enforcement officers.
 
-**N.J.S.A. 19:34-28** broadly prohibits using or threatening "any force, violence or restraint" or "in any manner to practice intimidation" to influence voting. This catch-all language provides significant latitude.
+**[N.J.S.A. 19:34-28](https://law.justia.com/codes/new-jersey/title-19/section-19-34-28/)** broadly prohibits using or threatening "any force, violence or restraint" or "in any manner to practice intimidation" to influence voting. This catch-all language provides significant latitude.
 
-**N.J.S.A. 19:34-6(a)** makes it a **crime of the third degree** (3-5 years imprisonment) to obstruct polling place entrances, obstruct or interfere with voters, or loiter near polling places.
+**[N.J.S.A. 19:34-6(a)](https://law.justia.com/codes/new-jersey/title-19/section-19-34-6/)** makes it a **crime of the third degree** (3-5 years imprisonment) to obstruct polling place entrances, obstruct or interfere with voters, or loiter near polling places.
 
-**N.J.S.A. 2C:58-4.6(a)(5)** directly prohibits **firearms at polling places** as a third degree crime. This statute makes it illegal to "knowingly carry a firearm... in a location being used as a polling place during the conduct of an election and places used for the storage or tabulation of ballots." Exemptions exist only for law enforcement acting within authorized scope.
+**[N.J.S.A. 2C:58-4.6(a)(5)](https://law.justia.com/codes/new-jersey/title-2c/section-2c-58-4-6/)** directly prohibits **firearms at polling places** as a third degree crime. This statute makes it illegal to "knowingly carry a firearm... in a location being used as a polling place during the conduct of an election and places used for the storage or tabulation of ballots." Exemptions exist only for law enforcement acting within authorized scope.
 
 ### Local control statutes provide the primary authority
 
 The strongest legal foundation for a municipal ordinance comes from statutes governing local government power over police:
 
-**N.J.S.A. 40A:14-118** is the cornerstone statute. It provides that municipal governing bodies "may create and establish, as an executive and enforcement function of municipal government, a police force... and provide for the maintenance, regulation and control thereof." Critically, it requires municipalities to adopt rules "for the government of the force" and authorizes the "appropriate authority" to "establish the internal structure of the police force... allocate manpower among the bureaus and units and **adopt a policy establishing the priorities and objectives** of these bureaus and units."
+**[N.J.S.A. 40A:14-118](https://law.justia.com/codes/new-jersey/title-40a/section-40a-14-118/)** is the cornerstone statute. It provides that municipal governing bodies "may create and establish, as an executive and enforcement function of municipal government, a police force... and provide for the maintenance, regulation and control thereof." Critically, it requires municipalities to adopt rules "for the government of the force" and authorizes the "appropriate authority" to "establish the internal structure of the police force... allocate manpower among the bureaus and units and **adopt a policy establishing the priorities and objectives** of these bureaus and units."
 
 This statute directly supports a municipal ordinance directing police priorities regarding election protection and resource allocation during election periods.
 
-**N.J.S.A. 40:48-2** provides the general police power grant: municipalities "may make, amend, repeal, and enforce such other ordinances... as it may deem necessary and proper for the good of government, order and protection of person and property, and for the preservation of the public health, safety and welfare."
+**[N.J.S.A. 40:48-2](https://law.justia.com/codes/new-jersey/title-40/section-40-48-2/)** provides the general police power grant: municipalities "may make, amend, repeal, and enforce such other ordinances... as it may deem necessary and proper for the good of government, order and protection of person and property, and for the preservation of the public health, safety and welfare."
 
-**N.J.S.A. 40:48-1** authorizes municipalities to "manage, regulate and control the finances and property... of the municipality" and to "prescribe and define... the duties and terms of office or employment, of all officers and employees."
+**[N.J.S.A. 40:48-1](https://law.justia.com/codes/new-jersey/title-40/section-40-48-1/)** authorizes municipalities to "manage, regulate and control the finances and property... of the municipality" and to "prescribe and define... the duties and terms of office or employment, of all officers and employees."
 
 ### Summary citation table for ordinance drafters
 
 | Purpose | Citation | Grade | Key Language |
 |---------|----------|-------|--------------|
-| Voter intimidation prohibition | N.J.S.A. 19:34-1.1 | 2nd degree | Covers all persons including officials |
-| Polling place obstruction | N.J.S.A. 19:34-6(a) | 3rd degree | Obstruction, interference, loitering |
-| Firearms at polling places | N.J.S.A. 2C:58-4.6(a)(5) | 3rd degree | Explicit prohibition with exceptions |
-| Municipal police control | N.J.S.A. 40A:14-118 | — | "Priorities and objectives" of police |
-| General police power | N.J.S.A. 40:48-2 | — | "Public health, safety and welfare" |
-| Liberal construction | N.J.S.A. 40:69A-30 | — | "Greatest power of local self-government" |
+| Voter intimidation prohibition | [N.J.S.A. 19:34-1.1](https://law.justia.com/codes/new-jersey/title-19/section-19-34-1-1/) | 2nd degree | Covers all persons including officials |
+| Polling place obstruction | [N.J.S.A. 19:34-6(a)](https://law.justia.com/codes/new-jersey/title-19/section-19-34-6/) | 3rd degree | Obstruction, interference, loitering |
+| Firearms at polling places | [N.J.S.A. 2C:58-4.6(a)(5)](https://law.justia.com/codes/new-jersey/title-2c/section-2c-58-4-6/) | 3rd degree | Explicit prohibition with exceptions |
+| Municipal police control | [N.J.S.A. 40A:14-118](https://law.justia.com/codes/new-jersey/title-40a/section-40a-14-118/) | — | "Priorities and objectives" of police |
+| General police power | [N.J.S.A. 40:48-2](https://law.justia.com/codes/new-jersey/title-40/section-40-48-2/) | — | "Public health, safety and welfare" |
+| Liberal construction | [N.J.S.A. 40:69A-30](https://law.justia.com/codes/new-jersey/title-40/section-40-69a-30/) | — | "Greatest power of local self-government" |
 
 ---
 

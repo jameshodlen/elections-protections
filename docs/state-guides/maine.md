@@ -55,20 +55,20 @@ The cooperation statute **25 M.R.S.A. § 1502** uses permissive language—"shal
 
 ### Voter intimidation and election interference
 
-**21-A M.R.S. § 674** provides Maine's primary voter intimidation statute. Key provisions include:
+**[21-A M.R.S. § 674](https://law.justia.com/codes/maine/title-21-a/chapter-13/section-674/)** provides Maine's primary voter intimidation statute. Key provisions include:
 
 - **§ 674(2)(E)** (Class D crime): "Intentionally interferes by force, violence or intimidation or by any physical act with any public official who is in fact performing...an official function relating to a federal, state or municipal election"
 - **§ 674(1)(B)** (Class E crime): "Interferes with a voter attempting to cast a vote"
 
 ### Polling place protection
 
-**21-A M.R.S. § 662(2)** grants wardens authority to maintain order: "The warden shall keep order at all times in and around the voting place. The warden shall direct that any person who creates a disturbance or otherwise violates the law at the voting place be removed."
+**[21-A M.R.S. § 662(2)](https://law.justia.com/codes/maine/title-21-a/chapter-9/section-662/)** grants wardens authority to maintain order: "The warden shall keep order at all times in and around the voting place. The warden shall direct that any person who creates a disturbance or otherwise violates the law at the voting place be removed."
 
-**21-A M.R.S. § 682** establishes a **250-foot protection zone** around polling places where influencing voters or interfering with free passage is prohibited as a Class E crime.
+**[21-A M.R.S. § 682](https://law.justia.com/codes/maine/title-21-a/chapter-9/section-682/)** establishes a **250-foot protection zone** around polling places where influencing voters or interfering with free passage is prohibited as a Class E crime.
 
 ### Municipal police authority
 
-**30-A M.R.S. § 2671(2)** explicitly allows municipal limitation of police powers: "Police officers may serve criminal and traffic infraction processes...A police officer has all the statutory powers of a constable, **unless limited by charter or ordinance.**"
+**[30-A M.R.S. § 2671(2)](https://law.justia.com/codes/maine/title-30-a/chapter-17/section-2671/)** explicitly allows municipal limitation of police powers: "Police officers may serve criminal and traffic infraction processes...A police officer has all the statutory powers of a constable, **unless limited by charter or ordinance.**"
 
 This statutory language directly authorizes municipalities to restrict police officer duties through ordinance—the precise mechanism needed for an election protection ordinance.
 

@@ -56,17 +56,17 @@ Anti-sanctuary city legislation includes **HB 4156 (2024)** (which included sanc
 
 | Statute | Subject | Notes |
 |---------|---------|-------|
-| **21 O.S. § 1289.24** | Firearms preemption | Complete field preemption with private right of action for damages |
-| **21 O.S. § 1289.24e** | Second Amendment Sanctuary Act (SB 631) | Anti-commandeering for federal firearms laws — mirror argument |
-| **21 O.S. § 1290.22** | Self-Defense Act preemption | Additional layer of field preemption |
-| **21 O.S. § 1277** | Prohibited carry locations | Polling places **not listed** |
-| **26 O.S. § 7-108** | Electioneering buffer zone | **300 feet** from polling place entrance (amended 2023); 50-foot inner zone |
-| **26 O.S. § 7-130** | Poll watchers | May observe devices only before polls open and after close; **shall not be present during actual voting** |
-| **26 O.S. § 16-109** | Voter intimidation | Elevated to **Class D1 felony** effective January 1, 2026 (Laws 2025, c. 486) |
+| [**21 O.S. § 1289.24**](https://law.justia.com/codes/oklahoma/title-21/section-21-1289-24/) | Firearms preemption | Complete field preemption with private right of action for damages |
+| [**21 O.S. § 1289.24e**](https://law.justia.com/codes/oklahoma/title-21/section-21-1289-24e/) | Second Amendment Sanctuary Act (SB 631) | Anti-commandeering for federal firearms laws — mirror argument |
+| [**21 O.S. § 1290.22**](https://law.justia.com/codes/oklahoma/title-21/section-21-1290-22/) | Self-Defense Act preemption | Additional layer of field preemption |
+| [**21 O.S. § 1277**](https://law.justia.com/codes/oklahoma/title-21/section-21-1277/) | Prohibited carry locations | Polling places **not listed** |
+| [**26 O.S. § 7-108**](https://law.justia.com/codes/oklahoma/title-26/section-26-7-108/) | Electioneering buffer zone | **300 feet** from polling place entrance (amended 2023); 50-foot inner zone |
+| [**26 O.S. § 7-130**](https://law.justia.com/codes/oklahoma/title-26/section-26-7-130/) | Poll watchers | May observe devices only before polls open and after close; **shall not be present during actual voting** |
+| [**26 O.S. § 16-109**](https://law.justia.com/codes/oklahoma/title-26/section-26-16-109/) | Voter intimidation | Elevated to **Class D1 felony** effective January 1, 2026 (Laws 2025, c. 486) |
 | **Art. XVIII** | Home rule | Cities over 2,000 may frame charters; 86 charter municipalities |
 | **Art. II, § 4** | Free suffrage | "No power, civil or military, shall ever interfere" |
 | **Art. II, § 14** | Military subordination | Military in strict subordination to civil authorities |
-| **11 O.S. § 15-101** | Initiative and referendum | Mandated for all municipalities |
+| [**11 O.S. § 15-101**](https://law.justia.com/codes/oklahoma/title-11/section-11-15-101/) | Initiative and referendum | Mandated for all municipalities |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 

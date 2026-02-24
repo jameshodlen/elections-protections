@@ -96,7 +96,7 @@ California maintains **one of the nation's strongest total prohibitions** on fir
 
 ## Section 2: California statutes provide robust statutory foundation
 
-### Elections Code § 18544 parallels federal law at state level
+### [Elections Code § 18544](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18544.&lawCode=ELEC) parallels federal law at state level
 
 This is the **centerpiece statute** for any California election protection ordinance:
 
@@ -104,7 +104,7 @@ This is the **centerpiece statute** for any California election protection ordin
 
 Narrow exceptions exist for unarmed uniformed personnel voting, peace officers conducting official business or voting, and guards hired by elections officials or facility managers. Critically, armed presence requires **elections official authorization**.
 
-### Elections Code § 18545 explicitly covers federal law enforcement
+### [Elections Code § 18545](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18545.&lawCode=ELEC) explicitly covers federal law enforcement
 
 This statute makes California's prohibition **explicitly applicable to federal agents**:
 
@@ -118,19 +118,19 @@ This provides a state-law mechanism addressing federal agents at polls without e
 
 ### Additional voter protection statutes
 
-**Elections Code § 18540** (Primary Voter Intimidation Statute): Criminalizes force, violence, or tactics of coercion to influence voting as a felony punishable by 16 months to three years imprisonment.
+**[Elections Code § 18540](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18540.&lawCode=ELEC)** (Primary Voter Intimidation Statute): Criminalizes force, violence, or tactics of coercion to influence voting as a felony punishable by 16 months to three years imprisonment.
 
-**Elections Code § 18541** (100-Foot Zone Protections): Prohibits, within 100 feet of polling places, soliciting votes, speaking about voter qualifications (except as provided), photographing voters entering/exiting, or obstructing access.
+**[Elections Code § 18541](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18541.&lawCode=ELEC)** (100-Foot Zone Protections): Prohibits, within 100 feet of polling places, soliciting votes, speaking about voter qualifications (except as provided), photographing voters entering/exiting, or obstructing access.
 
-**Elections Code § 18581** (The PEACE Act, AB 2642): Creates a **rebuttable presumption** that openly carrying a firearm while interacting with or observing voters or election officials constitutes intimidation. Even for law enforcement acting within official duties, courts may consider firearm possession in determining violations.
+**[Elections Code § 18581](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18581.&lawCode=ELEC)** (The PEACE Act, AB 2642): Creates a **rebuttable presumption** that openly carrying a firearm while interacting with or observing voters or election officials constitutes intimidation. Even for law enforcement acting within official duties, courts may consider firearm possession in determining violations.
 
-**Penal Code § 26230(a)(25)**: Prohibits concealed carry permit holders from carrying at "a polling place, voting center, precinct, or other area or location where votes are being cast or cast ballots are being returned or counted, **or the streets or sidewalks immediately adjacent**." Notably, subdivision (29) explicitly allows local laws to add additional prohibited areas.
+**[Penal Code § 26230(a)(25)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26230.&lawCode=PEN)**: Prohibits concealed carry permit holders from carrying at "a polling place, voting center, precinct, or other area or location where votes are being cast or cast ballots are being returned or counted, **or the streets or sidewalks immediately adjacent**." Notably, subdivision (29) explicitly allows local laws to add additional prohibited areas.
 
 ### Local control statutes empower city councils
 
-**Government Code § 37100** establishes city council's fundamental ordinance power: "The legislative body may pass ordinances not in conflict with the Constitution and laws of the State or the United States."
+**[Government Code § 37100](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=37100.&lawCode=GOV)** establishes city council's fundamental ordinance power: "The legislative body may pass ordinances not in conflict with the Constitution and laws of the State or the United States."
 
-**Government Code § 36505** gives city councils authority over police leadership: "The city council shall appoint the chief of police."
+**[Government Code § 36505](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=36505.&lawCode=GOV)** gives city councils authority over police leadership: "The city council shall appoint the chief of police."
 
 **Article XI, Section 7** grants constitutional police power to all cities: "A county or city may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations not in conflict with general laws."
 

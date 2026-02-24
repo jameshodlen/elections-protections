@@ -67,13 +67,13 @@ Home rule charter municipalities have a **marginally stronger basis** under Art.
 | **La. Const. Art. VI, § 5** | Home rule | Authorizes home rule charters; 26 of 64 parishes |
 | **La. Const. Art. VI, § 6** | Home rule protections | Prohibits legislative interference with charter entity structure |
 | **La. R.S. Title 18** | Louisiana Election Code | Comprehensive election statutes |
-| **R.S. 18:1(B)** | Election preemption | Prohibits **any** local law, resolution, or ordinance relative to elections |
-| **R.S. 40:1379.3(N)(4)** | Firearms at polling places | Concealed carry **prohibited** at polling places |
-| **R.S. 40:1796** | Firearms preemption | Strengthened 2024; existing local ordinances "null and void"; private lawsuits |
+| **[R.S. 18:1(B)](https://law.justia.com/codes/louisiana/revised-statutes/title-18/section-1/)** | Election preemption | Prohibits **any** local law, resolution, or ordinance relative to elections |
+| **[R.S. 40:1379.3(N)(4)](https://law.justia.com/codes/louisiana/revised-statutes/title-40/section-1379-3/)** | Firearms at polling places | Concealed carry **prohibited** at polling places |
+| **[R.S. 40:1796](https://law.justia.com/codes/louisiana/revised-statutes/title-40/section-1796/)** | Firearms preemption | Strengthened 2024; existing local ordinances "null and void"; private lawsuits |
 | **SB 1 (2024)** | Constitutional carry | Effective July 4, 2024; polling place prohibition survives |
-| **R.S. 18:1462** | Buffer zone | **600 feet** — largest in Deep South batch |
-| **R.S. 18:1461** | Voter intimidation | Criminal enforcement |
-| **R.S. 18:1401** | Election contest standing | Private right to contest elections |
+| **[R.S. 18:1462](https://law.justia.com/codes/louisiana/revised-statutes/title-18/section-1462/)** | Buffer zone | **600 feet** — largest in Deep South batch |
+| **[R.S. 18:1461](https://law.justia.com/codes/louisiana/revised-statutes/title-18/section-1461/)** | Voter intimidation | Criminal enforcement |
+| **[R.S. 18:1401](https://law.justia.com/codes/louisiana/revised-statutes/title-18/section-1401/)** | Election contest standing | Private right to contest elections |
 | **R.S. 33:81-85 (SB 208)** | Anti-sanctuary | Prohibits sanctuary policies; requires ICE cooperation |
 | **SB 15 (2025)** | Criminal non-cooperation | Up to **10 years** for refusing federal immigration cooperation |
 

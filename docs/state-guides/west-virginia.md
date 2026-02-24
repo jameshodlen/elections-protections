@@ -56,14 +56,14 @@ West Virginia classifies voter intimidation as a **misdemeanor only** (§§ 3-9-
 |---------|---------|-------|
 | **Art. VI, § 39a (Constitution)** | Municipal home rule | Nominally provides home rule; judicially undermined historically |
 | **Art. IV, § 1 (Constitution)** | Voting rights | Constitutional right to vote |
-| **W. Va. Code § 8-1-5a** | Municipal Home Rule Program | Permanent since 2019; ~38+ participants; item (24) bars firearms regulation |
-| **W. Va. Code § 8-12-2** | Municipal plenary power | "Plenary power and authority" for municipal affairs |
-| **W. Va. Code § 8-12-5a** | Firearms preemption (municipal) | Extremely broad prohibition on local firearms regulation |
-| **W. Va. Code § 7-1-3** | Firearms preemption (county) | County-level firearms preemption |
-| **W. Va. Code § 61-7B** | Second Amendment Preservation Act | Anti-commandeering; cites *Printz* — **mirror argument asset** |
-| **W. Va. Code § 3-1-37(a)** | Electioneering buffer zone | **100 feet**; legislature acknowledged "simply too close" but failed to expand |
-| **W. Va. Code §§ 3-9-9, 3-9-10** | Voter intimidation | **Misdemeanor only** (max $1,000/1 year) |
-| **W. Va. Code § 61-7-11a** | Courthouse firearms prohibition | Only incidental polling place protection (courthouses) |
+| **[W. Va. Code § 8-1-5a](https://law.justia.com/codes/west-virginia/chapter-8/article-1/section-8-1-5a/)** | Municipal Home Rule Program | Permanent since 2019; ~38+ participants; item (24) bars firearms regulation |
+| **[W. Va. Code § 8-12-2](https://law.justia.com/codes/west-virginia/chapter-8/article-12/section-8-12-2/)** | Municipal plenary power | "Plenary power and authority" for municipal affairs |
+| **[W. Va. Code § 8-12-5a](https://law.justia.com/codes/west-virginia/chapter-8/article-12/section-8-12-5a/)** | Firearms preemption (municipal) | Extremely broad prohibition on local firearms regulation |
+| **[W. Va. Code § 7-1-3](https://law.justia.com/codes/west-virginia/chapter-7/article-1/section-7-1-3/)** | Firearms preemption (county) | County-level firearms preemption |
+| **[W. Va. Code § 61-7B](https://law.justia.com/codes/west-virginia/chapter-61/article-7b/)** | Second Amendment Preservation Act | Anti-commandeering; cites *Printz* — **mirror argument asset** |
+| **[W. Va. Code § 3-1-37(a)](https://law.justia.com/codes/west-virginia/chapter-3/article-1/section-3-1-37/)** | Electioneering buffer zone | **100 feet**; legislature acknowledged "simply too close" but failed to expand |
+| **[W. Va. Code §§ 3-9-9](https://law.justia.com/codes/west-virginia/chapter-3/article-9/section-3-9-9/), [3-9-10](https://law.justia.com/codes/west-virginia/chapter-3/article-9/section-3-9-10/)** | Voter intimidation | **Misdemeanor only** (max $1,000/1 year) |
+| **[W. Va. Code § 61-7-11a](https://law.justia.com/codes/west-virginia/chapter-61/article-7/section-61-7-11a/)** | Courthouse firearms prohibition | Only incidental polling place protection (courthouses) |
 | **HB 4782 (2024)** | Second Amendment Business Protection Act | Further restricted municipal authority |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).

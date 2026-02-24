@@ -37,7 +37,7 @@ Courts apply the **four-part Anchor Savings preemption test** (120 Wis. 2d 391):
 
 ## The firearms preemption trap demands careful drafting
 
-**Wis. Stat. § 66.0409** presents the most significant legal obstacle. This comprehensive firearms preemption statute prohibits political subdivisions from enacting ordinances that regulate "the sale, purchase, purchase delay, transfer, ownership, use, keeping, possession, bearing, transportation, licensing, permitting, registration, or taxation of any knife or any firearm."
+**[Wis. Stat. § 66.0409](https://law.justia.com/codes/wisconsin/chapter-66/section-66-0409/)** presents the most significant legal obstacle. This comprehensive firearms preemption statute prohibits political subdivisions from enacting ordinances that regulate "the sale, purchase, purchase delay, transfer, ownership, use, keeping, possession, bearing, transportation, licensing, permitting, registration, or taxation of any knife or any firearm."
 
 The landmark **Wisconsin Carry, Inc. v. City of Madison** (2017 WI 19) decision interpreted this preemption broadly, striking down Madison's rule banning weapons on public buses. The court held that municipalities lose "ALL authority" to legislate on covered topics and that the scope extends to "formal and informal enactments" addressing matters "both general and specific."
 
@@ -47,7 +47,7 @@ An ordinance directing police not to assist "**armed** federal personnel" could 
 - **Avoid firearms language entirely**—reference "federal personnel conducting enforcement actions" rather than "armed" personnel
 - **Frame as operational directive**—characterize as internal police policy and resource allocation decision, not conduct regulation
 - **Explicitly cite 18 U.S.C. § 592**—position ordinance as supporting federal law
-- **Focus on voter protection**—invoke Wis. Stat. § 62.11(5)'s health, safety, and welfare grant
+- **Focus on voter protection**—invoke [Wis. Stat. § 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)'s health, safety, and welfare grant
 
 ---
 
@@ -67,29 +67,29 @@ The **Tenth Amendment anti-commandeering doctrine** further supports municipal a
 
 ## Wisconsin's voter intimidation law creates enforcement hook
 
-**Wis. Stat. § 12.09** provides the state-law anchor for municipal election protection:
+**[Wis. Stat. § 12.09](https://law.justia.com/codes/wisconsin/chapter-12/section-12-09/)** provides the state-law anchor for municipal election protection:
 
 > *"No person may personally or through an agent make use of or threaten to make use of force, violence, or restraint in order to induce or compel any person to vote or refrain from voting at an election."*
 
-Violations constitute a **Class I Felony** under Wis. Stat. § 12.60(1)(a)—up to 3.5 years imprisonment and $10,000 fine. Additional protections include § 12.13(3)(x), which prohibits "disorderly behavior at or near a polling place."
+Violations constitute a **Class I Felony** under [Wis. Stat. § 12.60(1)(a)](https://law.justia.com/codes/wisconsin/chapter-12/section-12-60/)—up to 3.5 years imprisonment and $10,000 fine. Additional protections include [§ 12.13(3)(x)](https://law.justia.com/codes/wisconsin/chapter-12/section-12-13/), which prohibits "disorderly behavior at or near a polling place."
 
-**Wisconsin law does not expressly prohibit firearms at polling places.** The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." This gap creates explicit space for local action. Some location-based restrictions apply: firearms are prohibited in K-12 schools (§ 948.605) and courthouses (§ 175.60), affecting many polling places.
+**Wisconsin law does not expressly prohibit firearms at polling places.** The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." This gap creates explicit space for local action. Some location-based restrictions apply: firearms are prohibited in K-12 schools ([§ 948.605](https://law.justia.com/codes/wisconsin/chapter-948/section-948-605/)) and courthouses ([§ 175.60](https://law.justia.com/codes/wisconsin/chapter-175/section-175-60/)), affecting many polling places.
 
 ---
 
 ## Municipal police authority flows through the commission system
 
-**Wis. Stat. § 62.11(5)** grants city councils broad authority:
+**[Wis. Stat. § 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)** grants city councils broad authority:
 
 > *"The council shall have the management and control of the city property, finances, highways, navigable waters, and the public service...The powers hereby conferred shall be in addition to all other grants, and shall be limited only by express language."*
 
-However, **Wis. Stat. § 62.13** establishes the Police and Fire Commission system that governs most Wisconsin cities. Under § 62.13(4)(a), the police chief has authority over "efficient and economical direction of all the activities of the department." AG Opinion 81-1 (1992) established that mayors cannot directly order police chiefs on personnel matters in cities with commissions.
+However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/)** establishes the Police and Fire Commission system that governs most Wisconsin cities. Under [§ 62.13(4)(a)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-13/), the police chief has authority over "efficient and economical direction of all the activities of the department." AG Opinion 81-1 (1992) established that mayors cannot directly order police chiefs on personnel matters in cities with commissions.
 
 **Effective approach for ordinance implementation:**
-- Frame as **city council resource allocation decision** under § 62.11(5)
+- Frame as **city council resource allocation decision** under [§ 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)
 - Direct that "city resources (vehicles, equipment, personnel time) shall not be used" rather than commanding police operations
 - Coordinate with Police and Fire Commission for operational implementation
-- Reference support for state voter protection law (§ 12.09)
+- Reference support for state voter protection law ([§ 12.09](https://law.justia.com/codes/wisconsin/chapter-12/section-12-09/))
 
 ---
 

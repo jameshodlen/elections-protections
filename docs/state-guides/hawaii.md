@@ -46,8 +46,8 @@ Hawaii hosts one of the heaviest military concentrations in the nation: Joint Ba
 
 ### Key state statutes
 
-- **HRS Section 11-132:** Establishes the **largest buffer zone** among Pacific/Western states at **200 feet** from the perimeter of any voter service center, place of deposit, and its appurtenances. Campaigning and loitering within this zone are criminal misdemeanors.
-- **HRS Section 134-9.1(a)(11) (2023, Act 52):** Prohibits firearms -- loaded or unloaded, operable or not, concealed or unconcealed -- at **any voter service center or polling place, including adjacent parking areas**.
+- **[HRS Section 11-132](https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0011/HRS_0011-0132.htm):** Establishes the **largest buffer zone** among Pacific/Western states at **200 feet** from the perimeter of any voter service center, place of deposit, and its appurtenances. Campaigning and loitering within this zone are criminal misdemeanors.
+- **[HRS Section 134-9.1(a)(11)](https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134/HRS_0134-0009_0001.htm) (2023, Act 52):** Prohibits firearms -- loaded or unloaded, operable or not, concealed or unconcealed -- at **any voter service center or polling place, including adjacent parking areas**.
 - **HRS Section 134-9.5:** Designates a 200-foot area around voter service centers as a **sensitive location** where concealed carry is prohibited.
 - **SB 1030 (2025):** Amended Hawaii's election fraud statute to include carrying unconcealed "dangerous instruments" including firearms within **200 feet** of any voter service center or polling place.
 - **HRS Section 19-3(4):** Covers voter intimidation through force, violence, restraint, intimidation, or any device that interferes with free exercise of the elective franchise.

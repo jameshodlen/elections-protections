@@ -43,14 +43,14 @@ Despite the strong existing polling place firearms ban, **O.C.G.A. Section 16-11
 | Statute | Subject | Notes |
 |---------|---------|-------|
 | **O.C.G.A. Title 21, Chapter 2** | Georgia Election Code | Comprehensive election statutes |
-| **O.C.G.A. § 21-2-413(i)** | Firearms at polling places | **Strongest in batch:** prohibits firearms within 150 feet of active polling place |
-| **O.C.G.A. § 16-11-127** | Prohibited carry locations | Lists polling places among prohibited locations |
-| **O.C.G.A. § 16-11-173** | Firearms preemption | Broad local preemption; private right of action (damages or $100 + attorney fees) |
+| **[O.C.G.A. § 21-2-413(i)](https://law.justia.com/codes/georgia/title-21/chapter-2/article-11/part-1/section-21-2-413/)** | Firearms at polling places | **Strongest in batch:** prohibits firearms within 150 feet of active polling place |
+| **[O.C.G.A. § 16-11-127](https://law.justia.com/codes/georgia/title-16/chapter-11/article-4/part-3/section-16-11-127/)** | Prohibited carry locations | Lists polling places among prohibited locations |
+| **[O.C.G.A. § 16-11-173](https://law.justia.com/codes/georgia/title-16/chapter-11/article-4/part-5/section-16-11-173/)** | Firearms preemption | Broad local preemption; private right of action (damages or $100 + attorney fees) |
 | **SB 319 (2022)** | Constitutional carry | Did **not** remove polling place prohibition |
 | **SB 204 (2025)** | Strengthened firearms preemption | Further limited local authority |
-| **O.C.G.A. § 21-2-414(a)** | Electioneering buffer zone | **150 feet** (building) + **25 feet** (voter in line) |
-| **O.C.G.A. § 21-2-498** | Risk-limiting audits | Mandated |
-| **O.C.G.A. § 21-2-520** | Election contest standing | Private right to contest elections |
+| **[O.C.G.A. § 21-2-414(a)](https://law.justia.com/codes/georgia/title-21/chapter-2/article-11/part-1/section-21-2-414/)** | Electioneering buffer zone | **150 feet** (building) + **25 feet** (voter in line) |
+| **[O.C.G.A. § 21-2-498](https://law.justia.com/codes/georgia/title-21/chapter-2/article-12/section-21-2-498/)** | Risk-limiting audits | Mandated |
+| **[O.C.G.A. § 21-2-520](https://law.justia.com/codes/georgia/title-21/chapter-2/article-13/section-21-2-520/)** | Election contest standing | Private right to contest elections |
 | **Art. IX, § II (Constitution)** | Home rule exclusion | Elections explicitly excluded from local home rule powers |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).

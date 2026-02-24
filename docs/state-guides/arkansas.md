@@ -62,15 +62,15 @@ The strongest legal theory for a municipal ordinance is that it **enforces exist
 
 | Statute | Subject | Notes |
 |---------|---------|-------|
-| **A.C.A. § 5-73-306** | Prohibited carry locations | Polling places **removed** in 2015 (Act 1175); §§ 18-19 allow facility signage |
-| **A.C.A. § 14-54-1411** | Municipal firearms preemption | Broad prohibition on local firearms regulation |
-| **A.C.A. § 14-16-504** | County firearms preemption | Parallel county-level prohibition |
-| **A.C.A. § 14-43-601 et seq.** | Municipal home rule | Statutory home rule; Dillon's Rule abrogated for municipal affairs |
+| **[A.C.A. § 5-73-306](https://law.justia.com/codes/arkansas/title-5/subtitle-6/chapter-73/subchapter-3/section-5-73-306/)** | Prohibited carry locations | Polling places **removed** in 2015 (Act 1175); §§ 18-19 allow facility signage |
+| **[A.C.A. § 14-54-1411](https://law.justia.com/codes/arkansas/title-14/chapter-54/subchapter-14/section-14-54-1411/)** | Municipal firearms preemption | Broad prohibition on local firearms regulation |
+| **[A.C.A. § 14-16-504](https://law.justia.com/codes/arkansas/title-14/chapter-16/subchapter-5/section-14-16-504/)** | County firearms preemption | Parallel county-level prohibition |
+| **[A.C.A. § 14-43-601](https://law.justia.com/codes/arkansas/title-14/chapter-43/subchapter-6/section-14-43-601/) et seq.** | Municipal home rule | Statutory home rule; Dillon's Rule abrogated for municipal affairs |
 | **Amendment 55 (1974)** | County home rule | Counties exercise local legislative authority via Quorum Courts |
 | **Art. 3, § 2** | Free elections | "No power, civil or military, shall ever interfere" |
-| **A.C.A. § 7-1-103(a)(8)** | Electioneering buffer zone | 100 feet from primary exterior entrance |
-| **A.C.A. § 7-1-103(a)(5)-(6)** | Voter intimidation | Class A misdemeanor |
-| **A.C.A. § 7-1-104** | Election crimes (felony) | Class D felony (up to 6 years, $10,000 fine) |
+| **[A.C.A. § 7-1-103](https://law.justia.com/codes/arkansas/title-7/chapter-1/section-7-1-103/)(a)(8)** | Electioneering buffer zone | 100 feet from primary exterior entrance |
+| **[A.C.A. § 7-1-103](https://law.justia.com/codes/arkansas/title-7/chapter-1/section-7-1-103/)(a)(5)-(6)** | Voter intimidation | Class A misdemeanor |
+| **[A.C.A. § 7-1-104](https://law.justia.com/codes/arkansas/title-7/chapter-1/section-7-1-104/)** | Election crimes (felony) | Class D felony (up to 6 years, $10,000 fine) |
 | **Act 1023 of 2021** | Arkansas Sovereignty Act | Anti-commandeering for federal firearms laws |
 | **Act 161 of 2025** | Emergency firearms ordinances | Prohibits local emergency firearms ordinances |
 

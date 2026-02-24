@@ -67,15 +67,15 @@ Florida constitutional provisions that **strengthen** the ordinance include Arti
 |---------|---------|-------|
 | **Art. VIII, § 2(b) (Constitution)** | Home rule | Broad municipal powers; abandoned Dillon's Rule in 1968 |
 | **Ch. 166 (MHRPA)** | Municipal Home Rule Powers Act | § 166.021(4) mandates liberal construction |
-| **F.S. § 790.06(12)(a)(6)** | Firearms at polling places | Concealed carry prohibited (second-degree misdemeanor) |
-| **F.S. § 790.053** | Open carry | Generally **illegal** |
-| **F.S. § 790.33** | Firearms preemption | Full field preemption; **$5,000 personal fines** on officials |
+| **[F.S. § 790.06(12)(a)(6)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.06.html)** | Firearms at polling places | Concealed carry prohibited (second-degree misdemeanor) |
+| **[F.S. § 790.053](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.053.html)** | Open carry | Generally **illegal** |
+| **[F.S. § 790.33](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.33.html)** | Firearms preemption | Full field preemption; **$5,000 personal fines** on officials |
 | **HB 543 (2023)** | Constitutional carry | Did **not** remove polling places from prohibited list |
-| **F.S. § 97.0115** | Election preemption | "All matters set forth in chapters 97-105" preempted |
-| **F.S. § 102.031(4)** | Electioneering buffer zone | **150 feet** |
+| **[F.S. § 97.0115](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0097/Sections/0097.0115.html)** | Election preemption | "All matters set forth in chapters 97-105" preempted |
+| **[F.S. § 102.031(4)](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0102/Sections/0102.031.html)** | Electioneering buffer zone | **150 feet** |
 | **§§ 908.101-908.109 (SB 168)** | Anti-sanctuary law | Requires "best efforts" to support federal immigration enforcement |
-| **F.S. § 102.168** | Election contest standing | Private right to contest elections |
-| **F.S. § 101.591** | Post-election audits | Required |
+| **[F.S. § 102.168](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0102/Sections/0102.168.html)** | Election contest standing | Private right to contest elections |
+| **[F.S. § 101.591](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0101/Sections/0101.591.html)** | Post-election audits | Required |
 | **Title IX, Chapters 97-106** | Florida Election Code | Comprehensive election statutes |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).

@@ -51,10 +51,10 @@ Virginia's constitution provides relevant protections, though the Dillon Rule li
 
 | Statute | Subject | Notes |
 |---------|---------|-------|
-| **Va. Code § 24.2-604(A)(iv)** | Firearms at polling places | Ban within **40 feet** of entrance; HB 909 (2026) would expand to 100 feet |
-| **Va. Code § 24.2-1005(B)** | Voter intimidation — private right of action | Any intimidated voter may "obtain relief" |
-| **Va. Code § 24.2-1015** | Conspiracy to hinder voting rights | **Class 5 felony** |
-| **Va. Code §§ 18.2-433.1 to 433.2** | Paramilitary activity prohibitions | Robust anti-paramilitary training statutes |
+| **[Va. Code § 24.2-604(A)(iv)](https://law.justia.com/codes/virginia/title-24-2/chapter-6/section-24-2-604/)** | Firearms at polling places | Ban within **40 feet** of entrance; HB 909 (2026) would expand to 100 feet |
+| **[Va. Code § 24.2-1005(B)](https://law.justia.com/codes/virginia/title-24-2/chapter-10/section-24-2-1005/)** | Voter intimidation — private right of action | Any intimidated voter may "obtain relief" |
+| **[Va. Code § 24.2-1015](https://law.justia.com/codes/virginia/title-24-2/chapter-10/section-24-2-1015/)** | Conspiracy to hinder voting rights | **Class 5 felony** |
+| **[Va. Code §§ 18.2-433.1](https://law.justia.com/codes/virginia/title-18-2/chapter-9/section-18-2-433-1/) to [433.2](https://law.justia.com/codes/virginia/title-18-2/chapter-9/section-18-2-433-2/)** | Paramilitary activity prohibitions | Robust anti-paramilitary training statutes |
 | **Title 24.2** | Virginia Election Code | Comprehensive election administration framework |
 | **Dillon Rule** | Municipal authority | Strict; cities may only exercise expressly granted powers |
 | **HB 909 (2026)** | Buffer zone expansion | Would expand firearms buffer from 40 to 100 feet |

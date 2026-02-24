@@ -74,20 +74,20 @@ No 8th Circuit case law directly addresses municipal authority over police prese
 
 ### Voter intimidation and election interference provisions
 
-**Minn. Stat. § 211B.07 — Undue Influence on Voters Prohibited** serves as the primary voter intimidation statute:
+**[Minn. Stat. § 211B.07](https://www.revisor.mn.gov/statutes/cite/211B.07) — Undue Influence on Voters Prohibited** serves as the primary voter intimidation statute:
 
 > *"A person may not directly or indirectly use or threaten force, coercion, violence, restraint, damage, harm, loss, including loss of employment or economic reprisal, undue influence, or temporal or spiritual injury against an individual to compel the individual to vote for or against a candidate or ballot question. Abduction, duress, or fraud may not be used to obstruct or prevent the free exercise of the right to vote."*
 
 Violation constitutes a **gross misdemeanor**.
 
-**Minn. Stat. § 211B.076 — Interference with Election Officials** (enacted 2023) provides comprehensive protection:
+**[Minn. Stat. § 211B.076](https://www.revisor.mn.gov/statutes/cite/211B.076) — Interference with Election Officials** (enacted 2023) provides comprehensive protection:
 
 - **Subd. 2** prohibits intimidation of election officials through force, coercion, or economic reprisal
 - **Subd. 3** prohibits intentionally hindering or interfering with election official duties
 - **Subd. 5** prohibits physically obstructing election official access to polling places
 - **Penalties**: Gross misdemeanor plus civil remedies up to **$1,000 per violation**
 
-**Minn. Stat. § 204C.06 — Conduct in and Near Polling Places** is the centerpiece statute for ordinance drafting:
+**[Minn. Stat. § 204C.06](https://www.revisor.mn.gov/statutes/cite/204C.06) — Conduct in and Near Polling Places** is the centerpiece statute for ordinance drafting:
 
 - **Subd. 1**: Establishes **100-foot buffer zone** around polling places
 - **Subd. 5**: Election judges may appoint sergeant-at-arms; peace officers "shall not otherwise interfere in any manner with voters"
@@ -97,21 +97,21 @@ This statute directly supports local ordinances by establishing state policy res
 
 ### Local government control and municipal authority provisions
 
-**Minn. Stat. § 412.221 — Specific Powers of Council** grants city councils comprehensive authority:
+**[Minn. Stat. § 412.221](https://www.revisor.mn.gov/statutes/cite/412.221) — Specific Powers of Council** grants city councils comprehensive authority:
 
 - **Subd. 32 (General Welfare)**: Power "to provide for the government and good order of the city, the suppression of vice and immorality, the prevention of crime, **the protection of public and private property**, the benefit of residence, trade, and commerce, and **the promotion of health, safety, order, convenience, and the general welfare** by such ordinances not inconsistent with the Constitution and laws of the United States or of this state"
 
-**Minn. Stat. § 412.241 — Council Financial Authority**: "The council shall have **full authority over the financial affairs of the city**, and shall provide for the collection of all revenues and other assets, the auditing and settlement of accounts, and the safekeeping and disbursement of public money."
+**[Minn. Stat. § 412.241](https://www.revisor.mn.gov/statutes/cite/412.241) — Council Financial Authority**: "The council shall have **full authority over the financial affairs of the city**, and shall provide for the collection of all revenues and other assets, the auditing and settlement of accounts, and the safekeeping and disbursement of public money."
 
-**Minn. Stat. § 412.111 — Departments and Personnel**: "The council may create departments and advisory boards and **appoint officers, employees, and agents** for the city as deemed necessary for the proper management and operation of city affairs. **The council may prescribe the duties** and fix the compensation of all officers."
+**[Minn. Stat. § 412.111](https://www.revisor.mn.gov/statutes/cite/412.111) — Departments and Personnel**: "The council may create departments and advisory boards and **appoint officers, employees, and agents** for the city as deemed necessary for the proper management and operation of city affairs. **The council may prescribe the duties** and fix the compensation of all officers."
 
-**Minn. Stat. § 410.07 — Home Rule Charter Powers** (for charter cities): Permits establishment and administration of "**all departments of a city government**" and regulation of "**all local municipal functions**."
+**[Minn. Stat. § 410.07](https://www.revisor.mn.gov/statutes/cite/410.07) — Home Rule Charter Powers** (for charter cities): Permits establishment and administration of "**all departments of a city government**" and regulation of "**all local municipal functions**."
 
 ### Police and election administration authority
 
-**Minn. Stat. § 626.84** defines peace officers as licensed employees of political subdivisions, establishing them as municipal employees subject to city council authority over duties and compensation.
+**[Minn. Stat. § 626.84](https://www.revisor.mn.gov/statutes/cite/626.84)** defines peace officers as licensed employees of political subdivisions, establishing them as municipal employees subject to city council authority over duties and compensation.
 
-**Minn. Stat. § 204B.16 — Polling Place Designation**: "By December 31 of each year, **the governing body of each municipality**...must designate by ordinance or resolution any changes to a polling place location." This confirms municipal authority over polling place administration.
+**[Minn. Stat. § 204B.16](https://www.revisor.mn.gov/statutes/cite/204B.16) — Polling Place Designation**: "By December 31 of each year, **the governing body of each municipality**...must designate by ordinance or resolution any changes to a polling place location." This confirms municipal authority over polling place administration.
 
 ---
 

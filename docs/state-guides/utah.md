@@ -54,12 +54,12 @@ Unlike Texas and Oklahoma, Utah has no direct Second Amendment Sanctuary Act equ
 |---------|---------|-------|
 | **Art. XI, § 5 (Constitution)** | Home rule | Charter cities exercise powers not in conflict with general law |
 | **Art. I, § 17 (Constitution)** | Free elections | "No power, civil or military, shall at any time interfere" |
-| **Utah Code § 76-10-500** | Firearms preemption | Legislature "occupies the whole field"; subsection (6) extremely broad |
-| **§§ 78B-6-2201 to 2204** | Firearm Preemption Enforcement Act | Private cause of action with damages and attorney fees |
-| **§ 10-8-84** | General welfare clause | Municipal police power authority |
-| **§ 20A-3a-501** | Electioneering buffer zone | **150 feet**; sheriffs/deputies empowered to prevent obstruction |
-| **§ 20A-3a-502** | Voter intimidation | Criminal; no explicit private civil right of action |
-| **§ 20A-3a-801** | Poll watchers | Notably permissive — **any individual** may register as a watcher without party certification |
+| **[Utah Code § 76-10-500](https://law.justia.com/codes/utah/title-76/chapter-10/section-76-10-500/)** | Firearms preemption | Legislature "occupies the whole field"; subsection (6) extremely broad |
+| **[§§ 78B-6-2201](https://law.justia.com/codes/utah/title-78b/chapter-6/section-78b-6-2201/) to 2204** | Firearm Preemption Enforcement Act | Private cause of action with damages and attorney fees |
+| **[§ 10-8-84](https://law.justia.com/codes/utah/title-10/chapter-8/section-10-8-84/)** | General welfare clause | Municipal police power authority |
+| **[§ 20A-3a-501](https://law.justia.com/codes/utah/title-20a/chapter-3a/section-20a-3a-501/)** | Electioneering buffer zone | **150 feet**; sheriffs/deputies empowered to prevent obstruction |
+| **[§ 20A-3a-502](https://law.justia.com/codes/utah/title-20a/chapter-3a/section-20a-3a-502/)** | Voter intimidation | Criminal; no explicit private civil right of action |
+| **[§ 20A-3a-801](https://law.justia.com/codes/utah/title-20a/chapter-3a/section-20a-3a-801/)** | Poll watchers | Notably permissive — **any individual** may register as a watcher without party certification |
 | **HB 60 (2021)** | Constitutional carry | Permitless carry statewide |
 | *State v. Hutchinson* (1980) | Dillon's Rule abandoned | "Archaic, unrealistic, and unresponsive" |
 

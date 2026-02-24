@@ -61,7 +61,7 @@ Most encouragingly, *Alaska Trappers Association v. City of Valdez* (2024) uphel
 
 ### Voter intimidation statutes provide enforcement authority
 
-**AS 15.56.030 (Unlawful Interference with Voting in the First Degree)** is a Class C felony prohibiting the use or threat of "force, coercion, violence, or restraint" or inflicting "damage, harm, or loss" to induce or compel voting behavior. Violations constitute a "corrupt practice" resulting in forfeiture of any office held.
+**[AS 15.56.030](https://law.justia.com/codes/alaska/title-15/chapter-56/section-15-56-030/) (Unlawful Interference with Voting in the First Degree)** is a Class C felony prohibiting the use or threat of "force, coercion, violence, or restraint" or inflicting "damage, harm, or loss" to induce or compel voting behavior. Violations constitute a "corrupt practice" resulting in forfeiture of any office held.
 
 **AS 15.56.060 (Unlawful Interference with an Election)** is a Class A misdemeanor protecting election officials from intimidation, specifically prohibiting anyone who "induces or attempts to induce an election official to fail in the official's duty by force, threat, intimidation."
 

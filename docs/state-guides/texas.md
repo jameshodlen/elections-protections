@@ -60,14 +60,14 @@ Texas is unique because it **does prohibit firearms inside polling place buildin
 |---------|---------|-------|
 | **Art. XI, § 5 (Constitution)** | Home rule | Cities over 5,000; self-executing; "full power of local self-government" |
 | **Art. I, § 24 (Constitution)** | Military subordination | Military subordinate to civil authority since 1836 |
-| **Tex. Penal Code § 46.03(a)(2)** | Firearms at polling places | Third-degree felony **inside building only**; does not cover parking lots/exterior |
-| **Tex. Local Gov't Code § 229.001** | Firearms preemption | Broad preemption; but § 229.001(g) preserves federal law enforceability |
-| **HB 2622 (2021) / Penal Code § 1.10** | Second Amendment Sanctuary Act | Anti-commandeering for federal firearms laws — **mirror argument linchpin** |
-| **SB 4 (2017) / Gov't Code § 752.053** | Anti-sanctuary city | Mandates immigration cooperation — **negative inference** argument |
+| **[Tex. Penal Code § 46.03(a)(2)](https://law.justia.com/codes/texas/penal-code/title-10/chapter-46/section-46-03/)** | Firearms at polling places | Third-degree felony **inside building only**; does not cover parking lots/exterior |
+| **[Tex. Local Gov't Code § 229.001](https://law.justia.com/codes/texas/local-government-code/)** | Firearms preemption | Broad preemption; but § 229.001(g) preserves federal law enforceability |
+| **HB 2622 (2021) / [Penal Code § 1.10](https://law.justia.com/codes/texas/penal-code/title-1/chapter-1/section-1-10/)** | Second Amendment Sanctuary Act | Anti-commandeering for federal firearms laws — **mirror argument linchpin** |
+| **SB 4 (2017) / [Gov't Code § 752.053](https://law.justia.com/codes/texas/government-code/)** | Anti-sanctuary city | Mandates immigration cooperation — **negative inference** argument |
 | **HB 2127 (2023)** | "Death Star" preemption | Eight areas preempted — but **not** elections or election security |
-| **Tex. Elec. Code §§ 61.003, 85.036** | Electioneering buffer zone | 100 feet; plus 20 feet from curbside voting spaces |
+| **Tex. Elec. Code §§ [61.003](https://law.justia.com/codes/texas/election-code/title-6/chapter-61/section-61-003/), [85.036](https://law.justia.com/codes/texas/election-code/title-7/chapter-85/section-85-036/)** | Electioneering buffer zone | 100 feet; plus 20 feet from curbside voting spaces |
 | **Tex. Elec. Code Ch. 33** | Poll watchers | Expanded by SB 1 (2021); detailed regime; max 2 per precinct, 7 per early voting |
-| **Tex. Elec. Code § 129.003** | Paper audit trail mandate | Hard deadline of September 1, 2026 for DRE transition |
+| **[Tex. Elec. Code § 129.003](https://law.justia.com/codes/texas/election-code/title-8/chapter-129/section-129-003/)** | Paper audit trail mandate | Hard deadline of September 1, 2026 for DRE transition |
 | **SB 2284 (2025)** | Expanded firearms preemption | Further limits on local firearms regulation |
 
 For comprehensive cross-state statutory comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).

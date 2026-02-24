@@ -44,11 +44,11 @@ The New Hampshire Constitution provides foundational rights that could support e
 
 ### Key state statutes
 
-- **RSA 659:43:** Establishes a restricted zone around polling locations for electioneering purposes.
-- **RSA 659:40:** Prohibits voter intimidation through force, threats, or bribery. Penalties include criminal prosecution.
-- **RSA 659:4:** Governs polling place operations and procedures.
+- **[RSA 659:43](https://law.justia.com/codes/new-hampshire/title-lxiii/chapter-659/section-659-43/):** Establishes a restricted zone around polling locations for electioneering purposes.
+- **[RSA 659:40](https://law.justia.com/codes/new-hampshire/title-lxiii/chapter-659/section-659-40/):** Prohibits voter intimidation through force, threats, or bribery. Penalties include criminal prosecution.
+- **[RSA 659:4](https://law.justia.com/codes/new-hampshire/title-lxiii/chapter-659/section-659-4/):** Governs polling place operations and procedures.
 - **RSA 652-670:** General election laws governing the administration of elections.
-- **RSA 159:26:** Firearms preemption statute -- reserves regulation to the state.
+- **[RSA 159:26](https://law.justia.com/codes/new-hampshire/title-xii/chapter-159/section-159-26/):** Firearms preemption statute -- reserves regulation to the state.
 - **H.B. 154 (2025):** Recent election interference legislation -- instituted ballot-counting changes criticized by the Brennan Center.
 - **No specific polling place firearms prohibition exists under state law.**
 

@@ -42,14 +42,14 @@ The ordinance's federal foundation through 18 U.S.C. Section 592 and the anti-co
 
 **Key Indiana Statutes:**
 
-- **IC Title 3** — Election Code
-- **IC 3-6-3.7-1** — Secretary of State as chief election official
-- **IC 3-14-3-16** — Electioneering buffer zone ("chute") — 50 feet in radius from polling entrance (redefined by HEA 1265 in 2024; smallest in the Midwest batch)
-- **IC 3-14-3-21.5** — Voter intimidation (knowingly or intentionally intimidating, threatening, or coercing for exercising election rights)
+- **[IC Title 3](https://law.justia.com/codes/indiana/title-3/)** — Election Code
+- **[IC 3-6-3.7-1](https://law.justia.com/codes/indiana/title-3/article-6/chapter-3.7/section-3-6-3.7-1/)** — Secretary of State as chief election official
+- **[IC 3-14-3-16](https://law.justia.com/codes/indiana/title-3/article-14/chapter-3/section-3-14-3-16/)** — Electioneering buffer zone ("chute") — 50 feet in radius from polling entrance (redefined by HEA 1265 in 2024; smallest in the Midwest batch)
+- **[IC 3-14-3-21.5](https://law.justia.com/codes/indiana/title-3/article-14/chapter-3/section-3-14-3-21.5/)** — Voter intimidation (knowingly or intentionally intimidating, threatening, or coercing for exercising election rights)
 - **IC 3-14** — Election offenses
-- **IC 36-1-3** — Home Rule Act (1980)
-- **IC 36-1-3-8(a)(12)** — State reservation of power to "order or conduct an election"
-- **IC 35-47-11.1** — Firearms preemption (treble damages and attorney fees against violating municipalities)
+- **[IC 36-1-3](https://law.justia.com/codes/indiana/title-36/article-1/chapter-3/)** — Home Rule Act (1980)
+- **[IC 36-1-3-8(a)(12)](https://law.justia.com/codes/indiana/title-36/article-1/chapter-3/section-36-1-3-8/)** — State reservation of power to "order or conduct an election"
+- **[IC 35-47-11.1](https://law.justia.com/codes/indiana/title-35/article-47/chapter-11.1/)** — Firearms preemption (treble damages and attorney fees against violating municipalities)
 - **HEA 1265 (2024)** — Redefined electioneering "chute" to 50-foot radius; created Level 6 felony for obstructing election workers
 - **HEA 1680 (2025)** — Mandatory procedure audits (though discretionary in application)
 - **SEA 472 (2025)** — Requires all public entities to adopt cybersecurity policies by December 2027

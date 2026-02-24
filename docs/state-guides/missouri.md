@@ -51,16 +51,16 @@ The anti-sanctuary statute **Mo. Rev. Stat. Section 67.307** (enacted 2019) proh
 **Key Missouri Statutes:**
 
 - **RSMo Chapter 115** — Election Authorities and Conduct of Elections (Title IX)
-- **RSMo 115.023** — Election authority conduct
+- **[RSMo 115.023](https://law.justia.com/codes/missouri/title-ix/chapter-115/section-115-023/)** — Election authority conduct
 - **RSMo 115.105-115.111** — Challengers and watchers (one challenger per polling place per party, names submitted 4 business days prior; watchers must take oath per RSMo 115.109)
-- **RSMo 115.409** — Polling place access (strictly limits who may enter a polling place to authorized personnel, election judges, credentialed watchers/challengers, law enforcement at election officials' request)
-- **RSMo 115.631** — Felony election offenses (up to 5 years, $10,000 fine)
-- **RSMo 115.635** — Misdemeanor voter intimidation (up to 1 year, $2,500 fine)
-- **RSMo 115.637** — Electioneering buffer zone (25 feet, pending expansion to 50 feet)
-- **RSMo 571.215(2)** — Prohibits carrying concealed firearms within 25 feet of any polling place on any election day, even for CCW permit holders
-- **RSMo 571.030(8)** — Prohibits concealed firearm possession in any election precinct on election day for non-permit holders
-- **RSMo 571.107** — Municipalities may prohibit firearms in government-owned buildings (though without criminal penalties)
-- **RSMo 21.750** — Firearms preemption statute; subsection (3)(1) permits municipalities to regulate open carry
+- **[RSMo 115.409](https://law.justia.com/codes/missouri/title-ix/chapter-115/section-115-409/)** — Polling place access (strictly limits who may enter a polling place to authorized personnel, election judges, credentialed watchers/challengers, law enforcement at election officials' request)
+- **[RSMo 115.631](https://law.justia.com/codes/missouri/title-ix/chapter-115/section-115-631/)** — Felony election offenses (up to 5 years, $10,000 fine)
+- **[RSMo 115.635](https://law.justia.com/codes/missouri/title-ix/chapter-115/section-115-635/)** — Misdemeanor voter intimidation (up to 1 year, $2,500 fine)
+- **[RSMo 115.637](https://law.justia.com/codes/missouri/title-ix/chapter-115/section-115-637/)** — Electioneering buffer zone (25 feet, pending expansion to 50 feet)
+- **[RSMo 571.215(2)](https://law.justia.com/codes/missouri/title-xxxviii/chapter-571/section-571-215/)** — Prohibits carrying concealed firearms within 25 feet of any polling place on any election day, even for CCW permit holders
+- **[RSMo 571.030(8)](https://law.justia.com/codes/missouri/title-xxxviii/chapter-571/section-571-030/)** — Prohibits concealed firearm possession in any election precinct on election day for non-permit holders
+- **[RSMo 571.107](https://law.justia.com/codes/missouri/title-xxxviii/chapter-571/section-571-107/)** — Municipalities may prohibit firearms in government-owned buildings (though without criminal penalties)
+- **[RSMo 21.750](https://law.justia.com/codes/missouri/title-iii/chapter-21/section-21-750/)** — Firearms preemption statute; subsection (3)(1) permits municipalities to regulate open carry
 - **Mo. Const. Art. VI, Section 19** — Home rule charter authority
 - **Mo. Const. Art. I, Section 25** — "All elections shall be free and open"
 

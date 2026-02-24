@@ -51,18 +51,18 @@ The fundamental structural weakness: while anti-commandeering protects municipal
 **Key Iowa Statutes:**
 
 - **Iowa Code Chapters 39-53** — Election Code (Title II)
-- **Iowa Code Section 39A.2(1)(d)** — Voter intimidation as election misconduct in the first degree (Class D felony, up to 5 years imprisonment)
-- **Iowa Code Section 39A.4(1)(a)(1)** — Electioneering buffer zone (300 feet from any outside door; largest in the Midwest batch)
-- **Iowa Code Section 39A.5** — Fourth-degree violations (simple misdemeanors)
-- **Iowa Code Section 39.28** — AG or any eligible elector may bring action to enforce election law (meaningful citizen enforcement mechanism)
-- **Iowa Code Section 49.104** — Poll watcher regulations (up to 3 observers per party, written credentials required)
-- **Iowa Code Section 364.1** — Municipal home rule power (broad grant)
-- **Iowa Code Section 364.3** — Enumerated restrictions on city power (election administration NOT listed)
-- **Iowa Code Section 331.301** — County home rule power
-- **Iowa Code Section 331.383** — County auditors as commissioners of elections
-- **Iowa Code Section 724.28** — Firearms preemption (blocks local government action)
-- **Iowa Code Section 724.4B** — 1,000-foot school weapons-free zone
-- **Iowa Code Chapter 27A** — Anti-sanctuary statute (immigration-specific)
+- **[Iowa Code Section 39A.2(1)(d)](https://law.justia.com/codes/iowa/chapter-39a/section-39a-2/)** — Voter intimidation as election misconduct in the first degree (Class D felony, up to 5 years imprisonment)
+- **[Iowa Code Section 39A.4(1)(a)(1)](https://law.justia.com/codes/iowa/chapter-39a/section-39a-4/)** — Electioneering buffer zone (300 feet from any outside door; largest in the Midwest batch)
+- **[Iowa Code Section 39A.5](https://law.justia.com/codes/iowa/chapter-39a/section-39a-5/)** — Fourth-degree violations (simple misdemeanors)
+- **[Iowa Code Section 39.28](https://law.justia.com/codes/iowa/chapter-39/section-39-28/)** — AG or any eligible elector may bring action to enforce election law (meaningful citizen enforcement mechanism)
+- **[Iowa Code Section 49.104](https://law.justia.com/codes/iowa/chapter-49/section-49-104/)** — Poll watcher regulations (up to 3 observers per party, written credentials required)
+- **[Iowa Code Section 364.1](https://law.justia.com/codes/iowa/chapter-364/section-364-1/)** — Municipal home rule power (broad grant)
+- **[Iowa Code Section 364.3](https://law.justia.com/codes/iowa/chapter-364/section-364-3/)** — Enumerated restrictions on city power (election administration NOT listed)
+- **[Iowa Code Section 331.301](https://law.justia.com/codes/iowa/chapter-331/section-331-301/)** — County home rule power
+- **[Iowa Code Section 331.383](https://law.justia.com/codes/iowa/chapter-331/section-331-383/)** — County auditors as commissioners of elections
+- **[Iowa Code Section 724.28](https://law.justia.com/codes/iowa/chapter-724/section-724-28/)** — Firearms preemption (blocks local government action)
+- **[Iowa Code Section 724.4B](https://law.justia.com/codes/iowa/chapter-724/section-724-4b/)** — 1,000-foot school weapons-free zone
+- **[Iowa Code Chapter 27A](https://law.justia.com/codes/iowa/chapter-27a/)** — Anti-sanctuary statute (immigration-specific)
 - **Iowa Const. Art. III, Section 38A** — Municipal home rule (rejects Dillon's Rule)
 - **Iowa Const. Art. III, Section 39A** — County home rule
 - **Iowa Const. Art. II, Section 1** — Right of Suffrage

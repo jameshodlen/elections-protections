@@ -118,19 +118,19 @@ Under **Sterling Heights v. Bahnke** (2024), an ordinance that merely adds to st
 
 ### Voter intimidation statutes
 
-**MCL 168.932 (Felony)** is the primary voter intimidation statute:
+**[MCL 168.932](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-932) (Felony)** is the primary voter intimidation statute:
 > *"A person shall not attempt, by means of bribery, menace, or other corrupt means or device, either directly or indirectly, to influence an elector in giving his or her vote, or to deter the elector from, or interrupt the elector in giving his or her vote at any election held in this state."*
 
-**MCL 168.931b (Added 2023, effective February 2024)** addresses election worker intimidation:
+**[MCL 168.931b](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-931b) (Added 2023, effective February 2024)** addresses election worker intimidation:
 > *"An individual who intimidates an election official because of the election official's status as an election official, with the specific intent of interfering with the performance of that election official's election-related duties, is guilty of a crime..."*
 
 Penalties escalate from misdemeanor (first offense: 93 days, $500) to felony (third offense).
 
-**MCL 168.744** prohibits persuasion or interference within **100 feet** of polling place entrances.
+**[MCL 168.744](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-744)** prohibits persuasion or interference within **100 feet** of polling place entrances.
 
 ### Firearms at polling places
 
-**MCL 750.234d** (as amended by 2024 PA 157 & 158, **effective April 2, 2025**) now prohibits firearms at voting locations:
+**[MCL 750.234d](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-750-234d)** (as amended by 2024 PA 157 & 158, **effective April 2, 2025**) now prohibits firearms at voting locations:
 
 > *"A person shall not...(a) While the polls are open on an election day, possess a firearm in a polling place or within 100 feet from any entrance to a building in which a polling place is located. (b) On any day early voting is conducted...possess a firearm at an early voting site..."*
 
@@ -140,12 +140,12 @@ Penalties escalate from misdemeanor (first offense: 93 days, $500) to felony (th
 
 | Citation | Authority Granted |
 |----------|-------------------|
-| **MCL 117.4j** | All municipal powers for property management, government administration, and ordinances "relating to municipal concerns" |
-| **MCL 117.4e** | Authority over police stations and public property |
+| **[MCL 117.4j](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-117-4j)** | All municipal powers for property management, government administration, and ordinances "relating to municipal concerns" |
+| **[MCL 117.4e](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-117-4e)** | Authority over police stations and public property |
 | **MCL 117.4i(j)** | Enforcement of police ordinances "not in conflict with general laws" |
 | **MCL 117.4l** | Ordinance powers (cannot criminalize acts already crimes under Penal Code) |
-| **MCL 168.662** | Local authority to provide polling places for precincts |
-| **MCL 168.678** | Election inspector authority to "maintain peace, regularity and order" |
+| **[MCL 168.662](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-662)** | Local authority to provide polling places for precincts |
+| **[MCL 168.678](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-678)** | Election inspector authority to "maintain peace, regularity and order" |
 
 ### 2018 Proposal 3 and 2022 Proposal 2 interaction
 

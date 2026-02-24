@@ -46,12 +46,12 @@ Delaware's **non-cooperation infrastructure** provides strong precedent. **HB 18
 
 ### Key state statutes for ordinance drafting
 
-- **Del. Code tit. 15, Chapter 53 -- "Military or Other Interference with Elections"**: Among the strongest such statutes in the nation. Section 5302 makes military interference a **felony** punishable by $1,000-$10,000 and 1-5 years imprisonment, with permanent disenfranchisement. Section 5303 provides a **civil remedy for interference with voting** -- a statutory basis for private enforcement.
-- **Del. Code tit. 15, Section 4942**: Establishes a **50-foot** buffer zone around polling places, with an additional 30-foot restriction under Section 5118(b).
-- **Del. Code tit. 11, Section 1457A (2023)**: **Total ban on firearms on Election Day** at polling places. Open carry is otherwise legal without a permit; concealed carry requires a CDWL. Firearms risk level at polling places: **Low**.
-- **Del. Code tit. 22, Section 111(a)**: Firearms preemption statute -- municipal governments may not prohibit, restrict, or license ownership, transfer, possession, or transportation of firearms.
-- **Del. Code tit. 22, Section 835(a)**: Prohibits charter amendments that contravene general state statutes or restrict firearms.
-- **Del. Code tit. 9, Section 330(c)**: Extends firearms preemption to county governments.
+- **[Del. Code tit. 15, Chapter 53](https://law.justia.com/codes/delaware/title-15/chapter-53/) -- "Military or Other Interference with Elections"**: Among the strongest such statutes in the nation. Section 5302 makes military interference a **felony** punishable by $1,000-$10,000 and 1-5 years imprisonment, with permanent disenfranchisement. Section 5303 provides a **civil remedy for interference with voting** -- a statutory basis for private enforcement.
+- **[Del. Code tit. 15, Section 4942](https://law.justia.com/codes/delaware/title-15/chapter-49/section-4942/)**: Establishes a **50-foot** buffer zone around polling places, with an additional 30-foot restriction under Section 5118(b).
+- **[Del. Code tit. 11, Section 1457A](https://law.justia.com/codes/delaware/title-11/chapter-5/subchapter-7/section-1457a/) (2023)**: **Total ban on firearms on Election Day** at polling places. Open carry is otherwise legal without a permit; concealed carry requires a CDWL. Firearms risk level at polling places: **Low**.
+- **[Del. Code tit. 22, Section 111(a)](https://law.justia.com/codes/delaware/title-22/chapter-1/section-111/)**: Firearms preemption statute -- municipal governments may not prohibit, restrict, or license ownership, transfer, possession, or transportation of firearms.
+- **[Del. Code tit. 22, Section 835(a)](https://law.justia.com/codes/delaware/title-22/chapter-8/section-835/)**: Prohibits charter amendments that contravene general state statutes or restrict firearms.
+- **[Del. Code tit. 9, Section 330(c)](https://law.justia.com/codes/delaware/title-9/chapter-3/section-330/)**: Extends firearms preemption to county governments.
 
 For the full 50-state preemption and home rule comparison, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 

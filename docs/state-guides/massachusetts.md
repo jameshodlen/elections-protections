@@ -45,17 +45,17 @@ The constitutional calculus includes several mitigating factors:
 
 **Voter intimidation and election interference provisions** appear in Massachusetts General Laws Chapter 56:
 
-- **M.G.L. c. 56, § 29** — Prohibits willfully hindering, delaying, or interfering with voters while on their way to vote, within the guard rail, or while marking ballots (fine up to $500, imprisonment up to 1 year)
-- **M.G.L. c. 56, § 30** — Penalizes willful obstruction of voting at any primary, caucus, or election
-- **M.G.L. c. 56, § 46** — Addresses disorderly conduct at polling places; persistent behavior after notice from presiding officer triggers penalties
-- **M.G.L. c. 56, § 48** — Criminalizes interference with election commissioners, clerks, and officers (fine up to $500 or imprisonment)
+- **[M.G.L. c. 56, § 29](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter56/Section29)** — Prohibits willfully hindering, delaying, or interfering with voters while on their way to vote, within the guard rail, or while marking ballots (fine up to $500, imprisonment up to 1 year)
+- **[M.G.L. c. 56, § 30](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter56/Section30)** — Penalizes willful obstruction of voting at any primary, caucus, or election
+- **[M.G.L. c. 56, § 46](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter56/Section46)** — Addresses disorderly conduct at polling places; persistent behavior after notice from presiding officer triggers penalties
+- **[M.G.L. c. 56, § 48](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter56/Section48)** — Criminalizes interference with election commissioners, clerks, and officers (fine up to $500 or imprisonment)
 
 **Critical new development:** Governor Healey signed **H.4885** (Acts of 2024, Chapter 135) in July 2024, which now **prohibits possession of firearms within 150 feet of any polling place entrance**, early voting sites, and vote counting centers. This law took immediate effect October 2, 2024, though a veto referendum has qualified for the 2026 ballot. Massachusetts joins Colorado and Vermont with comprehensive polling place firearm restrictions.
 
 **Municipal authority over police and property** derives from:
 
-- **M.G.L. c. 54, § 72** — Explicitly grants local governing bodies (select board, town council, or city council) authority to "detail a sufficient number of police officers or constables" for polling places "to preserve order and to protect the election officers"
-- **M.G.L. c. 40, § 21** — Authorizes municipalities to make ordinances and bylaws for "directing and managing their prudential affairs, preserving peace and good order, and maintaining their internal police" (fines up to $300)
+- **[M.G.L. c. 54, § 72](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter54/Section72)** — Explicitly grants local governing bodies (select board, town council, or city council) authority to "detail a sufficient number of police officers or constables" for polling places "to preserve order and to protect the election officers"
+- **[M.G.L. c. 40, § 21](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40/Section21)** — Authorizes municipalities to make ordinances and bylaws for "directing and managing their prudential affairs, preserving peace and good order, and maintaining their internal police" (fines up to $300)
 - **Town Meeting/City Council appropriation power** — Legislative bodies control police department budgets
 
 **The Safe Communities Act** (S.1681/H.2580) remains pending in the 194th Session. It has not passed, though a Senate version passed in 2018 before dying in budget negotiations. The bill would prohibit questioning about immigration status, require written consent before ICE interviews, ban 287(g) agreements, and prohibit communication with DHS about pending releases. Meanwhile, **49 Massachusetts municipalities** have enacted local sanctuary or safe community protections.

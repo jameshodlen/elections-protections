@@ -51,12 +51,12 @@ The anti-commandeering analysis mirrors other states. Municipalities can decline
 **Key Nebraska Statutes:**
 
 - **Neb. Rev. Stat. Chapter 32** — Election Code (Sections 32-101 to 32-1552)
-- **Neb. Rev. Stat. Section 32-901 et seq.** — Polling place establishment
-- **Neb. Rev. Stat. Section 32-1524** — Electioneering buffer zone (200 feet from polling place entrances; updated by LB 287 in 2024 to include drop-boxes)
-- **Neb. Rev. Stat. Section 32-1525(1)** — Exit polling restrictions (20 feet of entrances, 100 feet of voting booths)
-- **Neb. Rev. Stat. Section 32-961 through 32-962** — Poll watchers (8-foot distance from sign-in tables, voting booths, and ballot boxes; expanded by LB 521, 2025)
-- **Neb. Rev. Stat. Section 32-1041(2)** — DRE machines explicitly prohibited ("No electronic voting system shall be used under the Election Act")
-- **Neb. Rev. Stat. Section 28-1202.01(3)** — Concealed carry of handguns prohibited at polling places (first offense is Class 3 misdemeanor; unique in the Midwest batch)
+- **[Neb. Rev. Stat. Section 32-901](https://law.justia.com/codes/nebraska/chapter-32/statute-32-901/) et seq.** — Polling place establishment
+- **[Neb. Rev. Stat. Section 32-1524](https://law.justia.com/codes/nebraska/chapter-32/statute-32-1524/)** — Electioneering buffer zone (200 feet from polling place entrances; updated by LB 287 in 2024 to include drop-boxes)
+- **[Neb. Rev. Stat. Section 32-1525(1)](https://law.justia.com/codes/nebraska/chapter-32/statute-32-1525/)** — Exit polling restrictions (20 feet of entrances, 100 feet of voting booths)
+- **[Neb. Rev. Stat. Section 32-961](https://law.justia.com/codes/nebraska/chapter-32/statute-32-961/) through [32-962](https://law.justia.com/codes/nebraska/chapter-32/statute-32-962/)** — Poll watchers (8-foot distance from sign-in tables, voting booths, and ballot boxes; expanded by LB 521, 2025)
+- **[Neb. Rev. Stat. Section 32-1041(2)](https://law.justia.com/codes/nebraska/chapter-32/statute-32-1041/)** — DRE machines explicitly prohibited ("No electronic voting system shall be used under the Election Act")
+- **[Neb. Rev. Stat. Section 28-1202.01(3)](https://law.justia.com/codes/nebraska/chapter-28/statute-28-1202-01/)** — Concealed carry of handguns prohibited at polling places (first offense is Class 3 misdemeanor; unique in the Midwest batch)
 - **LB 77 (2023)** — Constitutional carry and statewide firearms preemption
 - **LB 287 (2024)** — Drop-box buffer zone protections
 - **LB 521 (2025)** — Poll watcher regulation updates
