@@ -525,56 +525,7 @@ All digital evidence must maintain an unbroken chain of custody from collection 
 
 ---
 
-## V. EVIDENCE PRESERVATION PRIORITIES — IMMEDIATE ACTIONS
-
-The following items should be collected and preserved **immediately**:
-
-**Priority 1 — Government Statements**
-- [ ] Download and hash full video of Bannon's February 3, 2026 War Room episode
-- [ ] Download and hash full video of February 6, 2026 White House press briefing (Leavitt "can't guarantee" statement)
-- [ ] Download and hash full video of Lyons's February 12, 2026 Senate testimony
-- [ ] Obtain official copy of Bondi's January 24, 2026 letter to Walz
-- [ ] Screenshot and archive all Trump social media posts referencing voting, elections, nationalization, and Minnesota
-- [ ] Download and hash Trump's Dan Bongino podcast interview (February 2, 2026)
-- [ ] Archive the White House press briefing transcript page
-- [ ] Submit all key URLs to archive.today and the Wayback Machine
-
-**Priority 2 — Minnesota Evidence**
-- [ ] Obtain official election results from MN Secretary of State for January 27 special election
-- [ ] Contact Rep. Luger-Nikolai's campaign for declarations
-- [ ] Contact Minnesota DFL for declarations from Richard Carlbom and precinct caucus organizers
-- [ ] Obtain precinct-level turnout data for District 64A
-- [ ] Collect media coverage of the January 2026 ICE surge from local Minnesota outlets
-- [ ] Archive Democracy Docket, HuffPost, The Hill, and NPR coverage of the special election impact
-- [ ] Obtain court filings from Minnesota's federal lawsuit against ICE operations (contains Middlecamp "ransom note" arguments)
-
-**Priority 3 — Polling and Research**
-- [ ] Contact Data for Progress for full survey data and methodology
-- [ ] Locate and download Dr. David Niven's study on police presence and voter turnout
-- [ ] Download MIT Election Lab analysis on law enforcement in elections
-- [ ] Download Kate Starbird's Medium article analyzing Bannon's "reflexive control" strategy
-- [ ] Download Brookings Institution analysis of ICE and 2026 Senate races
-- [ ] Download Voting Rights Lab analysis of Bondi's voter roll demands
-- [ ] Identify and contact potential expert witnesses
-
-**Priority 4 — Legal Materials**
-- [ ] Compile state constitutional provisions for all 11 target states
-- [ ] Compile state voter intimidation statutes for all 11 target states
-- [ ] Obtain full text and legislative history of CO HB25-1225, MN VRA, WA VRA, OR VRA
-- [ ] Download and organize all precedent cases identified in Category 6
-- [ ] Obtain American Oversight FOIA filing documents
-
-**Priority 5 — Infrastructure**
-- [ ] Design voter incident reporting system
-- [ ] Establish evidence management database/index
-- [ ] Designate records custodian
-- [ ] Set up secure evidence storage (cloud + local + offsite)
-- [ ] Establish automated monitoring for new administration statements
-- [ ] Begin drafting template declarations for voter witnesses
-
----
-
-## VI. SPECIAL CONSIDERATIONS
+## V. SPECIAL CONSIDERATIONS
 
 ### Protecting Declarant Identity
 

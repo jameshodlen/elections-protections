@@ -35,56 +35,56 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 
 | State | Home Rule/Dillon's Rule | Key Legal Citation | Anti-Sanctuary Laws | Tier | Target Cities |
 |-------|------------------------|-------------------|--------------------|----- |---------------|
-| **Alabama** | Dillon's Rule (strict) | AL Const. 1901, Amend. 825; Code §11-40-1 | Proposed; HB 56 (2011) active | **RED** | — |
+| **[Alabama](../state-guides/alabama.md)** | Dillon's Rule (strict) | AL Const. 1901, Amend. 825; Code §11-40-1 | Proposed; HB 56 (2011) active | **RED** | — |
 | **[Alaska](../state-guides/alaska.md)** | Home Rule (strong) | AK Const. Art. X, §11 | None | **GREEN** | Anchorage, Juneau |
-| **Arizona** | Hybrid (HR 3,500+) | AZ Const. Art. XIII, §2 | SB 1070 (2010); SB 1487 (2016) preemption | **RED** | See swing state section |
-| **Arkansas** | Dillon's Rule + limited HR | AR Const. Art. 12, §3; Code §14-42-307 | 2019 ban | **RED** | — |
+| **[Arizona](../state-guides/arizona.md)** | Hybrid (HR 3,500+) | AZ Const. Art. XIII, §2 | SB 1070 (2010); SB 1487 (2016) preemption | **RED** | See swing state section |
+| **[Arkansas](../state-guides/arkansas.md)** | Dillon's Rule + limited HR | AR Const. Art. 12, §3; Code §14-42-307 | 2019 ban | **RED** | — |
 | **[California](../state-guides/california.md)** | Home Rule (charter cities) | CA Const. Art. XI, §§5, 7 | **Sanctuary State (SB 54)** | **GREEN** | Los Angeles, San Francisco, San Jose, Oakland |
 | **[Colorado](../state-guides/colorado.md)** | Home Rule (strong, since 1902) | CO Const. Art. XX, §6 | None | **GREEN** | Denver, Aurora, Boulder |
 | **[Connecticut](../state-guides/connecticut.md)** | Home Rule | CT Const. Art. X; CGS §7-148 | None | **GREEN** | New Haven, Hartford, Bridgeport |
-| **Delaware** | Statutory HR (municipal)/Dillon's (counties) | 22 Del. C. Ch. 8 | None | **YELLOW** | Wilmington |
-| **Florida** | Home Rule (except taxation) | FL Const. Art. VIII, §2(b); F.S. Ch. 166 | SB 168 (2019) | **RED** | — |
-| **Georgia** | Dillon's Rule + limited HR | GA Const. Art. IX, §2; O.C.G.A. §36-35-3 | HB 87 (2011); HB 301 (2024) | **RED** | See swing state section |
-| **Hawaii** | Dillon's Rule (counties only) | HI Const. Art. VIII | None | **YELLOW** | Honolulu |
-| **Idaho** | Hybrid | ID Const. Art. XII, §2 | HB 465 (2012) | **RED** | — |
+| **[Delaware](../state-guides/delaware.md)** | Statutory HR (municipal)/Dillon's (counties) | 22 Del. C. Ch. 8 | None | **YELLOW** | Wilmington |
+| **[Florida](../state-guides/florida.md)** | Home Rule (except taxation) | FL Const. Art. VIII, §2(b); F.S. Ch. 166 | SB 168 (2019) | **RED** | — |
+| **[Georgia](../state-guides/georgia.md)** | Dillon's Rule + limited HR | GA Const. Art. IX, §2; O.C.G.A. §36-35-3 | HB 87 (2011); HB 301 (2024) | **RED** | See swing state section |
+| **[Hawaii](../state-guides/hawaii.md)** | Dillon's Rule (counties only) | HI Const. Art. VIII | None | **YELLOW** | Honolulu |
+| **[Idaho](../state-guides/idaho.md)** | Hybrid | ID Const. Art. XII, §2 | HB 465 (2012) | **RED** | — |
 | **[Illinois](../state-guides/illinois.md)** | Home Rule (strong, constitutional) | IL Const. Art. VII, §6 | **Illinois Trust Act protections** | **GREEN** | Chicago, Aurora, Evanston |
-| **Indiana** | Statutory HR (weak) | IC 36-1-3 | SB 590 (2011); SB 181 (2024); AG active enforcement | **RED** | — |
-| **Iowa** | Constitutional HR (since 1968) | IA Const. Art. III, §38A | SF 481 (2018) statewide ban | **RED** | — |
-| **Kansas** | Home Rule (strong, since 1961) | KS Const. Art. 12, §5 | None formal; conservative governance | **YELLOW** | Kansas City, Lawrence |
-| **Kentucky** | Dillon's Rule | KY Const. §§156-160; KRS Ch. 82-83 | None | **YELLOW** | Louisville, Lexington |
-| **Louisiana** | Hybrid (Dillon's pre-1974/HR post-1974) | LA Const. 1974 Art. VI | None | **YELLOW** | New Orleans (existing sanctuary) |
+| **[Indiana](../state-guides/indiana.md)** | Statutory HR (weak) | IC 36-1-3 | SB 590 (2011); SB 181 (2024); AG active enforcement | **RED** | — |
+| **[Iowa](../state-guides/iowa.md)** | Constitutional HR (since 1968) | IA Const. Art. III, §38A | SF 481 (2018) statewide ban | **RED** | — |
+| **[Kansas](../state-guides/kansas.md)** | Home Rule (strong, since 1961) | KS Const. Art. 12, §5 | None formal; conservative governance | **YELLOW** | Kansas City, Lawrence |
+| **[Kentucky](../state-guides/kentucky.md)** | Dillon's Rule | KY Const. §§156-160; KRS Ch. 82-83 | None | **YELLOW** | Louisville, Lexington |
+| **[Louisiana](../state-guides/louisiana.md)** | Hybrid (Dillon's pre-1974/HR post-1974) | LA Const. 1974 Art. VI | None | **YELLOW** | New Orleans (existing sanctuary) |
 | **[Maine](../state-guides/maine.md)** | Home Rule (strong) | ME Const. Art. VIII, Part 2, §1 | None | **GREEN** | Portland, Lewiston |
 | **[Maryland](../state-guides/maryland.md)** | Home Rule (tiered) | MD Const. Art. XI-A, XI-E, XI-F | None | **GREEN** | Baltimore, Montgomery County |
 | **[Massachusetts](../state-guides/massachusetts.md)** | Home Rule (hybrid) | MA Const. Amend. Art. 89 | None | **GREEN** | Boston, Cambridge, Worcester |
 | **[Michigan](../state-guides/michigan.md)** | Home Rule (strong, constitutional) | MI Const. Art. VII, §§21-22 | Pending (HB 4338-4342) | **GREEN** | See swing state section |
 | **[Minnesota](../state-guides/minnesota.md)** | Dillon's Rule + optional HR charter | MN Const. Art. XII, §§3-5; Ch. 410 | None; multiple sanctuary counties | **GREEN** | Minneapolis, St. Paul |
-| **Mississippi** | Dillon's Rule | MS Const. Art. 4, §88; Code Title 21 | SB 2988 (2008) | **RED** | — |
-| **Missouri** | Constitutional HR (charter cities) | MO Const. Art. VI, §19 | State ban | **RED** | — |
-| **Montana** | Home Rule (strong) | MT Const. Art. XI, §§4, 6 | HB 200 (2017) | **RED** | — |
-| **Nebraska** | Hybrid (Dillon's + limited HR >5,000) | NE Const. Art. XI, §2 | None formal | **YELLOW** | Omaha, Lincoln |
-| **Nevada** | Hybrid (Dillon's modified 2015) | NV Const. Art. VIII; NRS 268.001 | DOJ Agreement (2025) | **YELLOW** | See swing state section |
-| **New Hampshire** | Dillon's Rule (strict) | NH Const. Art. 39, Part I; RSA 49-B | None | **YELLOW** | Manchester, Nashua |
+| **[Mississippi](../state-guides/mississippi.md)** | Dillon's Rule | MS Const. Art. 4, §88; Code Title 21 | SB 2988 (2008) | **RED** | — |
+| **[Missouri](../state-guides/missouri.md)** | Constitutional HR (charter cities) | MO Const. Art. VI, §19 | State ban | **RED** | — |
+| **[Montana](../state-guides/montana.md)** | Home Rule (strong) | MT Const. Art. XI, §§4, 6 | HB 200 (2017) | **RED** | — |
+| **[Nebraska](../state-guides/nebraska.md)** | Hybrid (Dillon's + limited HR >5,000) | NE Const. Art. XI, §2 | None formal | **YELLOW** | Omaha, Lincoln |
+| **[Nevada](../state-guides/nevada.md)** | Hybrid (Dillon's modified 2015) | NV Const. Art. VIII; NRS 268.001 | DOJ Agreement (2025) | **YELLOW** | See swing state section |
+| **[New Hampshire](../state-guides/new-hampshire.md)** | Dillon's Rule (strict) | NH Const. Art. 39, Part I; RSA 49-B | None | **YELLOW** | Manchester, Nashua |
 | **[New Jersey](../state-guides/new-jersey.md)** | Statutory HR (liberal construction) | NJ Const. Art. IV, §7; N.J.S.A. 40:42-4 | None | **GREEN** | Newark, Jersey City |
 | **[New Mexico](../state-guides/new-mexico.md)** | Home Rule (strong) | NM Const. Art. X, §6 | None | **GREEN** | Albuquerque, Santa Fe |
 | **[New York](../state-guides/new-york.md)** | Home Rule (constitutional) | NY Const. Art. IX; Mun. Home Rule Law §10 | None | **GREEN** | New York City, Buffalo, Albany |
-| **North Carolina** | Hybrid (modified Dillon's) | NC Const. Art. VII; G.S. 160A-4 | State ban; HB 10 (2024) | **RED** | See swing state section |
-| **North Dakota** | Constitutional HR (since 1966) | ND Const. Art. VII; NDCC 40-05.1 | 2011 legislation | **RED** | — |
+| **[North Carolina](../state-guides/north-carolina.md)** | Hybrid (modified Dillon's) | NC Const. Art. VII; G.S. 160A-4 | State ban; HB 10 (2024) | **RED** | See swing state section |
+| **[North Dakota](../state-guides/north-dakota.md)** | Constitutional HR (since 1966) | ND Const. Art. VII; NDCC 40-05.1 | 2011 legislation | **RED** | — |
 | **[Ohio](../state-guides/ohio.md)** | Home Rule (strong, since 1912) | OH Const. Art. XVIII, §§1-14 | None; Cincinnati/Cleveland sanctuary | **GREEN** | Cleveland, Cincinnati, Columbus |
-| **Oklahoma** | Dillon's Rule + HR provisions | OK Const. Art. XVIII | HB 1804 (2007) | **RED** | — |
+| **[Oklahoma](../state-guides/oklahoma.md)** | Dillon's Rule + HR provisions | OK Const. Art. XVIII | HB 1804 (2007) | **RED** | — |
 | **[Oregon](../state-guides/oregon.md)** | Home Rule (strong, since 1906) | OR Const. Art. XI, §2 | None; Portland sanctuary | **GREEN** | Portland, Eugene, Salem |
-| **Pennsylvania** | HR (optional charter since 1972) | PA Const. Art. IX, §2; 53 Pa.C.S. §2901 | None; firearms preemption precedent | **YELLOW** | See swing state section |
+| **[Pennsylvania](../state-guides/pennsylvania.md)** | HR (optional charter since 1972) | PA Const. Art. IX, §2; 53 Pa.C.S. §2901 | None; firearms preemption precedent | **YELLOW** | See swing state section |
 | **[Rhode Island](../state-guides/rhode-island.md)** | Home Rule (constitutional) | RI Const. Art. XIII | None | **GREEN** | Providence |
-| **South Carolina** | Home Rule (Dillon's Rule abolished 1993) | SC Const. Art. VIII; S.C. Code §5-7-30 | SB 20 (2011) E-Verify | **YELLOW** | Charleston, Columbia |
-| **South Dakota** | Dillon's Rule | SD Codified Laws | 2011 legislation | **RED** | — |
-| **Tennessee** | Hybrid (Dillon's + exceptions) | TN Const. Art. XI, §9; TCA Title 6 | **SB 6002 (2025) - FELONY for officials** | **RED** | — |
-| **Texas** | Hybrid (HR >5,000) | TX Const. Art. XI, §5 | **SB 4 (2017) - fines, misdemeanor, removal** | **RED** | — |
-| **Utah** | Home Rule (strong) | UT Const. Art. XI, §5 | None formal | **YELLOW** | Salt Lake City |
-| **Vermont** | Dillon's Rule (strict) | VT Const. Ch. II, §§2, 6; 24 V.S.A. | None | **YELLOW** | Burlington |
-| **Virginia** | Dillon's Rule (strictest in nation) | VA Const. Art. VII; Code Title 15.2 | Effective via Dillon's Rule | **RED** | — |
+| **[South Carolina](../state-guides/south-carolina.md)** | Home Rule (Dillon's Rule abolished 1993) | SC Const. Art. VIII; S.C. Code §5-7-30 | SB 20 (2011) E-Verify | **YELLOW** | Charleston, Columbia |
+| **[South Dakota](../state-guides/south-dakota.md)** | Dillon's Rule | SD Codified Laws | 2011 legislation | **RED** | — |
+| **[Tennessee](../state-guides/tennessee.md)** | Hybrid (Dillon's + exceptions) | TN Const. Art. XI, §9; TCA Title 6 | **SB 6002 (2025) - FELONY for officials** | **RED** | — |
+| **[Texas](../state-guides/texas.md)** | Hybrid (HR >5,000) | TX Const. Art. XI, §5 | **SB 4 (2017) - fines, misdemeanor, removal** | **RED** | — |
+| **[Utah](../state-guides/utah.md)** | Home Rule (strong) | UT Const. Art. XI, §5 | None formal | **YELLOW** | Salt Lake City |
+| **[Vermont](../state-guides/vermont.md)** | Dillon's Rule (strict) | VT Const. Ch. II, §§2, 6; 24 V.S.A. | None | **YELLOW** | Burlington |
+| **[Virginia](../state-guides/virginia.md)** | Dillon's Rule (strictest in nation) | VA Const. Art. VII; Code Title 15.2 | Effective via Dillon's Rule | **RED** | — |
 | **[Washington](../state-guides/washington.md)** | Hybrid (HR for first-class cities) | WA Const. Art. XI, §§10-11 | None; Seattle sanctuary | **GREEN** | Seattle, Tacoma |
-| **West Virginia** | Hybrid (statutory 1969) | WV Const. Art. VI; Code §8-12-2 | Comprehensive ban | **RED** | — |
+| **[West Virginia](../state-guides/west-virginia.md)** | Hybrid (statutory 1969) | WV Const. Art. VI; Code §8-12-2 | Comprehensive ban | **RED** | — |
 | **[Wisconsin](../state-guides/wisconsin.md)** | Constitutional HR (limited) | WI Const. Art. XI, §3 | 2019 ban (Walker); DHS designations | **YELLOW** | See swing state section |
-| **Wyoming** | Dillon's Rule | WY Const. Art. XIII | State policy | **RED** | — |
+| **[Wyoming](../state-guides/wyoming.md)** | Dillon's Rule | WY Const. Art. XIII | State policy | **RED** | — |
 
 ---
 
