@@ -38,7 +38,7 @@ Maine presents no significant preemption obstacles. **No anti-sanctuary law** pr
 
 A competing bill, **LD 1656** (2025), which would have prohibited local agencies from adopting policies restricting federal law enforcement cooperation, was **defeated**. Similar legislation (**LD 1652**, 127th Legislature) proposing to deny state funding to "sanctuary" jurisdictions also failed.
 
-The cooperation statute **25 M.R.S.A. § 1502** uses permissive language—"shall, so far as possible, cooperate"—rather than mandatory requirements, and addresses coordination among state and local agencies rather than mandating federal cooperation.
+The cooperation statute **[25 M.R.S.A. § 1502](https://law.justia.com/codes/maine/title-25/chapter-191/section-1502/)** uses permissive language—"shall, so far as possible, cooperate"—rather than mandatory requirements, and addresses coordination among state and local agencies rather than mandating federal cooperation.
 
 **18 U.S.C. § 592 alignment strengthens rather than undermines local ordinances.** The federal statute prohibits federal personnel from bringing armed forces to polling places. A municipal ordinance directing local police not to assist such armed personnel would complement—not conflict with—federal law. Under Supremacy Clause doctrine, no preemption exists when local law reinforces federal prohibition.
 
