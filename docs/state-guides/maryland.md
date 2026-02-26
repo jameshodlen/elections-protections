@@ -16,7 +16,9 @@ Maryland offers a **favorable but legally nuanced environment** for municipal el
 
 ---
 
-## Maryland's home rule framework enables broad municipal authority
+## Section 1: Maryland's legal landscape presents nuanced opportunities
+
+### Maryland's home rule framework enables broad municipal authority
 
 Maryland is definitively a **Home Rule state**, not a Dillon's Rule state, providing constitutional authority for local self-governance through three distinct articles of the Maryland Constitution. **Article XI-A** (adopted 1915) governs charter counties and grants them power to "enact local laws...including the power to repeal or amend local laws enacted by the General Assembly" on matters covered by express powers. **Article XI-E** (adopted 1954) governs 157 incorporated municipalities and permits them to adopt, amend, or repeal charters consistent with express powers granted by the General Assembly. **Article XI-F** (adopted 1966) provides more limited "code home rule" for counties that have not adopted full charter government.
 
@@ -26,9 +28,7 @@ Maryland's local government structure includes **11 charter counties** (Anne Aru
 
 Municipal corporations operating under Article XI-E receive express ordinance powers codified in Local Government Article Title 5, Subtitle 2. **Section 5-202** authorizes municipal legislative bodies to adopt ordinances to protect municipal property and privileges, preserve peace and good order, and secure persons and property from danger—all potentially applicable to election protection measures.
 
----
-
-## State preemption presents the primary legal obstacle
+### State preemption presents the primary legal obstacle
 
 Maryland's comprehensive Election Law Article creates the most significant legal vulnerability for local election protection ordinances. Under the preemption test established in **Allied Vending, Inc. v. City of Bowie, 332 Md. 279 (1993)**, the "comprehensiveness with which the General Assembly has legislated in the field" serves as the primary indicator of implied preemption. Maryland courts will examine whether the state regulatory scheme is comprehensive enough to constitute an exclusive framework.
 
@@ -38,9 +38,7 @@ Additional state provisions relevant to preemption analysis include **[§ 16-201
 
 **Critically, Maryland has NOT enacted anti-sanctuary laws** prohibiting local restrictions on cooperation with federal agencies. While House Bill 85 was introduced in the 2025 session to "prohibit a county or municipality from adopting, enacting, or enforcing a sanctuary policy," it has not passed. This legislative posture—rejecting preemption bills—actually supports local authority under the "Amendment Rejection Theory" recognized in **Montgomery County v. Complete Lawn Care, Inc.** (2019), where the Court of Special Appeals held that the General Assembly's rejection of preemption bills "strongly suggests" no legislative intent to preempt.
 
----
-
-## Federal supremacy may provide defensive shield
+### Federal supremacy may provide defensive shield
 
 The federal Supremacy Clause offers the strongest legal defense against state preemption challenges. **18 U.S.C. § 592** prohibits any "officer of the Army or Navy, or other person in the civil, military, or naval service of the United States" from ordering, bringing, keeping, or controlling "any troops or armed men at any place where a general or special election is held" absent necessity to repel armed enemies. This federal prohibition is self-executing and cannot be contradicted by state law.
 
@@ -48,9 +46,21 @@ A municipal ordinance framed as **local enforcement support for existing federal
 
 The recommended drafting approach should explicitly reference 18 U.S.C. §§ 592, 593, and 594 as the federal statutes being locally implemented, frame restrictions as preserving municipal resources rather than regulating elections, emphasize public safety and order maintenance under traditional police power, and avoid creating standards that conflict with existing Maryland Election Law provisions.
 
+### Litigation risk assessment and mitigation strategies
+
+The litigation risk for Maryland election protection ordinances falls in the **moderate-to-high range** primarily due to implied preemption concerns under the state's comprehensive Election Law Article, but several mitigation strategies can strengthen legal defensibility.
+
+**High-risk factors** include the comprehensiveness of state election code regulation (primary Allied Vending preemption indicator), existing state prohibition on armed persons at polling places under § 16-903 (potential redundancy argument), express preemption of local firearms regulations under Criminal Law § 4-209 (though elections present distinguishing characteristics), and established field preemption doctrine when the state has "acted with such force that an intent by the State to occupy the entire field must be implied."
+
+**Mitigating factors** include the federal Supremacy Clause as a shield when framing the ordinance as federal law enforcement support, traditional municipal police power for public safety, gap-filling role addressing armed private parties and federal personnel not covered by state provisions, absence of express election preemption statute (unlike firearms), and Allied Vending/Complete Lawn Care precedent upholding local ordinances when the General Assembly has rejected preemption attempts.
+
+**Recommended legal strategy** should frame the ordinance as implementing and supporting federal law (18 U.S.C. §§ 592, 593, 594) rather than independent election regulation, avoid any provisions contradicting or expanding upon existing Maryland Election Law provisions, emphasize public safety and order maintenance under traditional police power, focus on municipal resource allocation (property, personnel, budget) rather than election administration, and coordinate with the State Board of Elections rather than creating parallel regulation.
+
+Seeking a **Maryland Attorney General opinion** prior to ordinance adoption would clarify preemption risk and could provide defensive documentation if the AG finds no conflict. The current AG has issued guidance recognizing polling place arms restrictions, suggesting alignment with ordinance objectives.
+
 ---
 
-## Statutory framework for ordinance drafting
+## Section 2: Statutory framework for ordinance drafting
 
 The localization kit for Maryland requires incorporating specific state code provisions that support municipal authority while acknowledging existing state election protections.
 
@@ -64,7 +74,7 @@ A particularly useful provision for municipal ordinances appears in **[Public Sa
 
 ---
 
-## Baltimore City leads as optimal launch jurisdiction
+## Section 3: Baltimore City leads the target jurisdiction analysis
 
 **Baltimore City** emerges as the strongest initial target based on political alignment, legal authority, and advocacy infrastructure. As an independent city operating under its own charter separate from any county, Baltimore possesses the broadest municipal authority in Maryland. The **Baltimore City Council** consists of 15 members—14 district representatives plus 1 at-large Council President—and is currently **100% Democratic** in composition.
 
@@ -80,7 +90,7 @@ Most significantly for ordinance implementation, Montgomery County has an existi
 
 ---
 
-## Coalition infrastructure provides organizing foundation
+## Section 4: Coalition infrastructure provides organizing foundation
 
 Maryland's election protection and civil liberties ecosystem includes established organizations with relevant experience and existing collaborative relationships that can be leveraged for ordinance campaigns.
 
@@ -97,20 +107,6 @@ Maryland's election protection and civil liberties ecosystem includes establishe
 **Jews United for Justice** maintains active presence in both Baltimore (2221 Maryland Ave) and Montgomery County (montgomery@jufj.org), with experience on local police accountability campaigns and participation in the Silver Spring Justice Coalition.
 
 Two existing coalitions merit engagement. The **Everyone Votes Maryland Coalition** includes ACLU, Common Cause, NAACP, League of Women Voters, Disability Rights Maryland, and CASA with a focus on ballot access and election administration—contact through Emily Scarr (Maryland PIRG) or Joanne Antoine (Common Cause). The **Maryland Coalition for Justice and Police Accountability (MCJPA)** comprises 100+ organizations with experience on local ordinance campaigns limiting law enforcement cooperation, providing a potential model for election protection coalition structure.
-
----
-
-## Litigation risk assessment and mitigation strategies
-
-The litigation risk for Maryland election protection ordinances falls in the **moderate-to-high range** primarily due to implied preemption concerns under the state's comprehensive Election Law Article, but several mitigation strategies can strengthen legal defensibility.
-
-**High-risk factors** include the comprehensiveness of state election code regulation (primary Allied Vending preemption indicator), existing state prohibition on armed persons at polling places under § 16-903 (potential redundancy argument), express preemption of local firearms regulations under Criminal Law § 4-209 (though elections present distinguishing characteristics), and established field preemption doctrine when the state has "acted with such force that an intent by the State to occupy the entire field must be implied."
-
-**Mitigating factors** include the federal Supremacy Clause as a shield when framing the ordinance as federal law enforcement support, traditional municipal police power for public safety, gap-filling role addressing armed private parties and federal personnel not covered by state provisions, absence of express election preemption statute (unlike firearms), and Allied Vending/Complete Lawn Care precedent upholding local ordinances when the General Assembly has rejected preemption attempts.
-
-**Recommended legal strategy** should frame the ordinance as implementing and supporting federal law (18 U.S.C. §§ 592, 593, 594) rather than independent election regulation, avoid any provisions contradicting or expanding upon existing Maryland Election Law provisions, emphasize public safety and order maintenance under traditional police power, focus on municipal resource allocation (property, personnel, budget) rather than election administration, and coordinate with the State Board of Elections rather than creating parallel regulation.
-
-Seeking a **Maryland Attorney General opinion** prior to ordinance adoption would clarify preemption risk and could provide defensive documentation if the AG finds no conflict. The current AG has issued guidance recognizing polling place arms restrictions, suggesting alignment with ordinance objectives.
 
 ---
 

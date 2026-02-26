@@ -17,7 +17,9 @@ New York's robust home rule framework provides strong legal authority for munici
 
 ---
 
-## New York's home rule powers are among the nation's strongest
+## Section 1: New York's legal framework supports local election protection
+
+### New York's home rule powers are among the nation's strongest
 
 New York is definitively a **Constitutional Home Rule State**—not a Dillon's Rule jurisdiction—with local government powers protected by Article IX of the State Constitution, adopted in 1963. The NY Department of State Local Government Handbook confirms these powers are "among the most far-reaching in the nation," making local governments "full partners with the state."
 
@@ -33,9 +35,7 @@ The preemption doctrine—articulated in *Adler v. Deegan*, 251 N.Y. 467 (1929) 
 
 However, **sanctuary city precedent provides a critical counter-argument**. NYC's sanctuary policies limiting NYPD cooperation with federal immigration authorities (dating to 1989) have survived legal challenge precisely because no express state preemption exists. The anti-commandeering doctrine under *Printz v. United States*, 521 U.S. 898 (1997), further protects localities from being compelled to assist federal enforcement actions. An ordinance framed as a **police operational directive** under MHL § 10(1)(ii)(a)(1) rather than election regulation substantially reduces preemption vulnerability.
 
----
-
-## Federal law actively supports local polling place protections
+### Federal law actively supports local polling place protections
 
 **18 U.S.C. § 592** provides powerful federal backing for local ordinances. The statute makes it a federal crime for "any person in the civil, military, or naval service of the United States" to order, bring, keep, or have under authority "any troops or armed men at any place where a general or special election is held." The only exception permits force "necessary to repel armed enemies of the United States." Violations carry up to **five years imprisonment** and permanent disqualification from federal office.
 
@@ -43,9 +43,27 @@ This Reconstruction-era statute, rooted in the Posse Comitatus Act framework, re
 
 A local ordinance can be framed as **implementing federal policy** rather than conflicting with it—thereby avoiding Supremacy Clause concerns entirely. The anti-commandeering doctrine further supports this approach: under *Murphy v. NCAA*, 138 S. Ct. 1461 (2018), the federal government cannot compel local officers to administer federal programs. When federal actions would violate 18 U.S.C. § 592, localities have strong constitutional grounds to refuse cooperation.
 
+### Strategic drafting recommendations reduce legal vulnerability
+
+An ordinance following the Madison model should incorporate these elements to maximize legal defensibility:
+
+**Frame as police operational directive** under MHL § 10(1)(ii)(a)(1) authority over "powers, duties...of officers and employees" rather than election regulation—this sidesteps the strongest preemption arguments while achieving identical practical effect.
+
+**Reference 18 U.S.C. § 592 directly**: "Consistent with federal policy expressed in 18 U.S.C. § 592 prohibiting armed federal personnel at polling places..."
+
+**Cite state voter protection statutes**: NY Election Law §§ 17-150, 17-212, and 8-104 as state policy context supporting voter protection from intimidation.
+
+**Invoke municipal property authority**: Under Article IX, § 2(c)(ii)(6) and MHL § 10(1)(ii)(a)(6), municipalities control "care, management and use" of their property—including polling places on municipal property.
+
+**Include narrow scope limiting clauses**: Focus specifically on "armed federal personnel" acting without express state authorization, rather than broadly restricting all federal presence, to avoid characterization as obstruction of lawful federal activity.
+
+**Consider NYVRA preclearance**: The 2022 NY Voting Rights Act requires preclearance for local "covered practices" affecting elections—proactively seeking preclearance from the Attorney General or state court could strengthen legal position.
+
+The combination of New York's strong home rule tradition, absence of anti-sanctuary mandates, existing sanctuary city precedent, and federal statutory support through 18 U.S.C. § 592 creates a viable—though not risk-free—pathway for municipal implementation. Success in NYC or Ithaca would establish precedent strengthening legal arguments for broader adoption.
+
 ---
 
-## New York voter intimidation statutes provide robust statutory anchoring
+## Section 2: New York voter intimidation statutes provide robust statutory anchoring
 
 Local ordinances should reference New York's comprehensive voter protection framework:
 
@@ -59,7 +77,7 @@ For municipal police authority, **[Second Class Cities Law § 131](https://law.j
 
 ---
 
-## Three municipalities offer the strongest implementation pathways
+## Section 3: Three municipalities offer the strongest implementation pathways
 
 **New York City** represents the highest-impact target with the most sophisticated progressive infrastructure. The 51-member NYC Council includes a **24-member Progressive Caucus**—just two votes short of a majority—co-chaired by Sandy Nurse and Shahana Hanif. Mayor Zohran Mamdani, a Democratic Socialist inaugurated in January 2026, aligns with caucus priorities. NYC has maintained sanctuary policies since 1989 (Executive Orders, Local Laws 59 and 246), passed the POST Act requiring NYPD surveillance technology disclosure, and has established legal precedent for local laws limiting federal cooperation. A December 2025 Department of Investigation review of NYPD sanctuary law compliance demonstrates active council oversight capacity. The city's charter provides explicit authority over police operations and election security.
 
@@ -71,7 +89,7 @@ Secondary targets include **Buffalo** (all-Democratic Common Council, 2025 housi
 
 ---
 
-## Established coalition infrastructure provides immediate organizing capacity
+## Section 4: Established coalition infrastructure provides immediate organizing capacity
 
 The **Let NY Vote Coalition**, coordinated by Common Cause New York, offers ready-made statewide infrastructure with **over 150 organizational partners and 11,000+ activists**. The coalition successfully passed the John R. Lewis NY Voting Rights Act, Automatic Voter Registration, and expanded early voting—demonstrating proven legislative capacity on election protection measures.
 
@@ -90,26 +108,6 @@ The **Let NY Vote Coalition**, coordinated by Common Cause New York, offers read
 **Labor union support** comes through 32BJ SEIU (85,000 NY members, founding Let NY Vote member, 212-388-3800), the Labor Strong 2025 coalition representing 320,000+ workers, and 1199 SEIU with 450,000 healthcare worker members.
 
 For upstate implementation, **Citizen Action of New York** maintains eight regional chapters including offices in Buffalo (1441 Main St., wny@citizenactionny.org), Syracuse (500 Plant Street, cny@citizenactionny.org), and Albany headquarters (518-465-4600). Urban Leagues in Buffalo (716-250-2400) and Rochester (585-325-6530) provide additional regional civil rights infrastructure.
-
----
-
-## Strategic drafting recommendations reduce legal vulnerability
-
-An ordinance following the Madison model should incorporate these elements to maximize legal defensibility:
-
-**Frame as police operational directive** under MHL § 10(1)(ii)(a)(1) authority over "powers, duties...of officers and employees" rather than election regulation—this sidesteps the strongest preemption arguments while achieving identical practical effect.
-
-**Reference 18 U.S.C. § 592 directly**: "Consistent with federal policy expressed in 18 U.S.C. § 592 prohibiting armed federal personnel at polling places..."
-
-**Cite state voter protection statutes**: NY Election Law §§ 17-150, 17-212, and 8-104 as state policy context supporting voter protection from intimidation.
-
-**Invoke municipal property authority**: Under Article IX, § 2(c)(ii)(6) and MHL § 10(1)(ii)(a)(6), municipalities control "care, management and use" of their property—including polling places on municipal property.
-
-**Include narrow scope limiting clauses**: Focus specifically on "armed federal personnel" acting without express state authorization, rather than broadly restricting all federal presence, to avoid characterization as obstruction of lawful federal activity.
-
-**Consider NYVRA preclearance**: The 2022 NY Voting Rights Act requires preclearance for local "covered practices" affecting elections—proactively seeking preclearance from the Attorney General or state court could strengthen legal position.
-
-The combination of New York's strong home rule tradition, absence of anti-sanctuary mandates, existing sanctuary city precedent, and federal statutory support through 18 U.S.C. § 592 creates a viable—though not risk-free—pathway for municipal implementation. Success in NYC or Ithaca would establish precedent strengthening legal arguments for broader adoption.
 
 ---
 
@@ -164,3 +162,13 @@ New York's Municipal Home Rule Law grants cities and counties significant author
 - **AG Election Protection Hotline:** (866) 390-2992, election.hotline@ag.ny.gov
 - **JSOC/Cybersecurity:** NYS Chief Cyber Officer through ITS: (518) 402-2813
 - **DHSES:** (518) 292-2301
+
+## Conclusion: A viable pathway through police operational directives
+
+New York's robust home rule framework—anchored by Article IX of the State Constitution and Municipal Home Rule Law § 10—provides strong legal authority for municipalities to enact election protection ordinances directing local police not to assist armed federal personnel at polling places. The absence of anti-sanctuary statutes, combined with decades of successful sanctuary city precedent dating to 1989, demonstrates that non-cooperation frameworks can withstand legal challenge when properly framed as police operational directives rather than election regulation.
+
+**New York City**, with its 24-member Progressive Caucus and Democratic Socialist mayor, offers the highest-impact target for initial implementation. **Ithaca** provides the highest feasibility among smaller cities given its entirely Democratic Common Council and history of bold police restructuring proposals. **Rochester's** pioneering Police Accountability Board infrastructure offers a complementary model for civilian oversight of election protection measures.
+
+The critical drafting insight is that framing under MHL § 10(1)(ii)(a)(1) authority over municipal officers and employees—rather than as election regulation—sidesteps the strongest preemption arguments under New York's "state concern" doctrine. Federal statutory support through 18 U.S.C. § 592 and the anti-commandeering doctrine provide additional constitutional grounding. The Let NY Vote Coalition's 150+ organizational partners and 11,000+ activists offer ready-made infrastructure for a coordinated municipal campaign.
+
+---

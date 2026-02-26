@@ -19,7 +19,9 @@ This comprehensive guide covers the legal battlefield, localization toolkit, tar
 
 ---
 
-## Wisconsin's home rule provides narrow but workable authority
+## Section 1: Wisconsin's legal landscape creates a narrow but workable path
+
+### Wisconsin's home rule provides narrow but workable authority
 
 **Article XI, Section 3** of the Wisconsin Constitution establishes the foundation for municipal authority:
 
@@ -33,9 +35,7 @@ Courts apply the **four-part Anchor Savings preemption test** (120 Wis. 2d 391):
 
 **All Wisconsin city classifications—first through fourth class and villages—possess equal home rule authority.** Milwaukee's status as the state's only first-class city provides no additional authority for police directives, though it operates under unique police commission provisions in Wis. Stat. § 62.50.
 
----
-
-## The firearms preemption trap demands careful drafting
+### The firearms preemption trap demands careful drafting
 
 **[Wis. Stat. § 66.0409](https://law.justia.com/codes/wisconsin/chapter-66/section-66-0409/)** presents the most significant legal obstacle. This comprehensive firearms preemption statute prohibits political subdivisions from enacting ordinances that regulate "the sale, purchase, purchase delay, transfer, ownership, use, keeping, possession, bearing, transportation, licensing, permitting, registration, or taxation of any knife or any firearm."
 
@@ -49,9 +49,7 @@ An ordinance directing police not to assist "**armed** federal personnel" could 
 - **Explicitly cite 18 U.S.C. § 592**—position ordinance as supporting federal law
 - **Focus on voter protection**—invoke [Wis. Stat. § 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)'s health, safety, and welfare grant
 
----
-
-## Federal law provides the constitutional foundation
+### Federal law provides the constitutional foundation
 
 **18 U.S.C. § 592** (Troops at Polls) establishes the federal framework the ordinance reinforces:
 
@@ -63,9 +61,33 @@ The **Tenth Amendment anti-commandeering doctrine** further supports municipal a
 
 **Critical finding:** Wisconsin has **no express state preemption** on local police cooperation with federal law enforcement, no comprehensive anti-sanctuary law (though bills have been introduced), and no statute withdrawing municipal authority over police operational directives.
 
+### Existing ordinances demonstrate legal viability
+
+Madison's **2017 "Open and Welcoming City" resolution** established that police do not inquire about immigration status. The city's **2023 election official protection ordinance** provides direct precedent for election-related municipal action. Neither has faced successful legal challenge.
+
+Milwaukee County passed a **2017 ordinance** limiting ICE cooperation. Both Milwaukee and Madison received **"sanctuary jurisdiction" designations** from DHS in May 2025. Dane County ended participation in the State Criminal Alien Assistance Program in January 2025.
+
+Madison's **Police Civilian Oversight Board** with subpoena power represents the strongest civilian oversight model in Wisconsin according to the National Association for Civilian Oversight of Law Enforcement—demonstrating the city's capacity for innovative police accountability measures.
+
+### Legal risk assessment and mitigation strategies
+
+### High-risk factors requiring attention
+
+**Firearms preemption (§ 66.0409)** represents the greatest threat. If the ordinance references "armed" federal personnel, it invites challenge under *Wisconsin Carry*'s broad interpretation. **Mitigation:** Omit all firearms-related language; focus on "federal enforcement personnel" and resource allocation.
+
+**Elections as statewide concern** could trigger preemption under the *Black v. Milwaukee* framework. Courts may view election administration as inherently statewide. **Mitigation:** Frame ordinance as local police operational directive rather than election administration.
+
+**Facial uniformity doctrine** means any future uniform state law would preempt local ordinances. **Mitigation:** Pass ordinances before state legislative action; build coalition to oppose preemption bills.
+
+### Lower-risk factors supporting municipal authority
+
+**No express preemption exists** on local police cooperation with federal agencies, polling place security arrangements, or local police operational directives. **Anti-commandeering doctrine** is well-established. **Sanctuary policy precedent** in Madison and Milwaukee remains unchallenged. **Supporting federal law** (18 U.S.C. § 592) provides constitutional grounding.
+
 ---
 
-## Wisconsin's voter intimidation law creates enforcement hook
+## Section 2: Wisconsin statutes provide voter protection and police authority hooks
+
+### Wisconsin's voter intimidation law creates enforcement hook
 
 **[Wis. Stat. § 12.09](https://law.justia.com/codes/wisconsin/chapter-12/section-12-09/)** provides the state-law anchor for municipal election protection:
 
@@ -75,9 +97,7 @@ Violations constitute a **Class I Felony** under [Wis. Stat. § 12.60(1)(a)](htt
 
 **Wisconsin law does not expressly prohibit firearms at polling places.** The Wisconsin Elections Commission has confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." This gap creates explicit space for local action. Some location-based restrictions apply: firearms are prohibited in K-12 schools ([§ 948.605](https://law.justia.com/codes/wisconsin/chapter-948/section-948-605/)) and courthouses ([§ 175.60](https://law.justia.com/codes/wisconsin/chapter-175/section-175-60/)), affecting many polling places.
 
----
-
-## Municipal police authority flows through the commission system
+### Municipal police authority flows through the commission system
 
 **[Wis. Stat. § 62.11(5)](https://law.justia.com/codes/wisconsin/chapter-62/section-62-11/)** grants city councils broad authority:
 
@@ -93,7 +113,7 @@ However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-
 
 ---
 
-## Target city rankings favor Racine, Green Bay, and La Crosse
+## Section 3: Target city rankings favor Racine, Green Bay, and La Crosse
 
 ### Tier 1: Immediate outreach priority
 
@@ -131,17 +151,7 @@ However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-
 
 ---
 
-## Existing ordinances demonstrate legal viability
-
-Madison's **2017 "Open and Welcoming City" resolution** established that police do not inquire about immigration status. The city's **2023 election official protection ordinance** provides direct precedent for election-related municipal action. Neither has faced successful legal challenge.
-
-Milwaukee County passed a **2017 ordinance** limiting ICE cooperation. Both Milwaukee and Madison received **"sanctuary jurisdiction" designations** from DHS in May 2025. Dane County ended participation in the State Criminal Alien Assistance Program in January 2025.
-
-Madison's **Police Civilian Oversight Board** with subpoena power represents the strongest civilian oversight model in Wisconsin according to the National Association for Civilian Oversight of Law Enforcement—demonstrating the city's capacity for innovative police accountability measures.
-
----
-
-## Coalition infrastructure centers on Voces and ACLU partnership
+## Section 4: Coalition infrastructure centers on Voces and ACLU partnership
 
 ### Tier 1: Essential partners
 
@@ -162,22 +172,6 @@ Madison's **Police Civilian Oversight Board** with subpoena power represents the
 ### Tier 3: Supporting partners
 
 **Wisconsin Working Families Party** (Marina Dimitrijevic leadership) provides electoral capacity. **Common Cause Wisconsin** (Executive Director Jay Heck) offers good-government credibility from successful fair maps litigation. **Wisconsin Democracy Campaign** provides research on home rule and campaign finance monitoring. The **Voter ID Coalition** in Dane County includes NAACP, LWV, ACLU, and Urban League—an existing coalition model for that region.
-
----
-
-## Legal risk assessment and mitigation strategies
-
-### High-risk factors requiring attention
-
-**Firearms preemption (§ 66.0409)** represents the greatest threat. If the ordinance references "armed" federal personnel, it invites challenge under *Wisconsin Carry*'s broad interpretation. **Mitigation:** Omit all firearms-related language; focus on "federal enforcement personnel" and resource allocation.
-
-**Elections as statewide concern** could trigger preemption under the *Black v. Milwaukee* framework. Courts may view election administration as inherently statewide. **Mitigation:** Frame ordinance as local police operational directive rather than election administration.
-
-**Facial uniformity doctrine** means any future uniform state law would preempt local ordinances. **Mitigation:** Pass ordinances before state legislative action; build coalition to oppose preemption bills.
-
-### Lower-risk factors supporting municipal authority
-
-**No express preemption exists** on local police cooperation with federal agencies, polling place security arrangements, or local police operational directives. **Anti-commandeering doctrine** is well-established. **Sanctuary policy precedent** in Madison and Milwaukee remains unchallenged. **Supporting federal law** (18 U.S.C. § 592) provides constitutional grounding.
 
 ---
 
@@ -258,7 +252,7 @@ The **Wisconsin Elections Commission (WEC)** administers elections, with Adminis
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
 - **CEIR Legal Defense Network:** legaldefense@electioninnovation.org
-## Conclusion
+## Conclusion: A viable but narrow path requires careful drafting
 
 Wisconsin's legal framework creates a viable—if narrow—path for municipal election protection ordinances. The key is **avoiding the firearms preemption trap** through careful drafting that focuses on resource allocation rather than armed/unarmed distinctions. Cities should frame ordinances as operational directives supporting federal voter protection law under their § 62.11(5) authority over city property, finances, and public services.
 

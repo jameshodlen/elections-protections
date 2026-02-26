@@ -17,7 +17,7 @@ tags:
 
 ---
 
-## SECTION 1: Legal battlefield analysis
+## Section 1: Legal battlefield analysis
 
 ### Michigan is definitively a home rule state
 
@@ -114,7 +114,7 @@ Under **Sterling Heights v. Bahnke** (2024), an ordinance that merely adds to st
 
 ---
 
-## SECTION 2: Michigan localization kit
+## Section 2: Michigan localization kit
 
 ### Voter intimidation statutes
 
@@ -159,7 +159,7 @@ These reforms **centralize state oversight** of election administration while lo
 
 ---
 
-## SECTION 3: Target cities for ordinance launch
+## Section 3: Target cities for ordinance launch
 
 ### East Lansing ranks as the optimal first target
 
@@ -211,7 +211,7 @@ Ferndale passed its Human Rights Ordinance over 15 years ago, prohibiting LGBTQ 
 
 ---
 
-## SECTION 4: Coalition partners
+## Section 4: Coalition partners
 
 ### Tier 1—Established election protection infrastructure
 

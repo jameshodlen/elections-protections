@@ -17,7 +17,9 @@ Ohio's robust home rule tradition creates a viable pathway for cities to adopt e
 
 ---
 
-## Ohio's constitutional architecture favors municipal autonomy
+## Section 1: Ohio's legal architecture favors municipal election protection
+
+### Ohio's constitutional architecture favors municipal autonomy
 
 Ohio is unambiguously a **home rule state**, having rejected Dillon's Rule in the 1912 Constitutional Convention. **Article XVIII, Section 3** of the Ohio Constitution provides the foundational authority: "Municipalities shall have authority to exercise all powers of local self-government and to adopt and enforce within their limits such local police, sanitary and other similar regulations, as are not in conflict with general laws."
 
@@ -32,9 +34,7 @@ The critical legal question is whether a state law qualifies as a "general law" 
 
 This framework is narrower than federal preemption doctrine. A state law that merely withdraws local regulatory power without establishing substantive regulations fails the Canton test. In the pivotal **Columbus v. Ohio** decision (July 2025), the Tenth District Court of Appeals affirmed that tobacco preemption legislation was unconstitutional because it purported only to limit municipal authority rather than establish substantive statewide regulations—a precedent directly applicable to election protection ordinances.
 
----
-
-## The federal supremacy argument strengthens municipal authority
+### The federal supremacy argument strengthens municipal authority
 
 **18 U.S.C. § 592** creates a federal prohibition: "Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held... shall be fined... or imprisoned not more than five years." The only exception permits force to "repel armed enemies of the United States."
 
@@ -48,9 +48,19 @@ Several key federal statutes reinforce the protective framework:
 - **18 U.S.C. § 594** makes it unlawful to "intimidate, threaten, or coerce" any person for voting
 - **The Posse Comitatus Act (18 U.S.C. § 1385)** restricts military involvement in civilian law enforcement
 
+### Key legal vulnerabilities and defensive strategies
+
+**Pending anti-sanctuary legislation (H.B. 26, 2025)** would require political subdivisions to cooperate with federal immigration enforcement, authorize Attorney General investigations of noncompliance, and impose 10% reduction in Local Government Funds for sanctuary jurisdictions. While this legislation targets immigration enforcement, similar language could theoretically be applied to election-related cooperation mandates.
+
+The defensive strategy relies on three arguments: First, **H.B. 26-style legislation would likely fail the Canton test** because it merely limits municipal authority without establishing substantive statewide regulations. Second, the **federal supremacy argument** positions local non-cooperation as parallel to (rather than conflicting with) federal election protection law. Third, **anti-commandeering doctrine** prohibits compelling local officials to participate in federal enforcement.
+
+**ORC § 3501.33** presents a potential complication, granting precinct election officials authority to "call upon sheriffs, police, or other peace officers for assistance" and requiring such officers to "immediately obey and aid in the enforcement of any lawful order." However, this provision addresses assistance to *precinct election officials*—not armed federal personnel—and could be reconciled with an ordinance specifically targeting federal military/civil service cooperation.
+
+The **November 2022 Franklin County preliminary injunction** against expanded firearms preemption in *City of Columbus v. State* found portions of R.C. 9.68 violated home rule by "purporting to limit legislative power of a municipal corporation." This ongoing litigation provides additional precedent for challenging statutes that restrict municipal authority without substantive statewide regulations.
+
 ---
 
-## Ohio's voter intimidation and municipal police statutes provide direct authority
+## Section 2: Ohio statutes provide direct authority for municipal police directives
 
 Ohio law already criminalizes election interference through multiple statutes that a municipal ordinance could reference and reinforce. **[ORC § 3599.01(A)(2)](https://law.justia.com/codes/ohio/revised-code/title-35/chapter-3599/section-3599-01/)** makes it a fourth-degree felony to "attempt by intimidation, coercion, or other unlawful means to induce such delegate or elector to register or refrain from registering or to vote or refrain from voting." **[ORC § 3599.24(A)(3)](https://law.justia.com/codes/ohio/revised-code/title-35/chapter-3599/section-3599-24/)** criminalizes attempts to "intimidate an election officer, or prevent an election official from performing the official's duties" as a first-degree misdemeanor.
 
@@ -62,7 +72,7 @@ Municipal budget authority under **[ORC § 5705.38](https://law.justia.com/codes
 
 ---
 
-## Columbus, Cleveland, and Cincinnati lead Ohio's home rule defense
+## Section 3: Columbus, Cleveland, and Cincinnati lead the target city analysis
 
 Ohio's major cities present a favorable political landscape for election protection ordinances, with **21 cities** recently joining the Columbus tobacco preemption lawsuit and demonstrating willingness for coordinated action against state overreach.
 
@@ -82,9 +92,19 @@ Ohio's major cities present a favorable political landscape for election protect
 
 **Akron** presents opportunity through newly-elected progressive Mayor Shammas Malik (took office 2024). Located in Summit County—one of only two Ohio counties with charter status—Akron's Democratic-controlled council and fresh administration may be receptive to new initiatives.
 
+### Recent campaign models demonstrate viable paths
+
+The **Cleveland Police Reform campaign (Issue 24, November 2021)** provides the closest organizational template for a municipal charter amendment. The successful campaign strengthened Civilian Police Review Board oversight and established the Community Police Commission, supported by Citizens for a Safer Cleveland and LeBron James's More Than Voting organization.
+
+Several cities are advancing **ranked-choice voting charter amendments**, including Cleveland Heights for the November ballot, with Hudson, Lakewood, Kent, Stow, and Cincinnati considering similar measures. Ranked Choice Ohio (Executive Director Denise Riley) provides a model for single-issue municipal reform campaigns.
+
+The **defeated Citizens Not Politicians redistricting initiative (November 2024, 53.7%-46.3%)** generated an extensive endorsement coalition including AFL-CIO, NAACP, Planned Parenthood Advocates of Ohio, and The Amos Project—organizations whose infrastructure could be leveraged for municipal campaigns despite the statewide loss.
+
+An emerging **Ohio Voting and Elections Amendment** currently gathering signatures for automatic voter registration and same-day registration (contact: Petee Talley, Ohio Voter Bill of Rights) may create momentum for complementary municipal measures.
+
 ---
 
-## The Ohio Voter Rights Coalition provides turnkey organizing infrastructure
+## Section 4: The Ohio Voter Rights Coalition anchors coalition infrastructure
 
 The most efficient path to a municipal campaign runs through the **Ohio Voter Rights Coalition (OVRC)**, a non-partisan network coordinating election protection across the state. The OVRC Steering Committee includes the five most relevant organizations:
 
@@ -98,39 +118,13 @@ The most efficient path to a municipal campaign runs through the **Ohio Voter Ri
 
 **Ohio Voice** serves as the "c3 table" connecting 30+ partner organizations including Cleveland VOTES, Columbus Stand Up!, Ohio Unity Coalition (Black voter engagement), and OPAWL (Asian/Pacific Islander organizing). The organization has re-granted over $2 million to partners (2018-2023) and provides VAN (Voter Activation Network) administration—essential database infrastructure for municipal campaigns.
 
----
-
-## Recent campaign models demonstrate viable paths
-
-The **Cleveland Police Reform campaign (Issue 24, November 2021)** provides the closest organizational template for a municipal charter amendment. The successful campaign strengthened Civilian Police Review Board oversight and established the Community Police Commission, supported by Citizens for a Safer Cleveland and LeBron James's More Than Voting organization.
-
-Several cities are advancing **ranked-choice voting charter amendments**, including Cleveland Heights for the November ballot, with Hudson, Lakewood, Kent, Stow, and Cincinnati considering similar measures. Ranked Choice Ohio (Executive Director Denise Riley) provides a model for single-issue municipal reform campaigns.
-
-The **defeated Citizens Not Politicians redistricting initiative (November 2024, 53.7%-46.3%)** generated an extensive endorsement coalition including AFL-CIO, NAACP, Planned Parenthood Advocates of Ohio, and The Amos Project—organizations whose infrastructure could be leveraged for municipal campaigns despite the statewide loss.
-
-An emerging **Ohio Voting and Elections Amendment** currently gathering signatures for automatic voter registration and same-day registration (contact: Petee Talley, Ohio Voter Bill of Rights) may create momentum for complementary municipal measures.
-
----
-
-## Potential cross-ideological allies on federal overreach concerns
+### Potential cross-ideological allies on federal overreach concerns
 
 The **Libertarian Party of Ohio** explicitly supports local resistance to federal overreach. Their platform states: "The LPO supports the principle that the State may assert its sovereignty as guaranteed by the Tenth Amendment... to protect its residents from federal overreach that adversely affects the lives and liberty of Ohio residents." Chair Dustin Nanna leads an organization that regained ballot qualification in August 2024 after successfully challenging ballot access laws.
 
 The **Ohio Liberty Coalition** focuses on limiting government interference with explicit emphasis on building local-level support. While their broader agenda differs significantly from progressive election protection framing, narrow common ground exists on opposing federal interference in local elections.
 
 These organizations may provide unexpected legitimacy in Republican-leaning jurisdictions or help deflect "partisan" criticism through genuine bipartisan messaging about constitutional principles.
-
----
-
-## Key legal vulnerabilities and defensive strategies
-
-**Pending anti-sanctuary legislation (H.B. 26, 2025)** would require political subdivisions to cooperate with federal immigration enforcement, authorize Attorney General investigations of noncompliance, and impose 10% reduction in Local Government Funds for sanctuary jurisdictions. While this legislation targets immigration enforcement, similar language could theoretically be applied to election-related cooperation mandates.
-
-The defensive strategy relies on three arguments: First, **H.B. 26-style legislation would likely fail the Canton test** because it merely limits municipal authority without establishing substantive statewide regulations. Second, the **federal supremacy argument** positions local non-cooperation as parallel to (rather than conflicting with) federal election protection law. Third, **anti-commandeering doctrine** prohibits compelling local officials to participate in federal enforcement.
-
-**ORC § 3501.33** presents a potential complication, granting precinct election officials authority to "call upon sheriffs, police, or other peace officers for assistance" and requiring such officers to "immediately obey and aid in the enforcement of any lawful order." However, this provision addresses assistance to *precinct election officials*—not armed federal personnel—and could be reconciled with an ordinance specifically targeting federal military/civil service cooperation.
-
-The **November 2022 Franklin County preliminary injunction** against expanded firearms preemption in *City of Columbus v. State* found portions of R.C. 9.68 violated home rule by "purporting to limit legislative power of a municipal corporation." This ongoing litigation provides additional precedent for challenging statutes that restrict municipal authority without substantive statewide regulations.
 
 ---
 

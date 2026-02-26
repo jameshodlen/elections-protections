@@ -16,7 +16,9 @@ A municipal ordinance prohibiting city resources from assisting armed federal pe
 
 ---
 
-## Maine's home rule authority provides robust municipal protection
+## Section 1: Maine's legal landscape strongly favors municipal election protection
+
+### Maine's home rule authority provides robust municipal protection
 
 Maine operates under a **strong Home Rule framework** established by constitutional amendment in 1969. This grants municipalities broad authority to enact ordinances on matters "local and municipal in character," including control over local police operations and resource allocation.
 
@@ -30,9 +32,7 @@ The enabling statute, **30-A M.R.S. § 3001**, significantly expands this author
 
 The Maine Supreme Court reinforced this framework in *Portland Pipe Line Corp. v. City of South Portland* (240 A.3d 364, 2020), upholding South Portland's Clear Skies Ordinance and affirming that municipalities possess genuine legislative authority under home rule. Earlier, in *School Committee of Town of York v. Town of York* (626 A.2d 935, 1993), the court held that home rule constitutes "an independent and plenary grant of power to municipalities."
 
----
-
-## No state preemption barriers exist for this ordinance type
+### No state preemption barriers exist for this ordinance type
 
 Maine presents no significant preemption obstacles. **No anti-sanctuary law** prohibits municipalities from limiting cooperation with federal agencies. In fact, **LD 1971**—which became law in December 2025—actively restricts state and local law enforcement from cooperating with federal immigration enforcement, signaling legislative comfort with local autonomy over federal cooperation.
 
@@ -49,9 +49,27 @@ The cooperation statute **[25 M.R.S.A. § 1502](https://law.justia.com/codes/mai
 | Federal cooperation mandates | Permissive, not mandatory | Low |
 | Federal law conflict | Ordinance complements 18 U.S.C. § 592 | None |
 
+### Litigation risk assessment favors municipal action
+
+Litigation risk for this ordinance type in Maine is **low to moderate**. The combination of strong home rule authority, liberal construction requirements, presumption of validity for ordinances, and alignment with federal law (18 U.S.C. § 592) creates a favorable defensive posture.
+
+**Potential challenge grounds and responses:**
+
+| Challenge | Legal Response | Success Likelihood |
+|-----------|----------------|-------------------|
+| Local police authority subject to state control | Home rule framework explicitly allows municipal limitation via ordinance (30-A § 2671(2)) | Low |
+| Interference with federal law enforcement | Ordinance reinforces 18 U.S.C. § 592 prohibition; no conflict | Low |
+| Election administration is preempted field | No comprehensive state scheme governs police conduct at polls | Low |
+
+**Risk mitigation recommendations:**
+1. Draft ordinance to explicitly reference 18 U.S.C. § 592 as implementing federal policy
+2. Frame as resource allocation decision (within clear municipal authority) rather than obstruction
+3. Include findings regarding local public safety and election integrity interests
+4. Consider permissive language where possible: "shall not be required to assist" rather than "shall refuse"
+
 ---
 
-## Specific Maine statutes enable localization
+## Section 2: Maine statutes enable ordinance localization
 
 ### Voter intimidation and election interference
 
@@ -74,7 +92,7 @@ This statutory language directly authorizes municipalities to restrict police of
 
 ---
 
-## Portland emerges as the highest-priority target city
+## Section 3: Portland leads the target city analysis
 
 ### Portland: Strongest recommendation
 
@@ -122,7 +140,7 @@ Mayor Sheline supports DEI initiatives and immigrant rights, and jointly urged r
 
 ---
 
-## Coalition partner landscape offers strong infrastructure
+## Section 4: Coalition partner landscape offers strong infrastructure
 
 ### Tier 1: Highest alignment organizations
 
@@ -143,26 +161,6 @@ Mayor Sheline supports DEI initiatives and immigrant rights, and jointly urged r
 **Libertarian Party of Maine** may support from an anti-federal-overreach perspective. The party previously collaborated with ACLU on marijuana legalization and issued a 2019 joint statement with the Green Independent Party on democracy issues. Chair: Richard W. Eaton, lpme.org.
 
 **Maine Green Independent Party** (45,000 enrolled members, 4% of voters) has won 20+ local elections in Portland and explicitly values decentralization and grassroots democracy. Contact: (207) 200-6447, PO Box 10345, Portland, ME 04104.
-
----
-
-## Litigation risk assessment favors municipal action
-
-Litigation risk for this ordinance type in Maine is **low to moderate**. The combination of strong home rule authority, liberal construction requirements, presumption of validity for ordinances, and alignment with federal law (18 U.S.C. § 592) creates a favorable defensive posture.
-
-**Potential challenge grounds and responses:**
-
-| Challenge | Legal Response | Success Likelihood |
-|-----------|----------------|-------------------|
-| Local police authority subject to state control | Home rule framework explicitly allows municipal limitation via ordinance (30-A § 2671(2)) | Low |
-| Interference with federal law enforcement | Ordinance reinforces 18 U.S.C. § 592 prohibition; no conflict | Low |
-| Election administration is preempted field | No comprehensive state scheme governs police conduct at polls | Low |
-
-**Risk mitigation recommendations:**
-1. Draft ordinance to explicitly reference 18 U.S.C. § 592 as implementing federal policy
-2. Frame as resource allocation decision (within clear municipal authority) rather than obstruction
-3. Include findings regarding local public safety and election integrity interests
-4. Consider permissive language where possible: "shall not be required to assist" rather than "shall refuse"
 
 ---
 
@@ -210,7 +208,7 @@ Maine's Secretary of State, Shenna Bellows, administers elections through the Bu
 - **Secretary of State, Elections Division:** (207) 624-7736, sos.maine.gov
 - **AG Office:** (207) 626-8800
 
-## Conclusion
+## Conclusion: Near-optimal conditions for municipal election protection
 
 Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
 
