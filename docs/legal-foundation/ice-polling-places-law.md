@@ -234,7 +234,7 @@ Cities can adopt ordinances that:
 
 The combination of 18 U.S.C. § 592 and VRA Section 11(b) provides the strongest existing federal legal framework for challenging ICE presence at polling places. While neither statute has been applied to this specific context in published case law, both offer viable theories supported by statutory text, legislative history, DOJ interpretation, and analogous precedent.
 
-For Minnesota and Wisconsin cities preparing for 2026:
+For cities preparing for 2026:
 
 1. **Adopt protective ordinances now** citing federal law as basis
 2. **Coordinate with voting rights organizations** on pre-election litigation strategy
