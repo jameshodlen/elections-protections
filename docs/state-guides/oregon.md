@@ -17,7 +17,9 @@ tags:
 
 ---
 
-## Oregon's home rule framework strongly supports municipal authority
+## Section 1: Oregon's legal framework strongly supports municipal election protection
+
+### Oregon's home rule framework strongly supports municipal authority
 
 Oregon adopted constitutional home rule in 1906, explicitly rejecting Dillon's Rule. **Article XI, Section 2** of the Oregon Constitution grants voters of "every city and town" the power to "enact and amend their municipal charter, subject to the Constitution and criminal laws of the State of Oregon." All **241 incorporated Oregon cities** operate under home rule charters—there is no "general law city" category as exists in California or other states.
 
@@ -27,9 +29,7 @@ The landmark case **City of La Grande v. Public Employees Retirement Board, 281 
 
 Research confirms **no Oregon statute preempts** municipal ordinances directing local police resource allocation regarding federal personnel. Oregon's election code (ORS Chapters 246-260) addresses election administration, not law enforcement cooperation. No "anti-sanctuary" laws exist in Oregon—the state has moved in the opposite direction.
 
----
-
-## Oregon's sanctuary framework provides the template
+### Oregon's sanctuary framework provides the template
 
 **Oregon became the nation's first sanctuary state in 1987**, and this framework provides both legal precedent and model statutory language for an election protection ordinance. The **Sanctuary Promise Act (HB 3265, 2021)** expanded protections and established enforcement mechanisms.
 
@@ -44,9 +44,7 @@ The sanctuary framework's constitutionality rests on the **anti-commandeering do
 
 **Portland's "Protect Portland Initiative" (October 2025)** provides the most direct precedent: the City Council unanimously passed an ordinance prohibiting city employees and resources from assisting federal immigration enforcement, requiring policies, training, signage, and reporting of any exceptions. This ordinance uses the same legal architecture proposed for election protection.
 
----
-
-## Federal law alignment creates no conflict
+### Federal law alignment creates no conflict
 
 **18 U.S.C. § 592** provides: "Whoever, being an officer of the Army or Navy, or other person in the civil, military, or naval service of the United States, orders, brings, keeps, or has under his authority or control any troops or armed men at any place where a general or special election is held... shall be fined... or imprisoned not more than five years." Companion statute **18 U.S.C. § 593** prohibits military interference with election officers.
 
@@ -58,9 +56,15 @@ A municipal ordinance prohibiting city resources from *assisting* armed federal 
 
 The U.S. Constitution's Elections Clause (Article I, § 4) grants states primary authority over "Times, Places and Manner" of elections, further supporting state and local regulatory authority.
 
+### Legal caution from Second Amendment sanctuary rulings
+
+The **Oregon Court of Appeals struck down Columbia County's Second Amendment Sanctuary Ordinance in 2023**, finding that local ordinances cannot nullify state laws and that determining constitutionality is "not the function of a county sheriff." This precedent has important implications: an election protection ordinance must be framed as **directing municipal resource allocation** (within home rule authority) rather than attempting to nullify or determine the constitutionality of federal law.
+
+The sanctuary law framework succeeds precisely because it prohibits use of local resources rather than purporting to override federal authority. An election protection ordinance should follow this model: prohibiting city "moneys, equipment, or personnel" from assisting armed federal personnel near polling places, with appropriate exceptions for genuine emergencies.
+
 ---
 
-## Oregon's voter intimidation statutes provide cross-referencing hooks
+## Section 2: Oregon's voter intimidation statutes provide statutory hooks
 
 **ORS 260.665** is Oregon's primary voter intimidation statute, defining "undue influence" as "force, violence, restraint or the threat of it, inflicting injury, damage, harm, loss of employment or other loss or the threat of it." The statute prohibits subjecting any person to undue influence with intent to induce them to vote, refrain from voting, or vote in a particular manner. Violations are **Class C felonies** with civil penalties up to **$10,000**.
 
@@ -70,7 +74,7 @@ Oregon election statutes do not specifically address armed persons at polling lo
 
 ---
 
-## Target cities ranked by receptivity and capacity
+## Section 3: Target cities ranked by receptivity and capacity
 
 ### Portland: Highest priority with proven infrastructure
 Portland's newly restructured **12-member City Council** (implemented January 2025) includes **four Democratic Socialists of America members** and a **six-member progressive caucus** that often votes as a bloc. The October 2025 Protect Portland Initiative demonstrates council willingness to pass protective ordinances.
@@ -113,7 +117,7 @@ Salem's **progressive council majority** is complicated by **Mayor Julie Hoy**, 
 
 ---
 
-## Coalition infrastructure already exists
+## Section 4: Coalition infrastructure already supports election protection
 
 ### Tier 1: Primary partners with municipal advocacy experience
 
@@ -141,14 +145,6 @@ The Oregonians Together pledge signatories have already formally committed to:
 - Strengthen democratic institutions
 
 This existing framework provides a ready-made organizational structure for an election protection ordinance campaign.
-
----
-
-## Legal caution from Second Amendment sanctuary rulings
-
-The **Oregon Court of Appeals struck down Columbia County's Second Amendment Sanctuary Ordinance in 2023**, finding that local ordinances cannot nullify state laws and that determining constitutionality is "not the function of a county sheriff." This precedent has important implications: an election protection ordinance must be framed as **directing municipal resource allocation** (within home rule authority) rather than attempting to nullify or determine the constitutionality of federal law.
-
-The sanctuary law framework succeeds precisely because it prohibits use of local resources rather than purporting to override federal authority. An election protection ordinance should follow this model: prohibiting city "moneys, equipment, or personnel" from assisting armed federal personnel near polling places, with appropriate exceptions for genuine emergencies.
 
 ---
 
