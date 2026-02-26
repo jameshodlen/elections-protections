@@ -443,27 +443,27 @@ The Insurrection Act analysis **strengthens rather than weakens** your Municipal
 
 ### Federal Statutes
 
-- **18 U.S.C. § 592** — Troops at polls
-- **18 U.S.C. § 593** — Interference by armed forces
-- **18 U.S.C. § 595** — Interference by administrative employees
-- **18 U.S.C. § 1385** — Posse Comitatus Act
-- **52 U.S.C. § 10102** — Interference with freedom of elections
-- **52 U.S.C. § 10307(b)** — Voter intimidation
-- **10 U.S.C. §§ 251-255** — Insurrection Act
-- **10 U.S.C. § 12406** — National Guard federalization
+- **[18 U.S.C. § 592](https://www.law.cornell.edu/uscode/text/18/592)** — Troops at polls
+- **[18 U.S.C. § 593](https://www.law.cornell.edu/uscode/text/18/593)** — Interference by armed forces
+- **[18 U.S.C. § 595](https://www.law.cornell.edu/uscode/text/18/595)** — Interference by administrative employees
+- **[18 U.S.C. § 1385](https://www.law.cornell.edu/uscode/text/18/1385)** — Posse Comitatus Act
+- **[52 U.S.C. § 10102](https://www.law.cornell.edu/uscode/text/52/10102)** — Interference with freedom of elections
+- **[52 U.S.C. § 10307(b)](https://www.law.cornell.edu/uscode/text/52/10307)** — Voter intimidation
+- **[10 U.S.C. §§ 251-255](https://www.law.cornell.edu/uscode/text/10/251)** — Insurrection Act
+- **[10 U.S.C. § 12406](https://www.law.cornell.edu/uscode/text/10/12406)** — National Guard federalization
 
 ### Key Cases
 
 - **Trump v. Illinois**, 607 U.S. ___ (2025) — National Guard deployment blocked
-- **Printz v. United States**, 521 U.S. 898 (1997) — Anti-commandeering
-- **Martin v. Mott**, 25 U.S. 19 (1827) — Presidential discretion (limited)
-- **Sterling v. Constantin**, 287 U.S. 378 (1932) — Judicial review of military deployment
-- **Arizona v. United States**, 567 U.S. 387 (2012) — Immigration preemption
+- **[Printz v. United States](https://supreme.justia.com/cases/federal/us/521/898/)**, 521 U.S. 898 (1997) — Anti-commandeering
+- **[Martin v. Mott](https://supreme.justia.com/cases/federal/us/25/19/)**, 25 U.S. 19 (1827) — Presidential discretion (limited)
+- **[Sterling v. Constantin](https://supreme.justia.com/cases/federal/us/287/378/)**, 287 U.S. 378 (1932) — Judicial review of military deployment
+- **[Arizona v. United States](https://supreme.justia.com/cases/federal/us/567/387/)**, 567 U.S. 387 (2012) — Immigration preemption
 
 ### Pending Legislation
 
-- **S. 2070** — Insurrection Act of 2025 (Senate)
-- **H.R. 4076** — Insurrection Act of 2025 (House)
+- **[S. 2070](https://www.congress.gov/bill/119th-congress/senate-bill/2070)** — Insurrection Act of 2025 (Senate)
+- **[H.R. 4076](https://www.congress.gov/bill/119th-congress/house-bill/4076)** — Insurrection Act of 2025 (House)
 
 ---
 
