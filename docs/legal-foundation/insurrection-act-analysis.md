@@ -169,106 +169,7 @@ DoD internal policy explicitly states that soldiers and federalized Guardsmen **
 
 ---
 
-## Part IV: Election Day 2026 Scenario Analysis
-
-### Scenario 1: Administration Invokes Insurrection Act to "Protect Election Integrity"
-
-**Claimed Justification**: Alleged "voter fraud" or "election irregularities" requiring federal intervention
-
-**Legal Analysis**: 
-- Directly violates 18 U.S.C. § 592 and § 593
-- The Constitution assigns election administration to states (Art. I, § 4)
-- No historical precedent supports this use
-- Courts have blocked far less aggressive deployment attempts
-
-**Likelihood**: Low (extremely aggressive, would face immediate injunction)
-
-**Your Ordinance's Role**: Municipal non-cooperation denies logistical support, making deployment more difficult and more visible as federal overreach
-
-### Scenario 2: ICE/CBP Conduct "Routine Immigration Enforcement" Near Polling Places
-
-**Claimed Justification**: Standard immigration enforcement not targeted at elections
-
-**Legal Analysis**:
-- If armed personnel are positioned at or near polling places, 18 U.S.C. § 592 applies regardless of stated purpose
-- Voter intimidation under 52 U.S.C. § 10307(b) requires only intimidating *effect*, not intent
-- Strategic positioning to suppress Latino turnout would face immediate legal challenge
-
-**Likelihood**: Moderate (this is the more likely mechanism)
-
-**Your Ordinance's Role**: Prevents city police from providing backup, traffic control, or logistical support that makes coordinated operations feasible
-
-### Scenario 3: "Public Safety Emergency" Declared on Election Day
-
-**Claimed Justification**: Threats of violence or civil unrest requiring military presence
-
-**Legal Analysis**:
-- 18 U.S.C. § 592 contains NO exception for public safety
-- The only exception is "armed enemies of the United States" (foreign invasion)
-- Even genuine security concerns don't override the polling place prohibition
-- State and local law enforcement handle election security
-
-**Likelihood**: Low-Moderate (requires manufactured pretext)
-
-**Your Ordinance's Role**: Ensures city resources support legitimate election administration rather than federal operations
-
-### Scenario 4: Federalized National Guard in Swing State Cities
-
-**Claimed Justification**: Protecting federal personnel or "preventing insurrection"
-
-**Legal Analysis**:
-- *Trump v. Illinois* now requires demonstration that regular military cannot execute the laws
-- Governor's consent effectively required absent formal Insurrection Act invocation
-- Democratic governors (MI, WI, PA, MN, potentially NV) would refuse
-- Even if deployed, Guard members remain subject to 18 U.S.C. § 592
-
-**Likelihood**: Higher in states with Republican governors (AZ, GA, NC)
-
-**Your Ordinance's Role**: In states with cooperative governors, municipal ordinances provide the last defensive layer
-
----
-
-## Part V: Current Deployment Landscape (January 2026)
-
-### Active and Pending Deployments
-
-| Location | Status | Legal Basis | Litigation Status |
-|----------|--------|-------------|-------------------|
-| **Los Angeles** | ~100 troops (reduced from 4,700) | 10 U.S.C. § 12406 | Troops ordered out December 2025 |
-| **Chicago** | BLOCKED | 10 U.S.C. § 12406 | *Trump v. Illinois* — SCOTUS blocked |
-| **Portland** | ~100 on standby | 10 U.S.C. § 12406 | 9th Circuit reviewing |
-| **Washington, D.C.** | 2,000+ troops | Presidential authority over D.C. Guard | D.C. AG lawsuit pending |
-| **Memphis** | Ongoing (Gov. Lee consented) | State consent | State court challenge paused |
-| **Minneapolis** | Insurrection Act THREATENED | Not yet invoked | AG Ellison preparing challenge |
-
-### The Minneapolis Crisis (January 2026)
-
-The current Minneapolis situation is directly relevant to your work:
-
-**Timeline:**
-- January 7, 2026: ICE officer kills Renee Nicole Good during immigration operation
-- January 8-13: Protests spread nationwide
-- January 14: Second ICE shooting (Julio Cesar Sosa-Celis wounded)
-- January 15: Clashes between protesters and police
-- January 16: Trump threatens Insurrection Act on Truth Social
-
-**Trump's Statement:**
-> "If the corrupt politicians of Minnesota don't obey the law and stop the professional agitators and insurrectionists from attacking the Patriots of I.C.E., who are only trying to do their job, I will institute the INSURRECTION ACT..."
-
-**AG Keith Ellison's Response:**
-> "If Donald Trump does invoke the Insurrection Act, I'm prepared to challenge that action in court."
-
-**Governor Walz**: Has not requested federal assistance and actively opposes deployment
-
-**Significance**: If invoked, this would be:
-- First Insurrection Act use since 1992
-- First use over a governor's objection since 1960s civil rights era
-- First use related to immigration enforcement
-- A dramatic escalation with uncertain legal outcome
-
----
-
-## Part VI: Insurrection Act Reform Legislation
+## Part IV: Insurrection Act Reform Legislation
 
 ### S. 2070 / H.R. 4076 — Insurrection Act of 2025
 
@@ -300,7 +201,7 @@ The current Minneapolis situation is directly relevant to your work:
 
 ---
 
-## Part VII: Strategic Implications for Your Ordinance
+## Part V: Strategic Implications for Your Ordinance
 
 ### The Ordinance's Legal Position Is Strengthened
 
@@ -341,74 +242,6 @@ Frame your ordinance as **supporting legitimate federal law** (18 U.S.C. § 592)
 3. "The Defense Department's own policy states soldiers 'will not conduct operations at polling places.' We're aligning municipal policy with existing federal guidance."
 
 4. "The Supreme Court in *Trump v. Illinois* made clear that presidential emergency claims are subject to judicial review. We're ensuring our city remains on the right side of the law."
-
----
-
-## Part VIII: State-Specific Analysis for Swing States
-
-### States With Democratic Governors
-
-**Michigan** (Whitmer), **Wisconsin** (Evers), **Pennsylvania** (Shapiro), **Minnesota** (Walz), **Nevada** (if Ford wins 2026)
-
-**Protective Factors:**
-- Governor can refuse National Guard federalization
-- *Trump v. Illinois* makes forced federalization extremely difficult
-- State AG can bring immediate legal challenges
-- Municipal ordinances provide additional layer
-
-**Risk Level**: Lower
-
-**Recommendation**: Pass ordinances to demonstrate unified local-state opposition and create redundant protections
-
-### States With Republican Governors
-
-**Arizona** (likely to consent), **Georgia** (Kemp unpredictable), **North Carolina** (Republican)
-
-**Risk Factors:**
-- Governor may consent to deployments
-- State won't bring legal challenges
-- Municipal ordinances become PRIMARY defensive mechanism
-
-**Risk Level**: Higher
-
-**Recommendation**: Prioritize municipal ordinances as the critical last line of defense
-
-### Special Considerations by State
-
-**Michigan**: Strongest position — Proposal 2 (2022) constitutionally enshrined local election administration authority
-
-**Wisconsin**: Walker-era sanctuary ban complicates framing; avoid "sanctuary" terminology entirely
-
-**Pennsylvania**: Home rule authority strong; *Crawford v. Commonwealth* firearms preemption precedent is concerning but distinguishable
-
-**Arizona**: SB 1487 "nuclear option" allows any legislator to trigger investigation; frame carefully to avoid triggering
-
-**Georgia**: HB 301 (2024) created aggressive anti-sanctuary enforcement; Atlanta has history of successful resistance to state takeover
-
----
-
-## Part IX: Coordination with Minnesota
-
-Given the current Minneapolis crisis, there is a strategic opportunity:
-
-### Immediate Actions
-
-1. **Connect with AG Ellison's office**: Your ordinance framework directly supports his legal strategy against Insurrection Act invocation
-
-2. **Brief Minneapolis City Council**: Mayor Frey and council members need legal frameworks for local action
-
-3. **Coordinate with Hennepin County**: Multiple sanctuary-friendly jurisdictions can create mutual support
-
-### Long-Term Strategy
-
-Minnesota is uniquely positioned:
-- No statewide anti-sanctuary law
-- Multiple sanctuary counties (Hennepin, Ramsey)
-- Minneapolis has sanctuary status since 2003
-- Democratic Governor, AG, and Secretary of State
-- Currently the focal point of Insurrection Act threats
-
-If Minneapolis successfully resists Insurrection Act deployment AND passes election integrity protections, it becomes the model for other jurisdictions.
 
 ---
 
@@ -466,5 +299,3 @@ The Insurrection Act analysis **strengthens rather than weakens** your Municipal
 - **H.R. 4076** — Insurrection Act of 2025 (House)
 
 ---
-
-*This analysis prepared January 2026 for election security planning purposes.*
