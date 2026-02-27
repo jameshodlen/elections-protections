@@ -1,6 +1,124 @@
 /* ============================================================
-   MUNICIPAL ELECTION INTEGRITY ORDINANCE — CUSTOM STYLES
+   PROTECTIONS FOR ELECTIONS — CUSTOM STYLES
    ============================================================ */
+
+/* ============================================================
+   NEUTRAL GREY BACKGROUND
+   Override the default bright white with a softer neutral grey
+   ============================================================ */
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f0f0f0;
+  --md-default-bg-color--light: #e8e8e8;
+}
+
+/* ============================================================
+   HEADER — LARGER SITE TITLE
+   ============================================================ */
+
+.md-header__topic .md-ellipsis {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+/* ============================================================
+   TOP TAB BAR — SPREAD ITEMS & DROPDOWN MENUS
+   ============================================================ */
+
+/* Spread tabs evenly across the full width */
+.md-tabs__list {
+  justify-content: center;
+  gap: 2rem;
+}
+
+.md-tabs__item {
+  padding: 0 1.2rem;
+}
+
+.md-tabs__link {
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  opacity: 0.9;
+}
+
+.md-tabs__link:hover {
+  opacity: 1;
+}
+
+/* ---- Dropdown container (injected by JS) ---- */
+.md-tabs__item {
+  position: relative;
+}
+
+.md-tabs__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 280px;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 3px solid var(--md-primary-fg-color);
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  z-index: 100;
+  padding: 0.5rem 0;
+}
+
+.md-tabs__item:hover > .md-tabs__dropdown,
+.md-tabs__dropdown:hover {
+  display: block;
+}
+
+/* Dropdown link items */
+.md-tabs__dropdown a {
+  display: block;
+  padding: 0.45rem 1.2rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.82rem;
+  line-height: 1.4;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.1s ease;
+}
+
+.md-tabs__dropdown a:hover {
+  background: var(--md-primary-fg-color--light);
+  color: var(--md-primary-bg-color);
+}
+
+/* Tier group headings inside the State Guides dropdown */
+.md-tabs__dropdown-group {
+  padding: 0.5rem 1.2rem 0.2rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--md-default-fg-color--light);
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  margin-top: 0.3rem;
+}
+
+.md-tabs__dropdown-group:first-child {
+  border-top: none;
+  margin-top: 0;
+}
+
+/* ============================================================
+   LEGAL DISCLAIMER FOOTER
+   Style the copyright area to look like a proper disclaimer
+   ============================================================ */
+
+.md-footer-copyright {
+  font-size: 0.78rem;
+  line-height: 1.5;
+  max-width: 800px;
+}
 
 /* ============================================================
    DENSE LEGAL TABLES

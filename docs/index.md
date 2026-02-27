@@ -1,12 +1,12 @@
 ---
-title: Municipal Election Integrity Ordinance
+title: Protections For Elections
 description: Legal analysis and implementation guides for protecting polling places from armed federal personnel interference in 2026 elections.
 hide:
   - navigation
   - toc
 ---
 
-# Municipal Election Integrity Ordinance
+# Protections For Elections
 
 ## Protecting Polling Places Under Federal Law
 

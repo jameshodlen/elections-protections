@@ -1,9 +1,10 @@
 /**
- * Municipal Election Integrity Ordinance — Custom JavaScript
+ * Protections For Elections — Custom JavaScript
  *
  * Features:
  * 1. Interactive 50-State Table Filter (active on /legal-foundation/50-state-overview/ only)
  * 2. Smooth anchor scroll for legal deep-links
+ * 3. Dropdown menus for top navigation tabs
  */
 
 /* ============================================================
@@ -149,6 +150,99 @@ function initSmoothScroll() {
 }
 
 /* ============================================================
+   FEATURE 3: DROPDOWN MENUS FOR TOP NAVIGATION TABS
+   Reads child pages from the sidebar nav and injects dropdown
+   panels into the top tab bar on hover.
+   ============================================================ */
+
+function initTabDropdowns() {
+  // Avoid duplicating dropdowns on SPA navigation
+  document.querySelectorAll(".md-tabs__dropdown").forEach(function (el) {
+    el.remove();
+  });
+
+  var tabs = document.querySelectorAll(".md-tabs__item");
+  if (!tabs.length) return;
+
+  // Build a map of tab label -> sidebar nav children
+  // The sidebar primary nav (.md-nav--primary) has the full nav tree
+  var sidebarNav = document.querySelector(".md-nav--primary > .md-nav__list");
+  if (!sidebarNav) return;
+
+  var topLevelItems = sidebarNav.querySelectorAll(
+    ":scope > .md-nav__item"
+  );
+
+  topLevelItems.forEach(function (navItem) {
+    // Get the label for this nav item
+    var labelEl =
+      navItem.querySelector(":scope > .md-nav__link") ||
+      navItem.querySelector(":scope > label.md-nav__link");
+    if (!labelEl) return;
+    var label = labelEl.textContent.trim();
+
+    // Find the matching tab
+    var matchingTab = null;
+    tabs.forEach(function (tab) {
+      var tabLink = tab.querySelector(".md-tabs__link");
+      if (tabLink && tabLink.textContent.trim() === label) {
+        matchingTab = tab;
+      }
+    });
+    if (!matchingTab) return;
+
+    // Get child nav items
+    var childNav = navItem.querySelector(":scope > .md-nav");
+    if (!childNav) return;
+
+    var childItems = childNav.querySelectorAll(":scope > .md-nav__list > .md-nav__item");
+    if (!childItems.length) return;
+
+    // Build dropdown HTML
+    var dropdown = document.createElement("div");
+    dropdown.className = "md-tabs__dropdown";
+
+    childItems.forEach(function (child) {
+      // Check if this is a nested section (like "Tier 1 — Strong Viability")
+      var childLabel = child.querySelector(":scope > label.md-nav__link");
+      var childLink = child.querySelector(":scope > a.md-nav__link");
+
+      if (childLabel) {
+        // This is a section group header (e.g., tier groups)
+        var groupHeader = document.createElement("div");
+        groupHeader.className = "md-tabs__dropdown-group";
+        groupHeader.textContent = childLabel.textContent.trim();
+        dropdown.appendChild(groupHeader);
+
+        // Add its children as links
+        var subNav = child.querySelector(":scope > .md-nav");
+        if (subNav) {
+          var subItems = subNav.querySelectorAll(
+            ":scope > .md-nav__list > .md-nav__item > a.md-nav__link"
+          );
+          subItems.forEach(function (subLink) {
+            var a = document.createElement("a");
+            a.href = subLink.getAttribute("href");
+            a.textContent = subLink.textContent.trim();
+            dropdown.appendChild(a);
+          });
+        }
+      } else if (childLink) {
+        // This is a direct page link
+        var a = document.createElement("a");
+        a.href = childLink.getAttribute("href");
+        a.textContent = childLink.textContent.trim();
+        dropdown.appendChild(a);
+      }
+    });
+
+    if (dropdown.children.length > 0) {
+      matchingTab.appendChild(dropdown);
+    }
+  });
+}
+
+/* ============================================================
    INITIALIZATION
    MkDocs Material uses instant navigation (SPA mode), so we
    listen for the custom event it fires on each page load.
@@ -157,6 +251,7 @@ function initSmoothScroll() {
 function onPageLoad() {
   init50StateFilter();
   initSmoothScroll();
+  initTabDropdowns();
 }
 
 // Standard DOM ready (for initial page load)

@@ -1,4 +1,4 @@
-site_name: Municipal Election Integrity Ordinance
+site_name: Protections For Elections
 site_description: >-
   Legal analysis and implementation guides for municipal ordinances protecting
   polling places from armed federal personnel interference under
@@ -9,6 +9,7 @@ site_dir: site
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
@@ -157,4 +158,7 @@ nav:
 extra:
   generator: false
 
-copyright: Municipal Election Integrity Ordinance Project
+copyright: >-
+  <em>This analysis is provided for policy development and advocacy purposes
+  and does not constitute legal advice. Consultation with election law counsel
+  is recommended for specific litigation strategy.</em>
