@@ -367,7 +367,10 @@ if (document.readyState === "loading") {
   onPageLoad();
 }
 
-// MkDocs Material instant navigation fires this event on subsequent page loads
-document.addEventListener("DOMContentSwitch", function () {
-  onPageLoad();
-});
+// MkDocs Material instant navigation exposes a document$ RxJS observable
+// that emits on every page transition (including the initial load).
+if (typeof document$ !== "undefined") {
+  document$.subscribe(function () {
+    onPageLoad();
+  });
+}
