@@ -9,7 +9,7 @@ This resource serves three distinct audiences with different goals and starting 
 
 ---
 
-## Municipal Officials
+## Municipal Officials & Lobbyists
 
 **Your goal:** Determine whether your city has legal authority to pass an election protection ordinance, assess the political risks, and access model ordinance language.
 
