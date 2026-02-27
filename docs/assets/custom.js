@@ -151,12 +151,12 @@ function initSmoothScroll() {
 
 /* ============================================================
    FEATURE 3: DROPDOWN MENUS FOR TOP NAVIGATION TABS
-   Reads child pages from the sidebar nav and injects dropdown
-   panels into the top tab bar on hover.
+   Builds dropdown panels for How to Use, Legal Foundation,
+   and State Guides (with nested tier sub-dropdowns).
    ============================================================ */
 
 function initTabDropdowns() {
-  // Avoid duplicating dropdowns on SPA navigation
+  // Clear old dropdowns to avoid duplication on SPA navigation
   document.querySelectorAll(".md-tabs__dropdown").forEach(function (el) {
     el.remove();
   });
@@ -164,82 +164,188 @@ function initTabDropdowns() {
   var tabs = document.querySelectorAll(".md-tabs__item");
   if (!tabs.length) return;
 
-  // Build a map of tab label -> sidebar nav children
-  // The sidebar primary nav (.md-nav--primary) has the full nav tree
   var sidebarNav = document.querySelector(".md-nav--primary > .md-nav__list");
   if (!sidebarNav) return;
 
-  var topLevelItems = sidebarNav.querySelectorAll(
-    ":scope > .md-nav__item"
-  );
-
-  topLevelItems.forEach(function (navItem) {
-    // Get the label for this nav item
-    var labelEl =
-      navItem.querySelector(":scope > .md-nav__link") ||
-      navItem.querySelector(":scope > label.md-nav__link");
-    if (!labelEl) return;
-    var label = labelEl.textContent.trim();
-
-    // Find the matching tab
-    var matchingTab = null;
+  // Helper: find a tab by its visible text label
+  function findTab(label) {
+    var match = null;
     tabs.forEach(function (tab) {
-      var tabLink = tab.querySelector(".md-tabs__link");
-      if (tabLink && tabLink.textContent.trim() === label) {
-        matchingTab = tab;
-      }
+      var link = tab.querySelector(".md-tabs__link");
+      if (link && link.textContent.trim() === label) match = tab;
     });
-    if (!matchingTab) return;
+    return match;
+  }
 
-    // Get child nav items
+  // Helper: find a sidebar nav item by its visible text
+  function findSidebarItem(label) {
+    var match = null;
+    var items = sidebarNav.querySelectorAll(":scope > .md-nav__item");
+    items.forEach(function (item) {
+      var el =
+        item.querySelector(":scope > a.md-nav__link") ||
+        item.querySelector(":scope > label.md-nav__link");
+      if (el && el.textContent.trim() === label) match = item;
+    });
+    return match;
+  }
+
+  // Helper: create a basic dropdown container
+  function makeDropdown() {
+    var d = document.createElement("div");
+    d.className = "md-tabs__dropdown";
+    return d;
+  }
+
+  // Helper: create a link element for a dropdown item
+  function makeLink(href, text) {
+    var a = document.createElement("a");
+    a.href = href;
+    a.textContent = text;
+    return a;
+  }
+
+  /* ----------------------------------------------------------
+     "How to Use This Guide" — section anchors
+     Since this is a single page with no child pages, we
+     hard-code the section headings as anchor links.
+     ---------------------------------------------------------- */
+  (function () {
+    var tab = findTab("How to Use This Guide");
+    var navItem = findSidebarItem("How to Use This Guide");
+    if (!tab) return;
+
+    // Get the base href for the how-to-use page from the sidebar link
+    var baseLink = navItem
+      ? navItem.querySelector(":scope > a.md-nav__link")
+      : null;
+    var baseHref = baseLink ? baseLink.getAttribute("href") : "how-to-use/";
+    // Strip trailing hash/anchor if present
+    baseHref = baseHref.split("#")[0];
+
+    var sections = [
+      { anchor: "municipal-officials", text: "Municipal Officials" },
+      {
+        anchor: "attorneys-and-legal-advocates",
+        text: "Attorneys & Legal Advocates",
+      },
+      { anchor: "coalition-organizers", text: "Coalition Organizers" },
+      {
+        anchor: "understanding-the-tier-system",
+        text: "Understanding the Tier System",
+      },
+      { anchor: "document-conventions", text: "Document Conventions" },
+    ];
+
+    var dropdown = makeDropdown();
+    sections.forEach(function (s) {
+      dropdown.appendChild(makeLink(baseHref + "#" + s.anchor, s.text));
+    });
+    tab.appendChild(dropdown);
+  })();
+
+  /* ----------------------------------------------------------
+     "Legal Foundation" — child page links from sidebar
+     ---------------------------------------------------------- */
+  (function () {
+    var tab = findTab("Legal Foundation");
+    var navItem = findSidebarItem("Legal Foundation");
+    if (!tab || !navItem) return;
+
     var childNav = navItem.querySelector(":scope > .md-nav");
     if (!childNav) return;
 
-    var childItems = childNav.querySelectorAll(":scope > .md-nav__list > .md-nav__item");
-    if (!childItems.length) return;
+    var dropdown = makeDropdown();
+    var links = childNav.querySelectorAll(
+      ":scope > .md-nav__list > .md-nav__item > a.md-nav__link"
+    );
+    links.forEach(function (link) {
+      dropdown.appendChild(
+        makeLink(link.getAttribute("href"), link.textContent.trim())
+      );
+    });
 
-    // Build dropdown HTML
-    var dropdown = document.createElement("div");
-    dropdown.className = "md-tabs__dropdown";
+    if (dropdown.children.length > 0) tab.appendChild(dropdown);
+  })();
+
+  /* ----------------------------------------------------------
+     "State Guides" — Overview link + 3 tier items, each with
+     a nested sub-dropdown of individual states
+     ---------------------------------------------------------- */
+  (function () {
+    var tab = findTab("State Guides");
+    var navItem = findSidebarItem("State Guides");
+    if (!tab || !navItem) return;
+
+    var childNav = navItem.querySelector(":scope > .md-nav");
+    if (!childNav) return;
+
+    var childItems = childNav.querySelectorAll(
+      ":scope > .md-nav__list > .md-nav__item"
+    );
+    var dropdown = makeDropdown();
 
     childItems.forEach(function (child) {
-      // Check if this is a nested section (like "Tier 1 — Strong Viability")
-      var childLabel = child.querySelector(":scope > label.md-nav__link");
-      var childLink = child.querySelector(":scope > a.md-nav__link");
+      var directLink = child.querySelector(":scope > a.md-nav__link");
+      var sectionLabel = child.querySelector(":scope > label.md-nav__link");
 
-      if (childLabel) {
-        // This is a section group header (e.g., tier groups)
-        var groupHeader = document.createElement("div");
-        groupHeader.className = "md-tabs__dropdown-group";
-        groupHeader.textContent = childLabel.textContent.trim();
-        dropdown.appendChild(groupHeader);
+      if (directLink && !sectionLabel) {
+        // "State Guide Overview" — direct link at top
+        dropdown.appendChild(
+          makeLink(
+            directLink.getAttribute("href"),
+            directLink.textContent.trim()
+          )
+        );
+      } else if (sectionLabel) {
+        // Tier group — create a hoverable item with sub-dropdown
+        var tierText = sectionLabel.textContent.trim();
+        var tierItem = document.createElement("div");
+        tierItem.className = "md-tabs__dropdown-tier";
 
-        // Add its children as links
+        // Determine tier color class
+        if (tierText.indexOf("Tier 1") !== -1)
+          tierItem.classList.add("md-tabs__dropdown-tier--green");
+        else if (tierText.indexOf("Tier 2") !== -1)
+          tierItem.classList.add("md-tabs__dropdown-tier--yellow");
+        else if (tierText.indexOf("Tier 3") !== -1)
+          tierItem.classList.add("md-tabs__dropdown-tier--red");
+
+        // Tier label with arrow indicator
+        var tierLabel = document.createElement("span");
+        tierLabel.className = "md-tabs__dropdown-tier-label";
+        tierLabel.innerHTML =
+          '<span class="md-tabs__dropdown-tier-text">' +
+          tierText +
+          "</span>" +
+          '<span class="md-tabs__dropdown-tier-arrow">\u25B6</span>';
+        tierItem.appendChild(tierLabel);
+
+        // Build nested sub-dropdown with individual states
         var subNav = child.querySelector(":scope > .md-nav");
         if (subNav) {
-          var subItems = subNav.querySelectorAll(
+          var subDropdown = document.createElement("div");
+          subDropdown.className = "md-tabs__subdropdown";
+
+          var stateLinks = subNav.querySelectorAll(
             ":scope > .md-nav__list > .md-nav__item > a.md-nav__link"
           );
-          subItems.forEach(function (subLink) {
-            var a = document.createElement("a");
-            a.href = subLink.getAttribute("href");
-            a.textContent = subLink.textContent.trim();
-            dropdown.appendChild(a);
+          stateLinks.forEach(function (sl) {
+            subDropdown.appendChild(
+              makeLink(sl.getAttribute("href"), sl.textContent.trim())
+            );
           });
+
+          if (subDropdown.children.length > 0)
+            tierItem.appendChild(subDropdown);
         }
-      } else if (childLink) {
-        // This is a direct page link
-        var a = document.createElement("a");
-        a.href = childLink.getAttribute("href");
-        a.textContent = childLink.textContent.trim();
-        dropdown.appendChild(a);
+
+        dropdown.appendChild(tierItem);
       }
     });
 
-    if (dropdown.children.length > 0) {
-      matchingTab.appendChild(dropdown);
-    }
-  });
+    if (dropdown.children.length > 0) tab.appendChild(dropdown);
+  })();
 }
 
 /* ============================================================
