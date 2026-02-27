@@ -26,10 +26,16 @@
    TOP TAB BAR — SPREAD ITEMS & DROPDOWN MENUS
    ============================================================ */
 
+/* Override Material's overflow:auto so dropdowns can escape the tab bar */
+.md-tabs {
+  overflow: visible;
+}
+
 /* Spread tabs evenly across the full width */
 .md-tabs__list {
   justify-content: center;
   gap: 2rem;
+  overflow: visible;
 }
 
 .md-tabs__item {
