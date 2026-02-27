@@ -349,16 +349,16 @@
    HOMEPAGE ENHANCEMENTS
    ============================================================ */
 
-/* Tier color accents on homepage grid cards */
-.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(1) {
+/* Tier color accents on "Find Your State" grid cards */
+.md-typeset .grid.cards.tier-cards > :is(ul, ol) > li:nth-child(1) {
   border-top: 3px solid #2e7d32;
 }
 
-.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(2) {
+.md-typeset .grid.cards.tier-cards > :is(ul, ol) > li:nth-child(2) {
   border-top: 3px solid #e65100;
 }
 
-.md-typeset .grid.cards > :is(ul, ol) > li:nth-child(3) {
+.md-typeset .grid.cards.tier-cards > :is(ul, ol) > li:nth-child(3) {
   border-top: 3px solid #c62828;
 }
 

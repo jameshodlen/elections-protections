@@ -230,6 +230,7 @@ function initTabDropdowns() {
         text: "Attorneys & Legal Advocates",
       },
       { anchor: "coalition-organizers", text: "Coalition Organizers" },
+      { anchor: "voters-activists", text: "Voters & Activists" },
       {
         anchor: "understanding-the-tier-system",
         text: "Understanding the Tier System",
@@ -242,6 +243,30 @@ function initTabDropdowns() {
       dropdown.appendChild(makeLink(baseHref + "#" + s.anchor, s.text));
     });
     tab.appendChild(dropdown);
+  })();
+
+  /* ----------------------------------------------------------
+     "Voter & Activist Guide" — child page links from sidebar
+     ---------------------------------------------------------- */
+  (function () {
+    var tab = findTab("Voter & Activist Guide");
+    var navItem = findSidebarItem("Voter & Activist Guide");
+    if (!tab || !navItem) return;
+
+    var childNav = navItem.querySelector(":scope > .md-nav");
+    if (!childNav) return;
+
+    var dropdown = makeDropdown();
+    var links = childNav.querySelectorAll(
+      ":scope > .md-nav__list > .md-nav__item > a.md-nav__link"
+    );
+    links.forEach(function (link) {
+      dropdown.appendChild(
+        makeLink(link.getAttribute("href"), link.textContent.trim())
+      );
+    });
+
+    if (dropdown.children.length > 0) tab.appendChild(dropdown);
   })();
 
   /* ----------------------------------------------------------

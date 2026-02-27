@@ -1,11 +1,16 @@
 ---
 title: How to Use This Guide
-description: Audience-specific reading paths for municipal officials, attorneys, and coalition organizers.
+description: Audience-specific reading paths for voters and activists, municipal officials, attorneys, and coalition organizers.
 ---
 
 # How to Use This Guide
 
-This resource serves three distinct audiences with different goals and starting points. Find your role below for a recommended reading path.
+This resource serves four distinct audiences with different goals and starting points. Find your role below for a recommended reading path.
+
+!!! tip "New to this topic?"
+    If you're a voter or community member — not a lawyer, official, or professional
+    organizer — start with the **[Voter & Activist Guide](voter-guide/index.md)**.
+    It explains everything in plain English with clear action steps.
 
 ---
 
@@ -83,6 +88,31 @@ This resource serves three distinct audiences with different goals and starting 
     "election integrity," "voter protection," or "polling place security" framing
     instead. The substantive content is identical; the framing affects political
     viability and reduces exposure to state preemption arguments.
+
+---
+
+## Voters & Activists
+
+**Your goal:** Understand the threat to polling places, know your rights, and take action to protect elections in your community.
+
+**Recommended path:**
+
+1. **[What Is Happening and Why It Matters](voter-guide/whats-happening.md)** — the threat explained in plain English, including what has already happened in Minnesota and what leaders have said publicly.
+
+2. **[Your Rights at the Polling Place](voter-guide/your-rights.md)** — federal and state laws that protect you, what to do if you see armed agents at your polling place, and who to call.
+
+3. **[The Law Explained in Plain English](voter-guide/the-law-explained.md)** — the legal foundation behind this project, without the legal jargon.
+
+4. **[How to Push Your City Council to Act](voter-guide/push-your-city-to-act.md)** — step-by-step guide to advocating for a protection ordinance in your city.
+
+5. **[Election Day Action Plan](voter-guide/election-day-action.md)** — what to prepare before Election Day and what to do if something goes wrong.
+
+6. **[Talk to Your Neighbors](voter-guide/talk-to-your-neighbors.md)** — conversation guides and talking points for spreading the word.
+
+!!! note "You don't need to be a lawyer or an organizer"
+    These pages translate the same legal analysis that attorneys and officials use
+    into language anyone can understand. Every claim links back to the detailed
+    legal documents if you want to go deeper.
 
 ---
 

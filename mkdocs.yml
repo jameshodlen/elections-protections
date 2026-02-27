@@ -88,6 +88,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - How to Use This Guide: how-to-use.md
+  - Voter & Activist Guide:
+      - Overview: voter-guide/index.md
+      - What Is Happening: voter-guide/whats-happening.md
+      - Your Rights at the Polls: voter-guide/your-rights.md
+      - The Law in Plain English: voter-guide/the-law-explained.md
+      - Push Your City to Act: voter-guide/push-your-city-to-act.md
+      - Election Day Action Plan: voter-guide/election-day-action.md
+      - Talk to Your Neighbors: voter-guide/talk-to-your-neighbors.md
   - Legal Foundation:
       - Overview: legal-foundation/index.md
       - Federal Governance Framework: legal-foundation/governance-framework.md
