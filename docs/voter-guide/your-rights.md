@@ -1,53 +1,59 @@
 ---
 title: Your Rights at the Polling Place
 description: >-
-  What voters need to know about federal and state protections at polling places,
-  what to do if armed federal agents appear, and who to contact for help.
+  What federal and state laws protect you as a voter, what to do if you see
+  armed federal agents at your polling place, and who to call for help.
 tags:
   - voter-guide
   - voter-rights
-  - election-day
-  - reporting
+  - election-protection
 ---
 
 # Your Rights at the Polling Place
 
-This page tells you what protections exist and what to do if you encounter armed federal agents at your polling place. Share it with anyone who plans to vote in November 2026.
+This page tells you what protections exist under federal and state law, what to do if you encounter armed agents at your polling place, and who to call. Save this page — you may need it on Election Day.
 
 ---
 
 ## Federal Law Protects You
 
-Two federal laws directly address armed agents at polling places.
+Two federal statutes directly protect voters from armed federal presence at polling places.
 
 ### 18 U.S.C. § 592 — Troops at Polls
 
 !!! quote "What the law says"
-    No person "in the civil, military, or naval service of the United States" may station "troops or armed men" at any place where an election is held. Penalty: up to **five years in prison** and permanent disqualification from federal office.
+    No person "in the civil, military, or naval service of the United States" may station "troops or armed men" at any place where a general or special election is held. Violations carry up to **five years in prison** and permanent disqualification from holding federal office.
 
-**What this means for you:** It is a federal felony for armed federal agents — including ICE and CBP officers — to be stationed at your polling place. This law has been on the books since 1865, signed by President Lincoln. The Department of Justice's own manual confirms it applies to "armed federal agents" at election sites.
+**What this means for you:** This law, signed by President Lincoln in 1865, makes it a federal felony for any armed federal agent — including ICE and CBP officers — to be stationed at your polling place. It doesn't just cover the military. It covers anyone in federal service who is armed.
 
-### Voting Rights Act § 11(b)
+### Voting Rights Act Section 11(b)
 
 !!! quote "What the law says"
-    No person may "intimidate, threaten, or coerce" anyone for voting or attempting to vote.
+    No person "shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote." — 52 U.S.C. § 10307(b)
 
-**What this means for you:** Unlike most laws, this one does **not** require proof that anyone *intended* to intimidate you. If the *effect* of someone's presence is intimidating — if it makes a reasonable person afraid to vote — that is enough. Courts have applied this to armed poll watchers, robocalls designed to frighten voters, and law enforcement activity near voting locations.
+**What this means for you:** This law prohibits voter intimidation — and critically, **it does not require proof of intent.** The person bringing a complaint only has to show that the conduct had an *intimidating effect* on voters, not that the person intended to intimidate. Courts have consistently held that armed law enforcement presence near voting activities can constitute intimidation under this standard.
 
 ---
 
 ## Your State May Have Additional Protections
 
-Many states have their own laws protecting voters at polling places:
+Many states have their own polling place protection laws that go beyond federal protections:
 
-| Protection | Examples |
+| Protection Type | Examples |
 |---|---|
-| **Polling place buffer zones** | Many states prohibit certain activities within 25–200 feet of polling places |
-| **Firearms bans at polls** | **16 states** ban firearms at or near polling places |
-| **State voter intimidation laws** | Most states have their own intimidation statutes, some stronger than federal law |
-| **State voting rights acts** | Washington, Oregon, Minnesota, and Colorado have enacted state-level voting rights acts with additional protections |
+| **Buffer zones** | Many states prohibit certain activities within 100–200 feet of polling places |
+| **Firearms bans at polls** | At least **16 states** prohibit firearms at or near polling places |
+| **State voter intimidation laws** | Most states have their own statutes prohibiting voter intimidation, some with stronger protections than federal law |
 
-[:octicons-arrow-right-24: Find your state guide](../state-guides/index.md) for your state's specific protections.
+Your state may offer additional protections. Check your state's guide for specific laws:
+
+[:octicons-arrow-right-24: Find your state guide](../state-guides/index.md)
+
+The tier system tells you how much legal support your state provides:
+
+- **Tier 1 (Green):** Strong home rule authority and no anti-sanctuary preemption — clearest path for city action
+- **Tier 2 (Yellow):** Viable pathways but with legal or political obstacles
+- **Tier 3 (Red):** Significant barriers, including anti-sanctuary laws with penalties for local officials
 
 ---
 
@@ -55,73 +61,80 @@ Many states have their own laws protecting voters at polling places:
 
 If you arrive at your polling place and see armed federal agents, follow these steps:
 
-- [x] **Stay calm. You have the right to vote.** Your right to cast your ballot is protected by federal law. Do not let anyone's presence stop you from voting.
+- [x] **Stay calm. You have the right to vote.** Your right to cast your ballot is protected by the Constitution and federal law. Do not let their presence stop you from voting.
 
-- [x] **Vote first.** Get in line, stay in line, and vote. Do not abandon your place in line.
-
-- [x] **Document what you see** from a safe distance:
-    - How many agents are present?
-    - Are they armed? What weapons or tactical gear are visible?
-    - What agency? (Look for uniforms, badges, vehicle markings — ICE, CBP, FBI, etc.)
-    - Where are they positioned? (At the entrance, inside, in the parking lot?)
-    - Are they interacting with voters? Questioning anyone?
-    - What time is it? Note the exact time and location.
-    - Take photos or video from a safe distance if you can do so without confrontation.
+- [x] **Document what you see.** From a safe distance, note or photograph:
+    - The time and your polling place location
+    - The number of agents present
+    - Whether they are armed and what agency they appear to represent (look for uniforms, vehicle markings, badges)
+    - Whether they are interacting with voters, stationed at the entrance, or inside the polling place
+    - Whether they are questioning anyone
 
 - [x] **Do NOT physically confront agents.** Your safety comes first. Document and report.
 
-- [x] **Report immediately** to:
+- [x] **Do NOT abandon your place in line.** You have the right to vote. Stay in line.
 
-    | Who to call | Number |
-    |---|---|
-    | **Election Protection Hotline** | **866-OUR-VOTE** (866-687-8683) |
-    | Spanish language | 888-VE-Y-VOTA (888-839-8682) |
-    | Asian languages | 888-API-VOTE (888-274-8683) |
-    | Arabic language | 844-YALLA-US (844-925-5287) |
-    | **Your local election officials** | Find your local election office at [vote.org](https://www.vote.org) |
+- [x] **Report immediately.** Call the Election Protection Hotline:
+
+!!! warning "Election Protection Hotline"
+    **866-OUR-VOTE (866-687-8683)** — English
+
+    **888-VE-Y-VOTA (888-839-8682)** — Spanish
+
+    **888-API-VOTE (888-274-8683)** — Asian languages
+
+    Operated by the Lawyers' Committee for Civil Rights Under Law and coalition partners. These lines are staffed on Election Day with attorneys and trained volunteers.
 
     !!! note "Research note"
-        The Election Protection Hotline (866-OUR-VOTE) is operated by the Lawyers' Committee for Civil Rights Under Law and has been active in every federal election cycle. Verify that these numbers are operational before Election Day 2026 by visiting [866ourvote.org](https://866ourvote.org). Additional hotlines may be established as the election approaches.
+        These hotline numbers are well-established and have operated in prior election cycles. Verify that they are active for the 2026 cycle as Election Day approaches. Check [866ourvote.org](https://866ourvote.org) for updates.
+
+- [x] **Contact your local election officials.** Your county or city election board can respond to disruptions at polling places. Find their number before Election Day.
+
+- [x] **Contact your state Secretary of State's office.** They have authority over election administration statewide.
 
 ---
 
 ## What Poll Workers Should Know
 
-If you are a poll worker and armed federal agents arrive at your polling place:
+If you are a poll worker and federal agents arrive at your polling place:
 
-1. **You are in charge of your polling place.** Under most state laws, the precinct election judge has authority over what happens inside the polling location.
+1. **You are in charge of the polling place.** Under most state laws, the precinct election judge has authority over the conduct of the election at that location. Federal agents have no authorized role in election administration.
 
-2. **Refer to your jurisdiction's chain of command.** If your city has adopted a protection ordinance, municipal law enforcement at polling places operates under the direction of the precinct election judge and the city clerk — not under federal agents.
+2. **Follow your chain of command.** Contact your local election board or city clerk immediately. Do not take direction from federal agents regarding election operations.
 
-3. **Document and report.** Note the time, number of agents, their agency, and what they are doing. Contact your local election office and the Election Protection Hotline.
+3. **Do not provide voter information.** Do not share poll books, voter lists, or any voter data with federal agents without explicit authorization from your election board and legal counsel.
 
-4. **Do not assist.** Under the proposed model ordinance, municipal employees are prohibited from providing logistical support to armed federal personnel within the protected zone around polling places during election periods. This includes providing access to facilities, sharing voter information, or providing security support.
+4. **Document everything.** Note the time agents arrived, how many there were, what agency they represented, what they said, and what they did. This documentation may be critical for legal proceedings.
 
-5. **Protect voters.** Your primary duty is ensuring voters can cast their ballots without fear or intimidation. Reassure voters that they have the right to vote and that armed federal agents have no authorized role in election administration.
+5. **Ensure voters can still vote.** Your primary duty is to every voter in line. Continue processing voters normally. If agents are creating a physical obstruction, contact your election board and local law enforcement.
+
+If your city has adopted a protection ordinance, municipal law enforcement assigned to your polling place should operate under the direction of election officials, not federal agents, during the election period.
 
 ---
 
-## Know the Difference: Legal vs. Potentially Illegal Presence
+## Legal vs. Potentially Illegal Presence
 
-Not every federal agent near a polling place is breaking the law. Here is how to tell the difference:
+Not every sighting of a federal agent near a polling place is necessarily illegal. Here is a simplified guide:
 
 | Likely Legal | Potentially Illegal |
 |---|---|
-| A single federal agent who happens to be in the area, not stationed at the polls | Armed federal agents **stationed at or near** the polling place entrance |
-| An unarmed federal employee passing through | Agents **questioning voters** about immigration status or identity |
-| Federal agents responding to a genuine emergency (e.g., bomb threat, active violence) | Agents creating a **visible intimidating presence** — tactical gear, multiple vehicles, positioned at entrances |
-| Federal agents operating far from the polling place on unrelated business | Agents **recording or photographing** voters entering or leaving |
-| | Agents **coordinating with local police** to check IDs or detain people near the polls |
+| A single federal agent who happens to be in the general area, not stationed at the polls | Armed federal agents **stationed at or near** the polling place |
+| An agent passing through who does not interact with voters | Agents **questioning voters** about immigration status or identity |
+| Off-duty federal employees voting as private citizens | Agents creating a **visible, intimidating presence** (tactical gear, marked vehicles positioned at entrances) |
+| Federal agents responding to a genuine emergency (imminent threat of violence) | Agents with **no legitimate election-related purpose** who remain near the polling place |
 
-**The key question is:** Are armed federal agents *stationed* at or near the polling place in a way that could intimidate voters? If yes, that is potentially a violation of 18 U.S.C. § 592 and the Voting Rights Act.
+!!! danger "When in doubt, report it"
+    If you are unsure whether what you're seeing is legal, report it anyway. The Election Protection Hotline (866-OUR-VOTE) has trained attorneys who can assess the situation. It is always better to report and let experts evaluate than to stay silent.
 
 ---
 
 ## Want to Go Deeper?
 
-These pages provide the full legal analysis behind the protections described here:
+These pages provide the full legal analysis behind the protections described above:
 
-- [ICE at Polling Places — Federal Law](../legal-foundation/ice-polling-places-law.md) — Complete statutory text, case law, and application to ICE agents
-- [The Law Explained in Plain English](the-law-explained.md) — Accessible version of the legal framework
-- [Ballot Security Injunction History](../legal-foundation/ballot-security-history.md) — Precedents from the DNC v. RNC consent decree and recent voter intimidation cases
-- [Master Ordinance Template](../legal-foundation/master-ordinance-template.md) — The model ordinance that cities can adopt to formalize these protections
+| Document | What It Covers |
+|---|---|
+| [ICE at Polling Places — Federal Law](../legal-foundation/ice-polling-places-law.md) | Full statutory text, case law, and application of § 592 and VRA § 11(b) to ICE agents |
+| [Ballot Security Injunction History](../legal-foundation/ballot-security-history.md) | The 36-year DNC v. RNC consent decree and modern voter intimidation cases |
+| [Master Ordinance Template](../legal-foundation/master-ordinance-template.md) | The model municipal ordinance with 14 sections covering resource allocation, voter data, and more |
+| [Your State Guide](../state-guides/index.md) | State-specific laws, contacts, and coalition directories |
