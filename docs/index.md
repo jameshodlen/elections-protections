@@ -43,6 +43,20 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
 <div class="grid cards" markdown>
 
+-   :material-account-voice:{ .lg .middle } **Voters & Activists**
+
+    ---
+
+    New to this topic? Start here. These pages explain the threat to polling
+    places, your rights as a voter, what the law says in plain English, and
+    what you can do — from pushing your city council to act to knowing exactly
+    what to do on Election Day if something goes wrong.
+
+    **Start:** The overview of the Voter & Activist Guide for a complete
+    reading path, or jump straight to What Is Happening for the facts.
+
+    [:octicons-arrow-right-24: Voter & Activist Guide](voter-guide/index.md) · [:octicons-arrow-right-24: What Is Happening](voter-guide/whats-happening.md)
+
 -   :material-city-variant:{ .lg .middle } **Municipal Officials & Lobbyists**
 
     ---
@@ -96,7 +110,7 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
 ## Find Your State
 
-<div class="grid cards" markdown>
+<div class="grid cards tier-cards" markdown>
 
 -   :material-check-circle:{ .lg .middle } **Tier 1 — Strong Viability (16 States)**
 
@@ -147,6 +161,7 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
 | Document | Purpose | Primary Audience |
 |---|---|---|
+| [Voter & Activist Guide](voter-guide/index.md) | Plain-English overview of the threat, your rights, the law, and how to take action | Voters, Activists |
 | [Federal Governance Framework](legal-foundation/governance-framework.md) | Constitutional basis for local election authority over federal personnel | All |
 | [ICE at Polling Places — Federal Law](legal-foundation/ice-polling-places-law.md) | 18 U.S.C. § 592 and VRA § 11(b) analysis; the "federal felony exemption" argument | Attorneys, Officials |
 | [Insurrection Act Analysis](legal-foundation/insurrection-act-analysis.md) | *Trump v. Illinois* (Dec. 2025) and § 592 intersection; 2026 deployment scenarios | Attorneys, Officials |
