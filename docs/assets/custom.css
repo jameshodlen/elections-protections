@@ -59,7 +59,7 @@
   left: 50%;
   transform: translateX(-50%);
   min-width: 280px;
-  max-height: 70vh;
+  max-height: 80vh;
   overflow-y: auto;
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
@@ -70,13 +70,12 @@
   padding: 0.5rem 0;
 }
 
-.md-tabs__item:hover > .md-tabs__dropdown,
-.md-tabs__dropdown:hover {
+.md-tabs__item:hover > .md-tabs__dropdown {
   display: block;
 }
 
 /* Dropdown link items */
-.md-tabs__dropdown a {
+.md-tabs__dropdown > a {
   display: block;
   padding: 0.45rem 1.2rem;
   color: var(--md-default-fg-color);
@@ -87,26 +86,88 @@
   transition: background 0.1s ease;
 }
 
-.md-tabs__dropdown a:hover {
+.md-tabs__dropdown > a:hover {
   background: var(--md-primary-fg-color--light);
   color: var(--md-primary-bg-color);
 }
 
-/* Tier group headings inside the State Guides dropdown */
-.md-tabs__dropdown-group {
-  padding: 0.5rem 1.2rem 0.2rem;
-  font-size: 0.72rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--md-default-fg-color--light);
-  border-top: 1px solid var(--md-default-fg-color--lightest);
-  margin-top: 0.3rem;
+/* ---- Tier group items with nested sub-dropdown ---- */
+.md-tabs__dropdown-tier {
+  position: relative;
 }
 
-.md-tabs__dropdown-group:first-child {
-  border-top: none;
-  margin-top: 0;
+.md-tabs__dropdown-tier-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1.2rem;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  transition: background 0.1s ease;
+  color: var(--md-default-fg-color);
+  border-left: 4px solid transparent;
+}
+
+.md-tabs__dropdown-tier-arrow {
+  font-size: 0.6em;
+  margin-left: 0.8rem;
+  opacity: 0.5;
+}
+
+.md-tabs__dropdown-tier:hover > .md-tabs__dropdown-tier-label {
+  background: var(--md-default-bg-color--light);
+}
+
+/* Tier color accents on the left border */
+.md-tabs__dropdown-tier--green > .md-tabs__dropdown-tier-label {
+  border-left-color: #2e7d32;
+}
+.md-tabs__dropdown-tier--yellow > .md-tabs__dropdown-tier-label {
+  border-left-color: #e65100;
+}
+.md-tabs__dropdown-tier--red > .md-tabs__dropdown-tier-label {
+  border-left-color: #c62828;
+}
+
+/* ---- Nested sub-dropdown (flies out to the right) ---- */
+.md-tabs__subdropdown {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  min-width: 200px;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 3px solid var(--md-primary-fg-color);
+  border-radius: 0 4px 4px 0;
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.12);
+  z-index: 101;
+  padding: 0.5rem 0;
+}
+
+.md-tabs__dropdown-tier:hover > .md-tabs__subdropdown {
+  display: block;
+}
+
+.md-tabs__subdropdown a {
+  display: block;
+  padding: 0.35rem 1rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.1s ease;
+}
+
+.md-tabs__subdropdown a:hover {
+  background: var(--md-primary-fg-color--light);
+  color: var(--md-primary-bg-color);
 }
 
 /* ============================================================
