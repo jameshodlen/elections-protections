@@ -294,8 +294,8 @@ function initTabDropdowns() {
   })();
 
   /* ----------------------------------------------------------
-     "State Guides" — Overview link + 3 tier items, each with
-     a nested sub-dropdown of individual states
+     "State Guides" — Multi-column mega menu showing all 3
+     tiers side-by-side for easy state lookup
      ---------------------------------------------------------- */
   (function () {
     var tab = findTab("State Guides");
@@ -308,14 +308,19 @@ function initTabDropdowns() {
     var childItems = childNav.querySelectorAll(
       ":scope > .md-nav__list > .md-nav__item"
     );
+
     var dropdown = makeDropdown();
+    dropdown.classList.add("md-tabs__mega-menu");
+
+    var columnsContainer = document.createElement("div");
+    columnsContainer.className = "md-tabs__mega-columns";
 
     childItems.forEach(function (child) {
       var directLink = child.querySelector(":scope > a.md-nav__link");
       var sectionLabel = child.querySelector(":scope > label.md-nav__link");
 
       if (directLink && !sectionLabel) {
-        // "State Guide Overview" — direct link at top
+        // "State Guide Overview" — link at top of mega menu
         dropdown.appendChild(
           makeLink(
             directLink.getAttribute("href"),
@@ -323,52 +328,43 @@ function initTabDropdowns() {
           )
         );
       } else if (sectionLabel) {
-        // Tier group — create a hoverable item with sub-dropdown
+        // Tier group — create a column
         var tierText = sectionLabel.textContent.trim();
-        var tierItem = document.createElement("div");
-        tierItem.className = "md-tabs__dropdown-tier";
+        var col = document.createElement("div");
+        col.className = "md-tabs__mega-col";
 
         // Determine tier color class
         if (tierText.indexOf("Tier 1") !== -1)
-          tierItem.classList.add("md-tabs__dropdown-tier--green");
+          col.classList.add("md-tabs__mega-col--green");
         else if (tierText.indexOf("Tier 2") !== -1)
-          tierItem.classList.add("md-tabs__dropdown-tier--yellow");
+          col.classList.add("md-tabs__mega-col--yellow");
         else if (tierText.indexOf("Tier 3") !== -1)
-          tierItem.classList.add("md-tabs__dropdown-tier--red");
+          col.classList.add("md-tabs__mega-col--red");
 
-        // Tier label with arrow indicator
-        var tierLabel = document.createElement("span");
-        tierLabel.className = "md-tabs__dropdown-tier-label";
-        tierLabel.innerHTML =
-          '<span class="md-tabs__dropdown-tier-text">' +
-          tierText +
-          "</span>" +
-          '<span class="md-tabs__dropdown-tier-arrow">\u25B6</span>';
-        tierItem.appendChild(tierLabel);
+        // Tier header
+        var header = document.createElement("div");
+        header.className = "md-tabs__mega-col-header";
+        header.textContent = tierText;
+        col.appendChild(header);
 
-        // Build nested sub-dropdown with individual states
+        // State links within this tier
         var subNav = child.querySelector(":scope > .md-nav");
         if (subNav) {
-          var subDropdown = document.createElement("div");
-          subDropdown.className = "md-tabs__subdropdown";
-
           var stateLinks = subNav.querySelectorAll(
             ":scope > .md-nav__list > .md-nav__item > a.md-nav__link"
           );
           stateLinks.forEach(function (sl) {
-            subDropdown.appendChild(
+            col.appendChild(
               makeLink(sl.getAttribute("href"), sl.textContent.trim())
             );
           });
-
-          if (subDropdown.children.length > 0)
-            tierItem.appendChild(subDropdown);
         }
 
-        dropdown.appendChild(tierItem);
+        columnsContainer.appendChild(col);
       }
     });
 
+    dropdown.appendChild(columnsContainer);
     if (dropdown.children.length > 0) tab.appendChild(dropdown);
   })();
 }
