@@ -43,7 +43,7 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
 <div class="grid cards" markdown>
 
--   :material-city-variant:{ .lg .middle } **Municipal Officials**
+-   :material-city-variant:{ .lg .middle } **Municipal Officials & Lobbyists**
 
     ---
 
