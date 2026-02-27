@@ -41,7 +41,7 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
 ## Start Here By Role
 
-<div class="grid cards" markdown>
+<div class="grid cards role-cards" markdown>
 
 -   :material-account-voice:{ .lg .middle } **Voters & Activists**
 

@@ -362,6 +362,92 @@
   border-top: 3px solid #c62828;
 }
 
+/* Force 4-column layout for "Start Here By Role" cards on desktop */
+.md-typeset .grid.cards.role-cards > :is(ul, ol) {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* Tablet: 2 columns */
+@media screen and (max-width: 960px) {
+  .md-typeset .grid.cards.role-cards > :is(ul, ol) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile: 1 column */
+@media screen and (max-width: 600px) {
+  .md-typeset .grid.cards.role-cards > :is(ul, ol) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- State Guides mega dropdown ---- */
+.md-tabs__mega-menu {
+  min-width: 700px;
+  padding: 0;
+}
+
+.md-tabs__mega-menu > a {
+  padding: 0.6rem 1.2rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  font-weight: 600;
+}
+
+.md-tabs__mega-columns {
+  display: flex;
+  gap: 0;
+}
+
+.md-tabs__mega-col {
+  flex: 1;
+  padding: 0.5rem 0;
+  border-left: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-tabs__mega-col:first-child {
+  border-left: none;
+}
+
+.md-tabs__mega-col-header {
+  padding: 0.4rem 1rem;
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 2px solid transparent;
+  margin-bottom: 0.25rem;
+}
+
+.md-tabs__mega-col--green .md-tabs__mega-col-header {
+  color: #2e7d32;
+  border-bottom-color: #2e7d32;
+}
+
+.md-tabs__mega-col--yellow .md-tabs__mega-col-header {
+  color: #e65100;
+  border-bottom-color: #e65100;
+}
+
+.md-tabs__mega-col--red .md-tabs__mega-col-header {
+  color: #c62828;
+  border-bottom-color: #c62828;
+}
+
+.md-tabs__mega-col > a {
+  display: block;
+  padding: 0.3rem 1rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.1s ease;
+}
+
+.md-tabs__mega-col > a:hover {
+  background: var(--md-primary-fg-color--light);
+  color: var(--md-primary-bg-color);
+}
+
 /* ============================================================
    NAVIGATION IMPROVEMENTS
    ============================================================ */
