@@ -125,29 +125,6 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
     [Federal Legal Framework](legal-foundation/ice-polling-places-law.md){ .cta-primary } [Supremacy Clause Analysis](legal-foundation/supremacy-clause.md){ .cta-secondary }
 
-    <div class="flowchart" role="img" aria-label="Three-phase litigation strategy for pre-election injunctive relief">
-      <div class="flowchart-phase flowchart-phase--1">
-        <div class="flowchart-phase-header">Phase 1</div>
-        <div class="flowchart-phase-title">Declaratory Relief</div>
-        <div class="flowchart-phase-desc">File pre-election suits seeking judicial declaration that planned ICE operations would violate 18 U.S.C. § 592</div>
-        <div class="flowchart-phase-timing">6-12 months before election</div>
-      </div>
-      <div class="flowchart-arrow"><svg viewBox="0 0 32 20"><path d="M0 10h24M24 4l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2"/></svg></div>
-      <div class="flowchart-phase flowchart-phase--2">
-        <div class="flowchart-phase-header">Phase 2</div>
-        <div class="flowchart-phase-title">Preliminary Injunction</div>
-        <div class="flowchart-phase-desc">Seek court orders prohibiting armed federal personnel within protected zones during election periods</div>
-        <div class="flowchart-phase-timing">2-4 months before election</div>
-      </div>
-      <div class="flowchart-arrow"><svg viewBox="0 0 32 20"><path d="M0 10h24M24 4l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2"/></svg></div>
-      <div class="flowchart-phase flowchart-phase--3">
-        <div class="flowchart-phase-header">Phase 3</div>
-        <div class="flowchart-phase-title">Emergency TRO</div>
-        <div class="flowchart-phase-desc">File emergency temporary restraining orders in response to specific deployment intelligence or actions</div>
-        <div class="flowchart-phase-timing">Days before / day of election</div>
-      </div>
-    </div>
-
 -   :material-account-group:{ .lg .middle } **Coalition Organizers**
 
     ---
@@ -163,6 +140,29 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 
     [50-State Strategic Overview](legal-foundation/50-state-overview.md){ .cta-primary } [State Guides](state-guides/index.md){ .cta-secondary }
 
+</div>
+
+<div class="flowchart" role="img" aria-label="Three-phase litigation strategy for pre-election injunctive relief">
+  <div class="flowchart-phase flowchart-phase--1">
+    <div class="flowchart-phase-header">Phase 1</div>
+    <div class="flowchart-phase-title">Declaratory Relief</div>
+    <div class="flowchart-phase-desc">File pre-election suits seeking judicial declaration that planned ICE operations would violate 18 U.S.C. § 592</div>
+    <div class="flowchart-phase-timing">6-12 months before election</div>
+  </div>
+  <div class="flowchart-arrow"><svg viewBox="0 0 32 20"><path d="M0 10h24M24 4l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2"/></svg></div>
+  <div class="flowchart-phase flowchart-phase--2">
+    <div class="flowchart-phase-header">Phase 2</div>
+    <div class="flowchart-phase-title">Preliminary Injunction</div>
+    <div class="flowchart-phase-desc">Seek court orders prohibiting armed federal personnel within protected zones during election periods</div>
+    <div class="flowchart-phase-timing">2-4 months before election</div>
+  </div>
+  <div class="flowchart-arrow"><svg viewBox="0 0 32 20"><path d="M0 10h24M24 4l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2"/></svg></div>
+  <div class="flowchart-phase flowchart-phase--3">
+    <div class="flowchart-phase-header">Phase 3</div>
+    <div class="flowchart-phase-title">Emergency TRO</div>
+    <div class="flowchart-phase-desc">File emergency temporary restraining orders in response to specific deployment intelligence or actions</div>
+    <div class="flowchart-phase-timing">Days before / day of election</div>
+  </div>
 </div>
 
 ---

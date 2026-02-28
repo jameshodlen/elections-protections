@@ -31,9 +31,8 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 
 ---
 
-<div class="us-map-container" markdown>
+<div class="us-map-container">
 <svg viewBox="0 0 960 600" role="img" aria-label="Interactive map of the United States showing tier classifications for all 50 states. Click a state to view its guide.">
-<!-- Tier 1 GREEN states -->
 <path class="state-path state-tier-green" data-state="Alaska" data-href="../state-guides/alaska/" tabindex="0" d="M161 485L183 485L183 510L200 510L200 530L161 530Z"/>
 <path class="state-path state-tier-green" data-state="California" data-href="../state-guides/california/" tabindex="0" d="M122 285L135 240L108 170L84 200L68 260L75 320L95 360L122 350Z"/>
 <path class="state-path state-tier-green" data-state="Colorado" data-href="../state-guides/colorado/" tabindex="0" d="M295 290L370 290L370 340L295 340Z"/>
@@ -50,7 +49,6 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 <path class="state-path state-tier-green" data-state="Oregon" data-href="../state-guides/oregon/" tabindex="0" d="M80 100L140 95L145 145L148 170L105 170L80 150Z"/>
 <path class="state-path state-tier-green" data-state="Rhode Island" data-href="../state-guides/rhode-island/" tabindex="0" d="M862 180L872 178L874 192L864 194Z"/>
 <path class="state-path state-tier-green" data-state="Washington" data-href="../state-guides/washington/" tabindex="0" d="M100 50L145 45L148 95L105 100L85 90Z"/>
-<!-- Tier 2 YELLOW states -->
 <path class="state-path state-tier-yellow" data-state="Connecticut" data-href="../state-guides/connecticut/" tabindex="0" d="M845 185L862 182L864 196L847 198Z"/>
 <path class="state-path state-tier-yellow" data-state="Delaware" data-href="../state-guides/delaware/" tabindex="0" d="M812 255L822 250L826 270L816 275Z"/>
 <path class="state-path state-tier-yellow" data-state="Hawaii" data-href="../state-guides/hawaii/" tabindex="0" d="M260 510L300 505L305 525L265 530Z"/>
@@ -62,7 +60,6 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 <path class="state-path state-tier-yellow" data-state="Pennsylvania" data-href="../state-guides/pennsylvania/" tabindex="0" d="M740 195L810 185L820 210L810 240L740 250Z"/>
 <path class="state-path state-tier-yellow" data-state="Vermont" data-href="../state-guides/vermont/" tabindex="0" d="M840 100L852 95L855 130L845 140L840 130Z"/>
 <path class="state-path state-tier-yellow" data-state="Wisconsin" data-href="../state-guides/wisconsin/" tabindex="0" d="M555 115L590 105L620 120L620 165L595 185L560 185Z"/>
-<!-- Tier 3 RED states -->
 <path class="state-path state-tier-red" data-state="Alabama" data-href="../state-guides/alabama/" tabindex="0" d="M660 370L690 365L695 430L670 440L660 435Z"/>
 <path class="state-path state-tier-red" data-state="Arizona" data-href="../state-guides/arizona/" tabindex="0" d="M165 345L230 345L230 420L195 430L165 410Z"/>
 <path class="state-path state-tier-red" data-state="Arkansas" data-href="../state-guides/arkansas/" tabindex="0" d="M540 345L595 340L600 395L545 400Z"/>
