@@ -1,0 +1,50 @@
+{
+  "CO:boulder": {
+    "population": "~105,000",
+    "gov_type": "Council-Manager",
+    "charter_status": "Home Rule Charter City",
+    "council_size": "9",
+    "council_structure": "Council-Manager · Mayor elected by council",
+    "council_note": "All seats nonpartisan. Next election: Nov 2027.",
+    "city_hall_name": "Boulder Municipal Building",
+    "city_hall_address": "1777 Broadway, Boulder, CO 80302",
+    "contact_phone": "(303) 441-3388",
+    "contact_email_or_url": "bouldercolorado.gov/city-council",
+    "meeting_day": "Thu",
+    "meeting_time": "6:00 PM",
+    "meeting_frequency": "1st & 3rd Thu",
+    "_source": "bouldercolorado.gov"
+  },
+  "CO:denver": {
+    "population": "~715,000",
+    "gov_type": "Strong Mayor-Council",
+    "charter_status": "Home Rule Charter City",
+    "council_size": "13",
+    "council_structure": "Strong Mayor-Council · 11 districts + 2 at-large",
+    "council_note": "Democratic majority since 1963.",
+    "city_hall_name": "Denver City & County Building",
+    "city_hall_address": "1437 Bannock St, Denver, CO 80202",
+    "contact_phone": "(720) 337-2000",
+    "contact_email_or_url": "denvergov.org/Denver-City-Council",
+    "meeting_day": "Mon",
+    "meeting_time": "5:30 PM",
+    "meeting_frequency": "Every Mon",
+    "_source": "denvergov.org"
+  },
+  "CO:aurora": {
+    "population": "~386,000",
+    "gov_type": "Council-Manager",
+    "charter_status": "Home Rule Charter City",
+    "council_size": "10",
+    "council_structure": "Council-Manager · Mayor at-large + 6 ward + 4 at-large",
+    "council_note": "Progressive 6-4 majority since Nov 2025.",
+    "city_hall_name": "Aurora Municipal Center",
+    "city_hall_address": "15151 E Alameda Pkwy, Aurora, CO 80012",
+    "contact_phone": "(303) 739-7015",
+    "contact_email_or_url": "auroragov.org/city_hall/mayor___city_council",
+    "meeting_day": "Mon",
+    "meeting_time": "6:10 PM",
+    "meeting_frequency": "2nd & 4th Mon",
+    "_source": "auroragov.org"
+  }
+}
