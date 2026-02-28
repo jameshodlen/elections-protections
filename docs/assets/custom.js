@@ -5,6 +5,11 @@
  * 1. Interactive 50-State Table Filter (active on /legal-foundation/50-state-overview/ only)
  * 2. Smooth anchor scroll for legal deep-links
  * 3. Dropdown menus for top navigation tabs
+ * 4. Lead-in auto-bold for long paragraphs
+ * 5. Animated donut chart for polling data
+ * 6. Accordion expand/collapse all controls
+ * 7. Interactive US map tooltip and navigation
+ * 8. State search in mega-menu dropdown
  */
 
 /* ============================================================
@@ -370,6 +375,198 @@ function initTabDropdowns() {
 }
 
 /* ============================================================
+   FEATURE 4: LEAD-IN AUTO-BOLD
+   Wraps the first sentence of long paragraphs in <strong>
+   for quick scanning.
+   ============================================================ */
+
+function initLeadIns() {
+  // Only apply on pages with substantial prose content
+  var contentArea = document.querySelector(".md-content__inner");
+  if (!contentArea) return;
+
+  var paragraphs = contentArea.querySelectorAll(
+    ".md-typeset > p, .md-typeset .lead-in > p"
+  );
+
+  paragraphs.forEach(function (p) {
+    // Skip short paragraphs, paragraphs inside cards/admonitions, or already-processed ones
+    if (p.textContent.length < 200) return;
+    if (p.closest(".grid, .admonition, details, .hero-banner, .stat-callout, .flowchart, .risk-chart")) return;
+    if (p.querySelector("strong.lead-in")) return;
+
+    // Find the first sentence boundary (period followed by space or end)
+    var html = p.innerHTML;
+    var match = html.match(/^((?:<[^>]+>)*[^.]*\.)/);
+    if (match && match[1].length < html.length * 0.6) {
+      p.innerHTML =
+        '<strong class="lead-in">' + match[1] + "</strong>" + html.slice(match[1].length);
+    }
+  });
+}
+
+/* ============================================================
+   FEATURE 5: ANIMATED DONUT CHART
+   Animates the stat donut on scroll into view.
+   ============================================================ */
+
+function initDonutChart() {
+  var donut = document.querySelector(".stat-donut-fill");
+  if (!donut) return;
+
+  // Start with empty ring (total circumference for r=52: 2*PI*52 ≈ 326.7)
+  var totalLen = 326.7;
+  donut.style.strokeDashoffset = String(totalLen);
+
+  var observer = new IntersectionObserver(
+    function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          // Animate to 64%: offset = totalLen * (1 - 0.64) = 117.6
+          donut.style.strokeDashoffset = "117.6";
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    { threshold: 0.5 }
+  );
+
+  observer.observe(donut);
+}
+
+/* ============================================================
+   FEATURE 6: ACCORDION EXPAND/COLLAPSE ALL
+   Adds controls on the Master Ordinance Template page.
+   ============================================================ */
+
+function initAccordionControls() {
+  if (!window.location.pathname.includes("master-ordinance-template")) return;
+
+  var details = document.querySelectorAll(".md-typeset details.note");
+  if (details.length < 3) return;
+
+  var controlDiv = document.createElement("div");
+  controlDiv.className = "accordion-controls";
+  controlDiv.setAttribute("role", "group");
+  controlDiv.setAttribute("aria-label", "Accordion controls");
+
+  var expandBtn = document.createElement("button");
+  expandBtn.textContent = "Expand All Sections";
+  expandBtn.addEventListener("click", function () {
+    details.forEach(function (d) {
+      d.open = true;
+    });
+  });
+
+  var collapseBtn = document.createElement("button");
+  collapseBtn.textContent = "Collapse All Sections";
+  collapseBtn.addEventListener("click", function () {
+    details.forEach(function (d) {
+      d.open = false;
+    });
+  });
+
+  controlDiv.appendChild(expandBtn);
+  controlDiv.appendChild(collapseBtn);
+
+  // Insert before the first details.note element
+  details[0].parentNode.insertBefore(controlDiv, details[0]);
+}
+
+/* ============================================================
+   FEATURE 7: INTERACTIVE US MAP
+   Tooltip on hover, click to navigate to state guide.
+   ============================================================ */
+
+function initUSMap() {
+  var container = document.querySelector(".us-map-container");
+  if (!container) return;
+
+  var tooltip = container.querySelector(".map-tooltip");
+  if (!tooltip) return;
+
+  var states = container.querySelectorAll("path.state-path");
+
+  states.forEach(function (state) {
+    state.addEventListener("mouseenter", function () {
+      var name = this.dataset.state || this.id;
+      var tier = "";
+      if (this.classList.contains("state-tier-green"))
+        tier = "Tier 1 \u2014 Strong Viability";
+      else if (this.classList.contains("state-tier-yellow"))
+        tier = "Tier 2 \u2014 Proceed with Caution";
+      else if (this.classList.contains("state-tier-red"))
+        tier = "Tier 3 \u2014 Significant Barriers";
+
+      tooltip.textContent = name + " \u2014 " + tier;
+      tooltip.classList.add("visible");
+    });
+
+    state.addEventListener("mousemove", function (e) {
+      var rect = container.getBoundingClientRect();
+      var x = e.clientX - rect.left + 12;
+      var y = e.clientY - rect.top - 30;
+      tooltip.style.left = x + "px";
+      tooltip.style.top = y + "px";
+    });
+
+    state.addEventListener("mouseleave", function () {
+      tooltip.classList.remove("visible");
+    });
+
+    state.addEventListener("click", function () {
+      var href = this.dataset.href;
+      if (href) window.location.href = href;
+    });
+
+    state.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        var href = this.dataset.href;
+        if (href) window.location.href = href;
+      }
+    });
+  });
+}
+
+/* ============================================================
+   FEATURE 8: MEGA-MENU STATE SEARCH
+   Adds a filter input to the State Guides mega-menu dropdown.
+   ============================================================ */
+
+function initMegaMenuSearch() {
+  var megaMenu = document.querySelector(".md-tabs__mega-menu");
+  if (!megaMenu) return;
+  if (megaMenu.querySelector(".mega-menu-search")) return;
+
+  var searchDiv = document.createElement("div");
+  searchDiv.className = "mega-menu-search";
+  var input = document.createElement("input");
+  input.type = "text";
+  input.placeholder = "Search states\u2026";
+  input.setAttribute("aria-label", "Filter states by name");
+  searchDiv.appendChild(input);
+
+  // Insert at the top of the mega menu
+  megaMenu.insertBefore(searchDiv, megaMenu.firstChild);
+
+  var stateLinks = megaMenu.querySelectorAll(".md-tabs__mega-col > a");
+
+  input.addEventListener("input", function () {
+    var query = this.value.toLowerCase().trim();
+    stateLinks.forEach(function (link) {
+      var name = link.textContent.toLowerCase();
+      link.style.display = !query || name.includes(query) ? "" : "none";
+    });
+  });
+
+  // Prevent the dropdown from closing when clicking the input
+  input.addEventListener("click", function (e) {
+    e.stopPropagation();
+  });
+}
+
+/* ============================================================
    INITIALIZATION
    MkDocs Material uses instant navigation (SPA mode), so we
    listen for the custom event it fires on each page load.
@@ -379,6 +576,11 @@ function onPageLoad() {
   init50StateFilter();
   initSmoothScroll();
   initTabDropdowns();
+  initLeadIns();
+  initDonutChart();
+  initAccordionControls();
+  initUSMap();
+  initMegaMenuSearch();
 }
 
 // Standard DOM ready (for initial page load)
