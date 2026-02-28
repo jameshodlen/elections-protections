@@ -31,6 +31,70 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 
 ---
 
+<div class="us-map-container" markdown>
+<svg viewBox="0 0 960 600" role="img" aria-label="Interactive map of the United States showing tier classifications for all 50 states. Click a state to view its guide.">
+<!-- Tier 1 GREEN states -->
+<path class="state-path state-tier-green" data-state="Alaska" data-href="../state-guides/alaska/" tabindex="0" d="M161 485L183 485L183 510L200 510L200 530L161 530Z"/>
+<path class="state-path state-tier-green" data-state="California" data-href="../state-guides/california/" tabindex="0" d="M122 285L135 240L108 170L84 200L68 260L75 320L95 360L122 350Z"/>
+<path class="state-path state-tier-green" data-state="Colorado" data-href="../state-guides/colorado/" tabindex="0" d="M295 290L370 290L370 340L295 340Z"/>
+<path class="state-path state-tier-green" data-state="Illinois" data-href="../state-guides/illinois/" tabindex="0" d="M580 220L600 220L610 240L608 290L595 310L580 305L575 260Z"/>
+<path class="state-path state-tier-green" data-state="Maine" data-href="../state-guides/maine/" tabindex="0" d="M870 95L885 80L895 95L890 130L870 140L860 120Z"/>
+<path class="state-path state-tier-green" data-state="Maryland" data-href="../state-guides/maryland/" tabindex="0" d="M765 260L805 250L810 265L790 280L765 275Z"/>
+<path class="state-path state-tier-green" data-state="Massachusetts" data-href="../state-guides/massachusetts/" tabindex="0" d="M855 170L890 165L892 178L858 182Z"/>
+<path class="state-path state-tier-green" data-state="Michigan" data-href="../state-guides/michigan/" tabindex="0" d="M620 140L660 130L680 160L670 200L640 210L615 195L620 165Z"/>
+<path class="state-path state-tier-green" data-state="Minnesota" data-href="../state-guides/minnesota/" tabindex="0" d="M500 100L550 100L555 125L560 185L520 190L500 175L498 130Z"/>
+<path class="state-path state-tier-green" data-state="New Jersey" data-href="../state-guides/new-jersey/" tabindex="0" d="M820 215L832 210L838 235L830 260L818 255L815 235Z"/>
+<path class="state-path state-tier-green" data-state="New Mexico" data-href="../state-guides/new-mexico/" tabindex="0" d="M230 345L295 345L295 420L235 425L230 390Z"/>
+<path class="state-path state-tier-green" data-state="New York" data-href="../state-guides/new-york/" tabindex="0" d="M780 145L830 130L855 145L850 170L830 185L810 195L790 195L775 175Z"/>
+<path class="state-path state-tier-green" data-state="Ohio" data-href="../state-guides/ohio/" tabindex="0" d="M680 210L720 200L740 220L735 260L700 270L680 255Z"/>
+<path class="state-path state-tier-green" data-state="Oregon" data-href="../state-guides/oregon/" tabindex="0" d="M80 100L140 95L145 145L148 170L105 170L80 150Z"/>
+<path class="state-path state-tier-green" data-state="Rhode Island" data-href="../state-guides/rhode-island/" tabindex="0" d="M862 180L872 178L874 192L864 194Z"/>
+<path class="state-path state-tier-green" data-state="Washington" data-href="../state-guides/washington/" tabindex="0" d="M100 50L145 45L148 95L105 100L85 90Z"/>
+<!-- Tier 2 YELLOW states -->
+<path class="state-path state-tier-yellow" data-state="Connecticut" data-href="../state-guides/connecticut/" tabindex="0" d="M845 185L862 182L864 196L847 198Z"/>
+<path class="state-path state-tier-yellow" data-state="Delaware" data-href="../state-guides/delaware/" tabindex="0" d="M812 255L822 250L826 270L816 275Z"/>
+<path class="state-path state-tier-yellow" data-state="Hawaii" data-href="../state-guides/hawaii/" tabindex="0" d="M260 510L300 505L305 525L265 530Z"/>
+<path class="state-path state-tier-yellow" data-state="Kansas" data-href="../state-guides/kansas/" tabindex="0" d="M400 290L490 290L490 335L400 335Z"/>
+<path class="state-path state-tier-yellow" data-state="Kentucky" data-href="../state-guides/kentucky/" tabindex="0" d="M640 295L720 275L740 285L735 310L690 320L640 315Z"/>
+<path class="state-path state-tier-yellow" data-state="Nebraska" data-href="../state-guides/nebraska/" tabindex="0" d="M370 220L455 218L460 265L490 290L400 290L370 280Z"/>
+<path class="state-path state-tier-yellow" data-state="Nevada" data-href="../state-guides/nevada/" tabindex="0" d="M135 170L165 165L185 240L160 290L122 285L120 230Z"/>
+<path class="state-path state-tier-yellow" data-state="New Hampshire" data-href="../state-guides/new-hampshire/" tabindex="0" d="M850 115L862 108L865 145L855 160L850 155Z"/>
+<path class="state-path state-tier-yellow" data-state="Pennsylvania" data-href="../state-guides/pennsylvania/" tabindex="0" d="M740 195L810 185L820 210L810 240L740 250Z"/>
+<path class="state-path state-tier-yellow" data-state="Vermont" data-href="../state-guides/vermont/" tabindex="0" d="M840 100L852 95L855 130L845 140L840 130Z"/>
+<path class="state-path state-tier-yellow" data-state="Wisconsin" data-href="../state-guides/wisconsin/" tabindex="0" d="M555 115L590 105L620 120L620 165L595 185L560 185Z"/>
+<!-- Tier 3 RED states -->
+<path class="state-path state-tier-red" data-state="Alabama" data-href="../state-guides/alabama/" tabindex="0" d="M660 370L690 365L695 430L670 440L660 435Z"/>
+<path class="state-path state-tier-red" data-state="Arizona" data-href="../state-guides/arizona/" tabindex="0" d="M165 345L230 345L230 420L195 430L165 410Z"/>
+<path class="state-path state-tier-red" data-state="Arkansas" data-href="../state-guides/arkansas/" tabindex="0" d="M540 345L595 340L600 395L545 400Z"/>
+<path class="state-path state-tier-red" data-state="Florida" data-href="../state-guides/florida/" tabindex="0" d="M700 430L740 420L770 430L760 475L730 510L700 490L690 460Z"/>
+<path class="state-path state-tier-red" data-state="Georgia" data-href="../state-guides/georgia/" tabindex="0" d="M695 365L735 350L745 385L740 420L700 430L690 405Z"/>
+<path class="state-path state-tier-red" data-state="Idaho" data-href="../state-guides/idaho/" tabindex="0" d="M175 80L205 75L215 130L210 185L180 190L170 160L175 115Z"/>
+<path class="state-path state-tier-red" data-state="Indiana" data-href="../state-guides/indiana/" tabindex="0" d="M640 220L670 215L680 260L675 300L645 305L640 270Z"/>
+<path class="state-path state-tier-red" data-state="Iowa" data-href="../state-guides/iowa/" tabindex="0" d="M500 195L560 190L575 215L570 250L505 255L495 230Z"/>
+<path class="state-path state-tier-red" data-state="Louisiana" data-href="../state-guides/louisiana/" tabindex="0" d="M545 420L595 410L610 440L595 470L560 460L540 445Z"/>
+<path class="state-path state-tier-red" data-state="Mississippi" data-href="../state-guides/mississippi/" tabindex="0" d="M610 370L640 365L645 435L620 445L610 435Z"/>
+<path class="state-path state-tier-red" data-state="Missouri" data-href="../state-guides/missouri/" tabindex="0" d="M520 260L575 255L585 270L595 310L580 340L540 345L520 320Z"/>
+<path class="state-path state-tier-red" data-state="Montana" data-href="../state-guides/montana/" tabindex="0" d="M220 65L360 60L365 130L350 140L280 135L220 130Z"/>
+<path class="state-path state-tier-red" data-state="North Carolina" data-href="../state-guides/north-carolina/" tabindex="0" d="M720 320L790 300L830 310L810 330L750 345L720 340Z"/>
+<path class="state-path state-tier-red" data-state="North Dakota" data-href="../state-guides/north-dakota/" tabindex="0" d="M370 80L455 78L460 130L370 132Z"/>
+<path class="state-path state-tier-red" data-state="Oklahoma" data-href="../state-guides/oklahoma/" tabindex="0" d="M370 340L490 338L500 350L540 345L540 385L395 390L370 370Z"/>
+<path class="state-path state-tier-red" data-state="South Carolina" data-href="../state-guides/south-carolina/" tabindex="0" d="M740 340L770 330L790 350L770 370L740 365Z"/>
+<path class="state-path state-tier-red" data-state="South Dakota" data-href="../state-guides/south-dakota/" tabindex="0" d="M370 135L455 132L460 195L455 218L370 220Z"/>
+<path class="state-path state-tier-red" data-state="Tennessee" data-href="../state-guides/tennessee/" tabindex="0" d="M615 310L720 295L735 310L720 330L640 345L610 340Z"/>
+<path class="state-path state-tier-red" data-state="Texas" data-href="../state-guides/texas/" tabindex="0" d="M330 390L395 390L440 400L500 400L545 420L540 455L510 490L460 510L400 500L350 470L320 440Z"/>
+<path class="state-path state-tier-red" data-state="Utah" data-href="../state-guides/utah/" tabindex="0" d="M195 190L250 185L260 240L255 290L195 295L185 245Z"/>
+<path class="state-path state-tier-red" data-state="Virginia" data-href="../state-guides/virginia/" tabindex="0" d="M740 260L780 250L810 265L810 285L790 300L740 305Z"/>
+<path class="state-path state-tier-red" data-state="West Virginia" data-href="../state-guides/west-virginia/" tabindex="0" d="M740 250L760 240L770 255L765 280L745 290L735 270Z"/>
+<path class="state-path state-tier-red" data-state="Wyoming" data-href="../state-guides/wyoming/" tabindex="0" d="M255 130L350 128L355 195L260 200L255 165Z"/>
+</svg>
+<div class="map-tooltip" role="tooltip"></div>
+<div class="us-map-legend">
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#2e7d32"></span> Tier 1 — Strong Viability</div>
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#e65100"></span> Tier 2 — Proceed with Caution</div>
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#c62828"></span> Tier 3 — Significant Barriers</div>
+</div>
+</div>
+
 ## 50-State Analysis Table
 
 | State | Home Rule/Dillon's Rule | Key Legal Citation | Anti-Sanctuary Laws | Tier | Target Cities | Flyer |

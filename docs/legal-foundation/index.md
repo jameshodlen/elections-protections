@@ -79,13 +79,53 @@ Model municipal ordinance language with WHEREAS clauses citing anti-commandeerin
 
 ## Reference Documents at a Glance
 
-| Document | Statute/Doctrine | Length | Best For |
-|---|---|---|---|
-| [Governance Framework](governance-framework.md) | Elections Clause; 10th Amendment; HAVA | Long | Understanding the federal system |
-| [ICE at Polling Places](ice-polling-places-law.md) | 18 U.S.C. § 592; 52 U.S.C. § 10307(b) | Medium | Attorneys, city officials |
-| [50-State Analysis](50-state-overview.md) | All 50 states' home rule frameworks | Long | Strategists, organizers |
-| [Supremacy Clause](supremacy-clause.md) | Anti-commandeering; preemption doctrine | Very Long | Constitutional law attorneys |
-| [Insurrection Act](insurrection-act-analysis.md) | 10 U.S.C. §§ 251–255; *Trump v. Illinois* | Medium | All audiences |
-| [Injunction History](ballot-security-history.md) | Case law 2008–2020; DNC v. RNC | Medium | Litigation strategy |
-| [Evidence Framework](evidence-framework.md) | 7 evidence categories; 3 litigation phases | Very Long | Attorneys, litigation teams |
-| [Ordinance Template](master-ordinance-template.md) | Model ordinance; 14 operative sections | Very Long | Officials, attorneys |
+<div class="doc-card-grid">
+  <a href="governance-framework/" class="doc-card">
+    <div class="doc-card-icon">:material-bank:</div>
+    <div class="doc-card-title">Federal Governance Framework</div>
+    <div class="doc-card-desc">Constitutional structure of election authority — Elections Clause, Tenth Amendment, HAVA</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--all">All</span></div>
+  </a>
+  <a href="ice-polling-places-law/" class="doc-card">
+    <div class="doc-card-icon">:material-shield-alert:</div>
+    <div class="doc-card-title">ICE at Polling Places — Federal Law</div>
+    <div class="doc-card-desc">18 U.S.C. § 592 and VRA § 11(b) — the federal felony exemption argument</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span> <span class="audience-pill audience-pill--officials">Officials</span></div>
+  </a>
+  <a href="insurrection-act-analysis/" class="doc-card">
+    <div class="doc-card-icon">:material-alert-decagram:</div>
+    <div class="doc-card-title">Insurrection Act Analysis</div>
+    <div class="doc-card-desc">Trump v. Illinois (Dec. 2025) and § 592 intersection; 2026 deployment scenarios</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span> <span class="audience-pill audience-pill--officials">Officials</span></div>
+  </a>
+  <a href="supremacy-clause/" class="doc-card">
+    <div class="doc-card-icon">:material-gavel:</div>
+    <div class="doc-card-title">The Supremacy Clause</div>
+    <div class="doc-card-desc">Anti-commandeering doctrine, preemption taxonomy, non-cooperation vs. obstruction</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
+  </a>
+  <a href="ballot-security-history/" class="doc-card">
+    <div class="doc-card-icon">:material-history:</div>
+    <div class="doc-card-title">Ballot Security Injunction History</div>
+    <div class="doc-card-desc">DNC v. RNC consent decree (1982–2018) and post-expiration litigation landscape</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
+  </a>
+  <a href="50-state-overview/" class="doc-card">
+    <div class="doc-card-icon">:material-map:</div>
+    <div class="doc-card-title">50-State Viability Analysis</div>
+    <div class="doc-card-desc">Full strategic map with GREEN/YELLOW/RED tiers, swing state windows, coalition directory</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--all">All</span></div>
+  </a>
+  <a href="evidence-framework/" class="doc-card">
+    <div class="doc-card-icon">:material-file-document-check:</div>
+    <div class="doc-card-title">Evidence Collection Framework</div>
+    <div class="doc-card-desc">Seven-category evidence protocol, chain of custody, expert witness strategy</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
+  </a>
+  <a href="master-ordinance-template/" class="doc-card">
+    <div class="doc-card-icon">:material-file-edit:</div>
+    <div class="doc-card-title">Master Ordinance Template</div>
+    <div class="doc-card-desc">Model municipal ordinance with 14 operative sections and tier-specific adaptation notes</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
+  </a>
+</div>

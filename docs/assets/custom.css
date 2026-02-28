@@ -3,6 +3,43 @@
    ============================================================ */
 
 /* ============================================================
+   DESIGN SYSTEM — ACCENT COLORS & CUSTOM PROPERTIES
+   ============================================================ */
+
+:root {
+  /* Tier colors (centralized) */
+  --tier-green: #2e7d32;
+  --tier-green-bg: rgba(46, 125, 50, 0.08);
+  --tier-yellow: #e65100;
+  --tier-yellow-bg: rgba(230, 81, 0, 0.08);
+  --tier-red: #c62828;
+  --tier-red-bg: rgba(198, 40, 40, 0.08);
+
+  /* Accent colors */
+  --accent-teal: #0d9488;
+  --accent-teal-hover: #0f766e;
+  --accent-teal-light: rgba(13, 148, 136, 0.12);
+  --accent-gold: #d97706;
+  --accent-gold-hover: #b45309;
+  --accent-gold-light: rgba(217, 119, 6, 0.12);
+}
+
+[data-md-color-scheme="slate"] {
+  --tier-green: #4caf50;
+  --tier-green-bg: rgba(76, 175, 80, 0.12);
+  --tier-yellow: #ff9800;
+  --tier-yellow-bg: rgba(255, 152, 0, 0.12);
+  --tier-red: #ef5350;
+  --tier-red-bg: rgba(239, 83, 80, 0.12);
+  --accent-teal: #2dd4bf;
+  --accent-teal-hover: #14b8a6;
+  --accent-teal-light: rgba(45, 212, 191, 0.15);
+  --accent-gold: #fbbf24;
+  --accent-gold-hover: #f59e0b;
+  --accent-gold-light: rgba(251, 191, 36, 0.15);
+}
+
+/* ============================================================
    NEUTRAL GREY BACKGROUND
    Override the default bright white with a softer neutral grey
    ============================================================ */
@@ -10,6 +47,31 @@
 [data-md-color-scheme="default"] {
   --md-default-bg-color: #f0f0f0;
   --md-default-bg-color--light: #e8e8e8;
+}
+
+/* ============================================================
+   TYPOGRAPHY — READING COMFORT
+   ============================================================ */
+
+.md-typeset {
+  line-height: 1.8;
+}
+
+.md-typeset p {
+  margin-bottom: 1.25em;
+}
+
+/* Tighter spacing inside admonitions and cards */
+.md-typeset .admonition p,
+.md-typeset details p,
+.md-typeset .grid.cards p {
+  margin-bottom: 0.75rem;
+}
+
+/* Lead-in bold first sentence styling */
+.md-typeset strong.lead-in {
+  font-size: 1.05em;
+  color: var(--md-default-fg-color);
 }
 
 /* ============================================================
@@ -574,4 +636,803 @@
 
 .md-typeset .md-clipboard:hover {
   color: var(--md-accent-fg-color);
+}
+
+/* ============================================================
+   HERO BANNER — HOMEPAGE
+   ============================================================ */
+
+.hero-banner {
+  background: linear-gradient(135deg,
+    #1a237e 0%,
+    #283593 30%,
+    #1565c0 60%,
+    #0d47a1 100%
+  );
+  color: #ffffff;
+  padding: 3rem 2rem 2.5rem;
+  margin: -1.2rem -0.8rem 2rem;
+  border-radius: 0 0 8px 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-banner::before {
+  content: '';
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background-image:
+    radial-gradient(circle at 20% 80%, rgba(255,255,255,0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255,255,255,0.05) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.hero-banner h1 {
+  color: #ffffff !important;
+  font-size: 2.4rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.hero-banner h2 {
+  color: rgba(255, 255, 255, 0.9) !important;
+  font-size: 1.3rem;
+  font-weight: 400;
+  border-bottom: none;
+  margin-bottom: 1rem;
+}
+
+.hero-banner p {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.05rem;
+  max-width: 800px;
+}
+
+.hero-banner .md-typeset .admonition,
+.hero-banner .md-typeset .admonition.success {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+}
+
+.hero-banner .md-typeset .admonition .admonition-title {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.hero-banner .md-typeset .admonition p {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+[data-md-color-scheme="slate"] .hero-banner {
+  background: linear-gradient(135deg,
+    #0d1b2a 0%,
+    #1b2838 30%,
+    #1a3a5c 60%,
+    #0d2137 100%
+  );
+}
+
+/* ============================================================
+   URGENCY BADGE
+   ============================================================ */
+
+.urgency-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1.2rem;
+  background: var(--accent-gold-light);
+  border-left: 4px solid var(--accent-gold);
+  border-radius: 0 6px 6px 0;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.urgency-banner strong {
+  color: var(--accent-gold);
+}
+
+.urgency-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.25rem 0.7rem;
+  background: var(--tier-red);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-radius: 4px;
+  animation: urgency-pulse 2s ease-in-out infinite;
+  white-space: nowrap;
+}
+
+@keyframes urgency-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(198, 40, 40, 0.4); }
+  50% { box-shadow: 0 0 0 6px rgba(198, 40, 40, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .urgency-badge { animation: none; }
+}
+
+/* ============================================================
+   CTA BUTTONS — ACCENT COLORS
+   ============================================================ */
+
+.cta-primary {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  background: var(--accent-teal);
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 0.88rem;
+  border-radius: 6px;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.15s ease;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cta-primary:hover {
+  background: var(--accent-teal-hover);
+  transform: translateY(-1px);
+}
+
+.cta-secondary {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  background: var(--accent-gold);
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 0.88rem;
+  border-radius: 6px;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.15s ease;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cta-secondary:hover {
+  background: var(--accent-gold-hover);
+  transform: translateY(-1px);
+}
+
+/* ============================================================
+   PULL QUOTES FOR LEGAL STATUTES
+   ============================================================ */
+
+.pull-quote {
+  position: relative;
+  margin: 2rem 0;
+  padding: 1.5rem 2rem 1.5rem 3rem;
+  background: var(--md-code-bg-color);
+  border-left: 5px solid var(--accent-teal);
+  border-radius: 0 8px 8px 0;
+  font-family: var(--md-code-font-family);
+  font-size: 0.92em;
+  line-height: 1.7;
+}
+
+.pull-quote::before {
+  content: '\201C';
+  position: absolute;
+  top: 0.2rem;
+  left: 0.5rem;
+  font-size: 3rem;
+  font-family: Georgia, serif;
+  color: var(--accent-teal);
+  opacity: 0.3;
+  line-height: 1;
+}
+
+.pull-quote-citation {
+  display: block;
+  margin-top: 0.8rem;
+  font-size: 0.82em;
+  font-weight: 700;
+  color: var(--accent-teal);
+  font-family: var(--md-text-font-family);
+}
+
+/* ============================================================
+   HISTORICAL WATERMARK — CORE LEGAL FOUNDATION
+   ============================================================ */
+
+.legal-foundation-wrapper .admonition.success {
+  position: relative;
+  overflow: hidden;
+  border-width: 2px;
+}
+
+.legal-foundation-wrapper .admonition.success::after {
+  content: '\00A7 592';
+  position: absolute;
+  bottom: -0.5rem;
+  right: 0.5rem;
+  font-size: 5rem;
+  font-weight: 900;
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--tier-green);
+  opacity: 0.06;
+  pointer-events: none;
+  line-height: 1;
+}
+
+/* ============================================================
+   ROLE CARD ICON ENHANCEMENT
+   ============================================================ */
+
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li {
+  border-top: 3px solid var(--accent-teal);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* Larger icons with colored circular backgrounds */
+.md-typeset .grid.cards.role-cards .twemoji svg,
+.md-typeset .grid.cards.role-cards .emojione svg {
+  background: var(--accent-teal-light);
+  border-radius: 50%;
+  padding: 0.5rem;
+  width: 2.8rem;
+  height: 2.8rem;
+}
+
+/* Different accent colors per role card */
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(1) {
+  border-top-color: var(--accent-teal);
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(2) {
+  border-top-color: var(--accent-gold);
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(2) .twemoji svg,
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(2) .emojione svg {
+  background: var(--accent-gold-light);
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(3) {
+  border-top-color: #673ab7;
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(3) .twemoji svg,
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(3) .emojione svg {
+  background: rgba(103, 58, 183, 0.12);
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(4) {
+  border-top-color: #1565c0;
+}
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(4) .twemoji svg,
+.md-typeset .grid.cards.role-cards > :is(ul, ol) > li:nth-child(4) .emojione svg {
+  background: rgba(21, 101, 192, 0.12);
+}
+
+/* ============================================================
+   TABLE ENHANCEMENTS — ROW HOVER & AUDIENCE PILLS
+   ============================================================ */
+
+.md-typeset table:not([class]) tbody tr {
+  transition: background-color 0.15s ease;
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+  background-color: var(--accent-teal-light) !important;
+}
+
+.audience-pill {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 12px;
+  font-size: 0.72em;
+  font-weight: 600;
+  white-space: nowrap;
+  margin: 0.1rem;
+  line-height: 1.4;
+}
+
+.audience-pill--voters {
+  background: var(--accent-teal-light);
+  color: var(--accent-teal);
+}
+
+.audience-pill--officials {
+  background: var(--accent-gold-light);
+  color: var(--accent-gold);
+}
+
+.audience-pill--attorneys {
+  background: rgba(103, 58, 183, 0.12);
+  color: #673ab7;
+}
+
+.audience-pill--all {
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+}
+
+[data-md-color-scheme="slate"] .audience-pill--attorneys {
+  background: rgba(186, 146, 255, 0.15);
+  color: #ba92ff;
+}
+
+/* ============================================================
+   DONUT CHART STATISTIC
+   ============================================================ */
+
+.stat-callout {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: var(--md-default-bg-color--light);
+  border-radius: 8px;
+  border-left: 4px solid var(--accent-teal);
+  margin: 1.5rem 0;
+}
+
+.stat-donut {
+  position: relative;
+  flex-shrink: 0;
+  width: 110px;
+  height: 110px;
+}
+
+.stat-donut-svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.stat-donut-bg {
+  fill: none;
+  stroke: var(--md-default-fg-color--lightest);
+  stroke-width: 10;
+}
+
+.stat-donut-fill {
+  fill: none;
+  stroke: var(--accent-teal);
+  stroke-width: 10;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1s ease-out;
+}
+
+.stat-donut-value {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--accent-teal);
+}
+
+.stat-donut-label {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.stat-donut-label strong {
+  font-size: 1.1em;
+}
+
+.stat-donut-label cite {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 600px) {
+  .stat-callout {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* ============================================================
+   PROCESS FLOWCHART
+   ============================================================ */
+
+.flowchart {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  margin: 2rem 0;
+  overflow-x: auto;
+}
+
+.flowchart-phase {
+  flex: 1;
+  min-width: 200px;
+  padding: 1.2rem;
+  border-radius: 8px;
+  border: 2px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+}
+
+.flowchart-phase--1 { border-top: 4px solid var(--accent-teal); }
+.flowchart-phase--2 { border-top: 4px solid var(--accent-gold); }
+.flowchart-phase--3 { border-top: 4px solid var(--tier-red); }
+
+.flowchart-phase-header {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.3rem;
+}
+
+.flowchart-phase-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--md-default-fg-color);
+}
+
+.flowchart-phase-desc {
+  font-size: 0.84rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.5rem;
+}
+
+.flowchart-phase-timing {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--md-primary-fg-color);
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.flowchart-arrow {
+  display: flex;
+  align-items: center;
+  padding: 0 0.3rem;
+  color: var(--md-default-fg-color--lighter);
+  flex-shrink: 0;
+}
+
+.flowchart-arrow svg {
+  width: 32px;
+  height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .flowchart {
+    flex-direction: column;
+    gap: 0;
+  }
+  .flowchart-arrow {
+    transform: rotate(90deg);
+    padding: 0.3rem 0;
+    justify-content: center;
+  }
+}
+
+/* ============================================================
+   RISK COMPARISON BAR CHART
+   ============================================================ */
+
+.risk-chart {
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+}
+
+.risk-chart h4 {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.risk-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 0.6rem;
+}
+
+.risk-bar-label {
+  flex: 0 0 180px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.risk-bar-track {
+  flex: 1;
+  height: 28px;
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.risk-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding: 0 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #ffffff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.risk-bar--extreme { background: #b71c1c; }
+.risk-bar--severe  { background: #d32f2f; }
+.risk-bar--high    { background: #e65100; }
+.risk-bar--moderate { background: #ef6c00; }
+
+@media screen and (max-width: 600px) {
+  .risk-bar-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+  }
+  .risk-bar-label {
+    text-align: left;
+    flex: none;
+  }
+  .risk-bar-track {
+    width: 100%;
+  }
+}
+
+/* ============================================================
+   DOCUMENT UI CARDS
+   ============================================================ */
+
+.doc-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.doc-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 1.2rem;
+  background: var(--md-default-bg-color);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+}
+
+.doc-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.doc-card-icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.doc-card-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+  color: var(--md-primary-fg-color);
+}
+
+.doc-card-desc {
+  font-size: 0.84rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.5;
+  margin-bottom: 0.6rem;
+}
+
+.doc-card-audience {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+}
+
+/* ============================================================
+   INTERACTIVE US MAP
+   ============================================================ */
+
+.us-map-container {
+  width: 100%;
+  max-width: 960px;
+  margin: 1.5rem auto;
+  position: relative;
+}
+
+.us-map-container svg {
+  width: 100%;
+  height: auto;
+}
+
+.us-map-container path.state-path {
+  stroke: #ffffff;
+  stroke-width: 1;
+  cursor: pointer;
+  transition: opacity 0.2s ease, stroke-width 0.2s ease;
+}
+
+.us-map-container path.state-tier-green { fill: var(--tier-green); }
+.us-map-container path.state-tier-yellow { fill: var(--tier-yellow); }
+.us-map-container path.state-tier-red { fill: var(--tier-red); }
+
+.us-map-container path.state-path:hover {
+  opacity: 0.75;
+  stroke-width: 2;
+  stroke: var(--md-default-fg-color);
+}
+
+.us-map-container path.state-path:focus {
+  outline: 2px solid var(--accent-teal);
+  outline-offset: 1px;
+}
+
+.map-tooltip {
+  position: absolute;
+  padding: 0.5rem 0.8rem;
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color);
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  white-space: nowrap;
+  z-index: 50;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.map-tooltip.visible {
+  opacity: 1;
+}
+
+.us-map-legend {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 0.8rem;
+  font-size: 0.82rem;
+  flex-wrap: wrap;
+}
+
+.us-map-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.us-map-legend-swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+[data-md-color-scheme="slate"] .us-map-container path.state-path {
+  stroke: #1e1e1e;
+}
+
+/* ============================================================
+   STATE TOOLTIPS IN TIER CARDS
+   ============================================================ */
+
+.state-link {
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  position: relative;
+}
+
+.state-link:hover {
+  color: var(--md-primary-fg-color);
+}
+
+/* ============================================================
+   ACCORDION CONTROLS (EXPAND/COLLAPSE ALL)
+   ============================================================ */
+
+.accordion-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.accordion-controls button {
+  padding: 0.4rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-family: inherit;
+  transition: background 0.15s ease;
+}
+
+.accordion-controls button:hover {
+  background: var(--md-default-bg-color--light);
+}
+
+/* Enhanced accordion styling for ordinance sections */
+.md-typeset details.note {
+  border-left: 3px solid var(--md-primary-fg-color);
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset details.note > summary {
+  font-weight: 600;
+  font-size: 0.95em;
+}
+
+/* ============================================================
+   SIDEBAR COMPACT STATE SEARCH
+   ============================================================ */
+
+.mega-menu-search {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.mega-menu-search input {
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font-size: 0.82rem;
+  font-family: inherit;
+  outline: none;
+}
+
+.mega-menu-search input:focus {
+  border-color: var(--md-primary-fg-color);
+}
+
+.mega-menu-search input::placeholder {
+  color: var(--md-default-fg-color--lighter);
+}
+
+/* ============================================================
+   PRINT ADDITIONS
+   Hide interactive elements in print
+   ============================================================ */
+
+@media print {
+  .hero-banner {
+    background: none !important;
+    color: inherit !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .hero-banner h1,
+  .hero-banner h2,
+  .hero-banner p {
+    color: inherit !important;
+  }
+  .us-map-container,
+  .stat-callout,
+  .urgency-banner,
+  .urgency-badge,
+  .risk-chart,
+  .flowchart,
+  .accordion-controls,
+  .mega-menu-search {
+    display: none !important;
+  }
 }
