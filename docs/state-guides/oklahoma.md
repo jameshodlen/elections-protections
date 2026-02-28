@@ -190,3 +190,17 @@ HAVA Requirements Payments balance as of December 31, 2023: **$1,908,070**.
 | **OMES Cyber Command** | 405-521-2444 / ServiceDesk@omes.ok.gov |
 | **OK-ISAC** | okisac@omes.ok.gov |
 | **Oklahoma Emergency Management** | oklahoma.gov/oem |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Oklahoma Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Oklahoma-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/OK_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

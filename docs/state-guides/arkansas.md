@@ -186,3 +186,17 @@ Estimated cumulative HAVA election security funding since 2018: **approximately 
 | **SBEC** | sbec.arkansas.gov |
 | **ADEM** | (501) 683-6700 |
 | **CISO (Gary Vance)** | Office of State Technology |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Arkansas Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Arkansas-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/AR_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

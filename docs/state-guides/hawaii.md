@@ -181,3 +181,17 @@ AG Anne E. Lopez has authority to investigate and prosecute election crimes unde
 | **Attorney General** | (808) 586-1500 / ag.hawaii.gov |
 | **ETS/Cybersecurity (CISO Hoang)** | ets.hawaii.gov |
 | **Emergency Management Agency** | (808) 733-4300 / HawaiiEMA@hawaii.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Hawaii Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Hawaii-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/HI_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -145,3 +145,17 @@ A **council ordinance** is strongly preferred — a charter amendment requires a
 - **Attorney General**: (402) 471-2683; ago.nebraska.gov
 - **OCIO/SISO**: Patrick Wright, (402) 473-3677, siso@nebraska.gov
 - **NEMA**: nema.nebraska.gov
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Nebraska Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Nebraska-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/NE_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

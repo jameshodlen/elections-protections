@@ -214,3 +214,17 @@ Maine presents near-optimal conditions for municipal election protection ordinan
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Maine Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Maine-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/ME_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

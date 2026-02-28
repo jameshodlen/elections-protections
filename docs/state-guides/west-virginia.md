@@ -202,3 +202,17 @@ West Virginia represents the **most concerning cybersecurity posture** among all
 | **Attorney General** | (304) 558-2021 / ago.wv.gov |
 | **WVOT / CISO** | (304) 957-8107 / CSO@wv.gov |
 | **WVU College of Law** | Prof. Robert M. Bastress, Jr. (home rule expert) |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the West Virginia Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with West Virginia-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/WV_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -223,3 +223,17 @@ The most significant strategic advantage is the pre-existing COVRA coalition inf
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Colorado Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Colorado-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/CO_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

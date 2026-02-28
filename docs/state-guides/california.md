@@ -311,3 +311,17 @@ The legal risk profile is low to moderate for charter cities, with the strongest
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the California Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with California-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/CA_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

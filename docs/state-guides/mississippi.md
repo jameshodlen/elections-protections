@@ -137,3 +137,17 @@ Mississippi created the **Mississippi Cyber Unit** in January 2023 under the Off
 | **Attorney General Lynn Fitch (R)** | 601-359-3680 / ago.state.ms.us |
 | **Mississippi Cyber Unit** | Department of Public Safety |
 | **ITS** | Dr. Craig Orgeron, Executive Director |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Mississippi Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Mississippi-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/MS_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

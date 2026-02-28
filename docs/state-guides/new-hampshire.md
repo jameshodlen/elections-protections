@@ -191,3 +191,17 @@ The **critical strategic implication** for New Hampshire: municipal ordinances p
 | **Secretary of State, Elections Division** | (603) 271-3242 / sos.nh.gov/elections |
 | **AG Office** | (603) 271-3658 |
 | **DoIT (Cybersecurity)** | Through DoIT central office |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the New Hampshire Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with New Hampshire-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/NH_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

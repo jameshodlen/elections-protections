@@ -220,3 +220,17 @@ With Common Cause Rhode Island coordinating existing coalition infrastructure, A
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Rhode Island Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Rhode Island-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/RI_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -185,3 +185,17 @@ Utah's original HAVA equipment grant was **$21.5 million federal + $10 million s
 | **Attorney General** | attorneygeneral.utah.gov |
 | **Utah Cyber Center** | cybercenter.utah.gov |
 | **Division of Emergency Management** | 801-538-3400 / dem.utah.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Utah Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Utah-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/UT_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

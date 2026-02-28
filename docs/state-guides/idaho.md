@@ -138,3 +138,17 @@ The **Idaho Supreme Court** scores 7.0 on Ballotpedia's Republican-control scale
 - **Cybersecurity**: CISO Jerred Edgar — cyber@its.idaho.gov; ITS Service Desk (208) 605-4000 opt. 1
 - **224th Cyber Operations Squadron**: Gowen Field, Boise
 - **Idaho State Police**: (208) 884-7000
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Idaho Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Idaho-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/ID_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

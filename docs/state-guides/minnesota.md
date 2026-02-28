@@ -352,3 +352,17 @@ The strategic approach should prioritize **Minneapolis first** given its track r
 A model ordinance should cite the existing state restrictions as foundational authority, frame the measure as reinforcing rather than creating new policy, and leverage the identified municipal authority provisions (§§ 412.111, 412.221, 412.241) to establish city council power over police department directives. This approach minimizes litigation exposure while maximizing the ordinance's legal foundation and political viability.
 
 ---
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Minnesota Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Minnesota-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/MN_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
