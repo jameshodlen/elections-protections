@@ -32,57 +32,57 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 ---
 
 <div class="us-map-container">
-<svg viewBox="0 0 960 600" role="img" aria-label="Interactive map of the United States showing tier classifications for all 50 states. Click a state to view its guide.">
-<path class="state-path state-tier-green" data-state="Alaska" data-href="../state-guides/alaska/" tabindex="0" d="M161 485L183 485L183 510L200 510L200 530L161 530Z"/>
-<path class="state-path state-tier-green" data-state="California" data-href="../state-guides/california/" tabindex="0" d="M122 285L135 240L108 170L84 200L68 260L75 320L95 360L122 350Z"/>
-<path class="state-path state-tier-green" data-state="Colorado" data-href="../state-guides/colorado/" tabindex="0" d="M295 290L370 290L370 340L295 340Z"/>
-<path class="state-path state-tier-green" data-state="Illinois" data-href="../state-guides/illinois/" tabindex="0" d="M580 220L600 220L610 240L608 290L595 310L580 305L575 260Z"/>
-<path class="state-path state-tier-green" data-state="Maine" data-href="../state-guides/maine/" tabindex="0" d="M870 95L885 80L895 95L890 130L870 140L860 120Z"/>
-<path class="state-path state-tier-green" data-state="Maryland" data-href="../state-guides/maryland/" tabindex="0" d="M765 260L805 250L810 265L790 280L765 275Z"/>
-<path class="state-path state-tier-green" data-state="Massachusetts" data-href="../state-guides/massachusetts/" tabindex="0" d="M855 170L890 165L892 178L858 182Z"/>
-<path class="state-path state-tier-green" data-state="Michigan" data-href="../state-guides/michigan/" tabindex="0" d="M620 140L660 130L680 160L670 200L640 210L615 195L620 165Z"/>
-<path class="state-path state-tier-green" data-state="Minnesota" data-href="../state-guides/minnesota/" tabindex="0" d="M500 100L550 100L555 125L560 185L520 190L500 175L498 130Z"/>
-<path class="state-path state-tier-green" data-state="New Jersey" data-href="../state-guides/new-jersey/" tabindex="0" d="M820 215L832 210L838 235L830 260L818 255L815 235Z"/>
-<path class="state-path state-tier-green" data-state="New Mexico" data-href="../state-guides/new-mexico/" tabindex="0" d="M230 345L295 345L295 420L235 425L230 390Z"/>
-<path class="state-path state-tier-green" data-state="New York" data-href="../state-guides/new-york/" tabindex="0" d="M780 145L830 130L855 145L850 170L830 185L810 195L790 195L775 175Z"/>
-<path class="state-path state-tier-green" data-state="Ohio" data-href="../state-guides/ohio/" tabindex="0" d="M680 210L720 200L740 220L735 260L700 270L680 255Z"/>
-<path class="state-path state-tier-green" data-state="Oregon" data-href="../state-guides/oregon/" tabindex="0" d="M80 100L140 95L145 145L148 170L105 170L80 150Z"/>
-<path class="state-path state-tier-green" data-state="Rhode Island" data-href="../state-guides/rhode-island/" tabindex="0" d="M862 180L872 178L874 192L864 194Z"/>
-<path class="state-path state-tier-green" data-state="Washington" data-href="../state-guides/washington/" tabindex="0" d="M100 50L145 45L148 95L105 100L85 90Z"/>
-<path class="state-path state-tier-yellow" data-state="Connecticut" data-href="../state-guides/connecticut/" tabindex="0" d="M845 185L862 182L864 196L847 198Z"/>
-<path class="state-path state-tier-yellow" data-state="Delaware" data-href="../state-guides/delaware/" tabindex="0" d="M812 255L822 250L826 270L816 275Z"/>
-<path class="state-path state-tier-yellow" data-state="Hawaii" data-href="../state-guides/hawaii/" tabindex="0" d="M260 510L300 505L305 525L265 530Z"/>
-<path class="state-path state-tier-yellow" data-state="Kansas" data-href="../state-guides/kansas/" tabindex="0" d="M400 290L490 290L490 335L400 335Z"/>
-<path class="state-path state-tier-yellow" data-state="Kentucky" data-href="../state-guides/kentucky/" tabindex="0" d="M640 295L720 275L740 285L735 310L690 320L640 315Z"/>
-<path class="state-path state-tier-yellow" data-state="Nebraska" data-href="../state-guides/nebraska/" tabindex="0" d="M370 220L455 218L460 265L490 290L400 290L370 280Z"/>
-<path class="state-path state-tier-yellow" data-state="Nevada" data-href="../state-guides/nevada/" tabindex="0" d="M135 170L165 165L185 240L160 290L122 285L120 230Z"/>
-<path class="state-path state-tier-yellow" data-state="New Hampshire" data-href="../state-guides/new-hampshire/" tabindex="0" d="M850 115L862 108L865 145L855 160L850 155Z"/>
-<path class="state-path state-tier-yellow" data-state="Pennsylvania" data-href="../state-guides/pennsylvania/" tabindex="0" d="M740 195L810 185L820 210L810 240L740 250Z"/>
-<path class="state-path state-tier-yellow" data-state="Vermont" data-href="../state-guides/vermont/" tabindex="0" d="M840 100L852 95L855 130L845 140L840 130Z"/>
-<path class="state-path state-tier-yellow" data-state="Wisconsin" data-href="../state-guides/wisconsin/" tabindex="0" d="M555 115L590 105L620 120L620 165L595 185L560 185Z"/>
-<path class="state-path state-tier-red" data-state="Alabama" data-href="../state-guides/alabama/" tabindex="0" d="M660 370L690 365L695 430L670 440L660 435Z"/>
-<path class="state-path state-tier-red" data-state="Arizona" data-href="../state-guides/arizona/" tabindex="0" d="M165 345L230 345L230 420L195 430L165 410Z"/>
-<path class="state-path state-tier-red" data-state="Arkansas" data-href="../state-guides/arkansas/" tabindex="0" d="M540 345L595 340L600 395L545 400Z"/>
-<path class="state-path state-tier-red" data-state="Florida" data-href="../state-guides/florida/" tabindex="0" d="M700 430L740 420L770 430L760 475L730 510L700 490L690 460Z"/>
-<path class="state-path state-tier-red" data-state="Georgia" data-href="../state-guides/georgia/" tabindex="0" d="M695 365L735 350L745 385L740 420L700 430L690 405Z"/>
-<path class="state-path state-tier-red" data-state="Idaho" data-href="../state-guides/idaho/" tabindex="0" d="M175 80L205 75L215 130L210 185L180 190L170 160L175 115Z"/>
-<path class="state-path state-tier-red" data-state="Indiana" data-href="../state-guides/indiana/" tabindex="0" d="M640 220L670 215L680 260L675 300L645 305L640 270Z"/>
-<path class="state-path state-tier-red" data-state="Iowa" data-href="../state-guides/iowa/" tabindex="0" d="M500 195L560 190L575 215L570 250L505 255L495 230Z"/>
-<path class="state-path state-tier-red" data-state="Louisiana" data-href="../state-guides/louisiana/" tabindex="0" d="M545 420L595 410L610 440L595 470L560 460L540 445Z"/>
-<path class="state-path state-tier-red" data-state="Mississippi" data-href="../state-guides/mississippi/" tabindex="0" d="M610 370L640 365L645 435L620 445L610 435Z"/>
-<path class="state-path state-tier-red" data-state="Missouri" data-href="../state-guides/missouri/" tabindex="0" d="M520 260L575 255L585 270L595 310L580 340L540 345L520 320Z"/>
-<path class="state-path state-tier-red" data-state="Montana" data-href="../state-guides/montana/" tabindex="0" d="M220 65L360 60L365 130L350 140L280 135L220 130Z"/>
-<path class="state-path state-tier-red" data-state="North Carolina" data-href="../state-guides/north-carolina/" tabindex="0" d="M720 320L790 300L830 310L810 330L750 345L720 340Z"/>
-<path class="state-path state-tier-red" data-state="North Dakota" data-href="../state-guides/north-dakota/" tabindex="0" d="M370 80L455 78L460 130L370 132Z"/>
-<path class="state-path state-tier-red" data-state="Oklahoma" data-href="../state-guides/oklahoma/" tabindex="0" d="M370 340L490 338L500 350L540 345L540 385L395 390L370 370Z"/>
-<path class="state-path state-tier-red" data-state="South Carolina" data-href="../state-guides/south-carolina/" tabindex="0" d="M740 340L770 330L790 350L770 370L740 365Z"/>
-<path class="state-path state-tier-red" data-state="South Dakota" data-href="../state-guides/south-dakota/" tabindex="0" d="M370 135L455 132L460 195L455 218L370 220Z"/>
-<path class="state-path state-tier-red" data-state="Tennessee" data-href="../state-guides/tennessee/" tabindex="0" d="M615 310L720 295L735 310L720 330L640 345L610 340Z"/>
-<path class="state-path state-tier-red" data-state="Texas" data-href="../state-guides/texas/" tabindex="0" d="M330 390L395 390L440 400L500 400L545 420L540 455L510 490L460 510L400 500L350 470L320 440Z"/>
-<path class="state-path state-tier-red" data-state="Utah" data-href="../state-guides/utah/" tabindex="0" d="M195 190L250 185L260 240L255 290L195 295L185 245Z"/>
-<path class="state-path state-tier-red" data-state="Virginia" data-href="../state-guides/virginia/" tabindex="0" d="M740 260L780 250L810 265L810 285L790 300L740 305Z"/>
-<path class="state-path state-tier-red" data-state="West Virginia" data-href="../state-guides/west-virginia/" tabindex="0" d="M740 250L760 240L770 255L765 280L745 290L735 270Z"/>
-<path class="state-path state-tier-red" data-state="Wyoming" data-href="../state-guides/wyoming/" tabindex="0" d="M255 130L350 128L355 195L260 200L255 165Z"/>
+<svg viewBox="0 0 620 440" role="img" aria-label="Interactive tile grid map of the United States showing tier classifications for all 50 states. Click a state to view its guide.">
+<g data-state="Alaska" data-href="../state-guides/alaska/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="5" y="5" width="48" height="48" rx="4"/><text class="state-label" x="29" y="34">AK</text></g>
+<g data-state="Maine" data-href="../state-guides/maine/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="565" y="5" width="48" height="48" rx="4"/><text class="state-label" x="589" y="34">ME</text></g>
+<g data-state="Wisconsin" data-href="../state-guides/wisconsin/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="341" y="61" width="48" height="48" rx="4"/><text class="state-label" x="365" y="90">WI</text></g>
+<g data-state="Vermont" data-href="../state-guides/vermont/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="509" y="61" width="48" height="48" rx="4"/><text class="state-label" x="533" y="90">VT</text></g>
+<g data-state="New Hampshire" data-href="../state-guides/new-hampshire/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="565" y="61" width="48" height="48" rx="4"/><text class="state-label" x="589" y="90">NH</text></g>
+<g data-state="Washington" data-href="../state-guides/washington/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="5" y="117" width="48" height="48" rx="4"/><text class="state-label" x="29" y="146">WA</text></g>
+<g data-state="Idaho" data-href="../state-guides/idaho/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="61" y="117" width="48" height="48" rx="4"/><text class="state-label" x="85" y="146">ID</text></g>
+<g data-state="Montana" data-href="../state-guides/montana/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="117" y="117" width="48" height="48" rx="4"/><text class="state-label" x="141" y="146">MT</text></g>
+<g data-state="North Dakota" data-href="../state-guides/north-dakota/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="173" y="117" width="48" height="48" rx="4"/><text class="state-label" x="197" y="146">ND</text></g>
+<g data-state="Minnesota" data-href="../state-guides/minnesota/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="285" y="117" width="48" height="48" rx="4"/><text class="state-label" x="309" y="146">MN</text></g>
+<g data-state="Michigan" data-href="../state-guides/michigan/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="397" y="117" width="48" height="48" rx="4"/><text class="state-label" x="421" y="146">MI</text></g>
+<g data-state="New York" data-href="../state-guides/new-york/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="509" y="117" width="48" height="48" rx="4"/><text class="state-label" x="533" y="146">NY</text></g>
+<g data-state="Massachusetts" data-href="../state-guides/massachusetts/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="565" y="117" width="48" height="48" rx="4"/><text class="state-label" x="589" y="146">MA</text></g>
+<g data-state="Oregon" data-href="../state-guides/oregon/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="5" y="173" width="48" height="48" rx="4"/><text class="state-label" x="29" y="202">OR</text></g>
+<g data-state="Nevada" data-href="../state-guides/nevada/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="61" y="173" width="48" height="48" rx="4"/><text class="state-label" x="85" y="202">NV</text></g>
+<g data-state="Wyoming" data-href="../state-guides/wyoming/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="117" y="173" width="48" height="48" rx="4"/><text class="state-label" x="141" y="202">WY</text></g>
+<g data-state="South Dakota" data-href="../state-guides/south-dakota/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="173" y="173" width="48" height="48" rx="4"/><text class="state-label" x="197" y="202">SD</text></g>
+<g data-state="Iowa" data-href="../state-guides/iowa/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="229" y="173" width="48" height="48" rx="4"/><text class="state-label" x="253" y="202">IA</text></g>
+<g data-state="Nebraska" data-href="../state-guides/nebraska/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="285" y="173" width="48" height="48" rx="4"/><text class="state-label" x="309" y="202">NE</text></g>
+<g data-state="Illinois" data-href="../state-guides/illinois/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="341" y="173" width="48" height="48" rx="4"/><text class="state-label" x="365" y="202">IL</text></g>
+<g data-state="Indiana" data-href="../state-guides/indiana/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="397" y="173" width="48" height="48" rx="4"/><text class="state-label" x="421" y="202">IN</text></g>
+<g data-state="Ohio" data-href="../state-guides/ohio/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="453" y="173" width="48" height="48" rx="4"/><text class="state-label" x="477" y="202">OH</text></g>
+<g data-state="Pennsylvania" data-href="../state-guides/pennsylvania/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="509" y="173" width="48" height="48" rx="4"/><text class="state-label" x="533" y="202">PA</text></g>
+<g data-state="New Jersey" data-href="../state-guides/new-jersey/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="565" y="173" width="48" height="48" rx="4"/><text class="state-label" x="589" y="202">NJ</text></g>
+<g data-state="Rhode Island" data-href="../state-guides/rhode-island/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="565" y="229" width="48" height="48" rx="4"/><text class="state-label" x="589" y="258">RI</text></g>
+<g data-state="California" data-href="../state-guides/california/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="5" y="229" width="48" height="48" rx="4"/><text class="state-label" x="29" y="258">CA</text></g>
+<g data-state="Utah" data-href="../state-guides/utah/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="61" y="229" width="48" height="48" rx="4"/><text class="state-label" x="85" y="258">UT</text></g>
+<g data-state="Colorado" data-href="../state-guides/colorado/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="117" y="229" width="48" height="48" rx="4"/><text class="state-label" x="141" y="258">CO</text></g>
+<g data-state="Kansas" data-href="../state-guides/kansas/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="173" y="229" width="48" height="48" rx="4"/><text class="state-label" x="197" y="258">KS</text></g>
+<g data-state="Missouri" data-href="../state-guides/missouri/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="229" y="229" width="48" height="48" rx="4"/><text class="state-label" x="253" y="258">MO</text></g>
+<g data-state="Tennessee" data-href="../state-guides/tennessee/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="341" y="229" width="48" height="48" rx="4"/><text class="state-label" x="365" y="258">TN</text></g>
+<g data-state="Kentucky" data-href="../state-guides/kentucky/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="285" y="229" width="48" height="48" rx="4"/><text class="state-label" x="309" y="258">KY</text></g>
+<g data-state="West Virginia" data-href="../state-guides/west-virginia/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="397" y="229" width="48" height="48" rx="4"/><text class="state-label" x="421" y="258">WV</text></g>
+<g data-state="Virginia" data-href="../state-guides/virginia/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="453" y="229" width="48" height="48" rx="4"/><text class="state-label" x="477" y="258">VA</text></g>
+<g data-state="Maryland" data-href="../state-guides/maryland/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="509" y="229" width="48" height="48" rx="4"/><text class="state-label" x="533" y="258">MD</text></g>
+<g data-state="Connecticut" data-href="../state-guides/connecticut/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="509" y="285" width="48" height="48" rx="4"/><text class="state-label" x="533" y="314">CT</text></g>
+<g data-state="Delaware" data-href="../state-guides/delaware/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="565" y="285" width="48" height="48" rx="4"/><text class="state-label" x="589" y="314">DE</text></g>
+<g data-state="Arizona" data-href="../state-guides/arizona/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="61" y="285" width="48" height="48" rx="4"/><text class="state-label" x="85" y="314">AZ</text></g>
+<g data-state="New Mexico" data-href="../state-guides/new-mexico/" class="state-tile state-tier-green" tabindex="0"><rect class="state-rect" x="117" y="285" width="48" height="48" rx="4"/><text class="state-label" x="141" y="314">NM</text></g>
+<g data-state="Oklahoma" data-href="../state-guides/oklahoma/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="173" y="285" width="48" height="48" rx="4"/><text class="state-label" x="197" y="314">OK</text></g>
+<g data-state="Arkansas" data-href="../state-guides/arkansas/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="229" y="285" width="48" height="48" rx="4"/><text class="state-label" x="253" y="314">AR</text></g>
+<g data-state="Mississippi" data-href="../state-guides/mississippi/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="285" y="285" width="48" height="48" rx="4"/><text class="state-label" x="309" y="314">MS</text></g>
+<g data-state="Alabama" data-href="../state-guides/alabama/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="341" y="285" width="48" height="48" rx="4"/><text class="state-label" x="365" y="314">AL</text></g>
+<g data-state="North Carolina" data-href="../state-guides/north-carolina/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="397" y="285" width="48" height="48" rx="4"/><text class="state-label" x="421" y="314">NC</text></g>
+<g data-state="South Carolina" data-href="../state-guides/south-carolina/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="453" y="285" width="48" height="48" rx="4"/><text class="state-label" x="477" y="314">SC</text></g>
+<g data-state="Texas" data-href="../state-guides/texas/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="117" y="341" width="48" height="48" rx="4"/><text class="state-label" x="141" y="370">TX</text></g>
+<g data-state="Louisiana" data-href="../state-guides/louisiana/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="229" y="341" width="48" height="48" rx="4"/><text class="state-label" x="253" y="370">LA</text></g>
+<g data-state="Georgia" data-href="../state-guides/georgia/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="341" y="341" width="48" height="48" rx="4"/><text class="state-label" x="365" y="370">GA</text></g>
+<g data-state="Florida" data-href="../state-guides/florida/" class="state-tile state-tier-red" tabindex="0"><rect class="state-rect" x="397" y="341" width="48" height="48" rx="4"/><text class="state-label" x="421" y="370">FL</text></g>
+<g data-state="Hawaii" data-href="../state-guides/hawaii/" class="state-tile state-tier-yellow" tabindex="0"><rect class="state-rect" x="5" y="385" width="48" height="48" rx="4"/><text class="state-label" x="29" y="414">HI</text></g>
 </svg>
 <div class="map-tooltip" role="tooltip"></div>
 <div class="us-map-legend">

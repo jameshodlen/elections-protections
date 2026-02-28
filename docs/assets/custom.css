@@ -650,8 +650,8 @@
     #0d47a1 100%
   );
   color: #ffffff;
-  padding: 3rem 2rem 2.5rem;
-  margin: -1.2rem -0.8rem 2rem;
+  padding: 2rem 1.5rem 1.5rem;
+  margin: -0.8rem -0.8rem 1.5rem;
   border-radius: 0 0 8px 8px;
   position: relative;
   overflow: hidden;
@@ -669,18 +669,18 @@
 
 .hero-banner h1 {
   color: #ffffff !important;
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-weight: 800;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
   text-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 .hero-banner h2 {
   color: rgba(255, 255, 255, 0.9) !important;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 400;
   border-bottom: none;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .hero-banner p {
@@ -732,6 +732,12 @@
 
 .urgency-banner strong {
   color: var(--accent-gold);
+}
+
+/* Fallback: if markdown attr wraps content in <p>, collapse it */
+.urgency-banner p {
+  margin: 0;
+  display: contents;
 }
 
 .urgency-badge {
@@ -807,8 +813,8 @@
 
 .pull-quote {
   position: relative;
-  margin: 2rem 0;
-  padding: 1.5rem 2rem 1.5rem 3rem;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem 1rem 2.5rem;
   background: var(--md-code-bg-color);
   border-left: 5px solid var(--accent-teal);
   border-radius: 0 8px 8px 0;
@@ -817,12 +823,20 @@
   line-height: 1.7;
 }
 
+/* Collapse <p> wrappers inside pull-quote from markdown processing */
+.pull-quote p {
+  margin: 0 0 0.5rem;
+}
+.pull-quote p:last-child {
+  margin-bottom: 0;
+}
+
 .pull-quote::before {
   content: '\201C';
   position: absolute;
   top: 0.2rem;
-  left: 0.5rem;
-  font-size: 3rem;
+  left: 0.4rem;
+  font-size: 2.5rem;
   font-family: Georgia, serif;
   color: var(--accent-teal);
   opacity: 0.3;
@@ -967,19 +981,19 @@
 .stat-callout {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
-  padding: 1.5rem;
+  gap: 1rem;
+  padding: 1rem;
   background: var(--md-default-bg-color--light);
   border-radius: 8px;
   border-left: 4px solid var(--accent-teal);
-  margin: 1.5rem 0;
+  margin: 1rem 0;
 }
 
 .stat-donut {
   position: relative;
   flex-shrink: 0;
-  width: 110px;
-  height: 110px;
+  width: 90px;
+  height: 90px;
 }
 
 .stat-donut-svg {
@@ -1007,7 +1021,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--accent-teal);
 }
@@ -1044,14 +1058,14 @@
   display: flex;
   align-items: stretch;
   gap: 0;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
   overflow-x: auto;
 }
 
 .flowchart-phase {
   flex: 1;
-  min-width: 200px;
-  padding: 1.2rem;
+  min-width: 170px;
+  padding: 1rem;
   border-radius: 8px;
   border: 2px solid var(--md-default-fg-color--lightest);
   background: var(--md-default-bg-color);
@@ -1122,8 +1136,8 @@
    ============================================================ */
 
 .risk-chart {
-  margin: 1.5rem 0;
-  padding: 1.5rem;
+  margin: 1rem 0;
+  padding: 1rem;
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
@@ -1151,7 +1165,7 @@
 
 .risk-bar-track {
   flex: 1;
-  height: 28px;
+  height: 24px;
   background: var(--md-default-fg-color--lightest);
   border-radius: 4px;
   overflow: hidden;
@@ -1221,6 +1235,12 @@
 .doc-card-icon {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
+  color: var(--md-primary-fg-color);
+}
+
+.doc-card-icon svg {
+  width: 28px;
+  height: 28px;
 }
 
 .doc-card-title {
@@ -1249,7 +1269,7 @@
 
 .us-map-container {
   width: 100%;
-  max-width: 960px;
+  max-width: 640px;
   margin: 1.5rem auto;
   position: relative;
 }
@@ -1259,26 +1279,43 @@
   height: auto;
 }
 
-.us-map-container path.state-path {
-  stroke: #ffffff;
-  stroke-width: 1;
+/* Tile grid map — state tiles (<g> with <rect> + <text>) */
+.us-map-container .state-tile {
   cursor: pointer;
-  transition: opacity 0.2s ease, stroke-width 0.2s ease;
 }
 
-.us-map-container path.state-tier-green { fill: var(--tier-green); }
-.us-map-container path.state-tier-yellow { fill: var(--tier-yellow); }
-.us-map-container path.state-tier-red { fill: var(--tier-red); }
-
-.us-map-container path.state-path:hover {
-  opacity: 0.75;
+.us-map-container .state-tile .state-rect {
+  stroke: var(--md-default-bg-color);
   stroke-width: 2;
-  stroke: var(--md-default-fg-color);
+  transition: opacity 0.15s ease, stroke 0.15s ease;
 }
 
-.us-map-container path.state-path:focus {
-  outline: 2px solid var(--accent-teal);
-  outline-offset: 1px;
+.us-map-container .state-tile .state-label {
+  fill: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: var(--md-text-font-family), sans-serif;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.us-map-container .state-tier-green .state-rect { fill: var(--tier-green); }
+.us-map-container .state-tier-yellow .state-rect { fill: var(--tier-yellow); }
+.us-map-container .state-tier-red .state-rect { fill: var(--tier-red); }
+
+.us-map-container .state-tile:hover .state-rect {
+  opacity: 0.8;
+  stroke: var(--md-default-fg-color);
+  stroke-width: 3;
+}
+
+.us-map-container .state-tile:focus {
+  outline: none;
+}
+
+.us-map-container .state-tile:focus .state-rect {
+  stroke: var(--accent-teal);
+  stroke-width: 3;
 }
 
 .map-tooltip {
@@ -1325,6 +1362,10 @@
 
 [data-md-color-scheme="slate"] .us-map-container path.state-path {
   stroke: #1e1e1e;
+}
+
+[data-md-color-scheme="slate"] .us-map-container .state-tile .state-rect {
+  stroke: var(--md-default-bg-color);
 }
 
 /* ============================================================

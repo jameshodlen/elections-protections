@@ -81,49 +81,49 @@ Model municipal ordinance language with WHEREAS clauses citing anti-commandeerin
 
 <div class="doc-card-grid">
   <a href="governance-framework/" class="doc-card">
-    <div class="doc-card-icon">:material-bank:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M11.5 1 2 6v2h19V6m-5 4v7h3v-7M2 22h19v-3H2m8-9v7h3v-7m-9 0v7h3v-7z"/></svg></div>
     <div class="doc-card-title">Federal Governance Framework</div>
     <div class="doc-card-desc">Constitutional structure of election authority — Elections Clause, Tenth Amendment, HAVA</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--all">All</span></div>
   </a>
   <a href="ice-polling-places-law/" class="doc-card">
-    <div class="doc-card-icon">:material-shield-alert:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5M11 7h2v6h-2m0 2h2v2h-2"/></svg></div>
     <div class="doc-card-title">ICE at Polling Places — Federal Law</div>
     <div class="doc-card-desc">18 U.S.C. § 592 and VRA § 11(b) — the federal felony exemption argument</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span> <span class="audience-pill audience-pill--officials">Officials</span></div>
   </a>
   <a href="insurrection-act-analysis/" class="doc-card">
-    <div class="doc-card-icon">:material-alert-decagram:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m23 12-2.44-2.78.34-3.68-3.61-.82-1.89-3.18L12 3 8.6 1.54 6.71 4.72l-3.61.81.34 3.68L1 12l2.44 2.78-.34 3.69 3.61.82 1.89 3.18L12 21l3.4 1.46 1.89-3.18 3.61-.82-.34-3.68zm-10 5h-2v-2h2zm0-4h-2V7h2z"/></svg></div>
     <div class="doc-card-title">Insurrection Act Analysis</div>
     <div class="doc-card-desc">Trump v. Illinois (Dec. 2025) and § 592 intersection; 2026 deployment scenarios</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span> <span class="audience-pill audience-pill--officials">Officials</span></div>
   </a>
   <a href="supremacy-clause/" class="doc-card">
-    <div class="doc-card-icon">:material-gavel:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m2.3 20.28 9.6-9.6-1.4-1.42-.72.71a.996.996 0 0 1-1.41 0l-.71-.71a.996.996 0 0 1 0-1.41l5.66-5.66a.996.996 0 0 1 1.41 0l.71.71c.39.39.39 1.02 0 1.41l-.71.69 1.42 1.43a.996.996 0 0 1 1.41 0c.39.39.39 1.03 0 1.42l1.41 1.41.71-.71c.39-.39 1.03-.39 1.42 0l.7.71c.39.39.39 1.03 0 1.42l-5.65 5.65c-.39.39-1.03.39-1.42 0l-.7-.7a.99.99 0 0 1 0-1.42l.7-.71-1.41-1.41-9.61 9.61a.996.996 0 0 1-1.41 0c-.39-.39-.39-1.03 0-1.42M20 19a2 2 0 0 1 2 2v1H12v-1a2 2 0 0 1 2-2z"/></svg></div>
     <div class="doc-card-title">The Supremacy Clause</div>
     <div class="doc-card-desc">Anti-commandeering doctrine, preemption taxonomy, non-cooperation vs. obstruction</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
   <a href="ballot-security-history/" class="doc-card">
-    <div class="doc-card-icon">:material-history:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M13.5 8H12v5l4.28 2.54.72-1.21-3.5-2.08zM13 3a9 9 0 0 0-9 9H1l3.96 4.03L9 12H6a7 7 0 0 1 7-7 7 7 0 0 1 7 7 7 7 0 0 1-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42A8.9 8.9 0 0 0 13 21a9 9 0 0 0 9-9 9 9 0 0 0-9-9"/></svg></div>
     <div class="doc-card-title">Ballot Security Injunction History</div>
     <div class="doc-card-desc">DNC v. RNC consent decree (1982–2018) and post-expiration litigation landscape</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
   <a href="50-state-overview/" class="doc-card">
-    <div class="doc-card-icon">:material-map:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m15 19-6-2.11V5l6 2.11M20.5 3h-.16L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5a.5.5 0 0 0 .5.5c.05 0 .11 0 .16-.03L9 18.9l6 2.1 5.64-1.9c.21-.1.36-.25.36-.48V3.5a.5.5 0 0 0-.5-.5"/></svg></div>
     <div class="doc-card-title">50-State Viability Analysis</div>
     <div class="doc-card-desc">Full strategic map with GREEN/YELLOW/RED tiers, swing state windows, coalition directory</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--all">All</span></div>
   </a>
   <a href="evidence-framework/" class="doc-card">
-    <div class="doc-card-icon">:material-file-document-check:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m23.5 17-5 5-3.5-3.5 1.5-1.5 2 2 3.5-3.5zM6 2c-1.11 0-2 .89-2 2v16c0 1.11.89 2 2 2h7.81c-.53-.91-.81-1.95-.81-3 0-.33.03-.67.08-1H6v-2h7.81c.46-.8 1.1-1.5 1.87-2H6v-2h12v1.08c.33-.05.67-.08 1-.08.34 0 .67.03 1 .08V8l-6-6m-1 1.5L18.5 9H13Z"/></svg></div>
     <div class="doc-card-title">Evidence Collection Framework</div>
     <div class="doc-card-desc">Seven-category evidence protocol, chain of custody, expert witness strategy</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
   <a href="master-ordinance-template/" class="doc-card">
-    <div class="doc-card-icon">:material-file-edit:</div>
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h4v-1.91L12.09 18H6v-2h8.09l2-2H6v-2h12.09L20 10.09V8l-6-6zm7 1.5L18.5 9H13zm7.15 9.5a.55.55 0 0 0-.4.16l-1.02 1.02 2.09 2.08 1.02-1.01c.21-.22.21-.58 0-.79l-1.3-1.3a.54.54 0 0 0-.39-.16m-2.01 1.77L12 20.92V23h2.08l6.15-6.15z"/></svg></div>
     <div class="doc-card-title">Master Ordinance Template</div>
     <div class="doc-card-desc">Model municipal ordinance with 14 operative sections and tier-specific adaptation notes</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
