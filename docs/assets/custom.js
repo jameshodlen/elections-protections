@@ -485,7 +485,7 @@ function initUSMap() {
   var tooltip = container.querySelector(".map-tooltip");
   if (!tooltip) return;
 
-  var states = container.querySelectorAll("path.state-path");
+  var states = container.querySelectorAll("g.state-tile, path.state-path");
 
   states.forEach(function (state) {
     state.addEventListener("mouseenter", function () {

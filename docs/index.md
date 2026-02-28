@@ -16,16 +16,13 @@ Federal law makes it a felony for armed federal personnel to station themselves 
 
 </div>
 
-<div class="urgency-banner" markdown>
+<div class="urgency-banner">
 <span class="urgency-badge">Action Required</span> <strong>November 2026 Midterms</strong> — Municipal ordinances must be adopted months before Election Day to enable pre-election declaratory relief. The window for action is now.
 </div>
 
-<div class="pull-quote" markdown>
-
-**18 U.S.C. § 592** — enacted during Reconstruction — prohibits any person "in the civil, military, or naval service of the United States" from stationing "troops or armed men" at any place where a federal election is held. Violations carry up to **five years imprisonment** and permanent disqualification from federal office.
-
+<div class="pull-quote">
+<strong>18 U.S.C. § 592</strong> — enacted during Reconstruction — prohibits any person "in the civil, military, or naval service of the United States" from stationing "troops or armed men" at any place where a federal election is held. Violations carry up to <strong>five years imprisonment</strong> and permanent disqualification from federal office.
 <span class="pull-quote-citation">18 U.S.C. § 592 (1865, codified)</span>
-
 </div>
 
 <div class="legal-foundation-wrapper" markdown>
