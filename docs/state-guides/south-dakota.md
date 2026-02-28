@@ -130,3 +130,17 @@ Election law under **SDCL Title 12** is administered at the state and county lev
 - **Attorney General**: Marty Jackley (R) — 1302 E. Hwy 14, Ste 1, Pierre; atg.sd.gov
 - **Cybersecurity**: BIT — bit.sd.gov; cybersecurity.sd.gov; CIO Madhu Gottumukkala
 - **National Guard**: Maj. Gen. Mark Morrell, Adjutant General — Camp Rapid, Rapid City
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the South Dakota Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with South Dakota-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/SD_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

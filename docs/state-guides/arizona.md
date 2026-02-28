@@ -209,3 +209,17 @@ Arizona's Article II, Section 21 ("no power, civil or military, shall at any tim
 | **AZDOHS/Cyber Command** | azdohs.gov/cyber |
 | **AG Election Integrity Unit** | azag.gov/criminal/eiu |
 | **SOS Grants Manager** | Gatjeak Gew / ggew@azsos.gov / (602) 320-3431 |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Arizona Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Arizona-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/AZ_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

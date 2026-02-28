@@ -147,3 +147,17 @@ Missouri lacks a specific state-level private right of action for voter intimida
 - **Cybersecurity**: CISO Shawn Ivy, Office of Cyber Security — cybersecurity.mo.gov
 - **National Guard Cyber Team**: mocyber.io; Jefferson Barracks, south St. Louis County
 - **Local Election Authorities Directory**: www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Missouri Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Missouri-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/MO_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

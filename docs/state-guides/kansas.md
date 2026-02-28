@@ -158,3 +158,17 @@ An **ordinary home rule ordinance** — not a charter ordinance — is recommend
 - **Attorney General**: (785) 296-2215; ag.ks.gov
 - **KISO**: (785) 296-4999 or 1-833-765-2001
 - **Division of Emergency Management**: (785) 274-1401
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Kansas Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Kansas-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/KS_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -262,3 +262,17 @@ The May 2025 DHS sanctuary designations and ongoing state budget debates create 
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Wisconsin Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Wisconsin-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/WI_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

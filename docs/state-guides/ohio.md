@@ -189,3 +189,17 @@ The recommended approach prioritizes Columbus, Cleveland, and Cincinnati as simu
 An ordinance framed as protecting federal election law (18 U.S.C. § 592) rather than defying state authority provides the strongest legal positioning, allowing municipalities to claim they are simply directing local resources consistent with established federal policy dating to Reconstruction. The combination of constitutional home rule authority, statutory control over municipal police, and federal supremacy principles creates multiple defensive layers against state interference.
 
 ---
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Ohio Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Ohio-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/OH_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

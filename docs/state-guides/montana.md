@@ -127,3 +127,17 @@ Montana's voter intimidation statutes include MCA Section 13-35-218 (coercion of
 - **Cybersecurity**: SITSD — (406) 444-2000; StateCISO@mt.gov
 - **U.S. Attorney (Helena)**: (406) 457-5120
 - **Commissioner of Political Practices**: politicalpractices.mt.gov
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Montana Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Montana-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/MT_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

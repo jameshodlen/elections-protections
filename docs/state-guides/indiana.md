@@ -132,3 +132,17 @@ Voter intimidation under IC 3-14-3-21.5 criminalizes knowingly or intentionally 
 - **Attorney General**: in.gov/attorneygeneral
 - **IOT/CISO**: Hemant Jain; Local Gov: Brett Edstene, (463) 261-6177
 - **IDHS**: in.gov/dhs
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Indiana Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Indiana-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/IN_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

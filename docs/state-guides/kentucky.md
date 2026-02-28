@@ -190,3 +190,17 @@ Estimated HAVA allocation: **~$6.49 million (FY2020)**, declining to approximate
 | **Commonwealth Office of Technology** | 502-564-1201 |
 | **KY Office of Homeland Security** | homelandsecurity.ky.gov |
 | **Election Law Violation Hotline** | 1-800-328-VOTE (8683) |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Kentucky Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Kentucky-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/KY_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

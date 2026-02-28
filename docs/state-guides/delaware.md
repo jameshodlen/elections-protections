@@ -182,3 +182,17 @@ Likelihood of success: UNCERTAIN for municipal ordinances (Dillon's Rule is exis
 | **Election Commissioner** | (302) 739-4277 / elections@delaware.gov / elections.delaware.gov |
 | **AG Jennings** | (302) 577-8400 / attorneygeneral.delaware.gov |
 | **DTI/CISO** | (302) 739-9500 / esecurity@delaware.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Delaware Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Delaware-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/DE_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -193,3 +193,17 @@ Virginia's IT infrastructure under VITA is mature, operating under SEC530 standa
 | **Department of Elections (ELECT)** | (804) 864-8901 / 1-800-552-9745 / info@elections.virginia.gov / elections.virginia.gov |
 | **Attorney General Jay Jones** | (804) 786-2071 / oag.state.va.us |
 | **VITA / CISO** | (804) 416-6000 / vita.virginia.gov/security |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Virginia Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Virginia-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/VA_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -208,3 +208,17 @@ HAVA allocations are the largest in this group: **$23.25 million (FY2018)**, **$
 | **AG Election Integrity** | electionintegrity@oag.texas.gov / illegalvoting@oag.texas.gov |
 | **DIR / Cyber Incident Response** | (877) DIR-CISO (877-347-2476) / security@dir.texas.gov |
 | **TDEM** | (512) 424-2208 / tdem.texas.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Texas Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Texas-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/TX_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

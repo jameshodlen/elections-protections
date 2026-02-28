@@ -117,3 +117,17 @@ Wyoming is **the only state in this batch where voter intimidation is exclusivel
 - **Cybersecurity**: CISO Miguel Penaranda — ets.wyo.gov/cybersecurity; CARE Team: hls.wyo.gov/programs/care-team
 - **Wyoming Office of Homeland Security**: hls.wyo.gov
 - **Election Protection Hotline**: 866-OUR-VOTE (866-687-8683)
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Wyoming Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Wyoming-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/WY_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -192,3 +192,17 @@ Secretary of State **Tre Hargett** (R) oversees the Division of Elections. **Sta
 | **AG Jonathan Skrmetti** | tn.gov/attorneygeneral |
 | **STS / CISO Curtis Clan** | tn.gov/cybersecurity |
 | **Tennessee Cybersecurity Advisory Council** | tn.gov/cybersecurity/state-government-cybersecurity |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Tennessee Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Tennessee-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/TN_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

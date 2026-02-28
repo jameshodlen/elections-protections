@@ -347,3 +347,17 @@ Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C.
 | Attorney General | (907) 269-5100; law.alaska.gov |
 | Office of Information Technology | oit.alaska.gov |
 | Homeland Security & Emergency Management | (907) 428-7000; ready.alaska.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Alaska Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Alaska-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/AK_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

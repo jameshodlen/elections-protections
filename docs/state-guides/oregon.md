@@ -211,3 +211,17 @@ The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency
 
 ---
 
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Oregon Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Oregon-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/OR_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

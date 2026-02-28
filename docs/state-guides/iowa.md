@@ -157,3 +157,17 @@ A **council ordinance** is recommended — charter amendments require voter appr
 - **Attorney General**: iowaattorneygeneral.gov
 - **OCIO/Cybersecurity**: (515) 281-5503; SecurityAwareness@iowa.gov
 - **HSEM**: (515) 725-3231; homelandsecurity.iowa.gov
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Iowa Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Iowa-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/IA_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -235,3 +235,17 @@ Active litigation includes **Cooper v. Berger/Boliek** (Governor Stein's challen
 | **NC CSRF** | csrf.nc.gov |
 | **AG Jeff Jackson** | ncdoj.gov |
 | **Federal Partners** | CISA (844-729-2472); FBI CyWatch (855-292-3937) |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the North Carolina Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with North Carolina-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/NC_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

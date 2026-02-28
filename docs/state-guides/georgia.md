@@ -141,3 +141,17 @@ The **Georgia Technology Authority (GTA)** leads state cybersecurity under CISO 
 | **Secretary of State** | (404) 656-2871 / sos.ga.gov |
 | **Attorney General Chris Carr (R)** | law.georgia.gov |
 | **GTA Cybersecurity** | gta.georgia.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Georgia Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Georgia-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/GA_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

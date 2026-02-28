@@ -197,3 +197,17 @@ Vermont has resolved its core firearms gap through 13 V.S.A. Section 4027 but re
 | **AG Clark** | (802) 828-3171 / ago.vermont.gov |
 | **Civil Rights Division** | (888) 745-9195 |
 | **ADS/CISO (John Toney)** | digitalservices.vermont.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Vermont Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Vermont-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/VT_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

@@ -188,3 +188,17 @@ The **SC Critical Infrastructure Cybersecurity (SC CIC)** program, led by SLED C
 | **State Election Commission** | (803) 734-9060 / scvotes.gov |
 | **Attorney General Alan Wilson (R)** | scag.gov |
 | **SC CIC** | sccic.sc.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the South Carolina Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with South Carolina-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/SC_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

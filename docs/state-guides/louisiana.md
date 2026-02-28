@@ -206,3 +206,17 @@ Louisiana has developed notable capacity through **Chief Cyber Officer Dustin Gl
 | **SoS Elections Hotline** | 1-800-883-2805 / sos.la.gov |
 | **Attorney General Liz Murrill (R)** | ag.state.la.us |
 | **LC3 / Chief Cyber Officer** | cybersecurity.la.gov |
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the Louisiana Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with Louisiana-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/LA_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

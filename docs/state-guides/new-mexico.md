@@ -194,3 +194,17 @@ The **Common Cause NM/ACLU-NM Election Protection partnership** provides the nat
 Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.
 
 ---
+
+---
+
+## Printable Flyer
+
+!!! tip "Download the New Mexico Election Protection Flyer"
+
+    A printable 5.5" × 8.5" flyer with New Mexico-specific legal analysis,
+    target cities, and coalition partners.
+
+    [:material-file-download: **View & Download Flyer**](../flyers/NM_flyer.html){:target="_blank" .md-button .md-button--primary}
+
+    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
+    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
