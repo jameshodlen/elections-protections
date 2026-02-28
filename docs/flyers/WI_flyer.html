@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wisconsin - Protections for Elections Flyer</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@500;700&display=swap');
+
+  :root {
+    --green-900: #0D3B1E;
+    --green-800: #14532D;
+    --green-700: #166534;
+    --green-600: #16A34A;
+    --green-500: #22C55E;
+    --green-400: #4ADE80;
+    --green-100: #DCFCE7;
+    --green-50: #F0FDF4;
+    --gold-500: #EAB308;
+    --gold-400: #FACC15;
+    --gold-100: #FEF9C3;
+    --charcoal: #1C1C1C;
+    --slate: #475569;
+    --mist: #F1F5F9;
+    --cream: #FAFAF5;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  @page {
+    size: 5.5in 8.5in;
+    margin: 0;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: #E2E2E2;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 24px;
+    min-height: 100vh;
+  }
+
+  .flyer {
+    width: 5.5in;
+    height: 8.5in;
+    background: var(--cream);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header {
+    background: var(--green-900);
+    color: white;
+    padding: 16px 20px 14px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -30px;
+    right: -20px;
+    width: 160px;
+    height: 160px;
+    border: 2px solid rgba(255,255,255,0.06);
+    border-radius: 50%;
+  }
+
+  .header::after {
+    content: '';
+    position: absolute;
+    top: -60px;
+    right: -50px;
+    width: 220px;
+    height: 220px;
+    border: 2px solid rgba(255,255,255,0.04);
+    border-radius: 50%;
+  }
+
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    z-index: 1;
+  }
+
+  .org-block {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .shield-icon {
+    width: 26px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+
+  .org-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 11.5px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    line-height: 1.2;
+  }
+
+  .tier-pill {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px 4px 8px;
+    border-radius: 20px;
+    font-size: 8.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    flex-shrink: 0;
+  }
+
+  .tier-green-pill {
+    background: rgba(34, 197, 94, 0.2);
+    border: 1px solid rgba(74, 222, 128, 0.4);
+    color: var(--green-400);
+  }
+
+  .tier-yellow-pill {
+    background: rgba(234, 179, 8, 0.2);
+    border: 1px solid rgba(250, 204, 21, 0.4);
+    color: var(--gold-400);
+  }
+
+  .tier-red-pill {
+    background: rgba(239, 68, 68, 0.2);
+    border: 1px solid rgba(252, 129, 129, 0.4);
+    color: #FCA5A5;
+  }
+
+  .tier-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+  }
+
+  .tier-green-pill .tier-dot { background: var(--green-400); box-shadow: 0 0 6px rgba(74, 222, 128, 0.5); }
+  .tier-yellow-pill .tier-dot { background: var(--gold-400); box-shadow: 0 0 6px rgba(250, 204, 21, 0.5); }
+  .tier-red-pill .tier-dot { background: #FCA5A5; box-shadow: 0 0 6px rgba(252, 129, 129, 0.5); }
+
+  .state-block {
+    margin-top: 8px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .state-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+    line-height: 1;
+    letter-spacing: -0.5px;
+    color: white;
+  }
+
+  .state-tagline {
+    font-size: 9.5px;
+    color: rgba(255,255,255,0.6);
+    margin-top: 3px;
+    font-weight: 400;
+  }
+
+  .stat-bar {
+    background: var(--green-800);
+    display: flex;
+    border-bottom: 3px solid var(--gold-500);
+  }
+
+  .stat-item {
+    flex: 1;
+    text-align: center;
+    padding: 8px 4px;
+    position: relative;
+  }
+
+  .stat-item:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 20%;
+    height: 60%;
+    width: 1px;
+    background: rgba(255,255,255,0.1);
+  }
+
+  .stat-number {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--gold-400);
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 6.5px;
+    color: rgba(255,255,255,0.55);
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-top: 2px;
+  }
+
+  .law-block {
+    padding: 14px 20px 12px;
+    border-bottom: 1px solid #E2E8F0;
+  }
+
+  .section-label {
+    font-size: 7px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--green-700);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .section-label::before {
+    content: '';
+    width: 12px;
+    height: 2px;
+    background: var(--green-700);
+    display: inline-block;
+  }
+
+  .law-text {
+    font-size: 10px;
+    color: var(--charcoal);
+    line-height: 1.55;
+  }
+
+  .law-text strong {
+    color: var(--green-800);
+    font-weight: 600;
+  }
+
+  .law-callout {
+    margin-top: 8px;
+    background: var(--green-900);
+    color: white;
+    border-radius: 6px;
+    padding: 10px 12px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .law-callout::before {
+    content: '§';
+    position: absolute;
+    right: 8px;
+    top: -4px;
+    font-family: 'DM Serif Display', serif;
+    font-size: 52px;
+    color: rgba(255,255,255,0.05);
+    line-height: 1;
+  }
+
+  .law-callout-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    font-weight: 700;
+    color: var(--gold-400);
+    margin-bottom: 4px;
+  }
+
+  .law-callout-text {
+    font-size: 9.5px;
+    line-height: 1.5;
+    color: rgba(255,255,255,0.9);
+    position: relative;
+    z-index: 1;
+  }
+
+  .penalty-chips {
+    display: flex;
+    gap: 6px;
+    margin-top: 8px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .penalty-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 7.5px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 3px;
+    background: rgba(234, 179, 8, 0.15);
+    color: var(--gold-400);
+    border: 1px solid rgba(234, 179, 8, 0.25);
+  }
+
+  .state-legal {
+    padding: 12px 20px;
+    border-bottom: 1px solid #E2E8F0;
+  }
+
+  .legal-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+
+  .legal-item {
+    padding: 7px 9px;
+    border-radius: 5px;
+    background: var(--mist);
+    border-left: 3px solid var(--green-600);
+  }
+
+  .legal-item.risk-item {
+    border-left-color: #F59E0B;
+  }
+
+  .legal-item-label {
+    font-size: 6.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--slate);
+    margin-bottom: 2px;
+  }
+
+  .legal-item-value {
+    font-size: 9px;
+    line-height: 1.4;
+    color: var(--charcoal);
+    font-weight: 500;
+  }
+
+  .legal-full {
+    grid-column: 1 / -1;
+  }
+
+  .cities-block {
+    padding: 12px 20px;
+    border-bottom: 1px solid #E2E8F0;
+  }
+
+  .cities-row {
+    display: flex;
+    gap: 8px;
+  }
+
+  .city-card {
+    flex: 1;
+    position: relative;
+    padding: 9px 10px 8px;
+    border-radius: 6px;
+    background: white;
+    border: 1px solid #E2E8F0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+
+  .city-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--green-600), var(--green-400));
+    border-radius: 6px 6px 0 0;
+  }
+
+  .city-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 13px;
+    color: var(--green-800);
+    line-height: 1;
+  }
+
+  .city-meta {
+    font-size: 7px;
+    color: var(--slate);
+    margin-top: 1px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  .city-why {
+    font-size: 8.5px;
+    color: var(--charcoal);
+    line-height: 1.4;
+    margin-top: 4px;
+  }
+
+  .city-why strong {
+    color: var(--green-700);
+  }
+
+  .action-block {
+    padding: 12px 20px;
+    background: linear-gradient(135deg, var(--green-50), var(--gold-100));
+    border-bottom: 1px solid #E2E8F0;
+    flex: 1;
+  }
+
+  .action-steps {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+
+  .action-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 7px;
+  }
+
+  .action-num {
+    width: 20px;
+    height: 20px;
+    background: var(--green-800);
+    color: var(--gold-400);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .action-content {
+    font-size: 8.5px;
+    color: var(--charcoal);
+    line-height: 1.4;
+  }
+
+  .action-content strong {
+    display: block;
+    font-size: 9.5px;
+    color: var(--green-800);
+    font-weight: 700;
+    margin-bottom: 1px;
+  }
+
+  .partners-block {
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #E2E8F0;
+  }
+
+  .partners-label {
+    font-size: 6.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--slate);
+    margin-right: 2px;
+  }
+
+  .partner-tag {
+    font-size: 7.5px;
+    color: var(--green-800);
+    background: var(--green-100);
+    padding: 2px 7px;
+    border-radius: 10px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .footer {
+    background: var(--green-900);
+    color: white;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: auto;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .footer::before {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    left: -20px;
+    width: 120px;
+    height: 120px;
+    border: 2px solid rgba(255,255,255,0.04);
+    border-radius: 50%;
+  }
+
+  .footer-content {
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .footer-url {
+    font-family: 'DM Serif Display', serif;
+    font-size: 15px;
+    color: white;
+    line-height: 1.1;
+  }
+
+  .footer-url span {
+    color: var(--gold-400);
+  }
+
+  .footer-tagline {
+    font-size: 7.5px;
+    color: rgba(255,255,255,0.55);
+    margin-top: 3px;
+    line-height: 1.3;
+  }
+
+  .footer-legal {
+    font-size: 6px;
+    color: rgba(255,255,255,0.35);
+    margin-top: 3px;
+  }
+
+  @media print {
+    body {
+      background: white;
+      padding: 0;
+      display: block;
+    }
+    .flyer {
+      box-shadow: none;
+      width: 100%;
+      height: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="flyer">
+
+  <div class="header">
+    <div class="header-top">
+      <div class="org-block">
+        <svg class="shield-icon" viewBox="0 0 24 24" fill="none">
+          <path d="M12 2L4 5.5V11.5C4 16.45 7.42 21.07 12 22.5C16.58 21.07 20 16.45 20 11.5V5.5L12 2Z" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.5)" stroke-width="1.2"/>
+          <path d="M10 14.2L7.4 11.6L6.4 12.6L10 16.2L18 8.2L17 7.2L10 14.2Z" fill="var(--gold-400)"/>
+        </svg>
+        <div class="org-name">Protections<br>for Elections</div>
+      </div>
+      <div class="tier-pill tier-yellow-pill">
+        <span class="tier-dot"></span>
+        Moderate — Careful Framing Required
+      </div>
+    </div>
+    <div class="state-block">
+      <div class="state-name">Wisconsin</div>
+      <div class="state-tagline">Constitutional Home Rule • careful drafting is essential</div>
+    </div>
+  </div>
+
+  <div class="stat-bar">
+    <div class="stat-item">
+      <div class="stat-number">1865</div>
+      <div class="stat-label">Law Enacted</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">$250K</div>
+      <div class="stat-label">Max Fine</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">5 YRS</div>
+      <div class="stat-label">Prison</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">ZERO</div>
+      <div class="stat-label">Exceptions</div>
+    </div>
+  </div>
+
+  <div class="law-block">
+    <div class="section-label">The Federal Law</div>
+    <div class="law-text">
+      Since <strong>1865</strong>, federal law has banned armed federal personnel at polling places. In <strong>1909</strong>, Congress deliberately removed the only exception — there is <strong>no law enforcement justification</strong> for armed feds at the polls. Not for "keeping the peace." Not for preventing fraud. Nothing.
+    </div>
+    <div class="law-callout">
+      <div class="law-callout-title">18 U.S.C. § 592 — TROOPS AT POLLS</div>
+      <div class="law-callout-text">
+        Any federal employee who stations armed personnel at a polling place commits a <strong>felony</strong> and is <strong>permanently barred</strong> from federal service. The DOJ's own manual says FBI agents cannot be stationed at polls.
+      </div>
+      <div class="penalty-chips">
+        <span class="penalty-chip">5 YEARS PRISON</span>
+        <span class="penalty-chip">$250,000 FINE</span>
+        <span class="penalty-chip">CAREER DEATH</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="state-legal">
+    <div class="section-label">Wisconsin Legal Landscape</div>
+    <div class="legal-grid">
+      <div class="legal-item">
+        <div class="legal-item-label">Home Rule</div>
+        <div class="legal-item-value">Article XI, Section 3 of the Wisconsin Constitution establishes the foundation for municipal authority:</div>
+      </div>
+      <div class="legal-item">
+        <div class="legal-item-label">Key Advantage</div>
+        <div class="legal-item-value">With Madison's original ordinance as the model, Racine, Green Bay, and La Crosse emerge as the highest-priority targets for adoption, supported by a robust coalition infrastruct...</div>
+      </div>
+      <div class="legal-item risk-item">
+        <div class="legal-item-label">Key Risk</div>
+        <div class="legal-item-value">Wisconsin cities can legally adopt ordinances directing local police not to assist armed federal personnel near polling places, but careful drafting is essential to survive pree...</div>
+      </div>
+      <div class="legal-item">
+        <div class="legal-item-label">Best Framing</div>
+        <div class="legal-item-value">Waukesha is strongly Republican; GOP State Rep.</div>
+      </div>
+      <div class="legal-item legal-full" style="border-left-color: #F59E0B; background: #FEF9C3;">
+        <div class="legal-item-label">Anti-Sanctuary Law</div>
+        <div class="legal-item-value" style="color: #92400E;">⚠ Critical finding: Wisconsin has no express state preemption on local police cooperation with federal law enforcement, no comprehensive anti-sanctua...</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cities-block">
+    <div class="section-label">Target Cities in Wisconsin</div>
+    <div class="cities-row">
+      <div class="city-card">
+        <div class="city-name">Racine</div>
+        <div class="city-meta">See state guide</div>
+        <div class="city-why"><strong>ranks highest for.</strong> new adoption.</div>
+      </div>
+      <div class="city-card">
+        <div class="city-name">Green Bay</div>
+        <div class="city-meta">See state guide</div>
+        <div class="city-why"><strong>offers unique strategic.</strong> value.</div>
+      </div>
+      <div class="city-card">
+        <div class="city-name">Eau Claire</div>
+        <div class="city-meta">Council-Manager</div>
+        <div class="city-why"><strong>is a progressive.</strong> university town with UW-Eau Claire.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="action-block">
+    <div class="section-label">What You Can Do Right Now</div>
+    <div class="action-steps">
+      <div class="action-step">
+        <div class="action-num">1</div>
+        <div class="action-content">
+          <strong>Contact</strong>
+          Call your city council member. Ask them to introduce a Protections for Elections ordinance.
+        </div>
+      </div>
+      <div class="action-step">
+        <div class="action-num">2</div>
+        <div class="action-content">
+          <strong>Show Up</strong>
+          Attend your next council meeting. 3 minutes of public comment changes priorities.
+        </div>
+      </div>
+      <div class="action-step">
+        <div class="action-num">3</div>
+        <div class="action-content">
+          <strong>Connect</strong>
+          Join a local organization already working on voting rights in Wisconsin.
+        </div>
+      </div>
+      <div class="action-step">
+        <div class="action-num">4</div>
+        <div class="action-content">
+          <strong>Share</strong>
+          Give this to 3 people. Post it at your library, café, or community board.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="partners-block">
+    <span class="partners-label">Get Connected →</span>
+    <span class="partner-tag">Voces de la Frontera</span><span class="partner-tag">ACLU of Wisconsin</span><span class="partner-tag">LWV Wisconsin</span><span class="partner-tag">Citizen Action of Wisconsin</span><span class="partner-tag">Wisconsin State AFL-CIO</span>
+  </div>
+
+  <div class="footer">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" style="flex-shrink:0; position:relative; z-index:1;">
+      <path d="M12 2L4 5.5V11.5C4 16.45 7.42 21.07 12 22.5C16.58 21.07 20 16.45 20 11.5V5.5L12 2Z" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.3)" stroke-width="1.2"/>
+      <path d="M10 14.2L7.4 11.6L6.4 12.6L10 16.2L18 8.2L17 7.2L10 14.2Z" fill="var(--gold-400)"/>
+    </svg>
+    <div class="footer-content">
+      <div class="footer-url">protectionsforelections.org/<span>wisconsin</span></div>
+      <div class="footer-tagline">Non-partisan &bull; Enforcing existing federal law &bull; Protecting your right to vote free from intimidation</div>
+      <div class="footer-legal">Published by protectionsforelections.org. Not legal advice. © 2026</div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
