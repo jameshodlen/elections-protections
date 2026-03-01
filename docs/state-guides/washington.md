@@ -16,7 +16,7 @@ tags:
 <div class="state-header-card" data-tier="green">
 <div class="state-header-tier">Tier 1 — Strong Viability</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -259,4 +259,6 @@ Printable flyers for individual cities with local council details, meeting sched
 [:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
 [:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
 [:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
+[:material-file-download: **Bellingham** — ~95,000](../flyers/city/WA_bellingham.html){:target="_blank" .md-button}
+[:material-file-download: **Tacoma** — ~220,000](../flyers/city/WA_tacoma.html){:target="_blank" .md-button}
 

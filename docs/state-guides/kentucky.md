@@ -15,7 +15,7 @@ tags:
 <div class="state-header-card" data-tier="yellow">
 <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -220,4 +220,5 @@ Printable flyers for individual cities with local council details, meeting sched
 
 [:material-file-download: **Covington** — ~41,000](../flyers/city/KY_covington.html){:target="_blank" .md-button}
 [:material-file-download: **Louisville Metro** — ~640,000](../flyers/city/KY_louisville-metro.html){:target="_blank" .md-button}
+[:material-file-download: **Lexington-Fayette** — ~320,000](../flyers/city/KY_lexington-fayette.html){:target="_blank" .md-button}
 
