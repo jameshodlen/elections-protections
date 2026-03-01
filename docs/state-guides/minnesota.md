@@ -13,12 +13,12 @@ tags:
 
 # Minnesota Municipal Ordinance Implementation: Legal and Political Analysis for 18 U.S.C. § 592 Enforcement
 
-<div class="state-header-card" data-tier="green" markdown>
-  <div class="state-header-tier">Tier 1 — Strong Viability</div>
-  <div class="state-header-stats">
-    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
-    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
-  </div>
+<div class="state-header-card" data-tier="green">
+<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-stats">
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+</div>
 </div>
 
 

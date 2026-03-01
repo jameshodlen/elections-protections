@@ -12,12 +12,12 @@ tags:
 
 # Utah Municipal Ordinance Implementation
 
-<div class="state-header-card" data-tier="red" markdown>
-  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
-  <div class="state-header-stats">
-    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
-    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
-  </div>
+<div class="state-header-card" data-tier="red">
+<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-stats">
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+</div>
 </div>
 
 

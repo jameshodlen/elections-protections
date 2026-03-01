@@ -5,7 +5,7 @@ description: State-by-state legal, political, and election security roadmaps for
 
 # State Implementation Guides
 
-<div class="state-header-card" data-tier="overview" markdown>
+<div class="state-header-card" data-tier="overview">
 <div class="state-header-tier">50 States — All Guides</div>
 <div class="state-header-stats">
 <div class="state-stat"><span class="state-stat-value">16</span><span class="state-stat-label">Tier 1 States</span></div>
