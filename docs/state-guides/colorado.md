@@ -237,3 +237,12 @@ The most significant strategic advantage is the pre-existing COVRA coalition inf
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Aurora** — ~386,000](../flyers/city/CO_aurora.html){:target="_blank" .md-button}
+    [:material-file-download: **Boulder** — ~105,000](../flyers/city/CO_boulder.html){:target="_blank" .md-button}
+    [:material-file-download: **Denver** — ~715,000](../flyers/city/CO_denver.html){:target="_blank" .md-button}
+

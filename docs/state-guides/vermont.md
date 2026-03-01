@@ -211,3 +211,14 @@ Vermont has resolved its core firearms gap through 13 V.S.A. Section 4027 but re
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Brattleboro** — ~12,100](../flyers/city/VT_brattleboro.html){:target="_blank" .md-button}
+    [:material-file-download: **Burlington** — ~44,400](../flyers/city/VT_burlington.html){:target="_blank" .md-button}
+    [:material-file-download: **Middlebury** — ~9,150](../flyers/city/VT_middlebury.html){:target="_blank" .md-button}
+    [:material-file-download: **Montpelier** — ~7,900](../flyers/city/VT_montpelier.html){:target="_blank" .md-button}
+    [:material-file-download: **Winooski** — ~8,000](../flyers/city/VT_winooski.html){:target="_blank" .md-button}
+

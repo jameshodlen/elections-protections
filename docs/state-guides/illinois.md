@@ -322,3 +322,12 @@ The Just Democracy Illinois coalition provides existing infrastructure for coord
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Chicago** — ~2,720,000](../flyers/city/IL_chicago.html){:target="_blank" .md-button}
+    [:material-file-download: **Evanston** — ~76,000](../flyers/city/IL_evanston.html){:target="_blank" .md-button}
+    [:material-file-download: **Oak Park** — ~52,000](../flyers/city/IL_oak-park.html){:target="_blank" .md-button}
+

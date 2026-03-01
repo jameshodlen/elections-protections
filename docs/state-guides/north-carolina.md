@@ -249,3 +249,15 @@ Active litigation includes **Cooper v. Berger/Boliek** (Governor Stein's challen
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Asheville** — ~95,000](../flyers/city/NC_asheville.html){:target="_blank" .md-button}
+    [:material-file-download: **Carrboro** — ~21,300](../flyers/city/NC_carrboro.html){:target="_blank" .md-button}
+    [:material-file-download: **Chapel Hill** — ~62,000](../flyers/city/NC_chapel-hill.html){:target="_blank" .md-button}
+    [:material-file-download: **Charlotte** — ~900,000](../flyers/city/NC_charlotte.html){:target="_blank" .md-button}
+    [:material-file-download: **Durham** — ~320,000](../flyers/city/NC_durham.html){:target="_blank" .md-button}
+    [:material-file-download: **Raleigh** — ~500,000](../flyers/city/NC_raleigh.html){:target="_blank" .md-button}
+

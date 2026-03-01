@@ -206,3 +206,13 @@ Secretary of State **Tre Hargett** (R) oversees the Division of Elections. **Sta
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Chattanooga** — ~191,000](../flyers/city/TN_chattanooga.html){:target="_blank" .md-button}
+    [:material-file-download: **Knoxville** — ~198,000](../flyers/city/TN_knoxville.html){:target="_blank" .md-button}
+    [:material-file-download: **Memphis** — ~620,000](../flyers/city/TN_memphis.html){:target="_blank" .md-button}
+    [:material-file-download: **Nashville** — ~690,000](../flyers/city/TN_nashville.html){:target="_blank" .md-button}
+

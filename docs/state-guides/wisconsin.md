@@ -276,3 +276,13 @@ The May 2025 DHS sanctuary designations and ongoing state budget debates create 
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Eau Claire** — ~74,000](../flyers/city/WI_eau-claire.html){:target="_blank" .md-button}
+    [:material-file-download: **Green Bay** — ~105,000](../flyers/city/WI_green-bay.html){:target="_blank" .md-button}
+    [:material-file-download: **Racine** — ~78,000](../flyers/city/WI_racine.html){:target="_blank" .md-button}
+    [:material-file-download: **Waukesha** — ~71,000](../flyers/city/WI_waukesha.html){:target="_blank" .md-button}
+

@@ -299,3 +299,12 @@ The immediate next step is engaging the existing NJ Election Protection Coalitio
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Hoboken** — ~60,000](../flyers/city/NJ_hoboken.html){:target="_blank" .md-button}
+    [:material-file-download: **Jersey City** — ~292,000](../flyers/city/NJ_jersey-city.html){:target="_blank" .md-button}
+    [:material-file-download: **Newark** — ~312,000](../flyers/city/NJ_newark.html){:target="_blank" .md-button}
+

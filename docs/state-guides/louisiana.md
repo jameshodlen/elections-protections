@@ -220,3 +220,12 @@ Louisiana has developed notable capacity through **Chief Cyber Officer Dustin Gl
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Baton Rouge** — ~453,000](../flyers/city/LA_baton-rouge.html){:target="_blank" .md-button}
+    [:material-file-download: **New Orleans** — ~363,000](../flyers/city/LA_new-orleans.html){:target="_blank" .md-button}
+    [:material-file-download: **Shreveport** — ~181,000](../flyers/city/LA_shreveport.html){:target="_blank" .md-button}
+

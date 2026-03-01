@@ -366,3 +366,13 @@ A model ordinance should cite the existing state restrictions as foundational au
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Duluth** — ~88,000](../flyers/city/MN_duluth.html){:target="_blank" .md-button}
+    [:material-file-download: **Minneapolis** — ~425,000](../flyers/city/MN_minneapolis.html){:target="_blank" .md-button}
+    [:material-file-download: **Rochester** — ~124,000](../flyers/city/MN_rochester.html){:target="_blank" .md-button}
+    [:material-file-download: **St. Paul** — ~307,000](../flyers/city/MN_st-paul.html){:target="_blank" .md-button}
+

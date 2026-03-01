@@ -195,3 +195,13 @@ AG Anne E. Lopez has authority to investigate and prosecute election crimes unde
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Hawaii County** — ~201,000](../flyers/city/HI_hawaii-county.html){:target="_blank" .md-button}
+    [:material-file-download: **Honolulu** — ~1.0M](../flyers/city/HI_honolulu.html){:target="_blank" .md-button}
+    [:material-file-download: **Kauai County** — ~73,000](../flyers/city/HI_kauai-county.html){:target="_blank" .md-button}
+    [:material-file-download: **Maui County** — ~165,000](../flyers/city/HI_maui-county.html){:target="_blank" .md-button}
+

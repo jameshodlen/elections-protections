@@ -131,3 +131,10 @@ Wyoming is **the only state in this batch where voter intimidation is exclusivel
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Jackson/Teton County** — ~10,700 (town) / ~23,400 (county)](../flyers/city/WY_jackson-teton-county.html){:target="_blank" .md-button}
+
