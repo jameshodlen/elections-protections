@@ -129,15 +129,18 @@
   .city-name {
     font-family: 'DM Serif Display', serif;
     font-size: 34px;
-    line-height: 1;
+    line-height: 1.1;
     letter-spacing: -0.5px;
     color: white;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
 
   .city-subtitle {
     font-size: 9.5px;
     color: rgba(255,255,255,0.55);
     margin-top: 3px;
+    overflow-wrap: break-word;
   }
 
   /* ===== HERO MESSAGE ===== */
@@ -371,6 +374,8 @@
     padding: 14px 20px;
     border-bottom: 1px solid #E2E8F0;
     flex: 1;
+    min-height: 0;
+    overflow: hidden;
   }
 
   .action-steps {
@@ -465,6 +470,7 @@
     margin-top: auto;
     position: relative;
     overflow: hidden;
+    flex-shrink: 0;
   }
 
   .footer::before {
@@ -486,9 +492,11 @@
 
   .footer-url {
     font-family: 'DM Serif Display', serif;
-    font-size: 14px;
+    font-size: 13px;
     color: white;
     line-height: 1.1;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
 
   .footer-url span { color: var(--gold-400); }
