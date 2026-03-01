@@ -16,7 +16,7 @@ tags:
 <div class="state-header-card" data-tier="green">
 <div class="state-header-tier">Tier 1 — Strong Viability</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -222,6 +222,7 @@ Ordinances should be framed as **policy directives** governing local resource al
 
 Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
+[:material-file-download: **Albuquerque** — ~560,000](../flyers/city/NM_albuquerque.html){:target="_blank" .md-button}
 [:material-file-download: **Las Cruces** — ~113,000](../flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
 [:material-file-download: **Santa Fe** — ~87,500](../flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
 

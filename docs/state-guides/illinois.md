@@ -16,7 +16,7 @@ tags:
 <div class="state-header-card" data-tier="green">
 <div class="state-header-tier">Tier 1 — Strong Viability</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -339,4 +339,5 @@ Printable flyers for individual cities with local council details, meeting sched
 [:material-file-download: **Chicago** — ~2,720,000](../flyers/city/IL_chicago.html){:target="_blank" .md-button}
 [:material-file-download: **Evanston** — ~76,000](../flyers/city/IL_evanston.html){:target="_blank" .md-button}
 [:material-file-download: **Oak Park** — ~52,000](../flyers/city/IL_oak-park.html){:target="_blank" .md-button}
+[:material-file-download: **Urbana** — ~42,000](../flyers/city/IL_urbana.html){:target="_blank" .md-button}
 

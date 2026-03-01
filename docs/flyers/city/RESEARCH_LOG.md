@@ -1,6 +1,6 @@
 # City Flyer Research Log
 
-Generated: 180 city flyers
+Generated: 194 city flyers
 
 
 
@@ -44,6 +44,7 @@ Generated: 180 city flyers
 ## Connecticut
 
 - **Hamden** — Source: hamden.com
+- **Hartford** — Source: hartfordct.gov
 - **New Haven** — Source: newhavenct.gov
 
 ## Delaware
@@ -80,6 +81,7 @@ Generated: 180 city flyers
 - **Chicago** — Source: chicago.gov
 - **Evanston** — Source: cityofevanston.org
 - **Oak Park** — Source: oak-park.us
+- **Urbana** — Source: urbanail.gov
 
 ## Indiana
 
@@ -108,6 +110,7 @@ Generated: 180 city flyers
 ## Kentucky
 
 - **Covington** — Source: covingtonky.gov
+- **Lexington-Fayette** — Source: lexingtonky.gov
 - **Louisville Metro** — Source: louisvilleky.gov
 
 ## Louisiana
@@ -165,6 +168,7 @@ Generated: 180 city flyers
 
 ## Nebraska
 
+- **Lincoln** — Source: lincoln.ne.gov
 - **Omaha** — Source: citycouncil.cityofomaha.org
 
 ## Nevada
@@ -191,14 +195,18 @@ Generated: 180 city flyers
 
 ## New Mexico
 
+- **Albuquerque** — Source: cabq.gov
 - **Las Cruces** — Source: lascruces.gov
 - **Santa Fe** — Source: santafenm.gov
 
 ## New York
 
+- **Albany** — Source: albanyny.gov
+- **Buffalo** — Source: buffalony.gov
 - **Ithaca** — Source: cityofithacany.gov
 - **New York City** — Source: council.nyc.gov
 - **Rochester** — Source: cityofrochester.gov
+- **Syracuse** — Source: syr.gov
 
 ## North Carolina
 
@@ -221,6 +229,7 @@ Generated: 180 city flyers
 - **Cincinnati** — Source: cincinnati-oh.gov
 - **Cleveland** — Source: clevelandcitycouncil.org
 - **Columbus** — Source: columbus.gov
+- **Dayton** — Source: daytonohio.gov
 - **Toledo** — Source: toledo.oh.gov
 
 ## Oklahoma
@@ -307,9 +316,11 @@ Generated: 180 city flyers
 
 ## Washington
 
+- **Bellingham** — Source: cob.org
 - **Olympia** — Source: olympiawa.gov
 - **Seattle** — Source: seattle.gov
 - **Spokane** — Source: my.spokanecity.org
+- **Tacoma** — Source: tacoma.gov
 
 ## West Virginia
 
@@ -321,6 +332,9 @@ Generated: 180 city flyers
 
 - **Eau Claire** — Source: eauclairewi.gov
 - **Green Bay** — Source: greenbaywi.gov
+- **La Crosse** — Source: cityoflacrosse.org
+- **Madison** — Source: cityofmadison.com
+- **Milwaukee** — Source: city.milwaukee.gov
 - **Racine** — Source: cityofracine.org
 - **Waukesha** — Source: waukesha-wi.gov
 

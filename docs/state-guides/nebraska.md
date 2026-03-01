@@ -15,7 +15,7 @@ tags:
 <div class="state-header-card" data-tier="yellow">
 <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">1</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -173,5 +173,6 @@ A **council ordinance** is strongly preferred — a charter amendment requires a
 
 Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
+[:material-file-download: **Lincoln** — ~290,000](../flyers/city/NE_lincoln.html){:target="_blank" .md-button}
 [:material-file-download: **Omaha** — ~490,000](../flyers/city/NE_omaha.html){:target="_blank" .md-button}
 

@@ -982,8 +982,49 @@ def main():
 
         # Extract all cities
         cities = extract_all_cities(section3, state_name)
+
+        # Supplement with cities from city_council_data.json not found by extraction
+        extracted_slugs = {c['city_slug'] for c in cities}
+        prefix = f"{abbrev}:"
+        for key, cdata in COUNCIL_DATA.items():
+            if not key.startswith(prefix):
+                continue
+            json_slug = key[len(prefix):]
+            if json_slug in extracted_slugs:
+                continue
+            # Build a city entry from JSON data — use proper display name
+            display_names = {
+                'lexington-fayette': 'Lexington-Fayette',
+                'kansas-city-ks': 'Kansas City, KS',
+                'kansas-city-mo': 'Kansas City, MO',
+                'columbia-mo': 'Columbia, MO',
+                'st-louis-city': 'St. Louis City',
+                'st-louis-county': 'St. Louis County',
+                'st-paul': 'St. Paul',
+                'st-petersburg': 'St. Petersburg',
+                'la-crosse': 'La Crosse',
+                'new-york-city': 'New York City',
+                'salt-lake-city': 'Salt Lake City',
+                'salt-lake-county': 'Salt Lake County',
+                'jackson-teton-county': 'Jackson/Teton County',
+                'bloomington-monroe-county': 'Bloomington/Monroe County',
+                'indianapolis-marion-county': 'Indianapolis/Marion County',
+                'johnson-county-iowa-city': 'Johnson County/Iowa City',
+            }
+            display_name = display_names.get(json_slug, json_slug.replace('-', ' ').title())
+            cities.append({
+                'city_name': display_name,
+                'city_slug': json_slug,
+                'population': cdata.get('population', ''),
+                'gov_type': cdata.get('gov_type', ''),
+                'charter_status': cdata.get('charter_status', ''),
+                'governing_body': '',
+                'council_size': cdata.get('council_size', ''),
+                'description': '',
+            })
+
         if not cities:
-            print(f"  SKIP {abbrev} — no cities extracted from Section 3")
+            print(f"  SKIP {abbrev} — no cities found")
             continue
 
         # Extract state legal context

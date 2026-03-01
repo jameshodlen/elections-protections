@@ -7,7 +7,7 @@ description: >-
 
 # Flyer Resources
 
-All printable election protection flyers in one place — 50 state flyers and 180 city flyers. Each is formatted for half-letter (5.5" x 8.5") printing.
+All printable election protection flyers in one place — 50 state flyers and 194 city flyers. Each is formatted for half-letter (5.5" x 8.5") printing.
 
 Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print or save as PDF.
 
@@ -79,6 +79,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 [:material-file-download: **Connecticut State Flyer**](flyers/CT_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/connecticut.md){: .md-button}
 
 [:material-file-download: Hamden — ~61,000](flyers/city/CT_hamden.html){:target="_blank" .md-button}
+[:material-file-download: Hartford — ~121,000](flyers/city/CT_hartford.html){:target="_blank" .md-button}
 [:material-file-download: New Haven — ~135,000](flyers/city/CT_new-haven.html){:target="_blank" .md-button}
 
 ---
@@ -141,6 +142,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 [:material-file-download: Chicago — ~2,720,000](flyers/city/IL_chicago.html){:target="_blank" .md-button}
 [:material-file-download: Evanston — ~76,000](flyers/city/IL_evanston.html){:target="_blank" .md-button}
 [:material-file-download: Oak Park — ~52,000](flyers/city/IL_oak-park.html){:target="_blank" .md-button}
+[:material-file-download: Urbana — ~42,000](flyers/city/IL_urbana.html){:target="_blank" .md-button}
 
 ---
 
@@ -185,6 +187,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 [:material-file-download: **Kentucky State Flyer**](flyers/KY_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/kentucky.md){: .md-button}
 
 [:material-file-download: Covington — ~41,000](flyers/city/KY_covington.html){:target="_blank" .md-button}
+[:material-file-download: Lexington-Fayette — ~320,000](flyers/city/KY_lexington-fayette.html){:target="_blank" .md-button}
 [:material-file-download: Louisville Metro — ~640,000](flyers/city/KY_louisville-metro.html){:target="_blank" .md-button}
 
 ---
@@ -284,6 +287,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 
 [:material-file-download: **Nebraska State Flyer**](flyers/NE_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/nebraska.md){: .md-button}
 
+[:material-file-download: Lincoln — ~290,000](flyers/city/NE_lincoln.html){:target="_blank" .md-button}
 [:material-file-download: Omaha — ~490,000](flyers/city/NE_omaha.html){:target="_blank" .md-button}
 
 ---
@@ -326,6 +330,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 
 [:material-file-download: **New Mexico State Flyer**](flyers/NM_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/new-mexico.md){: .md-button}
 
+[:material-file-download: Albuquerque — ~560,000](flyers/city/NM_albuquerque.html){:target="_blank" .md-button}
 [:material-file-download: Las Cruces — ~113,000](flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
 [:material-file-download: Santa Fe — ~87,500](flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
 
@@ -335,9 +340,12 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 
 [:material-file-download: **New York State Flyer**](flyers/NY_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/new-york.md){: .md-button}
 
+[:material-file-download: Albany — ~100,000](flyers/city/NY_albany.html){:target="_blank" .md-button}
+[:material-file-download: Buffalo — ~278,000](flyers/city/NY_buffalo.html){:target="_blank" .md-button}
 [:material-file-download: Ithaca — ~33,000](flyers/city/NY_ithaca.html){:target="_blank" .md-button}
 [:material-file-download: New York City — ~8,480,000](flyers/city/NY_new-york-city.html){:target="_blank" .md-button}
 [:material-file-download: Rochester — ~210,000](flyers/city/NY_rochester.html){:target="_blank" .md-button}
+[:material-file-download: Syracuse — ~148,000](flyers/city/NY_syracuse.html){:target="_blank" .md-button}
 
 ---
 
@@ -372,6 +380,7 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 [:material-file-download: Cincinnati — ~315,000](flyers/city/OH_cincinnati.html){:target="_blank" .md-button}
 [:material-file-download: Cleveland — ~365,000](flyers/city/OH_cleveland.html){:target="_blank" .md-button}
 [:material-file-download: Columbus — ~933,000](flyers/city/OH_columbus.html){:target="_blank" .md-button}
+[:material-file-download: Dayton — ~137,000](flyers/city/OH_dayton.html){:target="_blank" .md-button}
 [:material-file-download: Toledo — ~265,000](flyers/city/OH_toledo.html){:target="_blank" .md-button}
 
 ---
@@ -506,9 +515,11 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 
 [:material-file-download: **Washington State Flyer**](flyers/WA_flyer.html){:target="_blank" .md-button .md-button--primary}  [:material-book-open-variant: **State Guide**](state-guides/washington.md){: .md-button}
 
+[:material-file-download: Bellingham — ~95,000](flyers/city/WA_bellingham.html){:target="_blank" .md-button}
 [:material-file-download: Olympia — ~57,000](flyers/city/WA_olympia.html){:target="_blank" .md-button}
 [:material-file-download: Seattle — ~798,000](flyers/city/WA_seattle.html){:target="_blank" .md-button}
 [:material-file-download: Spokane — ~231,000](flyers/city/WA_spokane.html){:target="_blank" .md-button}
+[:material-file-download: Tacoma — ~220,000](flyers/city/WA_tacoma.html){:target="_blank" .md-button}
 
 ---
 
@@ -528,6 +539,9 @@ Open any flyer in your browser, then use **File > Print** or **Ctrl+P** to print
 
 [:material-file-download: Eau Claire — ~74,000](flyers/city/WI_eau-claire.html){:target="_blank" .md-button}
 [:material-file-download: Green Bay — ~105,000](flyers/city/WI_green-bay.html){:target="_blank" .md-button}
+[:material-file-download: La Crosse — ~52,000](flyers/city/WI_la-crosse.html){:target="_blank" .md-button}
+[:material-file-download: Madison — ~270,000](flyers/city/WI_madison.html){:target="_blank" .md-button}
+[:material-file-download: Milwaukee — ~570,000](flyers/city/WI_milwaukee.html){:target="_blank" .md-button}
 [:material-file-download: Racine — ~78,000](flyers/city/WI_racine.html){:target="_blank" .md-button}
 [:material-file-download: Waukesha — ~71,000](flyers/city/WI_waukesha.html){:target="_blank" .md-button}
 
