@@ -221,6 +221,6 @@ Printable flyers for individual cities with local council details, meeting sched
 [:material-file-download: **Cincinnati** — ~315,000](../flyers/city/OH_cincinnati.html){:target="_blank" .md-button}
 [:material-file-download: **Cleveland** — ~365,000](../flyers/city/OH_cleveland.html){:target="_blank" .md-button}
 [:material-file-download: **Columbus** — ~933,000](../flyers/city/OH_columbus.html){:target="_blank" .md-button}
-[:material-file-download: **Toledo** — ~265,000](../flyers/city/OH_toledo.html){:target="_blank" .md-button}
 [:material-file-download: **Dayton** — ~137,000](../flyers/city/OH_dayton.html){:target="_blank" .md-button}
+[:material-file-download: **Toledo** — ~265,000](../flyers/city/OH_toledo.html){:target="_blank" .md-button}
 

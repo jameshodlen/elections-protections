@@ -288,6 +288,6 @@ The key strategic recommendation: secure an **Attorney General opinion** or coor
 Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
 [:material-file-download: **Hamden** — ~61,000](../flyers/city/CT_hamden.html){:target="_blank" .md-button}
-[:material-file-download: **New Haven** — ~135,000](../flyers/city/CT_new-haven.html){:target="_blank" .md-button}
 [:material-file-download: **Hartford** — ~121,000](../flyers/city/CT_hartford.html){:target="_blank" .md-button}
+[:material-file-download: **New Haven** — ~135,000](../flyers/city/CT_new-haven.html){:target="_blank" .md-button}
 

@@ -200,10 +200,10 @@ The critical drafting insight is that framing under MHL § 10(1)(ii)(a)(1) autho
 
 Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
+[:material-file-download: **Albany** — ~100,000](../flyers/city/NY_albany.html){:target="_blank" .md-button}
+[:material-file-download: **Buffalo** — ~278,000](../flyers/city/NY_buffalo.html){:target="_blank" .md-button}
 [:material-file-download: **Ithaca** — ~33,000](../flyers/city/NY_ithaca.html){:target="_blank" .md-button}
 [:material-file-download: **New York City** — ~8,480,000](../flyers/city/NY_new-york-city.html){:target="_blank" .md-button}
 [:material-file-download: **Rochester** — ~210,000](../flyers/city/NY_rochester.html){:target="_blank" .md-button}
-[:material-file-download: **Albany** — ~100,000](../flyers/city/NY_albany.html){:target="_blank" .md-button}
-[:material-file-download: **Buffalo** — ~278,000](../flyers/city/NY_buffalo.html){:target="_blank" .md-button}
 [:material-file-download: **Syracuse** — ~148,000](../flyers/city/NY_syracuse.html){:target="_blank" .md-button}
 

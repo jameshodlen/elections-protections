@@ -292,9 +292,9 @@ Printable flyers for individual cities with local council details, meeting sched
 
 [:material-file-download: **Eau Claire** — ~74,000](../flyers/city/WI_eau-claire.html){:target="_blank" .md-button}
 [:material-file-download: **Green Bay** — ~105,000](../flyers/city/WI_green-bay.html){:target="_blank" .md-button}
-[:material-file-download: **Racine** — ~78,000](../flyers/city/WI_racine.html){:target="_blank" .md-button}
-[:material-file-download: **Waukesha** — ~71,000](../flyers/city/WI_waukesha.html){:target="_blank" .md-button}
 [:material-file-download: **La Crosse** — ~52,000](../flyers/city/WI_la-crosse.html){:target="_blank" .md-button}
 [:material-file-download: **Madison** — ~270,000](../flyers/city/WI_madison.html){:target="_blank" .md-button}
 [:material-file-download: **Milwaukee** — ~570,000](../flyers/city/WI_milwaukee.html){:target="_blank" .md-button}
+[:material-file-download: **Racine** — ~78,000](../flyers/city/WI_racine.html){:target="_blank" .md-button}
+[:material-file-download: **Waukesha** — ~71,000](../flyers/city/WI_waukesha.html){:target="_blank" .md-button}
 

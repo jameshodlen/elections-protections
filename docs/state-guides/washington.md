@@ -256,9 +256,9 @@ An election protection ordinance is legally viable in Washington if drafted to e
 
 Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
+[:material-file-download: **Bellingham** — ~95,000](../flyers/city/WA_bellingham.html){:target="_blank" .md-button}
 [:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
 [:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
 [:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
-[:material-file-download: **Bellingham** — ~95,000](../flyers/city/WA_bellingham.html){:target="_blank" .md-button}
 [:material-file-download: **Tacoma** — ~220,000](../flyers/city/WA_tacoma.html){:target="_blank" .md-button}
 
