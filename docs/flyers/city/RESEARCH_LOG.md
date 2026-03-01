@@ -6,34 +6,34 @@ Generated: 180 city flyers
 
 ## Alabama
 
-- **Birmingham** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Montgomery** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Birmingham** — Source: birminghamal.gov
+- **Montgomery** — Source: montgomeryal.gov
 
 ## Alaska
 
-- **Anchorage** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Fairbanks** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Juneau** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Anchorage** — Source: muni.org
+- **Fairbanks** — Source: fairbanks.gov
+- **Juneau** — Source: juneau.org
 
 ## Arizona
 
-- **Flagstaff** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Phoenix** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Pima County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Tempe** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Tucson** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Flagstaff** — Source: flagstaff.az.gov
+- **Phoenix** — Source: phoenix.gov
+- **Pima County** — Source: pima.gov
+- **Tempe** — Source: tempe.gov
+- **Tucson** — Source: tucsonaz.gov
 
 ## Arkansas
 
-- **Eureka Springs** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Fayetteville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Little Rock** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Eureka Springs** — Source: eurekaspringsar.gov
+- **Fayetteville** — Source: fayetteville-ar.gov
+- **Little Rock** — Source: littlerock.gov
 
 ## California
 
-- **Berkeley** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **San Francisco** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **West Hollywood** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Berkeley** — Source: berkeleyca.gov
+- **San Francisco** — Source: sfbos.org
+- **West Hollywood** — Source: weho.org
 
 ## Colorado
 
@@ -43,291 +43,291 @@ Generated: 180 city flyers
 
 ## Connecticut
 
-- **Hamden** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **New Haven** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Hamden** — Source: hamden.com
+- **New Haven** — Source: newhavenct.gov
 
 ## Delaware
 
-- **Dover** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **New Castle County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Newark** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Wilmington** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Dover** — Source: cityofdover.gov
+- **New Castle County** — Source: newcastlede.gov
+- **Newark** — Source: newarkde.gov
+- **Wilmington** — Source: wilmingtonde.gov
 
 ## Florida
 
-- **Gainesville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Miami** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Orlando** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **St. Petersburg** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Tallahassee** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Tampa** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Gainesville** — Source: gainesvillefl.gov
+- **Miami** — Source: miami.gov
+- **Orlando** — Source: orlando.gov
+- **St. Petersburg** — Source: stpete.org
+- **Tallahassee** — Source: talgov.com
+- **Tampa** — Source: tampa.gov
 
 ## Hawaii
 
-- **Hawaii County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Honolulu** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Kauai County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Maui County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Hawaii County** — Source: hawaiicounty.gov
+- **Honolulu** — Source: honolulucitycouncil.org
+- **Kauai County** — Source: kauai.gov
+- **Maui County** — Source: mauicounty.us
 
 ## Idaho
 
-- **Boise** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Moscow** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Pocatello** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Boise** — Source: cityofboise.org
+- **Moscow** — Source: ci.moscow.id.us
+- **Pocatello** — Source: pocatello.gov
 
 ## Illinois
 
-- **Chicago** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Evanston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Oak Park** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Chicago** — Source: chicago.gov
+- **Evanston** — Source: cityofevanston.org
+- **Oak Park** — Source: oak-park.us
 
 ## Indiana
 
-- **Bloomington/Monroe County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Gary** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Indianapolis/Marion County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Marion County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **West Lafayette** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Bloomington/Monroe County** — Source: bloomington.in.gov
+- **Gary** — Source: garycommoncouncil.gov
+- **Indianapolis/Marion County** — Source: indy.gov
+- **Marion County** — Source: indy.gov
+- **West Lafayette** — Source: westlafayette.in.gov
 
 ## Iowa
 
-- **Ames** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Cedar Rapids** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Davenport** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Des Moines** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Iowa City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Johnson County (Iowa City)** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Ames** — Source: cityofames.org
+- **Cedar Rapids** — Source: cedar-rapids.org
+- **Davenport** — Source: davenportiowa.com
+- **Des Moines** — Source: dsm.city
+- **Iowa City** — Source: icgov.org
+- **Johnson County (Iowa City)** — Source: icgov.org
 
 ## Kansas
 
-- **Kansas City, KS** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Lawrence** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Manhattan** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Topeka** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Kansas City, KS** — Source: wycokck.org
+- **Lawrence** — Source: lawrenceks.org
+- **Manhattan** — Source: manhattanks.gov
+- **Topeka** — Source: topeka.org
 
 ## Kentucky
 
-- **Covington** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Louisville Metro** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Covington** — Source: covingtonky.gov
+- **Louisville Metro** — Source: louisvilleky.gov
 
 ## Louisiana
 
-- **Baton Rouge** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **New Orleans** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Shreveport** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Baton Rouge** — Source: brla.gov
+- **New Orleans** — Source: council.nola.gov
+- **Shreveport** — Source: shreveportla.gov
 
 ## Maine
 
-- **Bangor** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Lewiston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Portland** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Bangor** — Source: bangormaine.gov
+- **Lewiston** — Source: lewistonmaine.gov
+- **Portland** — Source: portlandmaine.gov
 
 ## Maryland
 
-- **Baltimore City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Howard County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Montgomery County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Baltimore City** — Source: baltimorecitycouncil.com
+- **Howard County** — Source: cc.howardcountymd.gov
+- **Montgomery County** — Source: montgomerycountymd.gov
 
 ## Massachusetts
 
-- **Boston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Cambridge** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Northampton** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Somerville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Boston** — Source: boston.gov
+- **Cambridge** — Source: cambridgema.gov
+- **Northampton** — Source: northamptonma.gov
+- **Somerville** — Source: somervillema.gov
 
 ## Michigan
 
-- **Ann Arbor** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **East Lansing** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Ferndale** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Ann Arbor** — Source: a2gov.org
+- **East Lansing** — Source: cityofeastlansing.com
+- **Ferndale** — Source: ferndalemi.gov
 
 ## Minnesota
 
-- **Duluth** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Minneapolis** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Rochester** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **St. Paul** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Duluth** — Source: duluthmn.gov
+- **Minneapolis** — Source: minneapolismn.gov
+- **Rochester** — Source: rochestermn.gov
+- **St. Paul** — Source: stpaul.gov
 
 ## Missouri
 
-- **Columbia, MO** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Kansas City, MO** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **St. Louis City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **St. Louis County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Columbia, MO** — Source: como.gov
+- **Kansas City, MO** — Source: kcmo.gov
+- **St. Louis City** — Source: stlouis-mo.gov
+- **St. Louis County** — Source: stlouiscountymo.gov
 
 ## Montana
 
-- **Billings** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Bozeman** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Great Falls** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Helena** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Missoula** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Billings** — Source: billingsmt.gov
+- **Bozeman** — Source: bozeman.net
+- **Great Falls** — Source: greatfallsmt.net
+- **Helena** — Source: helenamt.gov
+- **Missoula** — Source: ci.missoula.mt.us
 
 ## Nebraska
 
-- **Omaha** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Omaha** — Source: citycouncil.cityofomaha.org
 
 ## Nevada
 
-- **Clark County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Henderson** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Las Vegas** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Reno** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Washoe County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Clark County** — Source: clarkcountynv.gov
+- **Henderson** — Source: cityofhenderson.com
+- **Las Vegas** — Source: lasvegasnevada.gov
+- **Reno** — Source: reno.gov
+- **Washoe County** — Source: washoecounty.gov
 
 ## New Hampshire
 
-- **Concord** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Durham** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Hanover** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Keene** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Portsmouth** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Concord** — Source: concordnh.gov
+- **Durham** — Source: ci.durham.nh.us
+- **Hanover** — Source: hanovernh.org
+- **Keene** — Source: keenenh.gov
+- **Portsmouth** — Source: portsmouthnh.gov
 
 ## New Jersey
 
-- **Hoboken** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Jersey City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Newark** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Hoboken** — Source: hobokennj.gov
+- **Jersey City** — Source: jerseycitynj.gov
+- **Newark** — Source: newarknj.gov
 
 ## New Mexico
 
-- **Las Cruces** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Santa Fe** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Las Cruces** — Source: lascruces.gov
+- **Santa Fe** — Source: santafenm.gov
 
 ## New York
 
-- **Ithaca** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **New York City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Rochester** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Ithaca** — Source: cityofithacany.gov
+- **New York City** — Source: council.nyc.gov
+- **Rochester** — Source: cityofrochester.gov
 
 ## North Carolina
 
-- **Asheville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Carrboro** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Chapel Hill** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Charlotte** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Durham** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Raleigh** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Asheville** — Source: ashevillenc.gov
+- **Carrboro** — Source: townofcarrboro.org
+- **Chapel Hill** — Source: townofchapelhill.org
+- **Charlotte** — Source: charlottenc.gov
+- **Durham** — Source: durhamnc.gov
+- **Raleigh** — Source: raleighnc.gov
 
 ## North Dakota
 
-- **Bismarck** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Fargo** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Grand Forks** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Bismarck** — Source: bismarcknd.gov
+- **Fargo** — Source: fargond.gov
+- **Grand Forks** — Source: grandforksgov.com
 
 ## Ohio
 
-- **Akron** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Cincinnati** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Cleveland** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Columbus** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Toledo** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Akron** — Source: akroncitycouncil.org
+- **Cincinnati** — Source: cincinnati-oh.gov
+- **Cleveland** — Source: clevelandcitycouncil.org
+- **Columbus** — Source: columbus.gov
+- **Toledo** — Source: toledo.oh.gov
 
 ## Oklahoma
 
-- **Norman** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Oklahoma City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Stillwater** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Tulsa** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Norman** — Source: normanok.gov
+- **Oklahoma City** — Source: okc.gov
+- **Stillwater** — Source: stillwaterok.gov
+- **Tulsa** — Source: tulsacouncil.org
 
 ## Oregon
 
-- **Ashland** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Bend** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Corvallis** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Eugene** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Portland** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Salem** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Ashland** — Source: ashlandoregon.gov
+- **Bend** — Source: bendoregon.gov
+- **Corvallis** — Source: corvallisoregon.gov
+- **Eugene** — Source: eugene-or.gov
+- **Portland** — Source: portland.gov
+- **Salem** — Source: cityofsalem.net
 
 ## Pennsylvania
 
-- **Allegheny County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Harrisburg** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Philadelphia** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Pittsburgh** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **State College** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Allegheny County** — Source: alleghenycounty.us
+- **Harrisburg** — Source: harrisburgpa.gov
+- **Philadelphia** — Source: phila.gov
+- **Pittsburgh** — Source: pittsburghpa.gov
+- **State College** — Source: statecollegepa.us
 
 ## Rhode Island
 
-- **Central Falls** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Providence** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Central Falls** — Source: centralfallsri.gov
+- **Providence** — Source: providenceri.gov
 
 ## South Carolina
 
-- **Charleston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Columbia** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Greenville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **North Charleston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Charleston** — Source: charleston-sc.gov
+- **Columbia** — Source: columbiasc.gov
+- **Greenville** — Source: greenvillesc.gov
+- **North Charleston** — Source: northcharleston.org
 
 ## South Dakota
 
-- **Brookings** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Rapid City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Vermillion** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Brookings** — Source: cityofbrookings-sd.gov
+- **Rapid City** — Source: rcgov.org
+- **Vermillion** — Source: vermillion.us
 
 ## Tennessee
 
-- **Chattanooga** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Knoxville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Memphis** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Nashville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Chattanooga** — Source: chattanooga.gov
+- **Knoxville** — Source: knoxvilletn.gov
+- **Memphis** — Source: memphistn.gov
+- **Nashville** — Source: nashville.gov
 
 ## Texas
 
-- **Austin** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Dallas** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Denton** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **El Paso** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Houston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **San Antonio** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Austin** — Source: austintexas.gov
+- **Dallas** — Source: dallascityhall.com
+- **Denton** — Source: cityofdenton.com
+- **El Paso** — Source: elpasotexas.gov
+- **Houston** — Source: houstontx.gov
+- **San Antonio** — Source: sa.gov
 
 ## Utah
 
-- **Moab** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Park City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Salt Lake City** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Salt Lake County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Moab** — Source: moabcity.gov
+- **Park City** — Source: parkcity.gov
+- **Salt Lake City** — Source: slc.gov
+- **Salt Lake County** — Source: saltlakecounty.gov
 
 ## Vermont
 
-- **Brattleboro** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Burlington** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Middlebury** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Montpelier** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Winooski** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Brattleboro** — Source: brattleboro.org
+- **Burlington** — Source: burlingtonvt.gov
+- **Middlebury** — Source: townofmiddlebury.org
+- **Montpelier** — Source: montpelier-vt.org
+- **Winooski** — Source: winooskivt.gov
 
 ## Virginia
 
-- **Alexandria** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Arlington County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Charlottesville** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Norfolk** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Richmond** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Virginia Beach** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Alexandria** — Source: alexandriava.gov
+- **Arlington County** — Source: arlingtonva.us
+- **Charlottesville** — Source: charlottesville.gov
+- **Norfolk** — Source: norfolk.gov
+- **Richmond** — Source: rva.gov
+- **Virginia Beach** — Source: virginiabeach.gov
 
 ## Washington
 
-- **Olympia** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Seattle** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Spokane** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Olympia** — Source: olympiawa.gov
+- **Seattle** — Source: seattle.gov
+- **Spokane** — Source: my.spokanecity.org
 
 ## West Virginia
 
-- **Charleston** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Huntington** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Morgantown** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Charleston** — Source: charlestonwv.gov
+- **Huntington** — Source: cityofhuntington.com
+- **Morgantown** — Source: morgantownwv.gov
 
 ## Wisconsin
 
-- **Eau Claire** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Green Bay** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Racine** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
-- **Waukesha** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Eau Claire** — Source: eauclairewi.gov
+- **Green Bay** — Source: greenbaywi.gov
+- **Racine** — Source: cityofracine.org
+- **Waukesha** — Source: waukesha-wi.gov
 
 ## Wyoming
 
-- **Jackson/Teton County** — Source: State analysis markdown + defaults ⚠ *Some fields incomplete*
+- **Jackson/Teton County** — Source: jacksonwy.gov
 
 ---
 
-**Summary:** 177 cities with incomplete council data.
+**Summary:** 0 cities with incomplete council data.

@@ -517,8 +517,14 @@ def _extract_ordinance_description(section1, section3):
 
     # Check Section 3 for drafting principles
     subsections = extract_subsections(section3)
+    city_heading_skip = re.compile(
+        r'(Target\b|Primary\b|Secondary\b|Tertiary\b|First Target|'
+        r'Population|County-Level|Non-Starter)',
+        re.IGNORECASE
+    )
     for heading, body in subsections:
-        if re.search(r'(draft|fram|recommend|approach|principle)', heading, re.IGNORECASE):
+        if (re.search(r'(draft|fram|recommend|approach|principle)', heading, re.IGNORECASE)
+                and not city_heading_skip.search(heading)):
             cleaned = clean_md(body)
             sents = re.split(r'(?<=[.!?])\s+', cleaned)
             for sent in sents:
@@ -586,6 +592,17 @@ def _extract_orgs(section4, state_name, state_abbrev):
 # City-specific context extraction from Section 3 body
 # ---------------------------------------------------------------------------
 
+def _is_metadata_sentence(sent):
+    """Check if a sentence is structural/metadata rather than strategic content."""
+    stripped = sent.strip().lstrip('- ')
+    return bool(re.match(
+        r'^(Population:?\s*~?[\d,]|Government:|Military |Key advantage:|'
+        r'Passage |Governing Body:?|Council size|City Manager:|'
+        r'Next election|Term limit)',
+        stripped, re.IGNORECASE
+    ))
+
+
 def extract_why_it_works(city_description, city_name):
     """Extract 'why it works' from city description text.
 
@@ -594,12 +611,15 @@ def extract_why_it_works(city_description, city_name):
     """
     sentences = re.split(r'(?<=[.!?])\s+', city_description)
 
+    # Filter out metadata/population sentences
+    strategic_sentences = [s for s in sentences if not _is_metadata_sentence(s)]
+
     # First priority: sentences that mention concrete civic achievements
     achievement_keywords = ['sanctuary', 'ordinance', 'oversight', 'passed',
                             'established', 'adopted', 'voted', 'enacted',
                             'progressive council', 'progressive 9-member',
                             'progressive majority', 'flipped']
-    for sent in sentences:
+    for sent in strategic_sentences:
         lower = sent.lower()
         if any(kw in lower for kw in achievement_keywords) and 20 < len(sent) < 200:
             result = sent.strip()
@@ -611,7 +631,7 @@ def extract_why_it_works(city_description, city_name):
     political_keywords = ['democrat', 'progressive', 'liberal', 'strong',
                           'already', 'existing', 'infrastructure', 'rights',
                           'coalition', 'activist', 'diverse', 'immigrant']
-    for sent in sentences:
+    for sent in strategic_sentences:
         lower = sent.lower()
         if any(kw in lower for kw in political_keywords) and 20 < len(sent) < 200:
             result = sent.strip()
@@ -619,8 +639,8 @@ def extract_why_it_works(city_description, city_name):
                 result = result[:127] + '...'
             return result
 
-    # Fallback: first substantial sentence
-    for sent in sentences:
+    # Fallback: first substantial non-metadata sentence
+    for sent in strategic_sentences:
         if 20 < len(sent) < 200:
             result = sent.strip()
             if len(result) > 130:
