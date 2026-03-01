@@ -13,6 +13,15 @@ tags:
 
 # Ohio election protection ordinance: A municipal legal and political roadmap
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Ohio's robust home rule tradition creates a viable pathway for cities to adopt election protection ordinances that prohibit local police from assisting armed federal personnel near polling places. The **1912 Ohio Constitution grants municipalities sweeping local self-government powers**, and recent litigation victories—particularly *Columbus v. Ohio* (2025)—have reaffirmed cities' authority to resist state preemption. A coordinated campaign across Ohio's major charter cities, leveraging the existing Ohio Voter Rights Coalition infrastructure, could establish a powerful precedent for municipal-level enforcement of the federal prohibition on armed troops at polls under 18 U.S.C. § 592.
 
 ---

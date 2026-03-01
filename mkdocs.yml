@@ -11,19 +11,19 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Inter
+    text: DM Sans
     code: JetBrains Mono
   features:
     - navigation.tabs

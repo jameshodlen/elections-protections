@@ -13,6 +13,15 @@ tags:
 
 # Alaska Municipal Election Protection Ordinance: Legal and Political Landscape
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Alaska's strong home rule tradition and progressive urban coalitions create a viable pathway for municipal election protection ordinances based on 18 U.S.C. § 592—but state firearms preemption poses the single greatest legal obstacle. The Alaska Constitution explicitly rejects Dillon's Rule, granting municipalities "all legislative powers not prohibited by law or charter" with mandated "liberal construction." Anchorage's 9-3 progressive Assembly majority makes it the optimal launch city, followed by Juneau and Fairbanks. A robust coalition infrastructure exists, anchored by the ACLU of Alaska, Native American Rights Fund, and First Alaskans Institute's newly formalized Get Out The Native Vote partnership.
 
 ---

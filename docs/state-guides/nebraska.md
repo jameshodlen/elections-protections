@@ -12,6 +12,15 @@ tags:
 
 # Nebraska Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">1</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Nebraska occupies a unique middle ground as the only state in the Midwest batch with an explicit concealed-carry prohibition at polling places (Neb. Rev. Stat. Section 28-1202.01(3)) — establishing state-level precedent that polling places warrant special firearms treatment. Nebraska operates as a **Dillon's Rule state with constitutional home rule exceptions**: only Omaha and Lincoln qualify as home rule cities in practice. The state's unique unicameral legislature (the only one in the nation) simplifies election law passage but also means a 33-seat Republican supermajority can pass targeted preemption easily. The 2024-2025 period demonstrated significant progressive capacity through Omaha CD-2's electoral vote for Harris, the felony voting rights litigation victory, and Omaha's election of its first Democratic mayor since 2009.
 
 ---

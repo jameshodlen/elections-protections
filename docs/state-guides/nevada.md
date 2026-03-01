@@ -12,6 +12,15 @@ tags:
 
 # Nevada Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Nevada is **co-leading the 19-state lawsuit** against Executive Order 14248 alongside California, placing it at the forefront of election protection litigation nationally. The state features a constitutionally enshrined Voters' Bill of Rights (Article 2, Section 1A, added 2020), the nation's largest single voter registration technology investment ($57 million VREMS system), permanent universal mail voting (AB 321, 2021), and strong voter intimidation penalties (Category E felony, 1-4 years). However, Nevada has **no specific statute prohibiting firearms at polling places** -- a critical gap -- and its cybersecurity infrastructure is still developing with the statewide SOC under construction. Clark County handles approximately 70% of all Nevada voters, making it the dominant target for election protection ordinances.
 
 ---

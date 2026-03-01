@@ -12,6 +12,15 @@ tags:
 
 # Arkansas Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Arkansas presents one of the most challenging environments for municipal election protection ordinances. The state has **no polling-place firearms ban** — a deliberate legislative choice made in 2015 — combined with among the strongest firearms preemption statutes in the nation. However, Arkansas's own constitutional text contains remarkably favorable language directly paralleling 18 U.S.C. § 592, and the state's adoption of anti-commandeering legislation for firearms enforcement creates a powerful rhetorical and legal precedent for municipal election protection ordinances. The most viable short-term strategies involve working with polling-place property owners to voluntarily post no-firearms signage under existing property-rights provisions, pursuing voter intimidation enforcement under existing criminal statutes, and targeting progressive municipalities like Fayetteville and Little Rock during the window between legislative sessions.
 
 ---

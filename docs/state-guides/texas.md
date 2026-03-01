@@ -12,6 +12,15 @@ tags:
 
 # Texas Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Texas offers the strongest foundation for a municipal election protection ordinance campaign among the Southern and Border states. The state's robust constitutional home rule framework, the powerful **HB 2622 (2021) mirror argument** (the Texas Second Amendment Sanctuary Act), deep coalition infrastructure, and the partial-protection gap — firearms prohibited inside polling place buildings but legal in parking lots and outdoor areas where voters form lines — create both urgent need and viable legal pathways. Texas home rule cities possess "full power of local self-government" under Article XI, § 5, and the firearms preemption statute (§ 229.001) includes a critical exception preserving the enforceability of "any state or federal law." Austin, San Antonio, Houston, and Dallas present the most viable targets, with experienced city attorneys already litigating the "Death Star" HB 2127 preemption law. The campaign's center of gravity, Texas represents the highest-return investment for municipal ordinance strategy.
 
 ---

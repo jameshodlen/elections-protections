@@ -12,6 +12,15 @@ tags:
 
 # Hawaii Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Hawaii presents a **unique, high-efficiency environment** for election protection ordinances. The state's four-county structure (with no municipal governments below the county level) means that covering 100% of the state's population requires only four actions. Hawaii operates an all-mail voting system with Voter Service Centers replacing traditional polling places, has extremely strict firearms prohibitions at voting locations (200-foot sensitive zone), and joined the 19-state lawsuit against EO 14248. The heavy military presence -- including Joint Base Pearl Harbor-Hickam and USPACOM headquarters at Camp H.M. Smith -- makes 18 U.S.C. Section 592 especially relevant, as the potential for armed federal military personnel near voting sites is concrete rather than theoretical. The state's overwhelmingly Democratic legislature (Senate 22-3, House 42-9) and allied AG create a favorable political landscape.
 
 ---

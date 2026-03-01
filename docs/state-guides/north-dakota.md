@@ -12,6 +12,15 @@ tags:
 
 # North Dakota Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 North Dakota provides the strongest municipal legal foundation among Plains and Mountain West states for the election protection ordinance campaign. The state's constitutionally mandated liberal construction of home rule charters under NDCC Section 40-05.1-05 — which directs that home rule ordinances "supersede within the territorial limits and other jurisdiction of the city any law of the state in conflict" and "must be liberally construed" — inverts the Dillon's Rule presumption. Additionally, North Dakota is the only state in the nation without voter registration, its deep tribal voting rights coalition provides a powerful constitutional narrative, and HB 1588 (2025) creates a new pathway for prohibiting firearms in publicly owned buildings used as polling places. However, a 2025 amendment to Section 40-05.1-05 now voids election-specific home-rule ordinances conflicting with state law, creating a direct obstacle.
 
 ---

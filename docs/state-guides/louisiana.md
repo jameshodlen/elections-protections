@@ -12,6 +12,15 @@ tags:
 
 # Louisiana Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Louisiana is the **last state in the nation still using paperless voting machines** for in-person Election Day voting, making its election infrastructure uniquely vulnerable during a critical voting system transition. The state has the **largest buffer zone** in the Deep South at 600 feet, and concealed carry is prohibited at polling places — but an open carry gap exists. Louisiana's home rule framework is **stronger than the other hostile states** (26 of 64 parishes operate under home rule charters), but **R.S. 18:1(B)** expressly prohibits political subdivisions from adopting "any law, resolution, or ordinance relative to elections" — the single most formidable statutory barrier among target states. Combined with aggressive anti-sanctuary laws (SB 15 criminalizes non-cooperation with up to 10 years in prison) and a Republican trifecta with supermajorities, the ordinance faces severe obstacles. New Orleans is the only viable target.
 
 ---

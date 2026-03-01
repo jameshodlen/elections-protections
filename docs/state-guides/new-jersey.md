@@ -13,6 +13,15 @@ tags:
 
 # New Jersey municipal ordinances to enforce federal polling place protections: A legal and political roadmap
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 New Jersey municipalities possess substantial authority to pass ordinances reinforcing **18 U.S.C. § 592** (the federal ban on armed troops at polling places), though they face moderate preemption risk from the state's comprehensive election code. The state's "statutory home rule" framework under the Faulkner Act grants municipalities broad powers that courts must construe liberally, while existing state laws already criminalize voter intimidation and ban firearms at polling places. **Hoboken, Newark, and Jersey City** emerge as the optimal launching municipalities—all three operate under the Faulkner Act, maintain designated sanctuary city status, and have recently elected progressive leadership positioned to support election protection ordinances.
 
 The legal pathway is viable but requires careful drafting. Municipal ordinances should frame protections as exercise of local police powers under **N.J.S.A. 40:48-2** and control over municipal police priorities under **N.J.S.A. 40A:14-118**, rather than attempting to regulate elections directly. A robust coalition infrastructure already exists through the NJ Election Protection Coalition, anchored by the ACLU of New Jersey, NJ Institute for Social Justice, and League of Women Voters.

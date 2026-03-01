@@ -13,6 +13,15 @@ tags:
 
 # Adapting a Municipal Election Protection Ordinance to Oregon
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 **Oregon offers exceptionally favorable legal terrain for a municipal ordinance prohibiting city resources from assisting armed federal personnel at polling places.** The state's strong home rule framework, nation-leading sanctuary law precedent, and presumption against preemption create a solid constitutional foundation. Portland's October 2025 "Protect Portland Initiative"—which unanimously passed a sanctuary ordinance using nearly identical legal architecture—provides a ready-made template. Target cities with progressive councils and existing organizing infrastructure include Portland, Bend, Corvallis, and Ashland.
 
 ---

@@ -12,6 +12,15 @@ tags:
 
 # Rhode Island election protection ordinance: A strategic legal and political roadmap
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Rhode Island presents **exceptionally favorable conditions** for adapting a municipal election protection ordinance prohibiting city resources from assisting armed federal personnel near polling places. The state's constitutional home rule framework (Article XIII), absence of anti-sanctuary preemption laws, and established municipal precedents—most notably Providence's Community-Police Relations Act—create strong legal footing. A 2022 Rhode Island Supreme Court decision confirming municipal "indispensable managerial rights" over police operations further strengthens the legal case. Providence and Central Falls emerge as priority targets, with existing sanctuary infrastructure, progressive leadership, and proven federal court victories defending local autonomy.
 
 ---

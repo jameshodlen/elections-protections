@@ -12,6 +12,15 @@ tags:
 
 # New Hampshire Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 New Hampshire presents a **challenging but strategically important environment** for municipal election protection ordinances. The state is a constitutional carry jurisdiction with **no specific polling place firearms prohibition** -- the weakest firearms restriction among all Northeast states and a significant gap for polling place security. New Hampshire is also the **only Northeast state that did not join the 19-state lawsuit** against Executive Order 14248. However, its strong town-meeting tradition and deeply local election administration (234+ towns and 13 cities each managing their own elections) create potential pathways for municipal action. The state's Republican-leaning political environment makes this a Tier 2 priority where careful strategic framing around enforcement of existing federal law is essential.
 
 ---

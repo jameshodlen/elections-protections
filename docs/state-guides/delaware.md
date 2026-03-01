@@ -12,6 +12,15 @@ tags:
 
 # Delaware Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Delaware presents a **strategically important but legally constrained environment** for municipal election protection ordinances. As a strict Dillon's Rule state, municipal authority is limited, making statewide legislation the strongly recommended primary pathway. However, Delaware compensates with the nation's strongest military-election-interference statute (Title 15, Chapter 53, felony penalties), a 2023 polling place firearms ban, a statutory civil remedy for voting interference, and a Democratic trifecta that has already demonstrated willingness to restrict federal-local enforcement cooperation through HB 182 (banning 287(g) agreements). The state's three-county structure and small population create both efficiency opportunities and resource constraints for the Protections for Elections campaign.
 
 ---

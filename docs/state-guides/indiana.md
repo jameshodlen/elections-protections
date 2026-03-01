@@ -12,6 +12,15 @@ tags:
 
 # Indiana Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Indiana presents the **most hostile home rule environment** for municipal ordinance campaigns in the Midwest batch. While the 1980 Home Rule Act (IC 36-1-3) nominally abrogated Dillon's Rule, IC 36-1-3-8(a)(12) **expressly reserves the power to order or conduct elections to the state.** Combined with constitutional carry (effective July 2022), comprehensive firearms preemption with treble damages for violating municipalities, and AG Todd Rokita's demonstrated willingness to target progressive municipalities, Indiana demands creative legal framing and a focus on the ordinance as enforcement of existing federal criminal law rather than election regulation or firearms restriction. The state's exceptional military cyber assets and the unique co-director model for election administration add institutional complexity.
 
 ---

@@ -12,6 +12,15 @@ tags:
 
 # Pennsylvania Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Pennsylvania is a **critical battleground state** with strong election security infrastructure but limited Secretary of State authority and a unique 100-foot police exclusion zone around polling places. The state's 67 county boards of elections administer elections locally, the PA National Guard operates elite cyber units (112th Cyber Operations Squadron), and Governor Shapiro established a multi-agency Election Threats Task Force. However, Pennsylvania **did not join the 19-state lawsuit** against Executive Order 14248 despite its Democratic governor, and the aging SURE voter registration system represents a critical vulnerability. The AG has prosecutorial jurisdiction over all Election Code violations, and voter intimidation carries penalties up to felony of the third degree. Pennsylvania's Article I, Section 5 "free and equal elections" clause and unique police exclusion zone provide strong constitutional and statutory foundations for election protection ordinances.
 
 ---

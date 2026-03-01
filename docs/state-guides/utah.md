@@ -12,6 +12,15 @@ tags:
 
 # Utah Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Utah presents a narrow but defensible path for municipal election protection ordinances, fundamentally shaped by two unique factors: the state's **predominantly vote-by-mail system** (which shifts the security calculus away from physical polling places toward ballot drop boxes, USPS infrastructure, and mail processing centers) and the **nation's most aggressive firearms preemption enforcement mechanism** (the Firearm Preemption Enforcement Act, § 78B-6-2301 et seq., with private cause of action, damages, and attorney fees). Salt Lake City under Mayor Erin Mendenhall offers the primary — and likely only viable — target, with a strongly progressive electorate (54% liberal, only 22% conservative, only 25% active LDS versus 66% statewide). Utah's Article I, Section 17 — "All elections shall be free, and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage" — provides a powerful state constitutional anchor that directly echoes 18 U.S.C. § 592.
 
 ---

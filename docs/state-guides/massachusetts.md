@@ -11,6 +11,15 @@ tags:
 
 # Massachusetts Municipal Election Protection Ordinance: Strategic Implementation Analysis
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places faces **moderate-to-high legal complexity** in Massachusetts due to constitutional constraints on local election regulation—but viable pathways exist. Massachusetts's Home Rule status, absence of anti-sanctuary laws, and established progressive municipal infrastructure create favorable conditions in select jurisdictions, with **Cambridge, Somerville, and Northampton** emerging as optimal launch sites.
 
 ---

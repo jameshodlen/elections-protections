@@ -12,6 +12,15 @@ tags:
 
 # North Carolina Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 North Carolina faces the most institutional turbulence among battleground states following SB 382's restructuring of its election board appointment authority, transferring power from the Governor to the State Auditor. The state uniquely uses a Board model rather than a Secretary of State for elections, with the NC State Board of Elections (NCSBE) operating under a 5-member bipartisan structure now led by appointees with a conservative tilt. Despite the institutional upheaval, North Carolina is nationally recognized as a leader in whole-of-state cybersecurity through its Joint Cybersecurity Task Force (JCTF), and the NC Cyber Security Response Force has supported election security through 5+ election cycles. The state did not join the 19-state EO 14248 lawsuit -- instead, NC was a target of DOJ action under the order. AG Jeff Jackson's authority has been significantly restricted by SB 382. North Carolina lacks a specific polling place firearms prohibition, though the educational property firearms ban (N.C.G.S. Section 14-269.2) covers many polling locations. The combination of institutional instability, restricted AG authority, Republican legislative supermajorities, and active DOJ targeting makes North Carolina one of the most challenging environments for municipal election protection ordinances.
 
 ---

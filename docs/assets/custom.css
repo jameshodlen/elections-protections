@@ -1,12 +1,24 @@
 /* ============================================================
    PROTECTIONS FOR ELECTIONS — CUSTOM STYLES
+   Unified green/gold brand aligned with flyer design system
    ============================================================ */
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
 /* ============================================================
-   DESIGN SYSTEM — ACCENT COLORS & CUSTOM PROPERTIES
+   DESIGN SYSTEM — BRAND COLORS & CUSTOM PROPERTIES
+   Palette sourced from flyer design: green-900 through green-50,
+   gold-500 accents, neutral charcoal/slate
    ============================================================ */
 
 :root {
+  /* Primary brand — forest green (from flyer palette) */
+  --md-primary-fg-color: #14532D;
+  --md-primary-fg-color--light: #166534;
+  --md-primary-fg-color--dark: #0D3B1E;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #EAB308;
+
   /* Tier colors (centralized) */
   --tier-green: #2e7d32;
   --tier-green-bg: rgba(46, 125, 50, 0.08);
@@ -22,9 +34,20 @@
   --accent-gold: #d97706;
   --accent-gold-hover: #b45309;
   --accent-gold-light: rgba(217, 119, 6, 0.12);
+
+  /* Flyer surface colors */
+  --surface-green-50: #F0FDF4;
+  --surface-green-100: #DCFCE7;
+  --surface-gold-50: #FEF9C3;
 }
 
 [data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #4ADE80;
+  --md-primary-fg-color--light: #22C55E;
+  --md-primary-fg-color--dark: #16A34A;
+  --md-primary-bg-color: #1e1e1e;
+  --md-accent-fg-color: #FACC15;
+
   --tier-green: #4caf50;
   --tier-green-bg: rgba(76, 175, 80, 0.12);
   --tier-yellow: #ff9800;
@@ -37,24 +60,55 @@
   --accent-gold: #fbbf24;
   --accent-gold-hover: #f59e0b;
   --accent-gold-light: rgba(251, 191, 36, 0.15);
+  --surface-green-50: rgba(74, 222, 128, 0.06);
+  --surface-green-100: rgba(74, 222, 128, 0.1);
+  --surface-gold-50: rgba(250, 204, 21, 0.08);
 }
 
 /* ============================================================
-   NEUTRAL GREY BACKGROUND
-   Override the default bright white with a softer neutral grey
+   NEUTRAL BACKGROUND — Warm off-white instead of stark white
    ============================================================ */
 
 [data-md-color-scheme="default"] {
-  --md-default-bg-color: #f0f0f0;
-  --md-default-bg-color--light: #e8e8e8;
+  --md-default-bg-color: #FAFAF5;
+  --md-default-bg-color--light: #F0F0EA;
 }
 
 /* ============================================================
-   TYPOGRAPHY — READING COMFORT
+   TYPOGRAPHY — DM Serif Display headings + DM Sans body
+   Mirrors the flyer's three-font hierarchy
    ============================================================ */
 
 .md-typeset {
   line-height: 1.8;
+}
+
+.md-typeset h1 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset h2 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  border-top: 2px solid var(--md-default-fg-color--lightest);
+  padding-top: 1.5rem;
+  margin-top: 2rem;
+}
+
+.md-typeset h2:first-of-type,
+.md-typeset .hero-banner + * h2:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.md-typeset h3 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-weight: 400;
 }
 
 .md-typeset p {
@@ -75,12 +129,13 @@
 }
 
 /* ============================================================
-   HEADER — LARGER SITE TITLE
+   HEADER — Site title in DM Serif Display
    ============================================================ */
 
 .md-header__topic .md-ellipsis {
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 400;
   letter-spacing: 0.01em;
 }
 
@@ -561,7 +616,7 @@
   }
 
   .md-typeset table:not([class]) thead {
-    background-color: #3f51b5 !important;
+    background-color: #14532D !important;
     color: white !important;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
@@ -613,6 +668,14 @@
    ADMONITION REFINEMENTS FOR TIER CONTENT
    ============================================================ */
 
+/* Admonition refinements — premium feel matching flyer style */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0 8px 8px 0;
+  border-left-width: 4px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
 /* Make success (GREEN tier) admonitions use green */
 .md-typeset .admonition.success,
 .md-typeset details.success {
@@ -644,13 +707,13 @@
 
 .hero-banner {
   background: linear-gradient(135deg,
-    #1a237e 0%,
-    #283593 30%,
-    #1565c0 60%,
-    #0d47a1 100%
+    #0D3B1E 0%,
+    #14532D 30%,
+    #166534 60%,
+    #1a5c2e 100%
   );
   color: #ffffff;
-  padding: 2rem 1.5rem 1.5rem;
+  padding: 2.5rem 2rem 2rem;
   margin: -0.8rem -0.8rem 1.5rem;
   border-radius: 0 0 8px 8px;
   position: relative;
@@ -669,17 +732,24 @@
 
 .hero-banner h1 {
   color: #ffffff !important;
-  font-size: 2rem;
-  font-weight: 800;
+  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-size: 2.4rem;
+  font-weight: 400;
   margin-bottom: 0.3rem;
   text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  border-top: none;
+  padding-top: 0;
 }
 
 .hero-banner h2 {
   color: rgba(255, 255, 255, 0.9) !important;
-  font-size: 1.1rem;
+  font-family: 'DM Serif Display', Georgia, serif !important;
+  font-size: 1.15rem;
   font-weight: 400;
   border-bottom: none;
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
   margin-bottom: 0.75rem;
 }
 
@@ -707,11 +777,24 @@
 
 [data-md-color-scheme="slate"] .hero-banner {
   background: linear-gradient(135deg,
-    #0d1b2a 0%,
-    #1b2838 30%,
-    #1a3a5c 60%,
-    #0d2137 100%
+    #0a1f12 0%,
+    #0D3B1E 30%,
+    #14532D 60%,
+    #0a2a16 100%
   );
+}
+
+/* Subtle § watermark on hero */
+.hero-banner::after {
+  content: '\00A7';
+  position: absolute;
+  bottom: -1.5rem;
+  right: 1.5rem;
+  font-size: 10rem;
+  font-family: 'DM Serif Display', Georgia, serif;
+  color: rgba(255,255,255,0.035);
+  pointer-events: none;
+  line-height: 1;
 }
 
 /* ============================================================
@@ -1071,7 +1154,7 @@
   background: var(--md-default-bg-color);
 }
 
-.flowchart-phase--1 { border-top: 4px solid var(--accent-teal); }
+.flowchart-phase--1 { border-top: 4px solid var(--md-primary-fg-color); }
 .flowchart-phase--2 { border-top: 4px solid var(--accent-gold); }
 .flowchart-phase--3 { border-top: 4px solid var(--tier-red); }
 
@@ -1450,6 +1533,150 @@
 }
 
 /* ============================================================
+   STATE GUIDE HEADER CARD
+   At-a-glance summary card at top of each state guide
+   ============================================================ */
+
+.state-header-card {
+  background: linear-gradient(135deg, #0D3B1E 0%, #14532D 100%);
+  color: #ffffff;
+  padding: 1.2rem 1.5rem;
+  border-radius: 8px;
+  margin: -0.5rem 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.state-header-card[data-tier="yellow"] {
+  background: linear-gradient(135deg, #7c2d12 0%, #9a3412 100%);
+}
+
+.state-header-card[data-tier="red"] {
+  background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
+}
+
+[data-md-color-scheme="slate"] .state-header-card {
+  background: linear-gradient(135deg, #0a2a16 0%, #14532D 100%);
+}
+
+[data-md-color-scheme="slate"] .state-header-card[data-tier="yellow"] {
+  background: linear-gradient(135deg, #5c1d0a 0%, #7c2d12 100%);
+}
+
+[data-md-color-scheme="slate"] .state-header-card[data-tier="red"] {
+  background: linear-gradient(135deg, #5c1010 0%, #7f1d1d 100%);
+}
+
+.state-header-tier {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.85;
+}
+
+.state-header-stats {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.state-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.state-stat-value {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: #EAB308;
+}
+
+.state-stat-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.7;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 600px) {
+  .state-header-stats {
+    gap: 1rem;
+  }
+  .state-stat-value {
+    font-size: 1.1rem;
+  }
+}
+
+/* ============================================================
+   BUTTON / .md-button REFINEMENTS
+   Make Material button links feel more polished
+   ============================================================ */
+
+.md-typeset .md-button {
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: all 0.15s ease;
+  margin: 0.2rem 0.15rem;
+}
+
+.md-typeset .md-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.md-typeset .md-button--primary {
+  background-color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: #fff !important;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: var(--md-primary-fg-color--dark);
+  border-color: var(--md-primary-fg-color--dark);
+}
+
+/* ============================================================
+   COALITION CARD GRID
+   ============================================================ */
+
+.coalition-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.coalition-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 3px solid var(--md-primary-fg-color);
+  border-radius: 0 6px 6px 0;
+  padding: 0.8rem 1rem;
+  background: var(--md-default-bg-color);
+  font-size: 0.88rem;
+}
+
+.coalition-card strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--md-primary-fg-color);
+}
+
+.coalition-card p {
+  margin: 0;
+  font-size: 0.84rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.5;
+}
+
+/* ============================================================
    PRINT ADDITIONS
    Hide interactive elements in print
    ============================================================ */
@@ -1475,5 +1702,15 @@
   .accordion-controls,
   .mega-menu-search {
     display: none !important;
+  }
+  .state-header-card {
+    background: none !important;
+    color: inherit !important;
+    border: 2px solid #14532D !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .state-stat-value {
+    color: #14532D !important;
   }
 }

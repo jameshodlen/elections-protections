@@ -12,6 +12,15 @@ tags:
 
 # Wyoming Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">1</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Wyoming presents a near-perfect storm of obstacles for municipal election protection ordinance strategies. It is the **most Republican state by presidential vote share** (Trump won 71.6% in 2024), with the Wyoming Freedom Caucus holding 34+ of 62 House seats — the first state Freedom Caucus to control a legislative chamber nationally. Comprehensive firearms preemption (W.S. 6-8-401), HB 172's expansion of gun-free zone repeal, HB 133's sanctuary city ban with private enforcement actions, and the Wyoming Supreme Court's narrow interpretation of home rule authority all render municipal ordinances legally impossible under current state law. However, Wyoming's constitution contains notably powerful language on free elections and military subordination that is valuable as legal research for briefs in other jurisdictions.
 
 ---

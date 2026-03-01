@@ -12,6 +12,15 @@ tags:
 
 # West Virginia Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 West Virginia stands out as the **highest-priority target for municipal ordinance strategy** among the Eastern states, combining the most alarming set of security gaps: no polling place firearms prohibition, constitutional carry (since 2016), strong state preemption blocking local action, misdemeanor-only voter intimidation penalties, no anti-paramilitary training statute, no AG election protection program, and an unimplemented cybersecurity framework (a January 2026 legislative audit found the Cybersecurity Office has **not fulfilled its mandate**). However, West Virginia's **Second Amendment Preservation and Anti-Federal Commandeering Act** (W. Va. Code § 61-7B, 2021) — which explicitly cites *Printz v. United States* — provides the campaign's most potent rhetorical and legal argument: if the state refuses to cooperate with federal firearms enforcement under anti-commandeering principles, a municipality should have the same right regarding armed federal personnel at polling places when enforcing existing federal law. Charleston, as the state capital and largest city with a Democratic mayor and original home rule participant status, is the primary — and likely only realistic — target. A non-binding resolution may be more appropriate than a binding ordinance given the extreme legislative supermajorities (Senate 32-2 R-D; House 91-9 R-D).
 
 ---

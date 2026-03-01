@@ -12,6 +12,15 @@ tags:
 
 # Maryland Election Protection Ordinance: Legal and Political Implementation Guide
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Maryland offers a **favorable but legally nuanced environment** for municipal election protection ordinances modeled on Madison, Wisconsin's approach to enforcing 18 U.S.C. § 592. The state's robust home rule framework, absence of anti-sanctuary laws, and concentration of progressive charter jurisdictions create viable pathways—though Maryland's comprehensive Election Law Article presents **moderate-to-high preemption risk** that requires careful ordinance drafting. Baltimore City, Montgomery County, and Howard County emerge as optimal launch jurisdictions, supported by an established coalition infrastructure centered on ACLU of Maryland and Common Cause Maryland.
 
 ---

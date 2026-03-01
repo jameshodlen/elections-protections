@@ -12,6 +12,15 @@ tags:
 
 # Kansas Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Kansas possesses one of the **strongest home rule frameworks in the nation**. Article 12, Section 5 of the Kansas Constitution (adopted 1961) empowers cities to "determine their local affairs and government including the levying of taxes, excises, fees, charges and other exactions," with a mandatory liberal construction clause requiring "the largest measure of self-government." This constitutional entrenchment, combined with progressive urban targets (Lawrence, the Wyandotte County/KCK Unified Government, Topeka), an established ACLU-led election protection coalition, and a 250-foot electioneering buffer zone, makes Kansas a Tier 2 (Moderate viability) state. The unique Wyandotte Unified Government structure allows a single ordinance to cover an entire county under both city and county home rule authority — the strongest single target across the four-state Kansas-Missouri-Nebraska-Iowa campaign.
 
 ---

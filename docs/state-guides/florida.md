@@ -12,6 +12,15 @@ tags:
 
 # Florida Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Florida possesses the **strongest municipal home rule framework** of any Deep South target state and among the most secure election infrastructure in the nation, but faces an impenetrable firearms preemption wall. The state's Constitution (Article VIII) and the Municipal Home Rule Powers Act (Ch. 166) grant broad authority, and the Florida Supreme Court held in *Sarasota Alliance for Fair Elections v. Browning* that the Election Code does **not** preempt the field of elections law — the single most important precedent for this campaign. However, **F.S. Section 790.33** is one of the most aggressive firearms preemption statutes in the country, with personal civil fines of up to $5,000 against local officials who enact firearms ordinances. The ordinance's strongest framing is as a **local resource allocation directive** — not an election or firearms regulation — grounding authority in municipal police power and anti-commandeering principles.
 
 ---

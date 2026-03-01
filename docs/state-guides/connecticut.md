@@ -13,6 +13,15 @@ tags:
 
 # Connecticut Election Protection Ordinance: Legal and Political Research Report
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 **Connecticut presents a challenging but navigable legal landscape for municipal election protection ordinances.** While the state's hybrid Dillon's Rule system and explicit election preemption statute (CGS § 7-192a) create significant barriers, municipalities retain authority over police operations and local resources that could support a carefully framed ordinance. Three municipalities—New Haven, Hartford, and Hamden—offer the strongest prospects for success, backed by an existing coalition infrastructure that successfully passed the nation's strongest state voting rights act in 2023.
 
 ---
