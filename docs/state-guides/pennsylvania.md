@@ -226,11 +226,11 @@ The AG has prosecutorial jurisdiction over **all** Election Code violations (25 
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Allegheny County** — ~1,250,578](../flyers/city/PA_allegheny-county.html){:target="_blank" .md-button}
-    [:material-file-download: **Harrisburg** — ~50,099](../flyers/city/PA_harrisburg.html){:target="_blank" .md-button}
-    [:material-file-download: **Philadelphia** — ~1,603,797](../flyers/city/PA_philadelphia.html){:target="_blank" .md-button}
-    [:material-file-download: **Pittsburgh** — ~302,971](../flyers/city/PA_pittsburgh.html){:target="_blank" .md-button}
-    [:material-file-download: **State College** — ~40,501](../flyers/city/PA_state-college.html){:target="_blank" .md-button}
+[:material-file-download: **Allegheny County** — ~1,250,578](../flyers/city/PA_allegheny-county.html){:target="_blank" .md-button}
+[:material-file-download: **Harrisburg** — ~50,099](../flyers/city/PA_harrisburg.html){:target="_blank" .md-button}
+[:material-file-download: **Philadelphia** — ~1,603,797](../flyers/city/PA_philadelphia.html){:target="_blank" .md-button}
+[:material-file-download: **Pittsburgh** — ~302,971](../flyers/city/PA_pittsburgh.html){:target="_blank" .md-button}
+[:material-file-download: **State College** — ~40,501](../flyers/city/PA_state-college.html){:target="_blank" .md-button}
 

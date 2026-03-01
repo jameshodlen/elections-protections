@@ -165,9 +165,9 @@ North Dakota's **citizen initiative process** provides a significant alternative
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Bismarck** — ~78,000](../flyers/city/ND_bismarck.html){:target="_blank" .md-button}
-    [:material-file-download: **Fargo** — ~136,000](../flyers/city/ND_fargo.html){:target="_blank" .md-button}
-    [:material-file-download: **Grand Forks** — ~60,000](../flyers/city/ND_grand-forks.html){:target="_blank" .md-button}
+[:material-file-download: **Bismarck** — ~78,000](../flyers/city/ND_bismarck.html){:target="_blank" .md-button}
+[:material-file-download: **Fargo** — ~136,000](../flyers/city/ND_fargo.html){:target="_blank" .md-button}
+[:material-file-download: **Grand Forks** — ~60,000](../flyers/city/ND_grand-forks.html){:target="_blank" .md-button}
 

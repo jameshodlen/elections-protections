@@ -208,11 +208,11 @@ The **critical strategic implication** for New Hampshire: municipal ordinances p
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Concord** — ~44,700](../flyers/city/NH_concord.html){:target="_blank" .md-button}
-    [:material-file-download: **Durham** — ~15,500](../flyers/city/NH_durham.html){:target="_blank" .md-button}
-    [:material-file-download: **Hanover** — ~11,900](../flyers/city/NH_hanover.html){:target="_blank" .md-button}
-    [:material-file-download: **Keene** — ~23,000](../flyers/city/NH_keene.html){:target="_blank" .md-button}
-    [:material-file-download: **Portsmouth** — ~22,900](../flyers/city/NH_portsmouth.html){:target="_blank" .md-button}
+[:material-file-download: **Concord** — ~44,700](../flyers/city/NH_concord.html){:target="_blank" .md-button}
+[:material-file-download: **Durham** — ~15,500](../flyers/city/NH_durham.html){:target="_blank" .md-button}
+[:material-file-download: **Hanover** — ~11,900](../flyers/city/NH_hanover.html){:target="_blank" .md-button}
+[:material-file-download: **Keene** — ~23,000](../flyers/city/NH_keene.html){:target="_blank" .md-button}
+[:material-file-download: **Portsmouth** — ~22,900](../flyers/city/NH_portsmouth.html){:target="_blank" .md-button}
 

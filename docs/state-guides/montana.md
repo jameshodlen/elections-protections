@@ -144,11 +144,11 @@ Montana's voter intimidation statutes include MCA Section 13-35-218 (coercion of
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Billings** — ~121,000](../flyers/city/MT_billings.html){:target="_blank" .md-button}
-    [:material-file-download: **Bozeman** — ~58,000](../flyers/city/MT_bozeman.html){:target="_blank" .md-button}
-    [:material-file-download: **Great Falls** — ~60,000](../flyers/city/MT_great-falls.html){:target="_blank" .md-button}
-    [:material-file-download: **Helena** — ~35,000](../flyers/city/MT_helena.html){:target="_blank" .md-button}
-    [:material-file-download: **Missoula** — ~78,000](../flyers/city/MT_missoula.html){:target="_blank" .md-button}
+[:material-file-download: **Billings** — ~121,000](../flyers/city/MT_billings.html){:target="_blank" .md-button}
+[:material-file-download: **Bozeman** — ~58,000](../flyers/city/MT_bozeman.html){:target="_blank" .md-button}
+[:material-file-download: **Great Falls** — ~60,000](../flyers/city/MT_great-falls.html){:target="_blank" .md-button}
+[:material-file-download: **Helena** — ~35,000](../flyers/city/MT_helena.html){:target="_blank" .md-button}
+[:material-file-download: **Missoula** — ~78,000](../flyers/city/MT_missoula.html){:target="_blank" .md-button}
 

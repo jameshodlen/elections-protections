@@ -237,8 +237,8 @@ With Common Cause Rhode Island coordinating existing coalition infrastructure, A
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Central Falls** — ~22,600](../flyers/city/RI_central-falls.html){:target="_blank" .md-button}
-    [:material-file-download: **Providence** — ~195,000](../flyers/city/RI_providence.html){:target="_blank" .md-button}
+[:material-file-download: **Central Falls** — ~22,600](../flyers/city/RI_central-falls.html){:target="_blank" .md-button}
+[:material-file-download: **Providence** — ~195,000](../flyers/city/RI_providence.html){:target="_blank" .md-button}
 

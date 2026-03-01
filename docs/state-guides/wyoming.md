@@ -134,7 +134,7 @@ Wyoming is **the only state in this batch where voter intimidation is exclusivel
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Jackson/Teton County** — ~10,700 (town) / ~23,400 (county)](../flyers/city/WY_jackson-teton-county.html){:target="_blank" .md-button}
+[:material-file-download: **Jackson/Teton County** — ~10,700 (town) / ~23,400 (county)](../flyers/city/WY_jackson-teton-county.html){:target="_blank" .md-button}
 

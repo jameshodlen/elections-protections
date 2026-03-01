@@ -211,8 +211,8 @@ Ordinances should be framed as **policy directives** governing local resource al
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Las Cruces** — ~113,000](../flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
-    [:material-file-download: **Santa Fe** — ~87,500](../flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
+[:material-file-download: **Las Cruces** — ~113,000](../flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
+[:material-file-download: **Santa Fe** — ~87,500](../flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
 

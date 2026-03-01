@@ -377,9 +377,9 @@ With careful drafting that leverages Michigan's constitutional provisions, targe
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Ann Arbor** — ~123,000](../flyers/city/MI_ann-arbor.html){:target="_blank" .md-button}
-    [:material-file-download: **East Lansing** — ~49,000](../flyers/city/MI_east-lansing.html){:target="_blank" .md-button}
-    [:material-file-download: **Ferndale** — ~19,400](../flyers/city/MI_ferndale.html){:target="_blank" .md-button}
+[:material-file-download: **Ann Arbor** — ~123,000](../flyers/city/MI_ann-arbor.html){:target="_blank" .md-button}
+[:material-file-download: **East Lansing** — ~49,000](../flyers/city/MI_east-lansing.html){:target="_blank" .md-button}
+[:material-file-download: **Ferndale** — ~19,400](../flyers/city/MI_ferndale.html){:target="_blank" .md-button}
 

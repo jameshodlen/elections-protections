@@ -155,9 +155,9 @@ The **Idaho Supreme Court** scores 7.0 on Ballotpedia's Republican-control scale
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Boise** — ~250,000](../flyers/city/ID_boise.html){:target="_blank" .md-button}
-    [:material-file-download: **Moscow** — ~25,000](../flyers/city/ID_moscow.html){:target="_blank" .md-button}
-    [:material-file-download: **Pocatello** — ~56,000](../flyers/city/ID_pocatello.html){:target="_blank" .md-button}
+[:material-file-download: **Boise** — ~250,000](../flyers/city/ID_boise.html){:target="_blank" .md-button}
+[:material-file-download: **Moscow** — ~25,000](../flyers/city/ID_moscow.html){:target="_blank" .md-button}
+[:material-file-download: **Pocatello** — ~56,000](../flyers/city/ID_pocatello.html){:target="_blank" .md-button}
 

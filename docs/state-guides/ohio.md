@@ -206,11 +206,11 @@ An ordinance framed as protecting federal election law (18 U.S.C. § 592) rather
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Akron** — ~190,000](../flyers/city/OH_akron.html){:target="_blank" .md-button}
-    [:material-file-download: **Cincinnati** — ~315,000](../flyers/city/OH_cincinnati.html){:target="_blank" .md-button}
-    [:material-file-download: **Cleveland** — ~365,000](../flyers/city/OH_cleveland.html){:target="_blank" .md-button}
-    [:material-file-download: **Columbus** — ~933,000](../flyers/city/OH_columbus.html){:target="_blank" .md-button}
-    [:material-file-download: **Toledo** — ~265,000](../flyers/city/OH_toledo.html){:target="_blank" .md-button}
+[:material-file-download: **Akron** — ~190,000](../flyers/city/OH_akron.html){:target="_blank" .md-button}
+[:material-file-download: **Cincinnati** — ~315,000](../flyers/city/OH_cincinnati.html){:target="_blank" .md-button}
+[:material-file-download: **Cleveland** — ~365,000](../flyers/city/OH_cleveland.html){:target="_blank" .md-button}
+[:material-file-download: **Columbus** — ~933,000](../flyers/city/OH_columbus.html){:target="_blank" .md-button}
+[:material-file-download: **Toledo** — ~265,000](../flyers/city/OH_toledo.html){:target="_blank" .md-button}
 

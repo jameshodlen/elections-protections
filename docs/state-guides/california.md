@@ -328,9 +328,9 @@ The legal risk profile is low to moderate for charter cities, with the strongest
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Berkeley** — ~124,000](../flyers/city/CA_berkeley.html){:target="_blank" .md-button}
-    [:material-file-download: **San Francisco** — ~874,000](../flyers/city/CA_san-francisco.html){:target="_blank" .md-button}
-    [:material-file-download: **West Hollywood** — ~35,000](../flyers/city/CA_west-hollywood.html){:target="_blank" .md-button}
+[:material-file-download: **Berkeley** — ~124,000](../flyers/city/CA_berkeley.html){:target="_blank" .md-button}
+[:material-file-download: **San Francisco** — ~874,000](../flyers/city/CA_san-francisco.html){:target="_blank" .md-button}
+[:material-file-download: **West Hollywood** — ~35,000](../flyers/city/CA_west-hollywood.html){:target="_blank" .md-button}
 

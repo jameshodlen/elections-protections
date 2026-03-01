@@ -188,9 +188,9 @@ Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery Cou
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Baltimore City** — ~570,000](../flyers/city/MD_baltimore-city.html){:target="_blank" .md-button}
-    [:material-file-download: **Howard County** — ~334,500](../flyers/city/MD_howard-county.html){:target="_blank" .md-button}
-    [:material-file-download: **Montgomery County** — ~1,062,000](../flyers/city/MD_montgomery-county.html){:target="_blank" .md-button}
+[:material-file-download: **Baltimore City** — ~570,000](../flyers/city/MD_baltimore-city.html){:target="_blank" .md-button}
+[:material-file-download: **Howard County** — ~334,500](../flyers/city/MD_howard-county.html){:target="_blank" .md-button}
+[:material-file-download: **Montgomery County** — ~1,062,000](../flyers/city/MD_montgomery-county.html){:target="_blank" .md-button}
 
