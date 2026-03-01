@@ -12,6 +12,15 @@ tags:
 
 # Oklahoma Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Oklahoma presents the most hostile legal environment for municipal election protection ordinances among the states analyzed, combining the nation's most punitive firearms preemption regime with no polling-place firearms ban and constitutional carry. However, two factors create strategic opportunity: Tulsa's election of Mayor Monroe Nichols (D) — the city's first Democratic mayor since 2006 and first Black mayor — and Oklahoma's own **SB 631 (2021)**, the Second Amendment Sanctuary State Act, which establishes the identical anti-commandeering principle the proposed ordinance would invoke. The state constitution's Article II, § 4 — "No power, civil or military, shall ever interfere to prevent the free exercise of the right of suffrage" — is among the strongest such provisions nationally and provides a powerful anchor for election protection arguments. The widest electioneering buffer zone in the Southern/Border state group (300 feet) demonstrates existing legislative acceptance of polling place protections.
 
 ---

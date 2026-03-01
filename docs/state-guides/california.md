@@ -12,6 +12,15 @@ tags:
 
 # California's legal and political landscape favors municipal election protection ordinances
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Charter City</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 California offers an unusually favorable environment for local election protection ordinances based on 18 U.S.C. § 592. The state's robust Home Rule doctrine, explicit constitutional protection for charter city control over police and elections, existing state law prohibiting armed presence at polls, and the precedent established by SB 54's successful defense against federal challenge create a strong legal foundation. **Berkeley, San Francisco, and West Hollywood emerge as optimal targets**, with a well-established coalition infrastructure ready to mobilize.
 
 ---

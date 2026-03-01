@@ -13,6 +13,15 @@ tags:
 
 # Implementing polling place protection ordinances in New York State
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 New York's robust home rule framework provides strong legal authority for municipalities to enact ordinances directing local police not to assist armed federal personnel at polling places—but preemption risks require careful drafting. The combination of NY Constitution Article IX, Municipal Home Rule Law § 10, and the absence of anti-sanctuary statutes creates a viable legal pathway, particularly when ordinances are framed as police operational directives rather than election regulations. **New York City**, **Ithaca**, and **Rochester** emerge as the top three strategic targets based on political composition, progressive legislative history, and established civil liberties infrastructure.
 
 ---

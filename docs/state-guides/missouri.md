@@ -12,6 +12,15 @@ tags:
 
 # Missouri Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Missouri presents the strongest opportunity within the Plains and Mountain West batch for municipal ordinance strategies enforcing 18 U.S.C. § 592. It is the only state in the region with an existing statutory polling place firearms restriction, the nation's oldest home rule tradition (dating to 1875), and a narrow but real municipal exception for regulating open carry. The combination of progressive urban centers (St. Louis, Kansas City, Columbia), robust coalition infrastructure centered on the Missouri Voter Protection Coalition, and the instructive SAPA litigation precedent create a viable — if legally contested — pathway for municipal action.
 
 ---

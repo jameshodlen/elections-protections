@@ -12,6 +12,15 @@ tags:
 
 # Mississippi Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Mississippi is the most resource-constrained state in this batch, with **ambiguous firearms protections** at polling places, **no constitutional home rule**, and election security infrastructure identified by the Brennan Center as among the most limited in the nation. Concealed carry without an enhanced permit is prohibited at polling places, but **enhanced carry permit holders may be exempt** and there is **no explicit prohibition on open carry** at polling places for non-candidates. Mississippi is a **strong Dillon's Rule state** with Section 21-17-5(2)(c) explicitly barring municipalities from changing election requirements, practices, or procedures — making municipal election ordinance campaigns essentially impossible. The state adopted constitutional carry in 2016 (the earliest in this batch) and has comprehensive firearms preemption with personal fines on violating officials. The campaign's primary value here is monitoring, coalition-building, and federal enforcement advocacy.
 
 ---

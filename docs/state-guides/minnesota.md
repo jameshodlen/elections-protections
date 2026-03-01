@@ -13,6 +13,15 @@ tags:
 
 # Minnesota Municipal Ordinance Implementation: Legal and Political Analysis for 18 U.S.C. § 592 Enforcement
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Minnesota presents an unusually favorable legal environment for municipal ordinances reinforcing federal restrictions on armed presence at polling places. The state already codifies peace officer restrictions at polls under **Minn. Stat. § 204C.06**, its home rule charter framework grants broad municipal authority, and established civil liberties coalitions provide ready infrastructure for advocacy. Minneapolis, St. Paul, and Duluth emerge as optimal launch cities, each offering charter authority, progressive councils, and histories of pioneering civil liberties legislation.
 
 ---

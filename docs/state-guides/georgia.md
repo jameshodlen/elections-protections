@@ -12,6 +12,15 @@ tags:
 
 # Georgia Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Georgia has the **strongest polling place firearms ban** among all seven Deep South states — O.C.G.A. Section 21-2-413(i) prohibits firearms within 150 feet of any active polling place — but broad preemption still blocks local action. The Georgia Constitution (Art. IX, Section II) explicitly **excludes elections from the home rule powers** of counties and municipalities, and O.C.G.A. Section 16-11-173 broadly preempts local firearms regulation. Despite existing strong state-level protections, Georgia's election security history includes significant incidents (the Coffee County breach, Curling v. Raffensperger vulnerabilities), and the loss of federal CISA support creates higher baseline risk given Georgia's status as an election security target. The municipal ordinance strategy faces structural barriers, but the existing protections reduce the urgency relative to Alabama and Tennessee.
 
 ---

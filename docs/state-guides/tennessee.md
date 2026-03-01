@@ -12,6 +12,15 @@ tags:
 
 # Tennessee Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Tennessee presents a **critical firearms gap** — the state has **NO specific statute prohibiting firearms at polling places**, confirmed by Giffords Law Center — combined with the **most hostile preemption environment in the nation**. The legislature preempts local law more than any other state across 7 of 12 policy domains studied, and in a 2025 special session made it a **Class E felony** (up to 6 years prison, $3,000 fine) for any public official who votes in favor of sanctuary policies. Tennessee elections are administered entirely by County Election Commissions appointed by the State Election Commission (itself selected by the General Assembly), giving municipalities **zero formal role** in election administration. While Nashville's extensive litigation capacity and progressive leadership make symbolic passage likely, near-certain state retaliation makes ordinance survival essentially impossible. The campaign's value is in messaging, coalition-building, and forcing the state to publicly defend the absence of polling place protections.
 
 ---

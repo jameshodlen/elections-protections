@@ -12,6 +12,15 @@ tags:
 
 # Vermont Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Vermont presents a **unique combination of strengths and constraints** for election protection ordinances. The state resolved its core firearms gap in 2024 by enacting 13 V.S.A. Section 4027, banning firearms at polling places -- notable because Vermont has been a constitutional carry state since 1793, making this a significant bipartisan achievement (Governor Scott, R, allowed it to become law without his signature). Vermont joined the 19-state lawsuit against EO 14248, and AG Charity R. Clark is among the most active AGs nationally with 41+ lawsuits against the Trump administration. However, Dillon's Rule constraints, statewide firearms preemption (24 V.S.A. Section 2295), notably weak voter intimidation penalties ($200 fine), no distance-based buffer zone, and severe resource constraints following CISA withdrawal create meaningful challenges. Secretary of State Copeland Hanzas stated bluntly: "It appears that we are on our own for now."
 
 ---

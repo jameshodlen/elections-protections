@@ -13,6 +13,15 @@ tags:
 
 # Implementing 18 U.S.C. § 592 polling place protections in New Mexico municipalities
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 New Mexico offers a viable pathway for Madison-style municipal ordinances protecting polling places from armed federal personnel, though strategic navigation of the state's hybrid home rule system is essential. The state's ten charter cities—particularly Santa Fe and Las Cruces—have both the legal authority and progressive political environments to serve as launching points for this campaign. Recent passage of the New Mexico Voting Rights Act (2023) and the first-in-the-nation Native American Voting Rights Act demonstrates strong coalitional infrastructure for election protection measures. However, a January 2025 New Mexico Supreme Court decision establishes important limits on local ordinances that conflict with state policy on matters of "statewide concern," requiring careful legal positioning.
 
 ## Section 1: New Mexico operates as a hybrid Dillon's Rule state with optional home rule

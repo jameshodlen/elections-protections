@@ -12,6 +12,15 @@ tags:
 
 # Kentucky Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="yellow" markdown>
+  <div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Kentucky offers moderate viability for municipal election protection ordinances, anchored by Louisville Metro's unique status as a consolidated city-county government with "complete home rule" under KRS 83.410(4). The state has **no statute prohibiting firearms at polling places** and became a constitutional carry state in 2019, but its home rule framework — particularly for Louisville Metro and Lexington-Fayette — provides a stronger legal platform than most red states. The most viable near-term approach leverages KRS 237.115(2)'s exception allowing government entities to prohibit concealed carry in government-owned buildings. Louisville's passage of "Breonna's Law" (2020, banning no-knock warrants, passed unanimously) demonstrates institutional capacity for progressive public safety ordinances. However, KRS 65.870's criminal penalties for firearms preemption violations create existential personal risk for council members, making careful legal strategy essential.
 
 ---

@@ -12,6 +12,15 @@ tags:
 
 # Montana Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Self-Gov</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Montana's local government framework is **uniquely favorable for municipal ordinance strategies** within the Plains and Mountain West batch. Under the 1972 Montana Constitution, Article XI, Section 6, self-governing municipalities may exercise "any power not prohibited by this constitution, law, or charter" — effectively reversing Dillon's Rule. Forty-three of Montana's 127 municipalities have adopted self-governing charters, and Montana Constitution Article II, Section 13 provides language directly parallel to 18 U.S.C. Section 592: "no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage." However, LR-130 (2020) and HB 102 (2021) significantly expanded firearms preemption, creating acute legal tension with self-governing authority.
 
 ---

@@ -12,6 +12,15 @@ tags:
 
 # Maine Municipal Election Protection Ordinance: Legal and Political Analysis
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places faces an unusually favorable legal landscape in Maine. The state's strong home rule framework, absence of anti-sanctuary laws, and recent progressive electoral victories in key cities create optimal conditions for passage—particularly in **Portland**, where the city council unanimously condemned ICE enforcement tactics in September 2025.
 
 ---

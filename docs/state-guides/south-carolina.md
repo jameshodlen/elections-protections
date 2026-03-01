@@ -12,6 +12,15 @@ tags:
 
 # South Carolina Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 South Carolina is the **best-positioned for existing polling place protections** among the Deep South states — it has a **total prohibition** on firearms at polling places on election days and the **second-largest buffer zone** at 500 feet — but preemption still blocks local action. The state abolished Dillon's Rule in 1973 and the SC Supreme Court confirmed this in *Williams v. Town of Hilton Head Island* (1993), but **Article VIII, Section 14(2)** of the SC Constitution contains a **near-fatal limitation**: "election and suffrage qualifications" are among matters where general law provisions "shall not be set aside" by local action. This is the **strongest constitutional bar against a local election protection ordinance** of any target state. AG Alan Wilson (R, running for Governor 2026) has consistently and aggressively policed local authority, suing Columbia in 2020 for passing local gun ordinances.
 
 ---

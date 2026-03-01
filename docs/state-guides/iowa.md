@@ -12,6 +12,15 @@ tags:
 
 # Iowa Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Iowa has **strong constitutional home rule** that explicitly repudiates Dillon's Rule, with Article III, Section 38A declaring "the rule or proposition of law that a municipal corporation possesses and can exercise only those powers granted in express words is not a part of the law of this state." However, the state's aggressive preemption environment — Republican supermajority, AG Bird's enforcement posture, the Chapter 27A anti-sanctuary precedent, and the demonstrated pattern of retroactive preemption — makes long-term survival of any ordinance extremely doubtful. Iowa maintains the nation's second-largest buffer zone (300 feet) but has no firearms restriction at polling places, constitutional carry, and a 2022 strict-scrutiny constitutional amendment that creates an extremely hostile legal environment for any new firearms restriction.
 
 ---

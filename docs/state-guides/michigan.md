@@ -13,6 +13,15 @@ tags:
 
 # Michigan election protection ordinance: A strategic implementation guide
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 **Michigan's constitutional framework strongly supports municipal election protection ordinances** prohibiting city resources from assisting armed federal personnel near polling places. As a definitively home rule state with robust constitutional protections for local authority, Michigan charter cities possess broad powers to direct municipal police departments and allocate city resources—powers directly applicable to enforcing 18 U.S.C. § 592. Three cities stand out as optimal launch targets: East Lansing (currently Michigan's only municipality on the DOJ sanctuary list), Ann Arbor (designated an ACLU "Freedom City"), and Ferndale (LGBTQ civil rights hub). A strong coalition infrastructure already exists through Promote the Vote Michigan's network of 40+ organizations with established election protection programming.
 
 ---

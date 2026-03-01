@@ -12,6 +12,15 @@ tags:
 
 # Arizona Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Arizona is a high-stakes battleground for election protection. The state features one of the most active election litigation landscapes in the nation, a constitutional Free and Equal Elections Clause that directly mirrors 18 U.S.C. Section 592 ("no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage"), an explicit firearms prohibition at polling places, and a Democratic Secretary of State (Adrian Fontes) who established the state's first dedicated Election Cybersecurity Unit. Arizona joined the 19-state lawsuit against EO 14248, and AG Kris Mayes obtained grand jury indictments of 11 "fake electors." However, the state's deeply polarized political environment, aggressive election litigation from all sides, and the massive scale of Maricopa County (2.6 million registered voters, 4th-largest county nationally) create significant challenges. Real cybersecurity threats materialized in 2025 with Iranian-linked attacks on the SOS candidate portal and website.
 
 ---

@@ -12,6 +12,15 @@ tags:
 
 # Alabama Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Alabama presents arguably the most hostile legal environment for a municipal election protection ordinance among all Deep South states. The state has **no statute prohibiting firearms at polling places**, the **weakest home rule in the nation** under strict Dillon's Rule, the smallest electioneering buffer zone in this group (30 feet), and comprehensive firearms preemption that expressly overrides any home rule authority. Combined with a proven 16-day preemption turnaround, Republican supermajorities, and thin cybersecurity capacity, Alabama represents the greatest gap in polling place protections and simultaneously the most impenetrable barrier to local reform. The campaign's primary value here is coalition-building, movement infrastructure, and federal enforcement advocacy.
 
 ---

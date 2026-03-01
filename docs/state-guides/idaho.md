@@ -12,6 +12,15 @@ tags:
 
 # Idaho Municipal Ordinance Implementation
 
+<div class="state-header-card" data-tier="red" markdown>
+  <div class="state-header-tier">Tier 3 — Significant Barriers</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 Idaho is a **Dillon's Rule state** where municipalities may exercise only powers expressly granted, necessarily implied, or absolutely essential. The combination of Dillon's Rule governance, comprehensive firearms field preemption under Idaho Code Section 18-3302J, AG Labrador's aggressive enforcement posture, and a 90-15 Republican legislative supermajority creates near-insurmountable legal barriers for municipal ordinance strategies. However, Boise's progressive-leaning city government and the ordinance's framing as enforcement of existing federal criminal law (rather than firearms regulation) provide a narrow pathway worth pursuing for strategic and narrative value.
 
 ---

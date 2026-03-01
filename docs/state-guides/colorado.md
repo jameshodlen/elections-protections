@@ -13,6 +13,15 @@ tags:
 
 # Colorado legal landscape strongly favors municipal election protection ordinances
 
+<div class="state-header-card" data-tier="green" markdown>
+  <div class="state-header-tier">Tier 1 — Strong Viability</div>
+  <div class="state-header-stats">
+    <div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+    <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
+  </div>
+</div>
+
+
 **Colorado offers exceptionally fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the optimal launch city, with Denver and the newly progressive Aurora as strong secondary targets.
 
 The core legal insight: Unlike most states, Colorado no longer preempts local firearms regulation, making Supremacy Clause arguments against state law largely unnecessary. Home rule municipalities possess broad authority over "local and municipal matters" under Article XX of the Colorado Constitution, and the state's existing sanctuary-style laws protecting immigrants from federal overreach provide favorable precedent for ordinances limiting local cooperation with armed federal personnel at polling places.
