@@ -174,12 +174,12 @@ A **council ordinance** is recommended — charter amendments require voter appr
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Ames** — ~66,000](../flyers/city/IA_ames.html){:target="_blank" .md-button}
-    [:material-file-download: **Cedar Rapids** — ~138,000](../flyers/city/IA_cedar-rapids.html){:target="_blank" .md-button}
-    [:material-file-download: **Davenport** — ~102,000](../flyers/city/IA_davenport.html){:target="_blank" .md-button}
-    [:material-file-download: **Des Moines** — ~214,000](../flyers/city/IA_des-moines.html){:target="_blank" .md-button}
-    [:material-file-download: **Iowa City** — ~75,000](../flyers/city/IA_iowa-city.html){:target="_blank" .md-button}
-    [:material-file-download: **Johnson County (Iowa City)** — ~75,000](../flyers/city/IA_johnson-county-iowa-city.html){:target="_blank" .md-button}
+[:material-file-download: **Ames** — ~66,000](../flyers/city/IA_ames.html){:target="_blank" .md-button}
+[:material-file-download: **Cedar Rapids** — ~138,000](../flyers/city/IA_cedar-rapids.html){:target="_blank" .md-button}
+[:material-file-download: **Davenport** — ~102,000](../flyers/city/IA_davenport.html){:target="_blank" .md-button}
+[:material-file-download: **Des Moines** — ~214,000](../flyers/city/IA_des-moines.html){:target="_blank" .md-button}
+[:material-file-download: **Iowa City** — ~75,000](../flyers/city/IA_iowa-city.html){:target="_blank" .md-button}
+[:material-file-download: **Johnson County (Iowa City)** — ~75,000](../flyers/city/IA_johnson-county-iowa-city.html){:target="_blank" .md-button}
 

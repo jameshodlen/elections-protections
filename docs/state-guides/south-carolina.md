@@ -205,10 +205,10 @@ The **SC Critical Infrastructure Cybersecurity (SC CIC)** program, led by SLED C
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Charleston** — ~150,200](../flyers/city/SC_charleston.html){:target="_blank" .md-button}
-    [:material-file-download: **Columbia** — ~136,600](../flyers/city/SC_columbia.html){:target="_blank" .md-button}
-    [:material-file-download: **Greenville** — ~70,700](../flyers/city/SC_greenville.html){:target="_blank" .md-button}
-    [:material-file-download: **North Charleston** — ~114,900](../flyers/city/SC_north-charleston.html){:target="_blank" .md-button}
+[:material-file-download: **Charleston** — ~150,200](../flyers/city/SC_charleston.html){:target="_blank" .md-button}
+[:material-file-download: **Columbia** — ~136,600](../flyers/city/SC_columbia.html){:target="_blank" .md-button}
+[:material-file-download: **Greenville** — ~70,700](../flyers/city/SC_greenville.html){:target="_blank" .md-button}
+[:material-file-download: **North Charleston** — ~114,900](../flyers/city/SC_north-charleston.html){:target="_blank" .md-button}
 

@@ -203,9 +203,9 @@ Estimated cumulative HAVA election security funding since 2018: **approximately 
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Eureka Springs** — ~2,200](../flyers/city/AR_eureka-springs.html){:target="_blank" .md-button}
-    [:material-file-download: **Fayetteville** — ~103,000](../flyers/city/AR_fayetteville.html){:target="_blank" .md-button}
-    [:material-file-download: **Little Rock** — ~205,000](../flyers/city/AR_little-rock.html){:target="_blank" .md-button}
+[:material-file-download: **Eureka Springs** — ~2,200](../flyers/city/AR_eureka-springs.html){:target="_blank" .md-button}
+[:material-file-download: **Fayetteville** — ~103,000](../flyers/city/AR_fayetteville.html){:target="_blank" .md-button}
+[:material-file-download: **Little Rock** — ~205,000](../flyers/city/AR_little-rock.html){:target="_blank" .md-button}
 

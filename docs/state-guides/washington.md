@@ -245,9 +245,9 @@ An election protection ordinance is legally viable in Washington if drafted to e
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
-    [:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
-    [:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
+[:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
+[:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
+[:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
 

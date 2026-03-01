@@ -223,9 +223,9 @@ Louisiana has developed notable capacity through **Chief Cyber Officer Dustin Gl
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Baton Rouge** — ~453,000](../flyers/city/LA_baton-rouge.html){:target="_blank" .md-button}
-    [:material-file-download: **New Orleans** — ~363,000](../flyers/city/LA_new-orleans.html){:target="_blank" .md-button}
-    [:material-file-download: **Shreveport** — ~181,000](../flyers/city/LA_shreveport.html){:target="_blank" .md-button}
+[:material-file-download: **Baton Rouge** — ~453,000](../flyers/city/LA_baton-rouge.html){:target="_blank" .md-button}
+[:material-file-download: **New Orleans** — ~363,000](../flyers/city/LA_new-orleans.html){:target="_blank" .md-button}
+[:material-file-download: **Shreveport** — ~181,000](../flyers/city/LA_shreveport.html){:target="_blank" .md-button}
 

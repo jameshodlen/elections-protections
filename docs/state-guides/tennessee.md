@@ -209,10 +209,10 @@ Secretary of State **Tre Hargett** (R) oversees the Division of Elections. **Sta
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Chattanooga** — ~191,000](../flyers/city/TN_chattanooga.html){:target="_blank" .md-button}
-    [:material-file-download: **Knoxville** — ~198,000](../flyers/city/TN_knoxville.html){:target="_blank" .md-button}
-    [:material-file-download: **Memphis** — ~620,000](../flyers/city/TN_memphis.html){:target="_blank" .md-button}
-    [:material-file-download: **Nashville** — ~690,000](../flyers/city/TN_nashville.html){:target="_blank" .md-button}
+[:material-file-download: **Chattanooga** — ~191,000](../flyers/city/TN_chattanooga.html){:target="_blank" .md-button}
+[:material-file-download: **Knoxville** — ~198,000](../flyers/city/TN_knoxville.html){:target="_blank" .md-button}
+[:material-file-download: **Memphis** — ~620,000](../flyers/city/TN_memphis.html){:target="_blank" .md-button}
+[:material-file-download: **Nashville** — ~690,000](../flyers/city/TN_nashville.html){:target="_blank" .md-button}
 

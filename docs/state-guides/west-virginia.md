@@ -219,9 +219,9 @@ West Virginia represents the **most concerning cybersecurity posture** among all
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Charleston** — ~47,000](../flyers/city/WV_charleston.html){:target="_blank" .md-button}
-    [:material-file-download: **Huntington** — ~45,000](../flyers/city/WV_huntington.html){:target="_blank" .md-button}
-    [:material-file-download: **Morgantown** — ~30,000](../flyers/city/WV_morgantown.html){:target="_blank" .md-button}
+[:material-file-download: **Charleston** — ~47,000](../flyers/city/WV_charleston.html){:target="_blank" .md-button}
+[:material-file-download: **Huntington** — ~45,000](../flyers/city/WV_huntington.html){:target="_blank" .md-button}
+[:material-file-download: **Morgantown** — ~30,000](../flyers/city/WV_morgantown.html){:target="_blank" .md-button}
 

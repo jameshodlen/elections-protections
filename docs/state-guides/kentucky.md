@@ -207,8 +207,8 @@ Estimated HAVA allocation: **~$6.49 million (FY2020)**, declining to approximate
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Covington** — ~41,000](../flyers/city/KY_covington.html){:target="_blank" .md-button}
-    [:material-file-download: **Louisville Metro** — ~640,000](../flyers/city/KY_louisville-metro.html){:target="_blank" .md-button}
+[:material-file-download: **Covington** — ~41,000](../flyers/city/KY_covington.html){:target="_blank" .md-button}
+[:material-file-download: **Louisville Metro** — ~640,000](../flyers/city/KY_louisville-metro.html){:target="_blank" .md-button}
 

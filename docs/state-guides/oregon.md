@@ -228,12 +228,12 @@ The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Ashland** — ~21,000](../flyers/city/OR_ashland.html){:target="_blank" .md-button}
-    [:material-file-download: **Bend** — ~107,000](../flyers/city/OR_bend.html){:target="_blank" .md-button}
-    [:material-file-download: **Corvallis** — ~60,000](../flyers/city/OR_corvallis.html){:target="_blank" .md-button}
-    [:material-file-download: **Eugene** — ~179,000](../flyers/city/OR_eugene.html){:target="_blank" .md-button}
-    [:material-file-download: **Portland** — ~636,000](../flyers/city/OR_portland.html){:target="_blank" .md-button}
-    [:material-file-download: **Salem** — ~180,000](../flyers/city/OR_salem.html){:target="_blank" .md-button}
+[:material-file-download: **Ashland** — ~21,000](../flyers/city/OR_ashland.html){:target="_blank" .md-button}
+[:material-file-download: **Bend** — ~107,000](../flyers/city/OR_bend.html){:target="_blank" .md-button}
+[:material-file-download: **Corvallis** — ~60,000](../flyers/city/OR_corvallis.html){:target="_blank" .md-button}
+[:material-file-download: **Eugene** — ~179,000](../flyers/city/OR_eugene.html){:target="_blank" .md-button}
+[:material-file-download: **Portland** — ~636,000](../flyers/city/OR_portland.html){:target="_blank" .md-button}
+[:material-file-download: **Salem** — ~180,000](../flyers/city/OR_salem.html){:target="_blank" .md-button}
 

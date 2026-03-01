@@ -289,10 +289,10 @@ Massachusetts presents a **favorable but legally complex** environment for munic
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Boston** — ~654,000](../flyers/city/MA_boston.html){:target="_blank" .md-button}
-    [:material-file-download: **Cambridge** — ~118,000](../flyers/city/MA_cambridge.html){:target="_blank" .md-button}
-    [:material-file-download: **Northampton** — ~31,000](../flyers/city/MA_northampton.html){:target="_blank" .md-button}
-    [:material-file-download: **Somerville** — ~81,000](../flyers/city/MA_somerville.html){:target="_blank" .md-button}
+[:material-file-download: **Boston** — ~654,000](../flyers/city/MA_boston.html){:target="_blank" .md-button}
+[:material-file-download: **Cambridge** — ~118,000](../flyers/city/MA_cambridge.html){:target="_blank" .md-button}
+[:material-file-download: **Northampton** — ~31,000](../flyers/city/MA_northampton.html){:target="_blank" .md-button}
+[:material-file-download: **Somerville** — ~81,000](../flyers/city/MA_somerville.html){:target="_blank" .md-button}
 

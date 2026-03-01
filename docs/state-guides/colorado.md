@@ -240,9 +240,9 @@ The most significant strategic advantage is the pre-existing COVRA coalition inf
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Aurora** — ~386,000](../flyers/city/CO_aurora.html){:target="_blank" .md-button}
-    [:material-file-download: **Boulder** — ~105,000](../flyers/city/CO_boulder.html){:target="_blank" .md-button}
-    [:material-file-download: **Denver** — ~715,000](../flyers/city/CO_denver.html){:target="_blank" .md-button}
+[:material-file-download: **Aurora** — ~386,000](../flyers/city/CO_aurora.html){:target="_blank" .md-button}
+[:material-file-download: **Boulder** — ~105,000](../flyers/city/CO_boulder.html){:target="_blank" .md-button}
+[:material-file-download: **Denver** — ~715,000](../flyers/city/CO_denver.html){:target="_blank" .md-button}
 

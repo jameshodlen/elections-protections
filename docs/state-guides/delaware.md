@@ -199,10 +199,10 @@ Likelihood of success: UNCERTAIN for municipal ordinances (Dillon's Rule is exis
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Dover** — ~39,400](../flyers/city/DE_dover.html){:target="_blank" .md-button}
-    [:material-file-download: **New Castle County** — ~570,000](../flyers/city/DE_new-castle-county.html){:target="_blank" .md-button}
-    [:material-file-download: **Newark** — ~30,600](../flyers/city/DE_newark.html){:target="_blank" .md-button}
-    [:material-file-download: **Wilmington** — ~70,900](../flyers/city/DE_wilmington.html){:target="_blank" .md-button}
+[:material-file-download: **Dover** — ~39,400](../flyers/city/DE_dover.html){:target="_blank" .md-button}
+[:material-file-download: **New Castle County** — ~570,000](../flyers/city/DE_new-castle-county.html){:target="_blank" .md-button}
+[:material-file-download: **Newark** — ~30,600](../flyers/city/DE_newark.html){:target="_blank" .md-button}
+[:material-file-download: **Wilmington** — ~70,900](../flyers/city/DE_wilmington.html){:target="_blank" .md-button}
 

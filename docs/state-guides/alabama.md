@@ -215,8 +215,8 @@ The loss of CISA/EI-ISAC support is particularly damaging for Alabama's 60+ coun
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Birmingham** — ~196,000](../flyers/city/AL_birmingham.html){:target="_blank" .md-button}
-    [:material-file-download: **Montgomery** — ~196,000](../flyers/city/AL_montgomery.html){:target="_blank" .md-button}
+[:material-file-download: **Birmingham** — ~196,000](../flyers/city/AL_birmingham.html){:target="_blank" .md-button}
+[:material-file-download: **Montgomery** — ~196,000](../flyers/city/AL_montgomery.html){:target="_blank" .md-button}
 

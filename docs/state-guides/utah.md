@@ -202,10 +202,10 @@ Utah's original HAVA equipment grant was **$21.5 million federal + $10 million s
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Moab** — ~5,200](../flyers/city/UT_moab.html){:target="_blank" .md-button}
-    [:material-file-download: **Park City** — ~8,400](../flyers/city/UT_park-city.html){:target="_blank" .md-button}
-    [:material-file-download: **Salt Lake City** — ~220,000](../flyers/city/UT_salt-lake-city.html){:target="_blank" .md-button}
-    [:material-file-download: **Salt Lake County** — ~1.2M](../flyers/city/UT_salt-lake-county.html){:target="_blank" .md-button}
+[:material-file-download: **Moab** — ~5,200](../flyers/city/UT_moab.html){:target="_blank" .md-button}
+[:material-file-download: **Park City** — ~8,400](../flyers/city/UT_park-city.html){:target="_blank" .md-button}
+[:material-file-download: **Salt Lake City** — ~220,000](../flyers/city/UT_salt-lake-city.html){:target="_blank" .md-button}
+[:material-file-download: **Salt Lake County** — ~1.2M](../flyers/city/UT_salt-lake-county.html){:target="_blank" .md-button}
 

@@ -231,9 +231,9 @@ Maine presents near-optimal conditions for municipal election protection ordinan
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Bangor** — ~32,000](../flyers/city/ME_bangor.html){:target="_blank" .md-button}
-    [:material-file-download: **Lewiston** — ~38,000](../flyers/city/ME_lewiston.html){:target="_blank" .md-button}
-    [:material-file-download: **Portland** — ~69,000](../flyers/city/ME_portland.html){:target="_blank" .md-button}
+[:material-file-download: **Bangor** — ~32,000](../flyers/city/ME_bangor.html){:target="_blank" .md-button}
+[:material-file-download: **Lewiston** — ~38,000](../flyers/city/ME_lewiston.html){:target="_blank" .md-button}
+[:material-file-download: **Portland** — ~69,000](../flyers/city/ME_portland.html){:target="_blank" .md-button}
 

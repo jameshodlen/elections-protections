@@ -149,11 +149,11 @@ Voter intimidation under IC 3-14-3-21.5 criminalizes knowingly or intentionally 
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Bloomington/Monroe County** — ~80,000](../flyers/city/IN_bloomington-monroe-county.html){:target="_blank" .md-button}
-    [:material-file-download: **Gary** — ~68,000](../flyers/city/IN_gary.html){:target="_blank" .md-button}
-    [:material-file-download: **Indianapolis/Marion County** — ~900,000](../flyers/city/IN_indianapolis-marion-county.html){:target="_blank" .md-button}
-    [:material-file-download: **Marion County** — ~981,000](../flyers/city/IN_marion-county.html){:target="_blank" .md-button}
-    [:material-file-download: **West Lafayette** — ~46,000](../flyers/city/IN_west-lafayette.html){:target="_blank" .md-button}
+[:material-file-download: **Bloomington/Monroe County** — ~80,000](../flyers/city/IN_bloomington-monroe-county.html){:target="_blank" .md-button}
+[:material-file-download: **Gary** — ~68,000](../flyers/city/IN_gary.html){:target="_blank" .md-button}
+[:material-file-download: **Indianapolis/Marion County** — ~900,000](../flyers/city/IN_indianapolis-marion-county.html){:target="_blank" .md-button}
+[:material-file-download: **Marion County** — ~981,000](../flyers/city/IN_marion-county.html){:target="_blank" .md-button}
+[:material-file-download: **West Lafayette** — ~46,000](../flyers/city/IN_west-lafayette.html){:target="_blank" .md-button}
 

@@ -162,7 +162,7 @@ A **council ordinance** is strongly preferred — a charter amendment requires a
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Omaha** — ~490,000](../flyers/city/NE_omaha.html){:target="_blank" .md-button}
+[:material-file-download: **Omaha** — ~490,000](../flyers/city/NE_omaha.html){:target="_blank" .md-button}
 

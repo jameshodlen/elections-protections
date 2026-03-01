@@ -364,9 +364,9 @@ Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C.
 
 ### City-Specific Flyers
 
-    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+Printable flyers for individual cities with local council details, meeting schedules, and action steps.
 
-    [:material-file-download: **Anchorage** — ~291,000](../flyers/city/AK_anchorage.html){:target="_blank" .md-button}
-    [:material-file-download: **Fairbanks** — ~32,000](../flyers/city/AK_fairbanks.html){:target="_blank" .md-button}
-    [:material-file-download: **Juneau** — ~32,000](../flyers/city/AK_juneau.html){:target="_blank" .md-button}
+[:material-file-download: **Anchorage** — ~291,000](../flyers/city/AK_anchorage.html){:target="_blank" .md-button}
+[:material-file-download: **Fairbanks** — ~32,000](../flyers/city/AK_fairbanks.html){:target="_blank" .md-button}
+[:material-file-download: **Juneau** — ~32,000](../flyers/city/AK_juneau.html){:target="_blank" .md-button}
 
