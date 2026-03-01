@@ -361,3 +361,12 @@ Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C.
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Anchorage** — ~291,000](../flyers/city/AK_anchorage.html){:target="_blank" .md-button}
+    [:material-file-download: **Fairbanks** — ~32,000](../flyers/city/AK_fairbanks.html){:target="_blank" .md-button}
+    [:material-file-download: **Juneau** — ~32,000](../flyers/city/AK_juneau.html){:target="_blank" .md-button}
+

@@ -144,3 +144,12 @@ Election law under **SDCL Title 12** is administered at the state and county lev
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Brookings** — ~24,500](../flyers/city/SD_brookings.html){:target="_blank" .md-button}
+    [:material-file-download: **Rapid City** — ~85,000](../flyers/city/SD_rapid-city.html){:target="_blank" .md-button}
+    [:material-file-download: **Vermillion** — ~11,700](../flyers/city/SD_vermillion.html){:target="_blank" .md-button}
+

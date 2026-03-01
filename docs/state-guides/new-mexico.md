@@ -208,3 +208,11 @@ Ordinances should be framed as **policy directives** governing local resource al
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Las Cruces** — ~113,000](../flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
+    [:material-file-download: **Santa Fe** — ~87,500](../flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
+

@@ -222,3 +222,15 @@ HAVA allocations are the largest in this group: **$23.25 million (FY2018)**, **$
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Austin** — ~1,025,000](../flyers/city/TX_austin.html){:target="_blank" .md-button}
+    [:material-file-download: **Dallas** — ~1,310,000](../flyers/city/TX_dallas.html){:target="_blank" .md-button}
+    [:material-file-download: **Denton** — ~158,000](../flyers/city/TX_denton.html){:target="_blank" .md-button}
+    [:material-file-download: **El Paso** — ~681,000](../flyers/city/TX_el-paso.html){:target="_blank" .md-button}
+    [:material-file-download: **Houston** — ~2,390,000](../flyers/city/TX_houston.html){:target="_blank" .md-button}
+    [:material-file-download: **San Antonio** — ~1,530,000](../flyers/city/TX_san-antonio.html){:target="_blank" .md-button}
+

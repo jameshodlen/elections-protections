@@ -212,3 +212,11 @@ The loss of CISA/EI-ISAC support is particularly damaging for Alabama's 60+ coun
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Birmingham** — ~196,000](../flyers/city/AL_birmingham.html){:target="_blank" .md-button}
+    [:material-file-download: **Montgomery** — ~196,000](../flyers/city/AL_montgomery.html){:target="_blank" .md-button}
+

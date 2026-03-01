@@ -273,3 +273,11 @@ The key strategic recommendation: secure an **Attorney General opinion** or coor
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Hamden** — ~61,000](../flyers/city/CT_hamden.html){:target="_blank" .md-button}
+    [:material-file-download: **New Haven** — ~135,000](../flyers/city/CT_new-haven.html){:target="_blank" .md-button}
+

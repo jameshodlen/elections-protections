@@ -161,3 +161,13 @@ Missouri lacks a specific state-level private right of action for voter intimida
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Columbia, MO** — ~129,000](../flyers/city/MO_columbia-mo.html){:target="_blank" .md-button}
+    [:material-file-download: **Kansas City, MO** — ~508,000](../flyers/city/MO_kansas-city-mo.html){:target="_blank" .md-button}
+    [:material-file-download: **St. Louis City** — ~281,000](../flyers/city/MO_st-louis-city.html){:target="_blank" .md-button}
+    [:material-file-download: **St. Louis County** — ~987,000](../flyers/city/MO_st-louis-county.html){:target="_blank" .md-button}
+

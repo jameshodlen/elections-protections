@@ -172,3 +172,13 @@ An **ordinary home rule ordinance** — not a charter ordinance — is recommend
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Kansas City, KS** — ~157,000](../flyers/city/KS_kansas-city-ks.html){:target="_blank" .md-button}
+    [:material-file-download: **Lawrence** — ~97,000](../flyers/city/KS_lawrence.html){:target="_blank" .md-button}
+    [:material-file-download: **Manhattan** — ~55,000](../flyers/city/KS_manhattan.html){:target="_blank" .md-button}
+    [:material-file-download: **Topeka** — ~125,000](../flyers/city/KS_topeka.html){:target="_blank" .md-button}
+

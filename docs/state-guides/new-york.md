@@ -186,3 +186,12 @@ The critical drafting insight is that framing under MHL § 10(1)(ii)(a)(1) autho
 
     *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
     print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
+
+### City-Specific Flyers
+
+    Printable flyers for individual cities with local council details, meeting schedules, and action steps.
+
+    [:material-file-download: **Ithaca** — ~33,000](../flyers/city/NY_ithaca.html){:target="_blank" .md-button}
+    [:material-file-download: **New York City** — ~8,480,000](../flyers/city/NY_new-york-city.html){:target="_blank" .md-button}
+    [:material-file-download: **Rochester** — ~210,000](../flyers/city/NY_rochester.html){:target="_blank" .md-button}
+
