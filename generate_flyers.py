@@ -91,7 +91,8 @@ TIER_MAP = {
 # ---------------------------------------------------------------------------
 
 def clean_md(text):
-    """Strip markdown bold/italic markers, headings, and clean up whitespace."""
+    """Strip markdown bold/italic markers, headings, HTML tags, and clean up whitespace."""
+    text = re.sub(r'<[^>]+>', ' ', text)  # strip HTML tags
     text = re.sub(r'^#{1,6}\s+', '', text, flags=re.MULTILINE)  # strip headings
     text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
     text = re.sub(r'\*(.+?)\*', r'\1', text)
@@ -139,7 +140,10 @@ def get_opening_paragraph(content):
     # Find content after the first # heading
     m = re.search(r'^#\s+[^\n]+\n+(.*?)(?=\n---)', content, re.MULTILINE | re.DOTALL)
     if m:
-        return m.group(1).strip()
+        text = m.group(1).strip()
+        # Strip HTML blocks (e.g. state-header-card divs) before returning
+        text = re.sub(r'<div\b.*</div>\s*', '', text, flags=re.DOTALL)
+        return text.strip()
     return ""
 
 
