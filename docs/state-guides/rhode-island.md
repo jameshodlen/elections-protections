@@ -218,6 +218,49 @@ Rhode Island operates under a unique dual-authority system: Secretary of State G
 - **AG Neronha:** (401) 274-4400 / riag.ri.gov
 - **Election Protection Hotline:** 2-1-1, press 5
 - **ETSS/CISO:** etss.ri.gov/cybersecurity
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — McKee has supported election protection measures |
+| **State bill viability** | High |
+| **2026 session** | January 6 – June 30, 2026 |
+| **Active legislation** | Introduced — H7434 (200-foot ICE buffer near polling places) |
+
+### Current Statutory Landscape
+
+Rhode Island has strong voter intimidation protections under RIGL § 17-23-5, which makes intimidation for the purpose of influencing voting a felony with permanent loss of voting rights and disqualification from public office — among the harshest penalties in the nation. The statute uses notably broad language: "any means of intimidation." RIGL § 17-19-49 establishes a 50-foot buffer zone from polling place entrances. RIGL § 17-23-17(7) broadly prohibits willfully hindering the orderly conduct of any election.
+
+However, Rhode Island has no specific statute prohibiting firearms at polling places — a surprising gap for a Northeast state with otherwise strong election protections. Rhode Island requires permits for all carry (LCCW required), which provides some mitigation, but legally permitted individuals may enter polling locations while armed.
+
+Rhode Island's Constitution, Article XIII (Home Rule for Cities and Towns), provides a foundation for municipal authority with Section 1 stating the intent to grant "the right of self government in all local matters." Providence's Community-Police Relations Act (2017) prohibits officers from assisting with federal immigration enforcement absent criminal warrants, strengthened in November 2025. Central Falls passed a comprehensive sanctuary ordinance in 2019. Both cities successfully defended their policies in City of Providence v. Barr.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Rhode Island has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones — building on the non-cooperation framework established by Providence and Central Falls.
+- **Article 4 — Enhanced civil enforcement**: While RIGL § 17-23-5 provides strong criminal penalties (felony + permanent disenfranchisement), the template adds civil enforcement with voter standing, $50,000/violation penalties, and attorney fee shifting — creating a parallel enforcement track that does not depend solely on prosecution.
+- **Article 5 — Emergency election procedures**: Rhode Island lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Rhode Island's lack of a polling place firearms ban is the most significant gap. The template creates election-specific firearms restrictions, complementing the existing permit requirement.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Rhode Island is well-positioned for state legislation. The Democratic trifecta, six-month session, and existing H7434 (200-foot ICE buffer near polling places) create momentum for comprehensive action. The strategic question is whether to pursue the full Master State Bill Template as a standalone bill or integrate its provisions into H7434 as an amendment package.
+
+The recommended approach is to expand H7434 with the template's criminal penalties, civil enforcement, and emergency procedures. Rhode Island's existing felony penalty for voter intimidation (RIGL § 17-23-5) with permanent disenfranchisement demonstrates the legislature's willingness to impose severe penalties for election interference — the template's criminal provisions align with this precedent. The polling place firearms gap provides additional legislative urgency. Providence, Central Falls, Cranston, and Warwick provide a coalition base with existing non-cooperation ordinances and the judicial precedent of City of Providence v. Barr.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| House | Judiciary | Verify current chair | H7434 likely assigned here; criminal provisions jurisdiction |
+| Senate | Judiciary | Verify current chair | Criminal provisions and election law |
+
 ## Conclusion: A clear path forward
 
 Rhode Island's legal landscape presents **unusually favorable conditions** for municipal election protection ordinances. Three factors make this jurisdiction distinctive:

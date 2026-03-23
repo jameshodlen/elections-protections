@@ -170,6 +170,49 @@ Maryland employs a bipartisan State Board of Elections (Chair Michael Summers) w
 - **AG Election Protection:** (443) 961-2830 / (833) 282-0960 / electionswork@oag.state.md.us
 - **DoIT/CISO:** doit.maryland.gov
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Moore signed Maryland TRUST Act as emergency legislation (February 2026) |
+| **State bill viability** | High |
+| **2026 session** | January 14 – April 13, 2026 |
+| **Active legislation** | None identified specific to polling place protection |
+
+### Current Statutory Landscape
+
+Maryland possesses a robust election protection framework. The voter intimidation statute (Md. Code, Elec. Law § 16-201(a)(5)-(7)) criminalizes intimidation through force, threat, or intimidation as a misdemeanor with fines up to $5,000 or imprisonment up to 5 years. Notably, § 16-201(c) creates an explicit private right of action — one of the few states with existing civil enforcement for voter intimidation.
+
+The 2023 Gun Safety Act established a total firearms ban at polling places (Criminal Law § 4-111; Election Law § 16-903(a)), prohibiting carrying or displaying a gun or badge within 100 feet of a polling site on election day, with exceptions only for law enforcement on duty. This was upheld on appeal in January 2026. Maryland's lack of a state constitutional right to keep and bear arms removes a significant opposition argument present in most other states.
+
+The Maryland TRUST Act (SB 245/HB 444, signed February 2026 as emergency legislation) bans 287(g) agreements between local law enforcement and ICE, requiring nine counties to terminate existing agreements within 90 days. Montgomery County, Howard County, Prince George's County, and Baltimore County have adopted local trust act versions. Maryland's Declaration of Rights, Article 7, provides that elections "ought to be free and frequent" — constitutional language supporting election protection legislation.
+
+### What the Master State Bill Template Would Add
+
+Maryland's existing framework already covers firearms at polling places and provides a private right of action. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While § 16-903 prohibits firearms near polling places, the exception for "law enforcement officers...on duty performing official governmental functions" could be read to include federal agents. The template creates an explicit prohibition on armed federal personnel at election sites, closing this interpretive gap.
+- **Article 4 — Enhanced civil penalties**: Maryland's existing private right of action (§ 16-201(c)) provides a foundation, but the template adds $50,000/violation civil penalties and attorney fee shifting — substantially strengthening the existing enforcement mechanism.
+- **Article 5 — Emergency election procedures**: Maryland lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the TRUST Act's non-cooperation framework.
+- **Article 9 — Expedited judicial review**: Maryland lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Maryland is exceptionally well-positioned for state legislation. The Democratic trifecta, Governor Moore's decisive action on the TRUST Act (signed as emergency legislation), the 2023 Gun Safety Act (upheld January 2026), and the absence of a state constitutional RKBA provision create an optimal legislative environment. The session window through April 13 is tight but the TRUST Act precedent demonstrates the legislature can move quickly on emergency election-related measures.
+
+The most compelling framing for Maryland is completing the TRUST Act framework: if Maryland bars 287(g) agreements generally, it should specifically address the scenario of armed federal agents appearing at polling places during elections. The bill could be positioned as the TRUST Act's election-specific companion. The existing private right of action (§ 16-201(c)) provides a statutory hook for the template's enhanced civil enforcement provisions. Baltimore, Montgomery County, Prince George's County, and the Baltimore suburbs provide a strong coalition base with existing local trust act ordinances.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Education, Energy, and the Environment | Verify current chair | Jurisdiction over election law |
+| House | Ways and Means | Verify current chair | Primary jurisdiction over election law in Maryland House |
+
 ## Conclusion: Strategic pathway forward
 
 Maryland presents viable terrain for municipal election protection ordinances despite meaningful legal complexities. The combination of constitutional home rule, absence of anti-sanctuary laws, progressive political control in charter jurisdictions, and established civil liberties coalition infrastructure creates favorable conditions for implementation. 

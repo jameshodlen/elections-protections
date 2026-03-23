@@ -308,6 +308,51 @@ The risk of hostile preemptive legislation is **near zero**. Republicans would n
 | AG Election Protection (Central/South) | 1-866-559-6812 |
 | DoIT / Cyber Navigator | (217) 524-3648; James.L.Patterson@illinois.gov |
 | IEMA | (217) 782-2700 |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Pritzker has supported election protection and sanctuary measures |
+| **State bill viability** | High |
+| **2026 session** | January 14 – year-round, 2026 |
+| **Active legislation** | Resolution only — non-binding resolution introduced |
+
+### Current Statutory Landscape
+
+Illinois criminalizes voter intimidation as a Class 4 felony under 10 ILCS 5/29-4, prohibiting the prevention of voting by force, intimidation, threat, deception, or forgery. Civil liability provisions exist under 10 ILCS 5/29-17 (deprivation of constitutional rights) and 10 ILCS 5/29-18 (conspiracy to prevent voting). The 100-foot polling place buffer zone (10 ILCS 5/17-29(a)) provides structural protection against interference.
+
+However, Illinois has no explicit statutory ban on firearms at polling places. The Concealed Carry Act (430 ILCS 66/65) prohibits firearms in schools, libraries, government buildings, and public parks, which provides incidental coverage at some polling locations but leaves a gap at private venues (churches, community centers). HB 5178, which would have created an explicit polling place firearms ban, was proposed in 2024 but has not been enacted. The TRUST Act (5 ILCS 805/) and Way Forward Act (P.A. 102-0234) establish sanctuary precedent limiting federal enforcement cooperation.
+
+Illinois's Constitution, Article VII, Section 6, grants home rule units broad authority with a mandate for liberal construction of powers.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Illinois has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation standard**: 10 ILCS 5/29-4 requires proof of force, intimidation, or threat with intent. The template's effects-based standard would cover situations where armed federal presence deters voters without provable coercive intent.
+- **Article 4 — Strengthened civil enforcement**: While 10 ILCS 5/29-17 and 5/29-18 provide civil liability, the template adds $50,000/violation penalties, explicit voter standing, and attorney fee shifting — substantially strengthening the existing civil framework.
+- **Article 5 — Emergency election procedures**: Illinois lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: The template fills the explicit gap in Illinois law — no current statute prohibits firearms at polling places. The template creates an election-specific firearms restriction covering all polling locations regardless of venue type.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Illinois's Democratic trifecta, year-round session, and Governor Pritzker's demonstrated support for both election protection and sanctuary measures create favorable conditions for comprehensive state legislation. The existing non-binding resolution signals legislative awareness of the issue. The strategic opportunity is to convert the resolution into binding legislation using the Master State Bill Template framework.
+
+The most compelling argument for Illinois action is the explicit polling place firearms gap. With HB 5178 having failed to pass, the template's Article 6 addresses a documented vulnerability that leaves private polling venues (churches, community centers, union halls) unprotected. Pairing the firearms gap with the federal personnel prohibition creates a comprehensive package that builds on the TRUST Act precedent. Chicago, Cook County, and the collar counties provide a natural coalition with existing sanctuary ordinances and demonstrated electoral support for gun safety measures.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Primary jurisdiction over election law |
+| House | Elections & Campaign Finance | Verify current chair | Primary jurisdiction over election law |
+| Senate | Judiciary | Verify current chair | Criminal provisions in Articles 2–3 |
+
 ## Conclusion: A strategic pathway forward
 
 Illinois presents an unusually favorable legal and political environment for election protection ordinances. The combination of constitutional home rule authority, express preemption doctrine favoring local action, established sanctuary law precedents, and fresh judicial validation creates a strong foundation. Three strategic insights emerge:

@@ -275,6 +275,49 @@ Massachusetts elections are administered by the Secretary of the Commonwealth, c
 - **MassCyberCenter:** masscybercenter.org
 - **EOTSS/CISO:** mass.gov/orgs/cybersecurity-and-enterprise-risk-management
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Healey has supported election protection and firearms reform |
+| **State bill viability** | Moderate — legislative bandwidth may be focused on H.4885 veto referendum |
+| **2026 session** | January 1 – year-round, 2026 |
+| **Active legislation** | None identified specific to polling place protection from federal agents |
+
+### Current Statutory Landscape
+
+Massachusetts criminalizes voter intimidation through M.G.L. c. 56, § 29 (willfully hindering or interfering with voters, up to $500 fine and 1 year imprisonment) and § 30 (willful obstruction of voting). Both require proof of willful intent. Additional provisions include § 46 (disorderly conduct at polling places) and § 48 (interference with election officials).
+
+H.4885 (Acts of 2024, Chapter 135), signed July 2024, prohibits possession of firearms within 150 feet of any polling place entrance, early voting sites, and vote counting centers. This is one of the strongest polling place firearms bans in the nation. However, a veto referendum qualified for the 2026 ballot, creating uncertainty about the law's long-term status. Massachusetts is not a constitutional carry state. The state's Article 89 (Home Rule Amendment) grants broad municipal authority, though Mass. Const. Art. 89, § 7(1) reserves election regulation to the state.
+
+The Lunn v. Commonwealth (2017) decision established that Massachusetts law does not authorize local officials to detain individuals solely on federal requests, supporting the non-cooperation framework. Forty-nine Massachusetts municipalities have enacted local sanctuary or safe community protections.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Massachusetts lacks a specific prohibition on armed federal agents at polling places. While H.4885 bans civilian firearms within 150 feet, federal law enforcement may claim exemption. The template creates an explicit state felony for deploying armed federal personnel within election zones.
+- **Article 3 — Enhanced intimidation standard**: M.G.L. c. 56, § 29 requires proof of willful intent. The template's effects-based standard would cover situations where armed federal presence deters voters without provable willful intent.
+- **Article 4 — Civil enforcement with voter standing**: Massachusetts lacks a dedicated private right of action for voter intimidation at polling places. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Massachusetts lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Massachusetts has strong fundamentals for state legislation — a Democratic trifecta, a supportive governor, year-round session, and the nation's strongest polling place firearms ban. However, the 2026 ballot referendum on H.4885 complicates the landscape. If the referendum overturns the firearms ban, the Master State Bill Template's provisions become even more critical as a replacement framework. If the ban survives, the template complements it by addressing the federal agent gap.
+
+The strategic recommendation is to introduce the state bill in parallel with referendum defense. The bill should be framed as addressing the distinct threat of federal personnel deployment — a question the referendum does not touch. This separates the state bill from the firearms debate and positions it as a federal non-cooperation measure, building on the Lunn v. Commonwealth precedent and the 49 municipalities with sanctuary protections. Boston, Cambridge, Somerville, and Springfield provide a natural coalition base.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Election Laws | Verify current chair | Primary jurisdiction over election law |
+| House | Election Laws | Verify current chair | Primary jurisdiction over election law |
+
 ## Conclusion: A favorable but legally complex environment
 
 Massachusetts presents a **favorable but legally complex** environment for municipal election protection ordinances. The state's Home Rule status, absence of anti-sanctuary preemption, strong *Lunn* precedent, new H.4885 firearm restrictions, and dense progressive municipal infrastructure create genuine opportunity—but Article 89, Section 7(1)'s reservation of election regulation to the state requires careful legal framing focused on police operations and resource allocation rather than election administration. Cambridge's pioneering sanctuary history, clear legal authority, and unified progressive governance make it the optimal jurisdiction for initial implementation, with Somerville and Northampton providing immediate expansion opportunities and geographic diversity.

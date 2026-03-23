@@ -307,6 +307,48 @@ AG Bonta has filed **50+ lawsuits** against the Trump administration as of 2025.
 | AG Election Protection | (916) 210-6300 (Division of Law Enforcement) |
 | Cal-CSIC | (833) REPORT-1; calcsic@caloes.ca.gov |
 | Cal OES | (916) 845-8510 |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Newsom has actively supported election protection measures |
+| **State bill viability** | High |
+| **2026 session** | January 5 – August 31, 2026 |
+| **Active legislation** | In committee — SB 884 (Senate Rules Committee) |
+
+### Current Statutory Landscape
+
+California already possesses one of the nation's strongest polling place protection frameworks. Elections Code § 18540 makes voter intimidation a felony (16 months to 3 years imprisonment). Elections Code § 18544 prohibits firearms at polling places without election official authorization, and § 18545 explicitly extends this prohibition to federal law enforcement agents — one of the only state statutes directly addressing federal personnel at election sites. The 2024 PEACE Act (AB 2642, Elections Code § 18581) creates a rebuttable presumption that openly carrying a firearm while interacting with voters constitutes intimidation.
+
+California's Constitution, Article XI, Section 5, grants charter cities broad authority over municipal affairs including police force regulation and city elections. Penal Code § 26230(a)(25) prohibits concealed carry at polling places and adjacent sidewalks. The state's 100-foot buffer zone (§ 18541) provides additional structural protection.
+
+### What the Master State Bill Template Would Add
+
+California's existing framework already covers several template provisions. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Enhanced criminal penalties**: While § 18545 addresses federal agents at polling places, violations carry misdemeanor-level penalties. The template elevates violations to felony status with mandatory minimum sentencing, substantially increasing deterrent effect.
+- **Article 4 — Strengthened civil enforcement**: California lacks a dedicated private right of action with $50,000/violation penalties specific to armed federal personnel at election sites. The existing § 18540 framework focuses on criminal prosecution; the template adds a parallel civil track with voter standing and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: California lacks a statutory framework for emergency polling site relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds explicit protections against federal seizure of voter rolls and election records, an area not fully addressed by current California law.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods, creating a faster judicial response than currently available.
+
+### Strategic Assessment
+
+California is among the most viable states for comprehensive state-level polling place protection legislation. SB 884, currently in the Senate Rules Committee, already addresses the 200-foot buffer for immigration enforcement near election sites. The Democratic trifecta and Governor Newsom's demonstrated support for election protection measures (signing the PEACE Act in 2024) create a clear path to passage. The strategic question is whether to pursue the full Master State Bill Template as an amendment to SB 884 or as standalone legislation.
+
+The optimal approach is to build on SB 884's existing momentum while incorporating the template's stronger criminal penalties, civil enforcement mechanisms, and emergency procedures. California's passage would create a second state model (alongside New Mexico's SB 264) and substantially strengthen the national precedent.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Rules Committee | Verify current chair | SB 884 currently assigned here |
+| Senate | Elections and Constitutional Amendments | Verify current chair | Primary jurisdiction over election law |
+| Assembly | Elections | Verify current chair | Assembly companion consideration |
+
 ## Conclusion: strategic pathway for California implementation
 
 California's legal architecture provides **exceptional foundation** for municipal election protection ordinances. Charter cities possess explicit constitutional authority over both police force regulation and conduct of elections—the two core elements of any ordinance based on 18 U.S.C. § 592. Existing state law through Elections Code § 18544-18545 already prohibits armed presence at polls (including federal agents) without elections official authorization, meaning local ordinances can build on rather than conflict with state policy.
