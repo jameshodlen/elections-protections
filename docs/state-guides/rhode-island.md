@@ -23,6 +23,11 @@ tags:
 
 Rhode Island presents **exceptionally favorable conditions** for adapting a municipal election protection ordinance prohibiting city resources from assisting armed federal personnel near polling places. The state's constitutional home rule framework (Article XIII), absence of anti-sanctuary preemption laws, and established municipal precedents—most notably Providence's Community-Police Relations Act—create strong legal footing. A 2022 Rhode Island Supreme Court decision confirming municipal "indispensable managerial rights" over police operations further strengthens the legal case. Providence and Central Falls emerge as priority targets, with existing sanctuary infrastructure, progressive leadership, and proven federal court victories defending local autonomy.
 
+!!! info "March 2026 Update — State Legislation Under Consideration"
+    Rhode Island lawmakers are considering legislation to **protect polling places from federal agent deployment.** Rhode Island's Democratic trifecta and constitutional home rule framework make state-level passage a strong possibility.
+
+    **Two-track strategy:** Push for state legislation (Path B) while maintaining the municipal ordinance pathway (Path A). Rhode Island's small size means a state bill effectively covers the entire state, making the municipal track supplementary. See the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** for model language.
+
 ---
 
 ## Section 1: The legal battlefield favors municipal action

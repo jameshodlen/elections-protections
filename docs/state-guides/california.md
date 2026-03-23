@@ -23,6 +23,13 @@ tags:
 
 California offers an unusually favorable environment for local election protection ordinances based on 18 U.S.C. § 592. The state's robust Home Rule doctrine, explicit constitutional protection for charter city control over police and elections, existing state law prohibiting armed presence at polls, and the precedent established by SB 54's successful defense against federal challenge create a strong legal foundation. **Berkeley, San Francisco, and West Hollywood emerge as optimal targets**, with a well-established coalition infrastructure ready to mobilize.
 
+!!! info "March 2026 Update — State Legislation Active"
+    California legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** This state-level legislation would complement the municipal ordinance strategy described below — municipal ordinances can go further on voter data protection, election equipment custody, and community oversight even after a state bill passes.
+
+    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). If the state bill passes, municipal ordinances provide additional local protections. If the state bill stalls, municipal ordinances are the fallback.
+
+    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes California-specific adaptation notes.
+
 ---
 
 ## Section 1: California's legal battlefield strongly favors local action

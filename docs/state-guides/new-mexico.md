@@ -24,6 +24,24 @@ tags:
 
 New Mexico offers a viable pathway for Madison-style municipal ordinances protecting polling places from armed federal personnel, though strategic navigation of the state's hybrid home rule system is essential. The state's ten charter cities—particularly Santa Fe and Las Cruces—have both the legal authority and progressive political environments to serve as launching points for this campaign. Recent passage of the New Mexico Voting Rights Act (2023) and the first-in-the-nation Native American Voting Rights Act demonstrates strong coalitional infrastructure for election protection measures. However, a January 2025 New Mexico Supreme Court decision establishes important limits on local ordinances that conflict with state policy on matters of "statewide concern," requiring careful legal positioning.
 
+!!! success "March 2026 Update — New Mexico Enacts First-in-Nation Polling Place Protection Law"
+    On **March 9, 2026**, Governor Michelle Lujan Grisham signed **SB 264** into law, making New Mexico the **first state in the nation** to create state-level criminal and civil penalties for deploying armed federal personnel to polling places. The law takes effect in May 2026, before the state's June 2 primary.
+
+    **What SB 264 does:**
+
+    - Prohibits armed federal personnel at polling places, parking areas, and within 50 feet of ballot drop boxes during the election period (beginning 28 days before an election)
+    - Creates the offense of "interference with elections" — a **fourth-degree felony** for intentional obstruction of polling place access or intimidation of voters, election officials, or watchers
+    - Establishes **civil enforcement**: the Attorney General, Secretary of State, county clerks, or **any registered voter** can sue in state district court for injunctive relief and civil penalties of up to **$50,000 per violation**
+    - Prohibits changes to voter qualifications or election procedures that conflict with New Mexico law
+    - Establishes emergency election procedures for natural disasters and election interference events
+    - Defines "under color of law" for election code purposes, covering both official and purported official action
+
+    SB 264 passed the Senate 26-16 and the House 41-26, both on strict party lines. It was sponsored by **Sen. Katy Duhigg** (D-Albuquerque), a former Albuquerque city clerk, and championed by **Secretary of State Maggie Toulouse Oliver** as a priority for the 2026 session.
+
+    **What this means for the municipal ordinance strategy below:** SB 264 accomplishes at the state level what the municipal ordinances described in this guide were designed to achieve city by city. The legal analysis, coalition directory, and election security infrastructure sections below remain fully relevant — and the coalition partners listed here are the organizations that made SB 264 happen. For advocates in other states, New Mexico's experience provides the proven template. See the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** for model legislation drawn from SB 264's strongest mechanisms.
+
+    At least **eight other states** — California, Connecticut, Illinois, Kansas, Pennsylvania, Rhode Island, Virginia, and Washington — have introduced or are considering similar legislation. New Mexico's coalition partners are available to advise other states on legislative strategy.
+
 ## Section 1: New Mexico operates as a hybrid Dillon's Rule state with optional home rule
 
 New Mexico's municipal legal framework creates a **two-tiered system** where most municipalities operate under strict Dillon's Rule limitations while ten charter cities enjoy substantially broader authority. Understanding this distinction is critical for targeting ordinance adoption.
@@ -236,16 +254,23 @@ The primary strategic value now shifts to implementation and interstate coordina
 | House | Voters and Elections | Verify current chair | House companion consideration |
 
 ## Conclusion: A clear pathway exists through charter cities and established coalitions
+## Conclusion: From Target State to Template State
 
-New Mexico presents favorable conditions for municipal ordinances protecting polling places from armed federal personnel. The state's home rule framework provides clear legal authority for charter cities, recent state legislation demonstrates strong policy alignment with election protection goals, and the January 2025 *Torrez* decision—while establishing preemption limits—does not directly threaten ordinances that support federal law enforcement rather than conflict with state policy.
+New Mexico's passage of SB 264 transforms this state's role in the national election protection campaign. The municipal ordinance analysis in this guide identified the legal pathways, coalition infrastructure, and target cities that made state-level legislation possible — and the organizations listed above are the ones who carried SB 264 across the finish line.
 
-The recommended implementation sequence should begin with **Santa Fe**, leveraging the city's 2002 Resolution precedent and overwhelmingly progressive council to establish the first ordinance. **Las Cruces** should proceed simultaneously given its 5-2 progressive supermajority and demonstrated willingness to pass bold measures. **Albuquerque** requires longer-term coalition building through Mayor Keller's office and targeted outreach to swing councilors.
+**For New Mexico advocates:** Municipal ordinances in Santa Fe, Las Cruces, and Albuquerque remain valuable as supplementary protections — particularly for voter data protection (Section 4 of the [Master Ordinance Template](../legal-foundation/master-ordinance-template/)), election equipment custody (Section 5), and community oversight provisions that go beyond what SB 264 covers. The municipal track is no longer the primary strategy but adds depth to the statewide floor.
 
-The **Common Cause NM/ACLU-NM Election Protection partnership** provides the natural anchor for coalition coordination, with NAEVA and APCG bringing critical Native American community engagement. The **Center for Civic Policy's NM Civic Engagement Table** offers access to 40+ organizations for grassroots mobilization.
+**For advocates in other states:** New Mexico provides the proof of concept. SB 264 was introduced in February 2026 and signed nine days before the end of the 30-day session. The coalition infrastructure, legislative strategy, and bill language are all documented and available. See the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** for model legislation adaptable to your state's legal framework, and contact the coalition partners listed in Section 4 above for direct guidance on legislative strategy.
 
-Ordinances should be framed as **policy directives** governing local resource allocation—specifically prohibiting city personnel and property from facilitating armed federal presence at polling places—rather than as regulatory measures that could trigger preemption challenges. Reference to 18 U.S.C. § 592 and the newly enacted NMSA 1978 § 1-20-24 provides statutory grounding in both federal and state law.
+**Key contacts for cross-state coordination:**
 
----
+| Organization | Role in SB 264 | Contact |
+|---|---|---|
+| Common Cause NM | Lead advocacy; Election Protection Program since 2008 | Heather Ferguson, ED; Mario Jimenez, Media (575-571-8507) |
+| ACLU of New Mexico | Legal strategy; community engagement | Tatiana Prieto, Community Engagement (tprieto@aclu-nm.org) |
+| Sen. Katy Duhigg | Bill sponsor; former city clerk | NM Senate, District 10 — Albuquerque |
+| Secretary of State Maggie Toulouse Oliver | Championed as 2026 priority | 505-827-3600; Elections@sos.nm.gov |
+| Center for Civic Policy / NMCET | Coalition coordination (40+ orgs) | Oriana Sandoval, CEO |
 
 ---
 

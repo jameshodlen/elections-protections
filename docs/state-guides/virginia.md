@@ -23,6 +23,13 @@ tags:
 
 Virginia presents a unique transitional opportunity for election protection. The November 2025 elections produced a historic **Democratic trifecta** — Governor Abigail Spanberger, AG Jay Jones (first Black AG in state history), and expanded legislative majorities — creating an immediate window for state-level action. However, Virginia is a **strict Dillon Rule state**, severely limiting municipal authority to act independently on election security. This means the primary strategy must be **state-level legislative advocacy** rather than municipal ordinances. HB 909, which would expand the polling place firearms buffer from 40 to 100 feet, is already in the 2026 legislative pipeline. Virginia already has significant protections — a firearms ban within 40 feet of polling places, a statutory private right of action for intimidated voters, strong anti-paramilitary statutes, and one of the nation's most advanced cybersecurity infrastructures anchored by the 91st Cyber Brigade headquarters. The Dillon Rule constraint means municipal election protection ordinances require enabling legislation, making the new Democratic trifecta the critical lever.
 
+!!! info "March 2026 Update — State Legislation Active"
+    Virginia legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Virginia is currently classified as Tier 3 for municipal ordinances due to significant preemption barriers, but the state-level legislative track may offer a more viable pathway depending on the governor's posture.
+
+    **Two-track strategy:** The state bill is the primary pathway in Virginia given the municipal barriers documented below. Municipal ordinances remain a supplementary option in charter cities if the state bill does not advance.
+
+    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
+
 ---
 
 ## Section 1: Legal Battlefield

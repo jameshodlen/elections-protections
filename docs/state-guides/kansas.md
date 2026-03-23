@@ -23,6 +23,11 @@ tags:
 
 Kansas possesses one of the **strongest home rule frameworks in the nation**. Article 12, Section 5 of the Kansas Constitution (adopted 1961) empowers cities to "determine their local affairs and government including the levying of taxes, excises, fees, charges and other exactions," with a mandatory liberal construction clause requiring "the largest measure of self-government." This constitutional entrenchment, combined with progressive urban targets (Lawrence, the Wyandotte County/KCK Unified Government, Topeka), an established ACLU-led election protection coalition, and a 250-foot electioneering buffer zone, makes Kansas a Tier 2 (Moderate viability) state. The unique Wyandotte Unified Government structure allows a single ordinance to cover an entire county under both city and county home rule authority — the strongest single target across the four-state Kansas-Missouri-Nebraska-Iowa campaign.
 
+!!! info "March 2026 Update — State Legislation Active"
+    Kansas legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places.** Kansas presents the most interesting divided-government scenario among states with active legislation — the state has a Democratic governor (Laura Kelly) who would likely sign a protection bill, but a Republican-controlled legislature.
+
+    **Two-track strategy:** The state bill faces a difficult path through the Republican legislature but Gov. Kelly's signature is available if it passes. Municipal ordinances in target cities remain the primary action pathway in Kansas. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies, including "Election Sovereignty" framing that emphasizes state authority over federal overreach.
+
 ---
 
 ## Section 1: Legal Battlefield
