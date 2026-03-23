@@ -200,6 +200,49 @@ Estimated HAVA allocation: **~$6.49 million (FY2020)**, declining to approximate
 | **KY Office of Homeland Security** | homelandsecurity.ky.gov |
 | **Election Law Violation Hotline** | 1-800-328-VOTE (8683) |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Andy Beshear) + Republican supermajority legislature |
+| **Governor's posture** | Would sign — Beshear has supported election protection and voting access |
+| **State bill viability** | Not viable this session — Republican supermajority unlikely to advance |
+| **2026 session** | January 6 – April 15, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Kentucky criminalizes voter intimidation as a Class D felony under KRS § 119.155, carrying 1–5 years imprisonment. Kentucky has no statute prohibiting firearms at polling places — polling places are not listed in KRS § 237.110(16)'s enumeration of prohibited carry locations (which includes police stations, courthouses, government meetings, schools, and airports). As a constitutional carry state since June 2019 (SB 150), both open and concealed carry are legal statewide without a permit.
+
+Under KRS § 237.115(2), cities may prohibit concealed carry in government-owned buildings with no criminal penalty — only denial of access or employee discipline — creating minimal local authority. Kentucky's anti-sanctuary law (SB 1, 2021) prohibits cities and counties from adopting policies limiting cooperation with federal immigration authorities and allows private lawsuits against non-compliant governments.
+
+Kentucky's Bill of Rights, Section 22, provides that "standing armies... are dangerous to liberty" and "the military shall be in strict subordination to the civil power" — constitutional language directly relevant to a state bill prohibiting armed federal deployment at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Kentucky has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones — grounded in Section 22's military subordination principle.
+- **Article 4 — Civil enforcement with voter standing**: Kentucky has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Kentucky lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Kentucky's constitutional carry regime with no polling place restriction is a significant gap. The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Kentucky's divided government — a Democratic governor facing a Republican supermajority legislature — and the anti-sanctuary law (SB 1) make passage of the Master State Bill Template impossible in the current session. The legislature has demonstrated active hostility to non-cooperation frameworks, and SB 1's private lawsuit provision against non-compliant municipalities constrains the local ordinance track as well.
+
+The municipal ordinance track described in Sections 1–5 faces headwinds from both KRS § 237.110's firearms preemption and SB 1's anti-sanctuary provisions. Louisville, Lexington, and Covington remain the most viable municipal targets given their home rule charters. The state bill's primary value is as a constitutional argument vehicle — framing armed federal deployment at polling places as violating Section 22's military subordination principle provides a conservative constitutional framework that may resonate with some Republican legislators. Governor Beshear's willingness to sign underscores the legislative barrier.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State and Local Government | Verify current chair | Jurisdiction over election law |
+| House | Elections, Constitutional Amendments & Intergovernmental Affairs | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

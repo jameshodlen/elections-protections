@@ -196,6 +196,45 @@ Estimated cumulative HAVA election security funding since 2018: **approximately 
 | **ADEM** | (501) 683-6700 |
 | **CISO (Gary Vance)** | Office of State Technology |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Sanders has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | April 8 – May 7, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Arkansas criminalizes voter intimidation under A.C.A. § 7-1-103(a)(5)-(6) as a Class A misdemeanor, with § 7-1-104 elevating certain offenses to a Class D felony (up to 6 years, $10,000 fine). Arkansas has no prohibition on firearms at polling places — the legislature explicitly removed polling places from the prohibited locations list in Act 1175 (2015), amending A.C.A. § 5-73-306. Arkansas is a constitutional carry state (Act 777, 2023).
+
+Arkansas's Constitution, Article 3, Section 2, provides: "Elections shall be free and equal. No power, civil or military, shall ever interfere to prevent the free exercise of the right of suffrage." This language — explicitly barring both civil and military interference — is among the strongest in the nation and directly supports the Master State Bill Template's premise.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Arkansas has no state-level restriction. The template creates a state felony grounded in Article 3, Section 2's prohibition on civil and military interference.
+- **Article 4 — Civil enforcement with voter standing**: Arkansas has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Arkansas lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The 2015 removal of polling places from the prohibited list created a deliberate gap. The template would restore and strengthen election-site firearms protections.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Arkansas's Republican trifecta and the legislature's deliberate 2015 removal of polling places from the firearms prohibition list signal a hostile environment for election protection legislation. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Little Rock, Fayetteville, Fort Smith, and North Little Rock as targets. The state bill's primary value is as a constitutional argument — Article 3, Section 2's "no power, civil or military" language provides the strongest possible textual basis and aligns with conservative constitutional interpretation principles.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Agencies and Governmental Affairs | Verify current chair | Jurisdiction over election law |
+| House | State Agencies and Governmental Affairs | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

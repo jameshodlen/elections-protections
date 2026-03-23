@@ -142,6 +142,45 @@ Voter intimidation under IC 3-14-3-21.5 criminalizes knowingly or intentionally 
 - **IOT/CISO**: Hemant Jain; Local Gov: Brett Edstene, (463) 261-6177
 - **IDHS**: in.gov/dhs
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Braun has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – March 14, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Indiana criminalizes voter intimidation under IC 3-14-3-21.5, prohibiting knowingly or intentionally intimidating, threatening, or coercing anyone for exercising election rights. HEA 1265 (2024) added Level 6 felony penalties for obstructing or injuring election workers and voters. Indiana has no specific statutory prohibition on firearms at polling places. As a constitutional carry state (effective July 2022), location-based restrictions apply only to schools, courthouses, the Statehouse, casinos, and aircraft.
+
+Indiana has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Indiana has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Indiana has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Indiana lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template fills the polling place firearms gap.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Indiana's Republican trifecta makes passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Indianapolis, Bloomington, South Bend, and Fort Wayne as targets. The 2024 election worker protection enhancement (HEA 1265) demonstrates some bipartisan appetite for election security — the state bill could be framed as extending that protection to cover federal agent deployment.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Jurisdiction over election law |
+| House | Elections and Apportionment | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

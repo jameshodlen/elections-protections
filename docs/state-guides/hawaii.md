@@ -193,6 +193,51 @@ AG Anne E. Lopez has authority to investigate and prosecute election crimes unde
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Green has supported election protection and joined EO 14248 lawsuit |
+| **State bill viability** | High |
+| **2026 session** | January 21 – May 8, 2026 |
+| **Active legislation** | None identified specific to armed federal personnel at election sites |
+
+### Current Statutory Landscape
+
+Hawaii has built one of the nation's most comprehensive election security frameworks. HRS § 19-3(4) criminalizes voter intimidation through force, violence, restraint, or intimidation that interferes with the free exercise of the elective franchise, with penalties of $1,000–$5,000 fines and up to two years imprisonment under § 19-6, plus disqualification from voting and holding office.
+
+Hawaii's firearms restrictions at election sites are exceptionally strong. HRS § 134-9.1(a)(11) (Act 52, 2023) prohibits firearms — loaded or unloaded, operable or not, concealed or unconcealed — at any voter service center or polling place, including adjacent parking areas. HRS § 134-9.5 designates a 200-foot area around voter service centers as a sensitive location. SB 1030 (2025) further amended the election fraud statute to include carrying unconcealed dangerous instruments within 200 feet of any voter service center or polling place.
+
+Hawaii joined the 19-state EO 14248 lawsuit. The state's all-mail voting system with Voter Service Centers (not traditional polling places) provides structural mitigation against polling place intimidation, though service centers remain vulnerable.
+
+### What the Master State Bill Template Would Add
+
+Hawaii's existing framework is among the strongest in the nation. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Hawaii lacks an explicit prohibition on armed federal agents at voter service centers. The template creates a state felony for deploying armed federal personnel within election zones — the primary gap in Hawaii's otherwise comprehensive framework.
+- **Article 4 — Enhanced civil enforcement**: Hawaii lacks a private right of action specific to voter intimidation at election sites. The template adds voter standing, $50,000/violation civil penalties, and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Hawaii lacks statutory authority for emergency relocation of voter service centers when compromised.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — particularly important given Hawaii's geographic isolation and time zone challenges for federal court coordination.
+
+### Strategic Assessment
+
+Hawaii is highly viable for state legislation. The Democratic trifecta, Governor Green's support, and the existing comprehensive election security framework make passage straightforward. Hawaii's primary gap is the lack of an explicit federal personnel prohibition — the state has addressed firearms, dangerous instruments, and buffer zones but not the specific scenario of armed federal agent deployment.
+
+Hawaii's all-mail voting system with voter service centers presents a unique adaptation opportunity: the bill should be tailored to protect voter service centers, ballot processing facilities, and county election offices rather than traditional polling places. Hawaii's participation in the EO 14248 lawsuit demonstrates institutional commitment. Honolulu, Maui County, and Hawaii County provide a coalition base.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Judiciary | Verify current chair | Criminal provisions jurisdiction |
+| House | Judiciary & Hawaiian Affairs | Verify current chair | Criminal provisions and election law |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Hawaii Election Protection Flyer"

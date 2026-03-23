@@ -218,6 +218,45 @@ HAVA allocations are the largest in this group: **$23.25 million (FY2018)**, **$
 | **DIR / Cyber Incident Response** | (877) DIR-CISO (877-347-2476) / security@dir.texas.gov |
 | **TDEM** | (512) 424-2208 / tdem.texas.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Abbott has focused on election restriction and border enforcement |
+| **State bill viability** | Not viable — no regular session in 2026 (biennial legislature); next session 2027 |
+| **2026 session** | No regular session (Texas legislature meets biennially in odd-numbered years) |
+| **Active legislation** | None — no session |
+
+### Current Statutory Landscape
+
+Texas has a partial firearms prohibition at polling places: Tex. Penal Code § 46.03(a)(2) makes possession of a firearm inside a polling place building a third-degree felony (2–10 years, up to $10,000 fine). However, this prohibition covers only the building itself — not parking lots, driveways, sidewalks, or parking garages adjacent to the polling place.
+
+Texas's Constitution, Article I, Section 19, prohibits disfranchisement except by due course of law. Texas has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Texas has no state-level restriction on armed federal agents. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Texas has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Texas lacks statutory authority for emergency polling relocation.
+- **Article 6 — Extended election zone**: The existing § 46.03(a)(2) covers only the building interior. The template creates a comprehensive zone including adjacent areas — parking lots, sidewalks, and drop-off locations.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Texas faces a double barrier: no regular 2026 session and a Republican trifecta. The next regular session convenes in January 2027. The municipal ordinance track is the primary strategy for the 2026 election cycle. Houston, San Antonio, Austin, Dallas, Fort Worth, and El Paso provide a large coalition base — Texas's major cities lean Democratic despite the state's Republican trifecta. HB 2127 (2023) preempts some local regulation but its scope for election-specific ordinances remains contested in litigation. The state bill serves as a messaging vehicle for the 2027 session.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Affairs | Verify current chair | Jurisdiction over election law (2027 session) |
+| House | Elections | Verify current chair | Jurisdiction over election law (2027 session) |
+
 ---
 
 ## Printable Flyer

@@ -202,6 +202,47 @@ Secretary of State **Tre Hargett** (R) oversees the Division of Elections. **Sta
 | **STS / CISO Curtis Clan** | tn.gov/cybersecurity |
 | **Tennessee Cybersecurity Advisory Council** | tn.gov/cybersecurity/state-government-cybersecurity |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Lee has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – April 24, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Tennessee has no prohibition on firearms at polling places, confirmed by Giffords Law Center. As a constitutional carry state (2021, T.C.A. § 39-17-1307(g)), firearms may be carried at polling locations. T.C.A. § 39-17-1359 allows entities to post prohibitions but requires metal detectors and security at each entrance — a requirement that is impractical for most polling places. T.C.A. § 39-17-1314 provides full field preemption.
+
+However, Tennessee has a notable existing restriction on law enforcement at polling places: T.C.A. § 2-7-103(c) bars law enforcement within 10 feet of polling place entrances except by request, to arrest, or to vote. T.C.A. § 58-1-402 explicitly prohibits state guard supervision of elections. These provisions provide a direct statutory foundation for extending restrictions to federal personnel.
+
+Tennessee's 2025 special session expanded sanctuary city preemption to make it a Class E felony (up to 6 years, $3,000 fine) for officials voting for sanctuary policies (T.C.A. § 7-68-101).
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Extension of existing restrictions to federal personnel**: T.C.A. § 2-7-103(c) already restricts state and local law enforcement at polling places, and § 58-1-402 prohibits state guard election supervision. The template extends these existing principles to armed federal agents — a natural statutory extension.
+- **Article 4 — Civil enforcement with voter standing**: Tennessee has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Tennessee lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions, addressing the gap that the impractical § 39-17-1359 posting requirement fails to fill.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Tennessee's Republican trifecta and the 2025 sanctuary city felony provision create an extremely hostile environment. The municipal ordinance track is the primary strategy, with Nashville, Memphis, Knoxville, and Chattanooga as targets — though the sanctuary city felony provision casts a shadow over local non-cooperation ordinances. Tennessee's existing § 2-7-103(c) (law enforcement exclusion from polling places) and § 58-1-402 (prohibition on state guard election supervision) provide the strongest conservative constitutional argument: Tennessee already recognizes the principle that armed government personnel should not be at polling places. The state bill frames the issue in terms Tennessee law already acknowledges.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State and Local Government | Verify current chair | Jurisdiction over election law |
+| House | Elections | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

@@ -147,6 +147,45 @@ Mississippi created the **Mississippi Cyber Unit** in January 2023 under the Off
 | **Mississippi Cyber Unit** | Department of Public Safety |
 | **ITS** | Dr. Craig Orgeron, Executive Director |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Reeves has not supported election protection measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 6 – April 5, 2026 |
+| **Active legislation** | HB 1446 (Robert G. Clark Jr. Voting Rights Act) introduced but unlikely to advance |
+
+### Current Statutory Landscape
+
+Mississippi has a partial firearms prohibition at polling places: § 45-9-101(13) prohibits concealed carry without an enhanced permit at polling places. Enhanced carry permit holders may be exempt. Open carry for non-candidates is not explicitly prohibited. Mississippi adopted constitutional carry in 2016 (HB 786). Voter intimidation protections are addressed through § 45-9-101(13) and § 97-37-7(2).
+
+Mississippi has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Mississippi has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Mississippi has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Mississippi lacks statutory authority for emergency polling relocation.
+- **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap and the enhanced permit exception at polling places.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Mississippi's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Jackson, Hattiesburg, and Oxford as targets. HB 1446 (Robert G. Clark Jr. Voting Rights Act) demonstrates that Democratic legislators are introducing election protection measures even without prospects of passage — the Master State Bill Template provisions could be incorporated as amendments. The state bill serves as a messaging and organizing vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Jurisdiction over election law |
+| House | Elections | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

@@ -195,6 +195,45 @@ Utah's original HAVA equipment grant was **$21.5 million federal + $10 million s
 | **Utah Cyber Center** | cybercenter.utah.gov |
 | **Division of Emergency Management** | 801-538-3400 / dem.utah.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Cox has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 20 – March 6, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Utah criminalizes voter intimidation under Utah Code § 20A-3a-502. Utah has no prohibition on firearms at polling places. As a constitutional carry state (HB 60, May 2021), firearms may be carried at polling locations.
+
+Utah's Constitution, Article I, Section 17, provides: "All elections shall be free, and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage." This language — explicitly barring both civil and military interference — directly supports the Master State Bill Template's premise and is among the strongest in the nation.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Utah has no state-level restriction. The template creates a state felony grounded in Article I, Section 17's prohibition on civil and military interference.
+- **Article 4 — Civil enforcement with voter standing**: Utah has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Utah lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Utah's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Salt Lake City, Park City, and Moab as targets. Utah's Article I, Section 17 ("no power, civil or military, shall at any time interfere") provides the strongest possible conservative constitutional argument — the state's own constitution already prohibits exactly what the template addresses. This framing may find traction with constitutionalist legislators even in a hostile environment. The state bill serves as a constitutional messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Government Operations and Political Subdivisions | Verify current chair | Jurisdiction over election law |
+| House | Government Operations | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

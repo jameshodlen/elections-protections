@@ -358,9 +358,9 @@ Secretary of State Steve Simon administers elections with broad rulemaking autho
 
 | Factor | Status |
 |---|---|
-| **Government control** | Divided: Democratic governor (Tim Walz) + DFL Senate (34-33) + Republican House |
+| **Government control** | Divided: Democratic governor (Tim Walz) + DFL Senate (34-33) + House tied 67-67 (power-sharing agreement, bipartisan co-chairs) |
 | **Governor's posture** | Would sign — Walz has supported election protection and signed comprehensive election worker protections |
-| **State bill viability** | Low — Republican House majority unlikely to advance; Senate passage possible |
+| **State bill viability** | Moderate — tied House requires bipartisan committee support under power-sharing deal; Senate passage possible by narrow margin |
 | **2026 session** | February 17 – May 18, 2026 |
 | **Active legislation** | None identified |
 
@@ -385,16 +385,16 @@ Minnesota's existing framework already includes strong voter and election worker
 
 ### Strategic Assessment
 
-Minnesota's divided government — with a Republican House — makes passage of comprehensive state legislation unlikely in the current session. While Governor Walz would sign and the DFL Senate (34-33) could advance a bill by the narrowest margin, the Republican House presents a barrier. AG Keith Ellison's May 2025 guidance on ICE enforcement provides executive-branch protection, but legislation would create permanent statutory authority.
+Minnesota's tied House (67-67) operates under a power-sharing agreement with bipartisan co-chairs on all standing committees — bills require majority votes from appointed members of both parties to advance. While this makes passage harder than under a trifecta, it is not the insurmountable barrier a hostile majority would present. The DFL Senate (34-33) could advance a bill by the narrowest margin, and Governor Walz would sign. AG Keith Ellison's May 2025 guidance on ICE enforcement provides executive-branch protection, but legislation would create permanent statutory authority.
 
-The state bill's primary value in the current session is as a messaging vehicle and Senate-passed bill that highlights the statutory gaps for voters heading into November 2026 elections. Minnesota's existing § 204C.06 (restricting law enforcement at polling places) provides a uniquely strong foundation for the argument: if Minnesota already restricts state and local officers from standing within 50 feet of polling places, the same principle should apply to armed federal agents. Minneapolis, St. Paul, Duluth, and Rochester provide coalition support with existing sanctuary-type ordinances.
+The path to passage runs through the bipartisan committee structure. Minnesota's existing § 204C.06 (restricting law enforcement at polling places) provides a uniquely strong bipartisan argument: if Minnesota already restricts state and local officers from standing within 50 feet of polling places, the same principle should apply to armed federal agents. Framing the bill as extending existing Minnesota law — not importing a partisan agenda — is essential to securing the bipartisan committee votes the power-sharing deal requires. Minneapolis, St. Paul, Duluth, and Rochester provide coalition support with existing sanctuary-type ordinances.
 
 ### Target Committees
 
 | Chamber | Committee | Chair | Relevance |
 |---|---|---|---|
 | Senate | Elections | Verify current chair | Primary jurisdiction over election law |
-| House | Elections Finance and Policy | Verify current chair | Would need to advance past Republican majority |
+| House | Elections Finance and Policy | Verify current chair (bipartisan co-chairs under power-sharing) | Bills require bipartisan majority to advance from committee |
 
 ## Conclusion: Minnesota offers model conditions for implementation
 

@@ -261,6 +261,49 @@ The **Wisconsin Elections Commission (WEC)** administers elections, with Adminis
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
 - **CEIR Legal Defense Network:** legaldefense@electioninnovation.org
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Tony Evers) + Republican legislature |
+| **Governor's posture** | Would sign — Evers has consistently supported election protection and vetoed restrictive voting bills |
+| **State bill viability** | Not viable this session — Republican legislature unlikely to advance |
+| **2026 session** | January 13 – year-round, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Wisconsin criminalizes voter intimidation under Wis. Stat. § 12.09, prohibiting force, violence, or restraint to compel voting behavior. Violations are Class I felonies under § 12.60(1)(a), carrying up to 3.5 years imprisonment and $10,000 fine. Wis. Stat. § 12.13(3)(x) prohibits disorderly behavior near polling places. Notably, Wis. Stat. § 5.07 grants any elector standing to sue for injunctive relief — an existing private right of action.
+
+Wisconsin has no specific statute prohibiting firearms at polling places. The Wisconsin Elections Commission confirmed that "any prohibition on the possession of weapons is a decision that needs to be made at the municipal level." Location-based restrictions apply at schools (§ 948.605) and courthouses (§ 175.60), providing incidental coverage.
+
+Wisconsin's 2017 anti-sanctuary law requires local law enforcement to comply with federal immigration detainer requests, though the scope is narrower than it appears, focusing on detention cooperation. Wisconsin's Constitution, Article XI, Section 3, grants municipal home rule authority. The 2024 constitutional amendments (Article III) strengthened election integrity provisions by limiting election task performance to designated election officials.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Wisconsin has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 4 — Enhanced civil enforcement**: While Wis. Stat. § 5.07 provides elector standing for injunctive relief, the template adds $50,000/violation civil penalties and attorney fee shifting — substantially strengthening the existing private right of action.
+- **Article 5 — Emergency election procedures**: Wisconsin lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Wisconsin's lack of a state-level polling place firearms ban is a significant gap. The template creates election-specific firearms restrictions, complementing the Elections Commission's position that firearms regulation is a municipal-level decision.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — critical for Wisconsin as a perennial swing state.
+
+### Strategic Assessment
+
+Wisconsin's divided government — a Democratic governor facing a Republican legislature — makes passage of the Master State Bill Template impossible in the current session. Governor Evers has consistently vetoed restrictive voting legislation, demonstrating his commitment to election protection, but the Republican legislature will not advance expanded protections.
+
+The municipal ordinance track described in Sections 1–5 is the primary strategy for Wisconsin. The Elections Commission's explicit acknowledgment that firearms regulation at polling places is a municipal-level decision provides direct institutional support for local ordinances. Milwaukee, Madison, Green Bay, and Racine are the most viable municipal targets. The 2017 anti-sanctuary law's narrow scope (detention cooperation only) may leave room for local election protection ordinances that do not implicate immigration detention. The state bill serves as a messaging vehicle heading into the November 2026 elections — Wisconsin's status as a presidential swing state ensures national media attention to the issue.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections and Shared Revenue | Verify current chair | Primary jurisdiction over election law |
+| Assembly | Campaigns and Elections | Verify current chair | Primary jurisdiction over election law |
+
 ## Conclusion: A viable but narrow path requires careful drafting
 
 Wisconsin's legal framework creates a viable—if narrow—path for municipal election protection ordinances. The key is **avoiding the firearms preemption trap** through careful drafting that focuses on resource allocation rather than armed/unarmed distinctions. Cities should frame ordinances as operational directives supporting federal voter protection law under their § 62.11(5) authority over city property, finances, and public services.

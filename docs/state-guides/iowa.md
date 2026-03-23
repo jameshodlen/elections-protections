@@ -167,6 +167,45 @@ A **council ordinance** is recommended — charter amendments require voter appr
 - **OCIO/Cybersecurity**: (515) 281-5503; SecurityAwareness@iowa.gov
 - **HSEM**: (515) 725-3231; homelandsecurity.iowa.gov
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Reynolds has focused on election restriction measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 12 – April 21, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Iowa criminalizes voter intimidation under Iowa Code § 39A.2(1)(d) as election misconduct in the first degree — a Class D felony carrying up to 5 years imprisonment. Iowa has no prohibition on firearms at polling places. As a constitutional carry state (July 2021, HF 756), and following a 2022 constitutional amendment requiring strict scrutiny for firearms restrictions, the legal landscape strongly favors firearms access. Iowa Code § 724.28 preempts local firearms regulation.
+
+Iowa's anti-sanctuary statute (Chapter 27A, 2018) establishes precedent for mandatory cooperation with federal immigration enforcement. Iowa has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Iowa has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Iowa has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Iowa lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions — though the 2022 strict scrutiny amendment creates a high constitutional bar for any firearms regulation.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Iowa's Republican trifecta, anti-sanctuary law, and constitutional strict scrutiny requirement for firearms restrictions create one of the most hostile environments for the Master State Bill Template. Both state legislation and municipal ordinances face severe headwinds. Iowa City, Des Moines, and Cedar Rapids are the most viable municipal targets but face preemption constraints. The state bill serves exclusively as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Government | Verify current chair | Jurisdiction over election law |
+| House | State Government | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

@@ -212,6 +212,46 @@ West Virginia represents the **most concerning cybersecurity posture** among all
 | **WVOT / CISO** | (304) 957-8107 / CSO@wv.gov |
 | **WVU College of Law** | Prof. Robert M. Bastress, Jr. (home rule expert) |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Morrisey has focused on election restriction measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 14 – March 14, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+West Virginia criminalizes voter intimidation under W. Va. Code §§ 3-9-9 and 3-9-10 as a misdemeanor only — maximum $1,000 fine and 1 year imprisonment. There is no private right of action and no anti-paramilitary training statute. West Virginia has no prohibition on firearms at polling places. As a constitutional carry state (since 2016), only incidental protections apply: schools (federal Gun-Free School Zones Act) and courthouses (§ 61-7-11a). Churches, fire halls, and community centers used as polling places have no firearms restrictions.
+
+West Virginia's 2025 legislative session produced five restrictive election laws (HB 3016, SB 486, SB 490, SB 487, SB 50), demonstrating a hostile legislative trajectory.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: West Virginia has no state-level restriction. The template creates a state felony for deployment.
+- **Article 3 — Enhanced intimidation penalties**: W. Va. Code §§ 3-9-9/3-9-10's misdemeanor penalties ($1,000/1 year) are inadequate. The template elevates violations to felony status with an effects-based standard.
+- **Article 4 — Civil enforcement with voter standing**: West Virginia has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: West Virginia lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions, filling the gap at community polling venues (churches, fire halls, community centers).
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+West Virginia's Republican trifecta and the 2025 session's five restrictive election laws signal one of the most hostile environments for election protection legislation. The municipal ordinance track is the primary strategy, with Charleston, Huntington, and Morgantown as targets. West Virginia's weak voter intimidation penalties (misdemeanor only) are the most critical gap — the template's felony-level penalties would represent a significant upgrade. The state bill serves exclusively as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Judiciary | Verify current chair | Election law jurisdiction |
+| House | Judiciary | Verify current chair | Election law jurisdiction |
+
 ---
 
 ## Printable Flyer

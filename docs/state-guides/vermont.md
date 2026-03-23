@@ -209,6 +209,51 @@ Vermont has resolved its core firearms gap through 13 V.S.A. Section 4027 but re
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Republican governor (Phil Scott) + Democratic/Progressive supermajority legislature |
+| **Governor's posture** | Uncertain — Scott allowed 2024 polling place firearms ban to become law without signature; may veto broader bill but legislature can override |
+| **State bill viability** | High — legislature has veto-proof supermajority |
+| **2026 session** | January 6 – May 8, 2026 |
+| **Active legislation** | None identified specific to armed federal personnel at election sites |
+
+### Current Statutory Landscape
+
+Vermont's voter intimidation statute (17 V.S.A. § 2017) imposes only a $200 fine for "undue influence" — the lowest penalty among all Eastern states analyzed and a critical weakness in the state's election protection framework.
+
+However, Vermont enacted a polling place firearms ban in 2024: 13 V.S.A. § 4027 bans firearms at polling places during voting hours, with penalties up to one year imprisonment. Governor Scott allowed this to become law without his signature, despite Vermont being a constitutional carry state since 1793 — suggesting reluctant acquiescence to polling place protection measures rather than active opposition.
+
+Vermont's Constitution, Chapter II, Section 42, guarantees the right of suffrage. The state has no existing restrictions on federal personnel at election sites beyond federal 18 U.S.C. § 592.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Vermont has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation penalties**: 17 V.S.A. § 2017's $200 fine is woefully inadequate. The template's felony-level penalties for voter intimidation would address the most critical gap in Vermont's election protection framework.
+- **Article 4 — Civil enforcement with voter standing**: Vermont has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting — replacing the $200 fine with meaningful deterrence.
+- **Article 5 — Emergency election procedures**: Vermont lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Vermont's Democratic/Progressive supermajority legislature can override gubernatorial vetoes, making the governor's posture less determinative than in other divided-government states. The 2024 precedent — where Scott allowed the polling place firearms ban to become law without his signature — suggests he may follow the same path for broader polling place protection legislation, particularly if framed as extending the existing firearms ban to federal agents.
+
+The most urgent gap to address is the $200 voter intimidation penalty (17 V.S.A. § 2017), which provides virtually no deterrence. The template's enhanced penalties should be the legislative priority even apart from the federal personnel provisions. The session window through May 8 is adequate. Burlington, Montpelier, Brattleboro, and Rutland provide a coalition base. Vermont's small size and accessible legislative process make it a viable early-passage state that can build momentum for the national campaign.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Government Operations | Verify current chair | Primary jurisdiction over election law |
+| House | Government Operations and Military Affairs | Verify current chair | Primary jurisdiction over election law; military affairs nexus relevant to federal personnel provisions |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Vermont Election Protection Flyer"

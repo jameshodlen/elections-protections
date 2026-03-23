@@ -175,6 +175,50 @@ An **ordinary home rule ordinance** — not a charter ordinance — is recommend
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Laura Kelly) + Republican legislature |
+| **Governor's posture** | Would sign — Kelly has supported election protection measures |
+| **State bill viability** | Not viable this session — Republican legislature unlikely to advance |
+| **2026 session** | January 12 – April 10, 2026 |
+| **Active legislation** | Introduced — polling place protection bill (referred to committee, no hearing scheduled) |
+
+### Current Statutory Landscape
+
+Kansas criminalizes voter intimidation as a severity level 7, nonperson felony under K.S.A. § 25-2415. Kansas has no statute prohibiting firearms at polling places. As a constitutional carry state since 2015, open carry is legal for anyone 18+ and concealed carry is legal without a permit for anyone 21+. At school-located polling places, K.S.A. § 21-6301(j)(4) permits voters to keep firearms in vehicles. A 2013 Attorney General advisory opinion confirmed that both concealed and open carry remain permitted at publicly owned polling places unless building-specific security measures are implemented. "No weapons" signs carry no criminal penalty.
+
+Kansas has no specific restrictions on federal personnel at election sites. SB 5 (2025) amended K.S.A. § 25-2436 to prohibit acceptance of federal election funds without legislative approval, signaling hostility to federal election involvement — though this addresses funding rather than armed presence. Kansas Constitution, Article 5, Section 1, establishes the right to vote.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Kansas has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation standard**: K.S.A. § 25-2415 provides felony penalties but requires proof of intent. The template's effects-based standard would cover armed federal presence that deters voters without provable coercive intent.
+- **Article 4 — Civil enforcement with voter standing**: Kansas has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Kansas lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Kansas's constitutional carry regime with no polling place restriction is the most significant gap. The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Kansas's divided government — a Democratic governor facing a Republican supermajority legislature — makes passage of the Master State Bill Template impossible in the current session. The introduced polling place protection bill has been referred to committee with no hearing scheduled, confirming the legislative blockade. SB 5's restriction on federal election funds demonstrates the legislature's hostility to federal election involvement from the opposite direction — viewing federal engagement as a threat to state sovereignty rather than a voter intimidation concern.
+
+The municipal ordinance track described in Sections 1–5 above is the primary strategy for Kansas. Lawrence, Kansas City (KS), Topeka, and Wichita are the most viable targets. The state bill serves as a messaging vehicle and organizes the coalition heading into the November 2026 elections. Governor Kelly's willingness to sign — if the bill could reach her desk — underscores the legislative barrier rather than the executive one.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Federal and State Affairs | Verify current chair | Jurisdiction over election law |
+| House | Elections | Verify current chair | Jurisdiction over election law |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Kansas Election Protection Flyer"

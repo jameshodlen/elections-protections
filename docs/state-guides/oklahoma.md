@@ -200,6 +200,45 @@ HAVA Requirements Payments balance as of December 31, 2023: **$1,908,070**.
 | **OK-ISAC** | okisac@omes.ok.gov |
 | **Oklahoma Emergency Management** | oklahoma.gov/oem |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Stitt has focused on election restriction measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | February 2 – May 29, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Oklahoma elevated voter intimidation to a Class D1 felony under 26 O.S. § 16-109 (effective January 1, 2026, Laws 2025, c. 486). Oklahoma has no prohibition on firearms at polling places — polling places are not listed in the prohibited locations under 21 O.S. § 1277. As a constitutional carry state (November 2019), open carry is legal at polling places unless the property owner posts signage.
+
+Oklahoma's Constitution, Article II, Section 4, provides: "No power, civil or military, shall ever interfere to prevent the free exercise of the right of suffrage by those entitled to such right." This language directly supports the Master State Bill Template's premise.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Oklahoma has no state-level restriction. The template creates a state felony grounded in Article II, Section 4's prohibition on civil and military interference.
+- **Article 4 — Civil enforcement with voter standing**: Oklahoma has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Oklahoma lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions filling the gap in 21 O.S. § 1277.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Oklahoma's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Oklahoma City, Tulsa, and Norman as targets. Oklahoma's recent elevation of voter intimidation to a D1 felony (effective January 2026) shows some bipartisan support for election security — framing the state bill as extending that protection to federal agent deployment may find limited traction. Article II, Section 4's "no power, civil or military" language provides the constitutional argument.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Rules | Verify current chair | Election law jurisdiction |
+| House | Elections and Ethics | Verify current chair | Election law jurisdiction |
+
 ---
 
 ## Printable Flyer

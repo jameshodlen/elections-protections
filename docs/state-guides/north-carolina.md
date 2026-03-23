@@ -245,6 +245,45 @@ Active litigation includes **Cooper v. Berger/Boliek** (Governor Stein's challen
 | **AG Jeff Jackson** | ncdoj.gov |
 | **Federal Partners** | CISA (844-729-2472); FBI CyWatch (855-292-3937) |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Josh Stein) + Republican supermajority legislature |
+| **Governor's posture** | Would sign — Stein has supported election protection and voting access |
+| **State bill viability** | Not viable this session — Republican supermajority can override vetoes |
+| **2026 session** | April 21 – July 31, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+North Carolina criminalizes voter intimidation through N.C.G.S. § 163-274 (interference with voters, boisterous conduct — Class 2 misdemeanor) and § 163-275(10)-(11), (17) (intimidating voters, intimidating election officials, misrepresenting law to discourage voting — Class I felony). North Carolina has no prohibition on firearms at polling places in Chapter 163. N.C.G.S. § 14-269.2 covers firearms on educational property, providing incidental coverage only at school-located polling sites.
+
+North Carolina's Constitution, Article I, Section 10, provides: "All elections shall be free." The state has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: North Carolina has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: North Carolina has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: North Carolina lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: Chapter 163 contains no polling place firearms prohibition — a significant gap. The template creates comprehensive election-site firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+North Carolina's Republican supermajority can override gubernatorial vetoes, making even Governor Stein's support insufficient for passage. SB 382's transfer of election board appointment authority and restriction of AG authority demonstrate the legislature's trajectory. The municipal ordinance track is the primary strategy, with Charlotte, Raleigh, Durham, Asheville, and Greensboro as targets. North Carolina's status as a perennial swing state ensures national attention to the issue. The state bill serves as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Redistricting and Elections | Verify current chair | Jurisdiction over election law |
+| House | Election Law and Campaign Finance Reform | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

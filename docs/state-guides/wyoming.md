@@ -127,6 +127,47 @@ Wyoming is **the only state in this batch where voter intimidation is exclusivel
 - **Wyoming Office of Homeland Security**: hls.wyo.gov
 - **Election Protection Hotline**: 866-OUR-VOTE (866-687-8683)
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Gordon has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | February 9 – March 11, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Wyoming has uniquely strong voter intimidation penalties: W.S. § 22-26-111 is exclusively a felony (the only state in its regional batch where voter intimidation is exclusively felony-level), prohibiting inducing fear through threats of force, violence, harm, or economic/official retaliation — up to 5 years imprisonment and $10,000 fine. W.S. § 22-26-121 provides a quasi-private right of action (complaint to SOS/DA, then AG if they refuse).
+
+Wyoming has no prohibition on firearms at polling places. As the earliest constitutional carry state (2011 for residents, expanded 2021), with comprehensive preemption under W.S. § 6-8-401, firearms may be carried at any location not specifically prohibited. HB 172 (2025, the Wyoming Repeal Gun Free Zones Act, effective July 2025) further reduced restricted locations.
+
+Wyoming's Constitution, Article 6, Section 27, provides: "Elections shall be open, free and equal, and no power, civil or military, shall at any time interfere to prevent an untrammeled exercise of the right of suffrage." The word "untrammeled" provides uniquely strong constitutional language.
+
+### What the Master State Bill Template Would Add
+
+Wyoming's felony-level voter intimidation and quasi-private right of action are stronger than most Tier 3 states. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Wyoming has no state-level restriction. The template creates a state felony grounded in Article 6, Section 27's prohibition on civil and military interference with "untrammeled" suffrage.
+- **Article 4 — Enhanced civil enforcement**: W.S. § 22-26-121's complaint mechanism is weaker than a true private right of action. The template adds direct voter standing, $50,000/violation civil penalties, and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Wyoming lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: HB 172's gun-free zone repeal and § 6-8-401 preemption make this the most challenging provision. The template creates election-specific restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Wyoming's Republican trifecta, comprehensive firearms preemption (§ 6-8-401), and HB 172's gun-free zone repeal create one of the most hostile environments for election protection legislation. The municipal ordinance track faces severe preemption constraints. Jackson, Laramie, and Cheyenne are the only viable municipal targets. Wyoming's Article 6, Section 27 — using the word "untrammeled," which means completely free from obstruction — provides the strongest possible constitutional language for the argument. The state bill serves as a constitutional messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
+| House | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

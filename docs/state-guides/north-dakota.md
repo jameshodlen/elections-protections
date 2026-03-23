@@ -158,6 +158,45 @@ North Dakota's **citizen initiative process** provides a significant alternative
 - **Governor**: Kelly Armstrong (R) — (701) 328-2200
 - **ND Department of Emergency Services**: des.nd.gov
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Armstrong has not supported election protection measures of this type |
+| **State bill viability** | Not viable — no regular session in 2026 (biennial legislature); next session 2027 |
+| **2026 session** | No regular session (North Dakota legislature meets biennially in odd-numbered years) |
+| **Active legislation** | None — no session |
+
+### Current Statutory Landscape
+
+North Dakota criminalizes voter intimidation under NDCC § 12.1-14-02 — preventing or obstructing voting rights through force, threats, or economic coercion (Class C felony). NDCC § 12.1-14-03 addresses discrimination-based interference (Class B misdemeanor). North Dakota has no statute specifically banning firearms at polling places. As a constitutional carry state (effective August 2017, expanded to non-residents 2023), firearms may be carried at polling locations. HB 1588 (2025) grants authority to prohibit firearms in public areas of publicly owned buildings ($100 noncriminal penalty).
+
+North Dakota has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: North Dakota has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: North Dakota has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: North Dakota lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: HB 1588's building-level authority provides a foundation, but the template creates comprehensive election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+North Dakota faces a double barrier: no regular 2026 session and a Republican trifecta. The next regular session convenes in 2027. The municipal ordinance track is the primary strategy for 2026, with Fargo, Bismarck, and Grand Forks as targets. HB 1588's grant of building-level firearms authority provides a narrow pathway for government-owned polling locations. The state bill serves as a messaging vehicle for the 2027 session.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Government and Veterans Affairs | Verify current chair | Jurisdiction over election law (2027 session) |
+| House | Government and Veterans Affairs | Verify current chair | Jurisdiction over election law (2027 session) |
+
 ---
 
 ## Printable Flyer

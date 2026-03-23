@@ -194,6 +194,51 @@ Likelihood of success: UNCERTAIN for municipal ordinances (Dillon's Rule is exis
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Meyer signed HB 182 banning 287(g) agreements and directed state police non-cooperation with ICE |
+| **State bill viability** | High |
+| **2026 session** | January 13 – June 30, 2026 |
+| **Active legislation** | None identified specific to polling place protection from federal agents |
+
+### Current Statutory Landscape
+
+Delaware has a strong election protection foundation. Del. Code tit. 15, § 5302 makes military or other interference with elections a felony punishable by $1,000–$10,000 fine and 1–5 years imprisonment, with permanent disenfranchisement. Notably, § 5303 provides a statutory civil remedy for interference with voting — one of the few states with an existing private right of action.
+
+Del. Code tit. 11, § 1457A (2023) establishes a total ban on firearms at polling places on Election Day — loaded or unloaded, operable or not, concealed or unconcealed. This is among the strongest polling place firearms bans in the nation. Delaware's Constitution, Article I, Section 3, guarantees free elections and every citizen's right to vote.
+
+HB 182 (signed July 2025) prohibits Delaware law enforcement from entering 287(g) agreements with ICE. Governor Meyer directed state police not to cooperate with ICE in February 2025. New Castle County has operated under a sanctuary-type executive order since 2017.
+
+### What the Master State Bill Template Would Add
+
+Delaware's existing framework already covers firearms at polling places and provides a civil remedy for election interference. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While § 5302 prohibits "military or other interference," the template creates an explicit, specific prohibition on armed federal personnel at election sites with enhanced criminal penalties — removing any interpretive ambiguity about whether existing law covers federal agent deployment.
+- **Article 4 — Enhanced civil enforcement**: While § 5303 provides an existing civil remedy, the template adds $50,000/violation penalties and attorney fee shifting — substantially strengthening the civil enforcement mechanism beyond the current framework.
+- **Article 5 — Emergency election procedures**: Delaware lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the HB 182 non-cooperation framework.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Delaware is well-positioned for state legislation. The Democratic trifecta, Governor Meyer's aggressive posture on federal enforcement non-cooperation (HB 182, state police directive), the existing total firearms ban at polling places, and the existing civil remedy for election interference create a strong foundation. The session window through June 30 provides ample time.
+
+The strongest framing builds on HB 182: if Delaware bars 287(g) agreements and directs state police non-cooperation with ICE, it should specifically protect polling places from armed federal agent deployment. Delaware's existing § 5302 — which already criminalizes "military or other interference" with elections — provides a direct statutory hook for the template's federal agent provisions. Wilmington, Dover, and Newark provide a coalition base with existing non-cooperation policies.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections & Government Affairs | Verify current chair | Primary jurisdiction over election law |
+| House | Elections | Verify current chair | Primary jurisdiction over election law |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Delaware Election Protection Flyer"

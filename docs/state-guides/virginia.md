@@ -210,6 +210,47 @@ Virginia's IT infrastructure under VITA is mature, operating under SEC530 standa
 | **Attorney General Jay Jones** | (804) 786-2071 / oag.state.va.us |
 | **VITA / CISO** | (804) 416-6000 / vita.virginia.gov/security |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta (Governor Spanberger, elected 2025) |
+| **Governor's posture** | Would sign — Spanberger has supported election protection measures |
+| **State bill viability** | High — Democratic trifecta with active legislation |
+| **2026 session** | January 14 – March 14, 2026 |
+| **Active legislation** | Passed legislature — HB 650 (immigration enforcement prohibition near election sites), heading to governor |
+
+### Current Statutory Landscape
+
+Virginia has a strong voter intimidation framework. Va. Code § 24.2-1005(B) creates a statutory private right of action for intimidated voters to "obtain relief." Va. Code § 24.2-1015 makes conspiracy to hinder voting rights a Class 5 felony. Va. Code § 24.2-604(A)(iv) bans firearms within 40 feet of polling place entrances. HB 909 (2026) would expand this to 100 feet. Virginia is not a constitutional carry state; open carry is legal for adults 18+, and concealed carry requires a permit.
+
+As detailed in the March 2026 Update above, Virginia legislators have introduced and advanced legislation prohibiting immigration law enforcement near polling places, vote-counting locations, and other election sites. The Democratic trifecta under Governor Spanberger creates the strongest legislative opportunity in Virginia's recent history.
+
+### What the Master State Bill Template Would Add
+
+Virginia's existing framework is among the strongest of any Tier 3 state, with a private right of action and pending legislation. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Enhanced prohibition on armed federal personnel**: HB 650 addresses immigration enforcement near election sites. The template provides a broader framework covering all armed federal personnel — not limited to immigration enforcement — with criminal penalties for officials who order deployment.
+- **Article 4 — Enhanced civil penalties**: While § 24.2-1005(B) provides an existing private right of action, the template adds $50,000/violation penalties and attorney fee shifting — substantially strengthening the civil enforcement mechanism.
+- **Article 5 — Emergency election procedures**: Virginia lacks statutory authority for emergency polling relocation.
+- **Article 6 — Expanded firearms zone**: The current 40-foot buffer (with HB 909's proposed expansion to 100 feet) would be complemented by the template's comprehensive election zone framework.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Virginia's Democratic trifecta transforms its position from Tier 3 (based on municipal ordinance viability under the previous divided government) to one of the most viable states for comprehensive state legislation. HB 650's passage through the legislature demonstrates immediate momentum. The strategic approach is to sign HB 650 as an immediate win, then pursue the full Master State Bill Template provisions as a follow-on bill — either in the 2026 session's remaining window or in the 2027 session.
+
+Virginia's existing private right of action (§ 24.2-1005(B)), pending firearms buffer expansion (HB 909), and HB 650's immigration enforcement prohibition create a legislative framework that the template's comprehensive provisions would complete. The coalition of election protection advocates built during the 2025 campaign and the Spanberger administration's first months provides strong institutional support. Virginia's passage would be nationally significant as a Southern/border state model.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Privileges and Elections | Verify current chair | Primary jurisdiction over election law |
+| House | Privileges and Elections | Verify current chair | HB 650 advanced through this committee |
+
 ---
 
 ## Printable Flyer

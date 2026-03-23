@@ -151,6 +151,44 @@ The **Georgia Technology Authority (GTA)** leads state cybersecurity under CISO 
 | **Attorney General Chris Carr (R)** | law.georgia.gov |
 | **GTA Cybersecurity** | gta.georgia.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Kemp signed SB 202 (2021) restricting voting access |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 12 – April 6, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Georgia has a strong existing prohibition on firearms at polling places: O.C.G.A. § 21-2-413(i) prohibits firearms within 150 feet of any active polling place, reinforced by O.C.G.A. § 16-11-127. This prohibition survived the 2022 constitutional carry law (SB 319), which did not remove the polling place restriction.
+
+Georgia has no existing restrictions on federal personnel at election sites. The state's election administration framework has been a focus of national attention since SB 202 (2021).
+
+### What the Master State Bill Template Would Add
+
+Georgia's existing 150-foot firearms prohibition is among the strongest. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While § 21-2-413(i) prohibits civilian firearms, the law enforcement exception may cover federal agents. The template creates an explicit prohibition on armed federal personnel.
+- **Article 4 — Civil enforcement with voter standing**: Georgia has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Georgia lacks statutory authority for emergency polling relocation.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Georgia's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Atlanta, Savannah, Augusta, and Columbus as targets. Georgia's existing 150-foot firearms ban means the template's primary value is the federal personnel prohibition and civil enforcement provisions rather than firearms restrictions. The state bill serves as a messaging vehicle — particularly powerful in Georgia given the national attention on Georgia elections since 2020.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Ethics | Verify current chair | Jurisdiction over election law |
+| House | Special Committee on Election Integrity | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer
