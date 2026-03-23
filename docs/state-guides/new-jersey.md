@@ -285,6 +285,47 @@ New Jersey's Faulkner Act and other municipal governance statutes provide home r
 - **NJCCIC:** njccic@cyber.nj.gov
 - **AG Election Protection:** Report incidents through the AG's office at (609) 292-4925
 - **Secretary of State:** 33 W. State St., Trenton, NJ 08608
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Democratic governor in state with strong election protection framework |
+| **State bill viability** | High |
+| **2026 session** | January 13 – year-round, 2026 |
+| **Active legislation** | None identified specific to polling place protection from federal agents |
+
+### Current Statutory Landscape
+
+New Jersey has one of the nation's strongest voter intimidation frameworks. N.J.S.A. 19:34-1.1 makes voter intimidation a crime of the second degree (5–10 years imprisonment, up to $150,000 fine) — among the harshest penalties in the country. N.J.S.A. 19:34-28 broadly prohibits using force, violence, or restraint to influence voting. N.J.S.A. 19:34-6(a) makes obstructing polling place entrances or interfering with voters a crime of the third degree (3–5 years).
+
+Firearms at polling places are prohibited under N.J.S.A. 2C:58-4.6(a)(5) as a crime of the third degree, with exemptions only for authorized law enforcement. New Jersey has strict concealed carry requirements. The state is party to the 19-state lawsuit against EO 14248, and AG Matthew J. Platkin has been active in challenging federal enforcement overreach. Hoboken, Newark, and Jersey City maintain sanctuary city protections under federal legal challenge.
+
+### What the Master State Bill Template Would Add
+
+New Jersey's existing framework already addresses firearms at polling places with strong criminal penalties. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While N.J.S.A. 2C:58-4.6(a)(5) prohibits civilian firearms at polling places, the law enforcement exemption could be read to include federal agents. The template creates an explicit prohibition on armed federal personnel — closing the interpretive gap between "authorized law enforcement" and federal agents acting outside state authorization.
+- **Article 4 — Civil enforcement with voter standing**: Despite having strong criminal penalties, New Jersey lacks a dedicated private right of action with civil penalties specific to armed presence at election sites. The template adds voter standing, $50,000/violation civil penalties, and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: New Jersey lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+New Jersey is well-positioned for state legislation with its Democratic trifecta, year-round session, and the nation's strongest criminal penalties for voter intimidation. The state's participation in the 19-state EO 14248 lawsuit demonstrates institutional commitment to challenging federal enforcement overreach. The most compelling framing builds on New Jersey's existing framework: if voter intimidation is already a second-degree crime (5–10 years), then armed federal deployment at polling places — which creates the conditions for intimidation — should be explicitly addressed.
+
+The year-round session provides ample time for introduction and deliberation. Newark, Jersey City, Hoboken, and other sanctuary cities provide a natural coalition base. The AG's active role in the EO 14248 litigation creates executive-branch alignment. New Jersey's passage would be particularly significant as a Northeastern model complementing New Mexico's Western model and California's Pacific model.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Government, Wagering, Tourism & Historic Preservation | Verify current chair | Jurisdiction over election law |
+| Assembly | State and Local Government | Verify current chair | Jurisdiction over election law |
+
 ## Conclusion: A viable pathway requiring coalition coordination
 
 New Jersey municipalities possess the legal authority to pass ordinances reinforcing 18 U.S.C. § 592 protections, provided they frame such ordinances as exercises of local police power and municipal property management rather than direct election regulation. The Faulkner Act's liberal construction mandate and explicit grant of power over police "priorities and objectives" under N.J.S.A. 40A:14-118 provide the strongest legal foundation.

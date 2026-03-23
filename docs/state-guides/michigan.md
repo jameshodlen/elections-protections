@@ -353,6 +353,49 @@ Michigan's **private right of action** provision (Article II, section 4(1)(a), P
 | AG Voter Intimidation Reports | 517-335-7659 |
 | DTMB Cybersecurity Grants | DTMB-CIP-SLCGP@michigan.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Gretchen Whitmer) + Democratic Senate (19-18) + Republican House (58-52) |
+| **Governor's posture** | Would sign — Whitmer has supported election protection measures and Proposal 2 implementation |
+| **State bill viability** | Low — Republican House majority unlikely to advance polling place protection bill |
+| **2026 session** | January 14 – year-round, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Michigan's election protection framework was substantially strengthened by Proposal 2 of 2022, which established voting as a "fundamental right" in the Michigan Constitution and created the nation's strongest private right of action for voter intimidation. MCL 168.932 is the primary voter intimidation statute, a felony prohibition on using bribery, menace, or corrupt means to influence voting. MCL 168.931b (added 2023, effective February 2024) specifically addresses election worker intimidation with graduated penalties from misdemeanor to felony.
+
+MCL 750.234d (as amended by 2024 PA 157 & 158, effective April 2, 2025) prohibits firearms within 100 feet of any polling place entrance while polls are open, with an exception for law enforcement in the course of their duties. Michigan's Constitution, Article VII, Sections 22 and 34, provides robust home rule authority with a liberal construction mandate and a prohibition on interpreting enumerated powers as limiting the general grant of authority.
+
+Michigan is party to the 19-state lawsuit against EO 14248, and AG Dana Nessel has been active in challenging federal enforcement overreach. Ann Arbor and Detroit maintain sanctuary-type protections.
+
+### What the Master State Bill Template Would Add
+
+Michigan's post-Proposal 2 framework already addresses several template provisions. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While MCL 750.234d prohibits civilian firearms near polling places, the law enforcement exception could be read to include federal agents. The template creates an explicit prohibition on armed federal personnel at election sites, closing this interpretive gap.
+- **Article 5 — Emergency election procedures**: Michigan lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
+- **Article 9 — Expedited judicial review**: Michigan lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Michigan's divided government — with a Republican House majority of 58-52 — makes passage of comprehensive polling place protection legislation unlikely in the current session. While Governor Whitmer would sign and the Democratic Senate could advance a bill, the Republican House presents an insurmountable barrier for binding legislation. Whitmer is also term-limited (term ends January 2027), reducing her political leverage for controversial legislation.
+
+The municipal ordinance track described in Sections 1–5 above remains the primary strategy for Michigan. The state bill serves as a messaging vehicle and organizing tool, particularly given the strength of Michigan's post-Proposal 2 constitutional framework. The bill's introduction in the Senate builds the public record and creates campaign issue material for the November 2026 elections, when control of both chambers and the governor's office will be contested. Detroit, Ann Arbor, Grand Rapids, and Kalamazoo — all with existing sanctuary-type protections — provide a coalition base for both the municipal ordinance and state bill tracks.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections and Ethics | Verify current chair | Primary jurisdiction over election law |
+| House | Elections | Verify current chair | Would need to advance bill past Republican majority |
+| Senate | Judiciary | Verify current chair | Criminal provisions review |
+
 ## Conclusion: A strategically favorable environment
 
 Michigan presents an exceptionally favorable legal environment for municipal election protection ordinances. The state's **strong home rule framework** (Article VII, Sections 22 and 34, plus MCL 117.4j) grants charter cities broad authority to direct police resources and manage municipal property—precisely the powers needed for an ordinance prohibiting assistance to armed federal personnel near polling places.

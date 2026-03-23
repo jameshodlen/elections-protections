@@ -352,6 +352,50 @@ Secretary of State Steve Simon administers elections with broad rulemaking autho
 - **Attorney General:** ag.state.mn.us
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Tim Walz) + DFL Senate (34-33) + Republican House |
+| **Governor's posture** | Would sign — Walz has supported election protection and signed comprehensive election worker protections |
+| **State bill viability** | Low — Republican House majority unlikely to advance; Senate passage possible |
+| **2026 session** | February 17 – May 18, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Minnesota has one of the strongest polling place protection frameworks in the nation. Minn. Stat. § 211B.07 prohibits the use of force, coercion, violence, economic reprisal, or undue influence to compel voting behavior — notably including economic reprisal, which is broader than most states. Violations are gross misdemeanors. The 2023 election worker protection statute (§ 211B.076) prohibits intimidation of election officials through force, coercion, or economic reprisal, with a $1,000 per violation civil remedy.
+
+Minnesota's polling place buffer zone statute (§ 204C.06) is uniquely strong: it restricts peace officers from entering polling places or standing within 50 feet except when summoned or voting. This existing restriction on law enforcement presence at polling places provides a direct statutory foundation for extending similar restrictions to federal personnel.
+
+Minnesota's Constitution, Article XII, Section 4, authorizes home rule charters, and Minn. Stat. § 410.07 grants home rule cities full power to regulate local municipal functions.
+
+### What the Master State Bill Template Would Add
+
+Minnesota's existing framework already includes strong voter and election worker protections. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While Minn. Stat. § 204C.06 restricts state and local peace officer presence at polling places, it does not address federal personnel. The template extends the existing polling place protection framework to armed federal agents — a natural statutory extension.
+- **Article 4 — Enhanced civil enforcement**: While § 211B.076 provides a $1,000 per violation civil remedy for election worker intimidation, the template's $50,000/violation penalties with voter standing and attorney fee shifting substantially strengthen enforcement.
+- **Article 5 — Emergency election procedures**: Minnesota lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 6 — Firearms at election sites**: Minnesota lacks an explicit prohibition on firearms at polling places. The template creates election-specific firearms restrictions.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Minnesota's divided government — with a Republican House — makes passage of comprehensive state legislation unlikely in the current session. While Governor Walz would sign and the DFL Senate (34-33) could advance a bill by the narrowest margin, the Republican House presents a barrier. AG Keith Ellison's May 2025 guidance on ICE enforcement provides executive-branch protection, but legislation would create permanent statutory authority.
+
+The state bill's primary value in the current session is as a messaging vehicle and Senate-passed bill that highlights the statutory gaps for voters heading into November 2026 elections. Minnesota's existing § 204C.06 (restricting law enforcement at polling places) provides a uniquely strong foundation for the argument: if Minnesota already restricts state and local officers from standing within 50 feet of polling places, the same principle should apply to armed federal agents. Minneapolis, St. Paul, Duluth, and Rochester provide coalition support with existing sanctuary-type ordinances.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Primary jurisdiction over election law |
+| House | Elections Finance and Policy | Verify current chair | Would need to advance past Republican majority |
+
 ## Conclusion: Minnesota offers model conditions for implementation
 
 Minnesota presents **exceptionally favorable conditions** for municipal ordinances reinforcing federal restrictions on armed presence at polling places. The existing statutory framework—particularly **Minn. Stat. § 204C.06, Subd. 6**, which already restricts peace officers from polling places—provides constitutional and preemption defenses unavailable in most states.

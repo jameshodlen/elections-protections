@@ -359,6 +359,51 @@ Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C.
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Republican governor (Mike Dunleavy), bipartisan coalition legislature |
+| **Governor's posture** | Would veto — Dunleavy has focused on "election integrity" measures, not polling place protection |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 20 – May 20, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Alaska's voter intimidation framework rests on two statutes: AS 15.56.030, a Class C felony for using force, violence, or coercion to influence voting, and AS 15.56.060, a Class A misdemeanor for interfering with election officials. Both require proof of intent. Alaska has no statute prohibiting firearms at polling places — as a constitutional carry state, legally armed individuals may be present at any polling location. The state's firearms preemption law, AS 29.35.145, explicitly bars municipalities from regulating firearms, making local ordinance solutions legally constrained.
+
+Alaska's Constitution, Article X, Section 1, establishes home rule authority with a liberal construction mandate, but this is tempered by the firearms preemption statute. The state has no restrictions on federal personnel at election sites beyond the federal 18 U.S.C. § 592.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Alaska currently has no state-level restriction on armed federal personnel at polling places. The template would create a state felony for deploying armed federal agents within designated election zones.
+- **Article 3 — Expanded intimidation standard**: AS 15.56.030 requires proof of intent to coerce; the template's effects-based standard, matching VRA § 11(b), would cover intimidation regardless of intent — addressing the gap where armed presence deters voters without provable coercive intent.
+- **Article 4 — Civil enforcement with voter standing**: Alaska has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Alaska lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 6 — Firearms at election sites**: Alaska's constitutional carry regime means anyone may carry at polling places. The template would create election-specific firearm restrictions that address the gap AS 29.35.145 prevents municipalities from filling.
+- **Article 9 — Expedited judicial review**: Alaska lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Alaska's divided government — a Republican governor with a bipartisan coalition legislature — makes passage of the full Master State Bill Template extremely unlikely in the current session. Governor Dunleavy's legislative priorities center on fiscal policy and "election integrity" measures (HB 63), not polling place protection from federal agents. The municipal ordinance track described in Sections 1–5 above remains the primary strategy for Alaska, with Anchorage and Juneau as the most viable targets given their home rule charters.
+
+However, the state bill serves a valuable organizing and messaging function. Alaska's unique constitutional provision requiring liberal construction of local government powers (Article X, Section 1) provides a foundation for arguing that election protection falls within municipal authority. Introduction of a state bill — even without passage — creates a public record of the statutory gaps and builds the coalition needed for future sessions if political conditions change.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Affairs | Verify current chair | Primary jurisdiction over election law |
+| House | State Affairs | Verify current chair | Primary jurisdiction over election law |
+| Senate | Judiciary | Verify current chair | Criminal provisions in Articles 2–3 |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Alaska Election Protection Flyer"

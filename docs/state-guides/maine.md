@@ -217,6 +217,50 @@ Maine's Secretary of State, Shenna Bellows, administers elections through the Bu
 - **Secretary of State, Elections Division:** (207) 624-7736, sos.maine.gov
 - **AG Office:** (207) 626-8800
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Mills has signed LD 1971 restricting federal immigration enforcement cooperation |
+| **State bill viability** | High |
+| **2026 session** | January 7 – April 15, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Maine's voter intimidation framework consists of two statutes: 21-A M.R.S. § 674(2)(E), a Class D crime for intentionally interfering by force, violence, or intimidation with election officials, and § 674(1)(B), a Class E crime for interfering with voters attempting to cast votes. Both require proof of intent.
+
+Maine has no specific prohibition on firearms at polling places — a significant gap for a state that is otherwise a New England leader on election protection. As a constitutional carry state (no permit required for concealed carry), any person may legally carry firearms at polling locations. The only firearms restriction relevant to polling places applies to school-located sites under existing school safety zones.
+
+Maine has taken recent action on federal enforcement cooperation: LD 1971 (December 2025) restricts state and local law enforcement from cooperating with federal immigration enforcement, while LD 1656 (a competing bill to prohibit sanctuary policies) was defeated. The permissive language of 25 M.R.S.A. § 1502 ("shall, so far as possible, cooperate") rather than mandatory cooperation further supports the non-cooperation framework.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Maine has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation standard**: 21-A M.R.S. § 674 requires proof of intentional interference. The template's effects-based standard would cover situations where armed federal presence deters voters without provable intent — a critical gap given Maine's constitutional carry regime.
+- **Article 4 — Civil enforcement with voter standing**: Maine has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Maine lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Maine's constitutional carry regime means anyone may carry at polling places. The template creates election-specific firearms restrictions that fill this gap.
+- **Article 9 — Expedited judicial review**: Maine lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Maine's Democratic trifecta, Governor Mills's demonstrated willingness to sign federal enforcement cooperation restrictions (LD 1971), and the defeat of the competing anti-sanctuary bill (LD 1656) create a favorable environment for comprehensive polling place protection legislation. The session window through April 15 is tight but adequate for a pre-filed bill.
+
+The strongest argument for Maine action is the polling place firearms gap. Maine is an outlier among Democratic-trifecta states in allowing firearms at polling places — a vulnerability that the template's Article 6 directly addresses. The bill could be framed as completing the work started by LD 1971: if Maine restricts federal immigration enforcement cooperation generally, it should specifically protect the most sensitive democratic spaces from armed federal presence. Portland, Bangor, Lewiston, and South Portland provide a natural coalition base with existing sanctuary-type ordinances.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Veterans and Legal Affairs | Verify current chair | Primary jurisdiction over election law |
+| House | Veterans and Legal Affairs | Verify current chair | Primary jurisdiction over election law |
+
 ## Conclusion: Near-optimal conditions for municipal election protection
 
 Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.

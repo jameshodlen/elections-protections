@@ -192,6 +192,49 @@ NM's session structure constrains timing: even-year sessions (2026) are **30 day
 | Attorney General / Election Protection Hotline | nmdoj.gov; 1-844-255-9210 |
 | Office of Cybersecurity | NMCYBER@CYBER.NM.GOV |
 | DHSEM | www.dhsem.nm.gov |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Signed — Governor Lujan Grisham signed SB 264 on March 9, 2026 |
+| **State bill viability** | **Signed into law** — SB 264 (March 9, 2026) |
+| **2026 session** | January 20 – February 19, 2026 (30-day session, completed) |
+| **Active legislation** | **Signed into law** — SB 264 (March 9, 2026) |
+
+### Current Statutory Landscape
+
+New Mexico now has the nation's most comprehensive polling place protection statute following the signing of SB 264. The existing framework included NMSA 1978 § 1-20-14, a fourth-degree felony for voter intimidation through force, violence, or threats. NMSA 1978 § 1-20-24 (SB 5, 2024, as amended by HB 101, 2025) prohibits loaded or unloaded firearms within 100 feet of polling places and within 50 feet of ballot containers, with exceptions for law enforcement on duty, persons in private automobiles, and concealed handgun license holders.
+
+New Mexico's Constitution provides uniquely powerful election protection language. Article II, Section 17 states: "All elections shall be free and open, and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage." This constitutional provision — explicitly barring both civil and military interference — served as the foundational authority for SB 264's prohibition on armed federal personnel at polling places. The Immigrant Safety Act (HB 9, 2025) established the non-cooperation framework that SB 264 extended to election sites.
+
+### What SB 264 Accomplished
+
+SB 264, signed into law on March 9, 2026, implements substantially all provisions of the [Master State Bill Template](../legal-foundation/master-state-bill-template/), which was drawn from its text. SB 264 established:
+
+- **Prohibition on armed federal personnel at election sites** beginning 28 days before Election Day through certification
+- **State felony penalties** for violations by officials who order or deploy armed federal agents to polling places
+- **Civil enforcement with voter standing** allowing voters, election officials, and the attorney general to bring civil actions
+- **Emergency election procedures** for polling site relocation when a location is compromised
+- **Voter data protection** provisions preventing federal seizure of election records
+- **Expedited judicial review** with mandatory 48-hour hearings on TRO requests
+- **State sovereignty provisions** invoking Article II, Section 17 as constitutional authority
+
+### Strategic Assessment
+
+New Mexico's passage of SB 264 transforms its role from target state to template state. The bill's successful passage during a 30-day session — traditionally reserved for budget matters — demonstrates that election protection legislation can move quickly when political conditions align. Governor Lujan Grisham's signature creates binding precedent and provides a working model that other states can adapt.
+
+The primary strategic value now shifts to implementation and interstate coordination. New Mexico's AG Raul Torrez, who joined the 19-state EO 14248 coalition and operates the Election Protection Hotline (1-844-255-9210), serves as a key coordination point. The state's experience with SB 264 passage — including committee strategy, floor management, and coalition-building — provides a practical playbook for other Democratic trifecta states pursuing similar legislation. Albuquerque, Santa Fe, and Las Cruces remain important for the municipal ordinance track as a complementary enforcement layer.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Rules Committee | Verify current chair | SB 264 advanced through this committee |
+| House | Voters and Elections | Verify current chair | House companion consideration |
+
 ## Conclusion: A clear pathway exists through charter cities and established coalitions
 
 New Mexico presents favorable conditions for municipal ordinances protecting polling places from armed federal personnel. The state's home rule framework provides clear legal authority for charter cities, recent state legislation demonstrates strong policy alignment with election protection goals, and the January 2025 *Torrez* decision—while establishing preemption limits—does not directly threaten ordinances that support federal law enforcement rather than conflict with state policy.

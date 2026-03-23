@@ -225,6 +225,50 @@ The WVRA provides a **private right of action** (RCW 29A.92.090), and courts con
 | Attorney General | (360) 753-6200; atg.wa.gov |
 | WaTech Office of Cybersecurity | officeofcybersecurity@watech.wa.gov; SOC@watech.wa.gov |
 | Emergency Management Division | (253) 512-7000; 1-800-562-6108 |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Ferguson (former AG) has been active on election protection |
+| **State bill viability** | Moderate — 2026 short session limits time, but active legislation exists |
+| **2026 session** | January 12 – March 12, 2026 (60-day session) |
+| **Active legislation** | In committee — bill by Sen. Drew Hansen restricting federal agents at election sites |
+
+### Current Statutory Landscape
+
+Washington criminalizes voter intimidation under RCW 29A.84.620 as a Class C felony (up to 5 years imprisonment and $10,000 fine) for using menace, force, threat, or unlawful means to hinder or deter voting. RCW 29A.84.630 addresses attempts to influence voters through menace or unlawful means as a gross misdemeanor.
+
+Washington's firearms restrictions at election sites (RCW 9.41.284, enacted 2022 via HB 1630) prohibit firearms at ballot counting centers, voting centers, student engagement hubs, and county elections offices. However, concealed pistol license holders may carry concealed at voting centers, student engagement hubs, and elections offices — only ballot counting centers have an absolute ban. Open carry is prohibited at all listed locations. First violations are misdemeanors; subsequent violations are gross misdemeanors.
+
+The Keep Washington Working Act (RCW 43.17.420-425, RCW 10.93.160) limits local police cooperation with federal immigration authorities — providing the statutory framework for extending non-cooperation to election sites. Washington's Constitution, Article XI, Section 11, grants municipalities broad police power authority.
+
+### What the Master State Bill Template Would Add
+
+Washington's existing framework addresses firearms at some election sites but with significant exceptions. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Washington has no state-level restriction on armed federal agents at election sites. Sen. Hansen's bill addresses this gap but the template provides a more comprehensive framework including criminal penalties for officials who order deployment.
+- **Article 4 — Civil enforcement with voter standing**: Washington relies on criminal prosecution for voter intimidation. The template adds a parallel civil track with voter standing, $50,000/violation penalties, and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Washington lacks statutory authority for emergency site relocation when an election facility is compromised.
+- **Article 6 — Closing the concealed carry exception**: RCW 9.41.284 allows concealed pistol license holders to carry at voting centers and elections offices. The template creates a total firearms prohibition at all election sites, closing this exception.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the Keep Washington Working Act framework.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Washington has active legislation through Sen. Drew Hansen's bill restricting federal agents at election sites, advanced in the context of the Democratic trifecta and Governor Ferguson's strong election protection stance (Ferguson served as Attorney General before becoming governor, with extensive experience in election law litigation). However, the 60-day 2026 session (January 12 – March 12) creates a tight window, and the session may have concluded by the time this assessment is being read.
+
+The strategic approach depends on Hansen's bill status. If still in committee, the Master State Bill Template provisions should be offered as amendments to strengthen the bill's criminal penalties, civil enforcement, and emergency procedures. If the session has concluded without passage, the 2027 session provides a longer window. Washington's Keep Washington Working Act provides the strongest statutory analogy: if Washington limits police cooperation with federal immigration enforcement generally, it should specifically protect election infrastructure from armed federal presence. Seattle, Tacoma, Olympia, and Spokane provide coalition support. The recent Seattle City Council ban on federal immigration staging (March 2026) demonstrates continued municipal momentum.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Government & Elections | Verify current chair | Hansen's bill likely assigned here |
+| House | State Government & Tribal Relations | Verify current chair | House companion consideration |
+
 ## Conclusion: Strategic recommendations
 
 An election protection ordinance is legally viable in Washington if drafted to emphasize **voter protection, municipal resource allocation, and police cooperation policies** rather than firearms regulation. The strongest legal foundation combines Article XI Section 11 police powers, RCW 35A.11.020's liberal construction mandate for code cities, the Keep Washington Working Act's precedent for limiting federal cooperation, and RCW 29A.84.510(3)'s explicit authorization of municipal law enforcement at voting centers.

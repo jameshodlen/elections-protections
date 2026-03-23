@@ -189,6 +189,52 @@ Private rights of action rely on federal statutes (42 U.S.C. section 1983, VRA).
 | Attorney General | ohioattorneygeneral.gov |
 | Ohio Cyber Reserve | ohcr.ohio.gov |
 | Ohio EMA | (614) 889-7150; ema.ohio.gov |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta (Governor DeWine term-limited) |
+| **Governor's posture** | Would veto — DeWine has signed ranked-choice voting ban and focused on election restriction measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 5 – year-round, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Ohio criminalizes voter intimidation as a fourth-degree felony under ORC § 3599.01(A)(2), prohibiting intimidation, coercion, or other unlawful means to influence voting (6–18 months imprisonment, up to $5,000 fine). ORC § 3599.24(A)(3) makes intimidation of election officials a first-degree misdemeanor. However, Ohio's voter intimidation framework is weaker than peer states, requiring proof of intent to intimidate and lacking civil enforcement provisions.
+
+Ohio has no specific statute prohibiting firearms at polling places. As a constitutional carry state since June 2022 (SB 215), any person 21 or older who is not prohibited may carry without a permit. The only election-specific firearms restriction is ORC § 3505.21(B), which prohibits poll observers from carrying firearms — a narrow provision that does not extend to voters, bystanders, or federal agents. School safety zones (§ 2923.122) and government facility restrictions (§ 2923.126) provide incidental coverage at some polling locations.
+
+Ohio's firearms preemption law (R.C. 9.68) is particularly aggressive, imposing mandatory attorney fees against municipalities that enact conflicting ordinances. Pending February 2026 hearings may expand this to include punitive and exemplary damages. Additionally, H.B. 26 (2025) would require political subdivisions to cooperate with federal immigration enforcement, potentially undermining sanctuary-type protections.
+
+Ohio Constitution, Article XVIII, Section 3, grants municipalities authority to exercise all powers of local self-government, but this is substantially limited by the firearms preemption and pending anti-sanctuary legislation.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Ohio has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation standard**: ORC § 3599.01(A)(2) requires proof of intent to intimidate or coerce. The template's effects-based standard would cover situations where armed federal presence deters voters without provable intent.
+- **Article 4 — Civil enforcement with voter standing**: Ohio has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Ohio lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Ohio's constitutional carry regime means anyone may carry at polling places. The template creates election-specific firearms restrictions that fill the most significant gap in Ohio's election security framework.
+- **Article 9 — Expedited judicial review**: Ohio lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Ohio's Republican trifecta makes passage of the Master State Bill Template impossible in the current session. Governor DeWine, who is term-limited (term ends January 2027), has demonstrated no interest in polling place protection and recently signed a ranked-choice voting ban. H.B. 26's anti-sanctuary provisions and R.C. 9.68's punitive firearms preemption create a hostile legislative environment for both the state bill and municipal ordinance tracks.
+
+The municipal ordinance track described in Sections 1–5 above is the primary strategy for Ohio, though it faces significant headwinds from R.C. 9.68's preemption and attorney fee provisions. Columbus, Cleveland, Cincinnati, and Dayton — all home rule municipalities — remain the most viable targets, but litigation risk is high. The state bill serves exclusively as a messaging and organizing tool, with introduction by Democratic legislators creating a public record of statutory gaps heading into the November 2026 elections when the governor's office will be open. The 2026 gubernatorial race presents an opportunity to make polling place protection a campaign issue.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Government Oversight | Verify current chair | Jurisdiction over election law |
+| House | Government Oversight | Verify current chair | Jurisdiction over election law |
+
 ## Conclusion: A coordinated multi-city strategy is achievable
 
 The legal and political conditions in Ohio favor a municipal election protection ordinance campaign. **Article XVIII home rule powers, the Canton test's high bar for state preemption, recent litigation victories, Democratic control of major city councils, and existing OVRC coalition infrastructure** create a favorable environment for action.

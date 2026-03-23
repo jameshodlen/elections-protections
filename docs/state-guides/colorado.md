@@ -220,6 +220,48 @@ Colorado's sanctuary state legislation provides direct structural precedent for 
 | AG Election Protection | (720) 508-6777; coag.gov/votingadvisory/ |
 | CIAC Watch Center | (877) 509-2422; WatchCenter@state.co.us |
 | DHSEM | (720) 852-6600; dhsem.colorado.gov |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Polis has signed multiple election protection and firearms reform bills |
+| **State bill viability** | High |
+| **2026 session** | January 14 – May 13, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Colorado has built a strong foundation for polling place protection through recent legislative action. The Vote Without Fear Act (HB 22-1086, C.R.S. § 1-13-724) prohibits openly carrying firearms at polling locations and drop boxes. The 2024 Sensitive Spaces Act (SB 24-131) expanded this to a total prohibition on all carry — open and concealed — at polling locations and within 100 feet of drop boxes, with Class 1 misdemeanor penalties. Critically, the 2021 repeal of firearms preemption (SB 21-256) amended C.R.S. § 29-11.7-103 to permit local firearms regulation, removing a key barrier to municipal action.
+
+Voter intimidation is addressed by C.R.S. § 1-13-713, which prohibits impeding or interfering with the free exercise of the elective franchise, with penalties up to $1,000 and one year imprisonment. Colorado's Constitution, Article XX, grants home rule cities supremacy over conflicting state law on local and municipal matters.
+
+### What the Master State Bill Template Would Add
+
+Colorado's post-2021 framework already addresses firearms at polling places. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While Colorado prohibits civilian firearms at polling places, it lacks a specific prohibition on armed federal agents. The template creates a state felony for deploying armed federal personnel within election zones — addressing the federal agent gap that the Sensitive Spaces Act does not explicitly cover.
+- **Article 4 — Civil enforcement with voter standing**: Colorado currently relies on criminal prosecution for voter intimidation (C.R.S. § 1-13-713). The template adds a parallel civil enforcement track with voter standing, $50,000/violation penalties, and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Colorado lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
+- **Article 9 — Expedited judicial review**: Colorado lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Colorado is well-positioned for state legislation given its Democratic trifecta and Governor Polis's track record of signing election protection measures (HB 22-1086, SB 24-131, SB 21-256). The 2021 preemption repeal demonstrates the legislature's willingness to act on election-adjacent firearms issues. No active bill has been identified, but the legislative window through May 13 provides time for introduction.
+
+The strongest approach would position a Colorado bill as the third state model (after New Mexico's SB 264 and California's SB 884), emphasizing the federal personnel gap that existing Colorado law does not address. Denver, Boulder, and other home rule cities provide a natural coalition base with existing local firearms ordinances that demonstrate municipal support for the framework.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State, Veterans, & Military Affairs | Verify current chair | Primary jurisdiction over election law |
+| House | State, Civic, Military, & Veterans Affairs | Verify current chair | Primary jurisdiction over election law |
+| Senate | Judiciary | Verify current chair | Criminal provisions review |
+
 ## Conclusion: A favorable legal and political window
 
 Colorado's unique combination of repealed firearms preemption, robust home rule authority, existing polling place protections, and established sanctuary law precedent creates an unusually favorable environment for municipal election protection ordinances. The key legal insight is that **the path runs through police power and resource allocation rather than criminal penalties or election administration**—areas where home rule authority is strongest.

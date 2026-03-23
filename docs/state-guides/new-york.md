@@ -172,6 +172,50 @@ New York's Municipal Home Rule Law grants cities and counties significant author
 - **JSOC/Cybersecurity:** NYS Chief Cyber Officer through ITS: (518) 402-2813
 - **DHSES:** (518) 292-2301
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Hochul has supported election protection measures |
+| **State bill viability** | High |
+| **2026 session** | January 7 – year-round, 2026 |
+| **Active legislation** | None identified specific to polling place protection from federal agents |
+
+### Current Statutory Landscape
+
+New York has a strong voter intimidation framework anchored by two statutes. NY Election Law § 17-150 prohibits using force, violence, or restraint to compel or prevent voting. The 2022 John R. Lewis NY Voting Rights Act (§ 17-212) modernized protections by prohibiting acts of intimidation, deception, or obstruction affecting voter access — including specifically prohibiting obstructing or impeding access to polling places. The 100-foot buffer zone (§ 8-104(1)) provides structural protection with criminal enforcement through § 17-130.
+
+The Concealed Carry Improvement Act (CCIA) designates polling places as "sensitive locations" where all firearms are prohibited — a total ban on open carry, concealed carry, and loaded/unloaded weapons. New York's home rule framework (Constitution Article IX, Section 2(c)) grants municipalities broad authority.
+
+New York City's sanctuary policies date to 1989, with subsequent executive orders and Local Laws 59 and 246 limiting NYPD cooperation with federal immigration authorities. Other municipalities throughout the state have adopted similar protections.
+
+### What the Master State Bill Template Would Add
+
+New York's existing framework already addresses firearms at polling places and provides modern voter protection through the John R. Lewis Act. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While the CCIA prohibits civilian firearms at polling places, it does not explicitly address armed federal agents acting in an official capacity. The template creates a specific prohibition on armed federal personnel deployment at election sites.
+- **Article 4 — Enhanced civil enforcement**: While the John R. Lewis Act provides a modern framework, the template adds $50,000/violation civil penalties specific to armed federal presence at election sites, with attorney fee shifting — complementing the existing civil rights framework.
+- **Article 5 — Emergency election procedures**: New York lacks statutory authority for emergency polling relocation when a site is compromised by federal enforcement activity.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records — particularly important given the scale of New York's voter registration database.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+New York's Democratic trifecta, year-round session, and strong existing framework make it a prime candidate for comprehensive state legislation. The John R. Lewis Act provides both policy precedent and an institutional champion (the legislature has already demonstrated willingness to modernize election protection law). The CCIA's sensitive locations framework provides a model for the template's election zone designations.
+
+The strongest framing for New York builds on the sanctuary policy tradition: if New York City has limited NYPD cooperation with federal immigration enforcement since 1989, the principle should be codified in state law specifically for the most sensitive democratic spaces. New York's passage would be significant given its population (20 million voters) and symbolic importance as the nation's largest Democratic state. NYC, Albany, Buffalo, Rochester, and Syracuse provide a statewide coalition base with existing sanctuary protections.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Primary jurisdiction over election law |
+| Assembly | Election Law | Verify current chair | Primary jurisdiction over election law |
+| Senate | Judiciary | Verify current chair | Criminal provisions review |
+
 ## Conclusion: A viable pathway through police operational directives
 
 New York's robust home rule framework—anchored by Article IX of the State Constitution and Municipal Home Rule Law § 10—provides strong legal authority for municipalities to enact election protection ordinances directing local police not to assist armed federal personnel at polling places. The absence of anti-sanctuary statutes, combined with decades of successful sanctuary city precedent dating to 1989, demonstrates that non-cooperation frameworks can withstand legal challenge when properly framed as police operational directives rather than election regulation.

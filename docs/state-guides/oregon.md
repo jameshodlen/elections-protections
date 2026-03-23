@@ -210,6 +210,50 @@ In a separate action, the **DOJ sued Oregon** (September 16, 2025) to compel dis
 | Civil Rights Bias Response Hotline | 1-844-924-BIAS (2427) |
 | State Cybersecurity (CIO/CISO) | Oregon Enterprise Information Services |
 | Emergency Management | (503) 378-2911; oem_publicinfo@oem.oregon.gov |
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Kotek has supported election protection and firearms reform |
+| **State bill viability** | Moderate — short session limits available legislative time |
+| **2026 session** | February 2 – March 9, 2026 (35-day short session) |
+| **Active legislation** | None identified specific to polling place protection from federal agents |
+
+### Current Statutory Landscape
+
+Oregon criminalizes voter intimidation under ORS 260.665, which prohibits subjecting any person to "undue influence" — defined as force, violence, restraint, threats, harm, loss of employment, or other loss — with intent to influence voting. Violations are Class C felonies with civil penalties up to $10,000. ORS 260.695 establishes a 100-foot buffer zone around ballot deposit locations.
+
+Oregon's firearms landscape is evolving. ORS 166.370 prohibits firearms in public buildings (Class C felony), which covers government-housed election offices but not private ballot drop locations. ORS 166.173 allows cities and counties to regulate loaded firearms in public places. Measure 114 (2022), which would ban large-capacity magazines and require permits-to-purchase, has never gone into effect due to legal challenges; the Oregon Supreme Court heard oral arguments November 6, 2025, with a decision pending.
+
+Oregon's sanctuary law (ORS 181A.820) prohibits use of state agency moneys, equipment, or personnel for federal immigration enforcement activities — providing a direct statutory template for extending non-cooperation to election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Oregon has no state-level restriction on armed federal personnel at election sites. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 4 — Civil enforcement with voter standing**: While ORS 260.665 provides civil penalties up to $10,000, the template adds voter standing (not just prosecution-initiated), $50,000/violation penalties, and attorney fee shifting — substantially expanding the civil enforcement framework.
+- **Article 5 — Emergency election procedures**: Oregon's vote-by-mail system reduces but does not eliminate the need for emergency procedures — ballot drop-off locations and county election offices remain vulnerable.
+- **Article 6 — Firearms at election sites**: Oregon lacks an explicit prohibition on firearms at ballot drop locations and election offices in private buildings. The template creates comprehensive election-site firearms restrictions.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the sanctuary law's non-cooperation framework.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Oregon presents a mixed picture. The Democratic trifecta and Governor Kotek's support create favorable political conditions, but the 2026 session is a 35-day short session (February 2 – March 9) that severely limits legislative bandwidth. Pre-filing and fast-tracking would be essential, and the session has likely already concluded by the time this assessment is being read.
+
+The more realistic path is introduction in the 2027 regular session (Oregon's long session runs approximately January through July). For the 2026 election cycle, the municipal ordinance track and executive action through the governor's office provide more immediate protection. Oregon's vote-by-mail system mitigates some risks — there are no traditional polling places where voters could be confronted — but ballot drop-off locations, county election offices, and ballot counting centers remain vulnerable to federal agent deployment. Portland, Eugene, Salem, and Corvallis provide coalition support with existing sanctuary-type policies.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Rules | Verify current chair | In short session, Rules often handles expedited legislation |
+| House | Rules | Verify current chair | In short session, Rules often handles expedited legislation |
+
 ## Conclusion: Strategic path forward
 
 Oregon's legal framework is uniquely favorable for a municipal election protection ordinance. The combination of **strong constitutional home rule**, **nation-leading sanctuary law precedent**, **presumption against state preemption**, and **anti-commandeering doctrine protection** creates a solid foundation. Portland's October 2025 Protect Portland Initiative demonstrates that progressive councils will pass such ordinances.
