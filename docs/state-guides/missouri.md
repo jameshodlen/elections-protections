@@ -157,6 +157,45 @@ Missouri lacks a specific state-level private right of action for voter intimida
 - **National Guard Cyber Team**: mocyber.io; Jefferson Barracks, south St. Louis County
 - **Local Election Authorities Directory**: www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Kehoe has not supported election protection measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 7 – May 15, 2026 |
+| **Active legislation** | HB 726/SB 74 (2025) would expand open carry prohibition at polling places — pending |
+
+### Current Statutory Landscape
+
+Missouri criminalizes voter intimidation through RSMo § 115.631 (felony, up to 5 years, $10,000 fine) and § 115.635 (misdemeanor, up to 1 year, $2,500 fine). Missouri has a partial firearms prohibition: RSMo § 571.215(2) prohibits concealed carry within 25 feet of polling places even for CCW permit holders, and § 571.030(8) prohibits concealed carry in the election precinct for non-permit holders. Open carry at polling places is not explicitly prohibited. Missouri is a constitutional carry state since 2017.
+
+Missouri's Constitution, Article I, Section 25, provides: "All elections shall be free and open."
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Missouri has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Missouri has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Missouri lacks statutory authority for emergency polling relocation.
+- **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap. HB 726/SB 74 would partially address this but the template provides a more comprehensive solution.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Missouri's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Kansas City, St. Louis, Columbia, and Springfield as targets. HB 726/SB 74's pending expansion of the open carry prohibition at polling places shows some legislative awareness of the firearms gap. Article I, Section 25's "free and open" language supports the constitutional argument. The state bill serves as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Local Government, Elections, and Pensions | Verify current chair | Jurisdiction over election law |
+| House | Elections and Elected Officials | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

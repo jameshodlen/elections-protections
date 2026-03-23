@@ -198,6 +198,44 @@ The **SC Critical Infrastructure Cybersecurity (SC CIC)** program, led by SLED C
 | **Attorney General Alan Wilson (R)** | scag.gov |
 | **SC CIC** | sccic.sc.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — McMaster has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – May 7, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+South Carolina has a total prohibition on firearms at polling places: S.C. Code § 23-31-215(M)(3) prohibits firearms at polling places on election days, reinforced by § 16-23-20. The 2024 Constitutional Carry Act (H. 3594) explicitly maintained this prohibition. Voter intimidation protections are addressed in Title 7.
+
+South Carolina's Constitution, Article VIII, Section 14(2), establishes that election and suffrage qualifications cannot be set aside by local action — a preemption clause that constrains municipal ordinances.
+
+### What the Master State Bill Template Would Add
+
+South Carolina's existing total firearms ban at polling places is strong. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While § 23-31-215(M)(3) prohibits civilian firearms, law enforcement exceptions may cover federal agents. The template creates an explicit prohibition on armed federal personnel.
+- **Article 4 — Civil enforcement with voter standing**: South Carolina has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: South Carolina lacks statutory authority for emergency polling relocation.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+South Carolina's Republican trifecta and Article VIII, Section 14(2) preemption clause make both state legislation and municipal ordinances difficult. Charleston, Columbia, and Greenville are the most viable municipal targets but face constitutional preemption. South Carolina's existing total firearms ban means the template's primary value is the federal personnel prohibition and civil enforcement. The state bill serves as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Judiciary | Verify current chair | Jurisdiction over election law |
+| House | Judiciary | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

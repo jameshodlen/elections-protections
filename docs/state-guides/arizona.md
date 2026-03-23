@@ -271,6 +271,46 @@ Arizona's Article II, Section 21 ("no power, civil or military, shall at any tim
 | **AG Election Integrity Unit** | azag.gov/criminal/eiu |
 | **SOS Grants Manager** | Gatjeak Gew / ggew@azsos.gov / (602) 320-3431 |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Katie Hobbs) + Republican legislature |
+| **Governor's posture** | Would sign — Hobbs vetoed the Arizona ICE Act and opposed SB 1570 |
+| **State bill viability** | Not viable this session — Republican legislature would not advance; Hobbs can block hostile bills via veto |
+| **2026 session** | January 12 – April 25, 2026 |
+| **Active legislation** | SB 1570 defeated (would have required ICE at polling places); Arizona ICE Act vetoed |
+
+### Current Statutory Landscape
+
+Arizona has a strong existing prohibition on firearms at polling places: A.R.S. § 13-3102(A)(11) makes it misconduct involving weapons to carry a deadly weapon at a polling place on Election Day, with exceptions only for on-duty military and peace officers. This exists despite Arizona being a constitutional carry state. Voter intimidation is addressed by A.R.S. § 16-1013 (Class 1 misdemeanor for force, violence, or threats) and § 16-1006 (Class 5 felony for corrupt means to change votes).
+
+Arizona's Constitution, Article II, Section 21, provides uniquely powerful language: "no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage." As detailed in the March 2026 Update above, Arizona is a two-front battleground — the SB 1570 defeat and Arizona ICE Act veto demonstrate both the threat and the defensive strength of Governor Hobbs's veto.
+
+### What the Master State Bill Template Would Add
+
+Arizona's existing framework covers firearms at polling places. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: While § 13-3102(A)(11) covers weapons generally, the law enforcement exception could be read to include federal agents. The template creates an explicit prohibition on armed federal personnel — directly addressing the threat that SB 1570 attempted to create from the opposite direction.
+- **Article 4 — Civil enforcement with voter standing**: Arizona lacks a private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Arizona lacks statutory authority for emergency polling relocation.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Arizona's divided government means the Master State Bill Template cannot pass the Republican legislature, but the defensive posture is strong. Governor Hobbs's vetoes of SB 1570 and the Arizona ICE Act demonstrate that hostile legislation cannot become law either. The constitutional language of Article II, Section 21 provides the strongest textual foundation in any state for arguing that armed federal deployment at polling places is unconstitutional.
+
+The coalition mobilized against SB 1570 — LUCHA, VetsForward, Rural Arizona Action, and key legislators Ortiz and Miranda — provides a ready-made advocacy network for both the municipal ordinance track and future state legislation. The municipal ordinance track is the primary strategy, with Phoenix, Tucson, Flagstaff, and Tempe as targets. The 2026 election may shift legislative control, making the 2027 session a realistic target for state legislation.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Elections | Verify current chair | Jurisdiction over election law |
+| House | Municipal Oversight & Elections | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

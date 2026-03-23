@@ -227,6 +227,44 @@ Florida maintains robust infrastructure through the Florida Digital Service and 
 | **Attorney General James Uthmeier (R)** | myfloridalegal.com |
 | **Cyber Florida (USF)** | cyberflorida.org |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — DeSantis has focused on election restriction, not protection |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – March 13, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Florida's voter intimidation statutes are addressed in Title IX, Chapters 97–106. Florida has a partial firearms prohibition at polling places: F.S. § 790.06(12)(a)(6) prohibits concealed carry at polling places (second-degree misdemeanor), and F.S. § 790.053 makes open carry illegal statewide. However, the 2023 constitutional carry law (HB 543) did not remove the polling place prohibition for concealed carry — maintaining this protection even as carry restrictions were relaxed elsewhere.
+
+Florida has no existing restrictions on federal personnel at election sites. The state's Constitution addresses elections through Article VI, Section 1, and Article VIII provides home rule authority.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Florida has no state-level restriction on armed federal agents at polling places. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Florida has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Florida lacks statutory authority for emergency polling relocation.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Florida's Republican trifecta and Governor DeSantis's focus on election restriction make passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy. Florida's partial firearms prohibition (concealed carry banned, open carry already illegal) means the firearms gap is narrower than in many other Tier 3 states. Miami-Dade, Broward, Palm Beach County, Orlando, and Tampa provide a coalition base — though Florida's broad state preemption of local firearms regulation constrains the municipal track. The state bill serves exclusively as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Ethics and Elections | Verify current chair | Jurisdiction over election law |
+| House | Election Integrity & Reform Subcommittee | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

@@ -148,6 +148,45 @@ The **Idaho Supreme Court** scores 7.0 on Ballotpedia's Republican-control scale
 - **224th Cyber Operations Squadron**: Gowen Field, Boise
 - **Idaho State Police**: (208) 884-7000
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Little has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 12 – April 10, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Idaho criminalizes voter intimidation under Idaho Code § 18-2305 (force, threats, menaces, or bribery to influence voting) and § 18-2313 (riotous conduct near elections, misdemeanor). Default penalties under § 18-2315 include up to $1,000 fine and 5 years imprisonment. Idaho is a constitutional carry state (effective July 2016). Idaho Code § 18-3302J provides statewide firearms preemption.
+
+Idaho has no existing restrictions on federal personnel at election sites. The state's Constitution, Article I, Section 19, addresses the right of suffrage.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Idaho has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Idaho has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Idaho lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions in a state with full preemption (§ 18-3302J).
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Idaho's Republican trifecta and statewide firearms preemption (§ 18-3302J) make both state legislation and municipal ordinances extremely difficult. The municipal ordinance track described in Sections 1–5 is the primary strategy but faces significant preemption headwinds. Boise, Moscow, and Sun Valley are the most viable municipal targets given their relatively moderate political environments. The state bill serves exclusively as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Affairs | Verify current chair | Jurisdiction over election law |
+| House | State Affairs | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

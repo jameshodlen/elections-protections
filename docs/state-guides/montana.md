@@ -137,6 +137,45 @@ Montana's voter intimidation statutes include MCA Section 13-35-218 (coercion of
 - **U.S. Attorney (Helena)**: (406) 457-5120
 - **Commissioner of Political Practices**: politicalpractices.mt.gov
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Gianforte has not supported election protection measures |
+| **State bill viability** | Not viable — no regular session in 2026 (biennial legislature); next session 2027 |
+| **2026 session** | No regular session (Montana legislature meets biennially in odd-numbered years) |
+| **Active legislation** | None — no session |
+
+### Current Statutory Landscape
+
+Montana addresses voter intimidation through MCA § 13-35-218 (coercion of voters), § 13-35-214 (illegal influence), and § 13-35-217 (officers influencing voters). Montana has no statute prohibiting firearms at polling places. As a constitutional carry state (HB 102, February 2021), firearms may be carried at any polling location.
+
+Montana's Constitution, Article II, Section 13, provides: "No power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage." This language directly supports the Master State Bill Template's premise.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Montana has no state-level restriction. The template creates a state felony for deployment, grounded in Article II, Section 13's prohibition on civil and military interference.
+- **Article 4 — Civil enforcement with voter standing**: Montana has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Montana lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Montana faces a double barrier: no regular legislative session in 2026 (biennial legislature) and a Republican trifecta. The next regular session convenes in 2027. The municipal ordinance track described in Sections 1–5 is the primary strategy for the 2026 election cycle. Missoula, Helena, and Bozeman are the most viable municipal targets. Montana's Article II, Section 13 ("no power, civil or military") provides strong constitutional support for both municipal ordinances and future state legislation.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Administration | Verify current chair | Jurisdiction over election law (2027 session) |
+| House | State Administration | Verify current chair | Jurisdiction over election law (2027 session) |
+
 ---
 
 ## Printable Flyer

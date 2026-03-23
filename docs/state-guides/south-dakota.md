@@ -140,6 +140,46 @@ Election law under **SDCL Title 12** is administered at the state and county lev
 - **Cybersecurity**: BIT — bit.sd.gov; cybersecurity.sd.gov; CIO Madhu Gottumukkala
 - **National Guard**: Maj. Gen. Mark Morrell, Adjutant General — Camp Rapid, Rapid City
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – March 30, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+South Dakota's voter intimidation protections are limited — federal court precedent (*Daschle v. Thune*, D.S.D. 2004) found that following voters to polling places and recording license plates constituted illegal voter intimidation, but no comprehensive state voting rights act exists. South Dakota has no prohibition on firearms at polling places. As a constitutional carry state (July 2019), firearms may be carried at any polling location. SDCL §§ 9-19-20, 7-18A-36, and 8-5-13 preempt municipal, county, and township firearms regulation respectively.
+
+South Dakota has no existing restrictions on federal personnel at election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: South Dakota has no state-level restriction. The template creates a state felony for deployment.
+- **Article 3 — Comprehensive intimidation statute**: South Dakota lacks a comprehensive voter intimidation statute. The template consolidates protections with an effects-based standard.
+- **Article 4 — Civil enforcement with voter standing**: South Dakota has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: South Dakota lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions in a state with multilevel preemption (municipal, county, and township).
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+South Dakota's Republican trifecta and multilevel firearms preemption (SDCL §§ 9-19-20, 7-18A-36, 8-5-13) make both state legislation and municipal ordinances extremely difficult. Sioux Falls and Rapid City are the only viable municipal targets, but preemption severely constrains local action. The state bill serves exclusively as a messaging vehicle. South Dakota's lack of a comprehensive voter intimidation statute is the most critical gap — even apart from the federal personnel issue.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | State Affairs | Verify current chair | Jurisdiction over election law |
+| House | State Affairs | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

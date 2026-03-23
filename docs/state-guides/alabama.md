@@ -208,6 +208,46 @@ The loss of CISA/EI-ISAC support is particularly damaging for Alabama's 60+ coun
 | **Attorney General Steve Marshall (R)** | (334) 242-7300 / alabamaag.gov |
 | **Alabama OIT** | oit.alabama.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Ivey has not supported election protection measures of this type |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 13 – March 27, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Alabama criminalizes voter intimidation under Ala. Code § 17-17-33 as a Class A misdemeanor — up to 1 year jail and $6,000 fine. Alabama has no statute prohibiting firearms at polling places. As a constitutional carry state (Act 2022-133, effective January 2023), concealed carry is legal for adults 19+ without a permit. The prohibited locations list (§ 13A-11-61.2) includes courthouses, schools, and DA offices but polling places are conspicuously absent.
+
+Alabama has no existing restrictions on federal personnel at election sites beyond federal 18 U.S.C. § 592.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Alabama has no state-level restriction. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Enhanced intimidation standard**: § 17-17-33's Class A misdemeanor is among the weakest penalties nationally. The template elevates violations to felony status with an effects-based standard.
+- **Article 4 — Civil enforcement with voter standing**: Alabama has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Alabama lacks statutory authority for emergency polling relocation.
+- **Article 6 — Firearms at election sites**: The template fills the polling place firearms gap that § 13A-11-61.2 leaves unaddressed.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Alabama's Republican trifecta makes passage impossible in the current session. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Birmingham, Montgomery, Huntsville, and Mobile as the most viable targets given their home rule authority. The state bill serves as a messaging and organizing tool. Alabama's constitutional provision — while lacking the explicit "no power, civil or military" language found in some states — supports the argument through general suffrage protections.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Constitution, Ethics and Elections | Verify current chair | Primary jurisdiction over election law |
+| House | Constitution, Campaigns and Elections | Verify current chair | Primary jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

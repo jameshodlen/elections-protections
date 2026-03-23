@@ -216,6 +216,45 @@ Louisiana has developed notable capacity through **Chief Cyber Officer Dustin Gl
 | **Attorney General Liz Murrill (R)** | ag.state.la.us |
 | **LC3 / Chief Cyber Officer** | cybersecurity.la.gov |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta |
+| **Governor's posture** | Would veto — Landry has focused on election restriction and anti-sanctuary measures |
+| **State bill viability** | Not viable this session |
+| **2026 session** | March 9 – June 1, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Louisiana addresses voter intimidation through R.S. 18:1461. Louisiana has a partial firearms prohibition at polling places: concealed carry is prohibited under R.S. 40:1379.3(N)(4), and constitutional carry (SB 1, effective July 2024) maintained this polling place prohibition. However, open carry at polling places is not explicitly prohibited — a gap shared with several other Southern states.
+
+Louisiana has no existing restrictions on federal personnel at election sites. The state's Constitution, Article VI, Section 5, authorizes home rule charters.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Louisiana has no state-level restriction. The template creates a state felony for deployment.
+- **Article 4 — Civil enforcement with voter standing**: Louisiana has no private right of action for voter intimidation. The template adds $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Louisiana lacks statutory authority for emergency polling relocation.
+- **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap at polling places that current law leaves unaddressed.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
+
+### Strategic Assessment
+
+Louisiana's Republican trifecta under Governor Landry makes passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy, with New Orleans, Baton Rouge, and Shreveport as targets. Louisiana's partial firearms protection (concealed carry banned at polls) means the primary gaps are the open carry exception and the federal personnel prohibition. The state bill serves as a messaging vehicle.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Senate and Governmental Affairs | Verify current chair | Jurisdiction over election law |
+| House | House and Governmental Affairs | Verify current chair | Jurisdiction over election law |
+
 ---
 
 ## Printable Flyer
