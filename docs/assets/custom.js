@@ -608,14 +608,14 @@ function initUSMap() {
         .on("click", function(event, d) {
           var fips = String(d.id).padStart(2, "0");
           var sd = US_STATE_DATA[fips];
-          if (sd) window.location.href = "../state-guides/" + sd.slug + "/";
+          if (sd) window.location.href = "../../state-guides/" + sd.slug + "/";
         })
         .on("keydown", function(event, d) {
           if (event.key === "Enter" || event.key === " ") {
             event.preventDefault();
             var fips = String(d.id).padStart(2, "0");
             var sd = US_STATE_DATA[fips];
-            if (sd) window.location.href = "../state-guides/" + sd.slug + "/";
+            if (sd) window.location.href = "../../state-guides/" + sd.slug + "/";
           }
         });
 
