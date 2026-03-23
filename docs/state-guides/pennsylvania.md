@@ -226,6 +226,51 @@ The AG has prosecutorial jurisdiction over **all** Election Code violations (25 
 
 ---
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Democratic governor (Josh Shapiro) + Republican Senate + Democratic House (narrow margin) |
+| **Governor's posture** | Would sign — Shapiro has supported election protection and voting access measures |
+| **State bill viability** | Low — Republican Senate unlikely to advance |
+| **2026 session** | January 6 – November 30, 2026 |
+| **Active legislation** | Introduced — polling place protection bill (status pending) |
+
+### Current Statutory Landscape
+
+Pennsylvania criminalizes voter intimidation through two statutes: 25 P.S. § 3547, punishable by up to 2 years imprisonment, and 25 P.S. § 3527, which makes preventing elections, threatening officials, or blocking polling place access a felony of the third degree.
+
+Pennsylvania has no specific prohibition on firearms at polling places — a notable gap. However, Pennsylvania has a uniquely powerful law enforcement exclusion zone: 25 P.S. §§ 3047 and 3520 establish a 100-foot police exclusion zone that prohibits law enforcement within 100 feet of polling places, with exceptions only for active emergencies or when summoned by the judge of elections, an inspector, or three qualified electors. This is unique among all 50 states in restricting law enforcement rather than voters — and provides the strongest existing statutory foundation for extending similar restrictions to federal personnel.
+
+Pennsylvania's Constitution, Article I, Section 5, guarantees "free and equal elections" — expressly disallowing interference with the right to vote. Article VII contains 14 sections on elections.
+
+### What the Master State Bill Template Would Add
+
+Pennsylvania's existing 100-foot police exclusion zone already restricts state and local law enforcement at polling places. Based on gap analysis, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Extension of exclusion zone to federal personnel**: Pennsylvania's 25 P.S. §§ 3047/3520 restrict state and local law enforcement but do not explicitly cover federal agents. The template extends the existing exclusion zone framework to armed federal personnel — the most natural statutory extension in any state.
+- **Article 4 — Civil enforcement with voter standing**: Pennsylvania has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Pennsylvania lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Pennsylvania's lack of a general polling place firearms ban is a significant gap, particularly given the existing law enforcement exclusion. The template creates comprehensive election-site firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — critical for Pennsylvania given its status as a perennial swing state with high-stakes elections.
+
+### Strategic Assessment
+
+Pennsylvania's divided government — a Democratic governor and narrowly Democratic House facing a Republican Senate — makes full passage unlikely in the current session. However, Pennsylvania's existing 100-foot police exclusion zone (25 P.S. §§ 3047/3520) provides the strongest existing statutory foundation in the country for extending restrictions to federal agents. The argument is straightforward: if Pennsylvania already prohibits state and local police within 100 feet of polling places, the same principle must apply to armed federal agents.
+
+The House could pass a bill extending the existing exclusion zone to federal personnel, creating a powerful messaging vehicle even if the Senate blocks it. Pennsylvania's status as a perennial presidential swing state — with intense scrutiny on Philadelphia, Pittsburgh, and collar county polling places — adds urgency and national significance. The near year-long session (through November 30) provides time for strategic introduction timed to the election cycle. Philadelphia, Pittsburgh, Allegheny County, and the Lehigh Valley provide a coalition base.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| House | State Government | Verify current chair | Primary jurisdiction over election law |
+| Senate | State Government | Verify current chair | Would need to advance past Republican majority |
+
+---
+
 ## Printable Flyer
 
 !!! tip "Download the Pennsylvania Election Protection Flyer"

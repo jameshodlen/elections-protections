@@ -201,6 +201,49 @@ The **critical strategic implication** for New Hampshire: municipal ordinances p
 | **AG Office** | (603) 271-3658 |
 | **DoIT (Cybersecurity)** | Through DoIT central office |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta (Governor Kelly Ayotte) |
+| **Governor's posture** | Would veto — Ayotte has not signaled support for polling place protection from federal agents |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 7 – June 30, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+New Hampshire prohibits voter intimidation under RSA § 659:40, which covers force, threats, and bribery, with criminal penalties. New Hampshire has no specific polling place firearms prohibition — the weakest firearms restriction of any state in the Northeast. As a constitutional carry state, there is no general prohibition on firearms in government buildings.
+
+New Hampshire's Constitution, Part I, Article 11, provides: "All elections ought to be free, and every inhabitant of the state of 18 years of age and upwards shall have an equal right to vote in any election" — constitutional language supporting the premise of polling place protection.
+
+The state has no existing restrictions on federal personnel at election sites beyond federal 18 U.S.C. § 592. H.B. 154 (2025), described by the Brennan Center as "election interference legislation," institutes ballot-counting requirements that further restrict rather than protect voting access.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: New Hampshire has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 4 — Civil enforcement with voter standing**: New Hampshire has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: New Hampshire lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: New Hampshire's constitutional carry regime with no polling place or government building restriction is the most significant gap. The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+New Hampshire's Republican trifecta makes passage of the Master State Bill Template impossible in the current session. The legislature's recent trajectory — including H.B. 154's restrictive ballot-counting requirements — signals a legislative environment hostile to expanding election protections.
+
+The municipal ordinance track described in Sections 1–5 is the primary strategy for New Hampshire. Manchester, Nashua, Concord, and Portsmouth are the most viable municipal targets. New Hampshire's strong town meeting tradition creates an alternative pathway: town meeting articles proposing polling place protections can generate grassroots pressure and public education even if the state legislature remains hostile. The state bill serves exclusively as a messaging and organizing vehicle, with Part I, Article 11's "all elections ought to be free" language providing the constitutional foundation.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Election Law and Municipal Affairs | Verify current chair | Primary jurisdiction over election law |
+| House | Election Law | Verify current chair | Primary jurisdiction over election law |
+
 ---
 
 ## Printable Flyer

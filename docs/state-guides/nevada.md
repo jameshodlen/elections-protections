@@ -214,6 +214,49 @@ The AG's role as co-lead litigant creates a strong ally for municipal election p
 | **AG Aaron Ford** | ag.nv.gov |
 | **All Voting is Local NV** | Kerry Durmick / Kerry@AllVotingisLocal.org |
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Divided: Republican governor (Joe Lombardo) + Democratic legislature |
+| **Governor's posture** | Would veto — Lombardo has not supported election protection measures of this type |
+| **State bill viability** | Not viable — no regular session in 2026 (biennial legislature); next session 2027 |
+| **2026 session** | No regular session (Nevada legislature meets biennially in odd-numbered years) |
+| **Active legislation** | None — no session |
+
+### Current Statutory Landscape
+
+Nevada criminalizes voter intimidation as a Category E felony under NRS § 293.710, punishable by 1–4 years imprisonment and fines up to $5,000. NRS § 293.705(3) makes disseminating personal identifying information of election officials a Category E felony. NRS § 293.730 criminalizes interference with elections including remaining at polling places to interfere.
+
+Nevada has no specific statute prohibiting firearms at polling places — a critical gap identified in the existing guide. NRS § 202.265 prohibits firearms on school property only, providing incidental coverage at school-located polling places.
+
+Nevada's Constitution, Article 2, Section 1A (added 2020 via Question 4), enshrines a Voters' Bill of Rights including "the right to vote without intimidation" — uniquely strong constitutional language that directly supports polling place protection legislation.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Nevada has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 4 — Civil enforcement with voter standing**: Nevada has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Nevada lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Nevada's lack of a polling place firearms ban is the most critical gap. The template creates election-specific firearms restrictions.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Nevada faces a double barrier: no regular legislative session in 2026 (biennial legislature) and a Republican governor who would likely veto. The next regular session convenes in 2027, by which time a new governor may be in office (Lombardo's term runs through January 2027, with the 2026 election determining his successor).
+
+The municipal ordinance track described in Sections 1–5 is the primary strategy for the 2026 election cycle. Las Vegas, Henderson, Reno, and North Las Vegas are the most viable municipal targets. Nevada's Voters' Bill of Rights (Article 2, Section 1A) — which explicitly guarantees "the right to vote without intimidation" — provides exceptionally strong constitutional support for both municipal ordinances and future state legislation. A governor's special session is theoretically possible but politically unlikely given Lombardo's posture. The 2027 regular session under a potentially new governor is the realistic target for state legislation.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Senate | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
+| Assembly | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
+
 ---
 
 ## Printable Flyer

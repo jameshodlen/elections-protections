@@ -263,6 +263,50 @@ Connecticut municipalities administer elections locally through town clerks and 
 **Key contacts:**
 - **Secretary of the State:** (860) 509-6100, sots.ct.gov
 - **AG Election Protection:** (860) 808-5318, attorney.general@ct.gov
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Democratic trifecta |
+| **Governor's posture** | Would sign — Lamont has supported election protection measures and TRUST Act |
+| **State bill viability** | High |
+| **2026 session** | February 4 – May 6, 2026 |
+| **Active legislation** | In committee — 250-foot federal agent buffer bill (Rep. Matt Blumenthal) |
+
+### Current Statutory Landscape
+
+Connecticut criminalizes voter intimidation through two statutes: CGS § 9-364, a Class D felony for influencing electors to refrain from voting by force, threat, bribery, or deliberately deceitful means, and CGS § 9-364a, a Class C felony for influencing votes by force or threat. CGS § 9-365 specifically addresses employer threats related to voting as a Class D felony. All three require proof of intent.
+
+Connecticut does not expressly prohibit firearms at polling places. When polling locations are in schools, CGS § 29-35's prohibition on school-ground firearms applies, but no general polling place firearms ban exists. The Secretary of State confirmed in 2022 that Connecticut does not prohibit guns at polling locations outside of school grounds.
+
+The TRUST Act (CGS § 54-192h) prohibits state and local law enforcement from honoring ICE detainers without judicial warrants, establishing the non-cooperation principle that a polling place protection bill would extend to election sites.
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Connecticut has no state-level restriction on armed federal personnel at polling places. Rep. Blumenthal's 250-foot buffer bill addresses this gap; the template provides a more comprehensive framework including criminal penalties for officials who order deployment.
+- **Article 4 — Civil enforcement with voter standing**: Connecticut lacks a private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Connecticut lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Firearms at election sites**: Connecticut's lack of a general polling place firearms ban is a significant gap. The template creates election-specific firearms restrictions covering all polling locations regardless of venue type.
+- **Article 7 — Voter data protection**: The template adds protections against federal seizure of ballots and election records — a specific focus of Blumenthal's bill, which the template would strengthen with criminal penalties.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Connecticut is well-positioned for comprehensive state legislation. The Democratic trifecta, Governor Lamont's support, and Rep. Blumenthal's active 250-foot buffer bill create clear momentum. The session window through May 6 provides adequate time. The strategic question is whether to pursue the full Master State Bill Template as a standalone bill or integrate its provisions into Blumenthal's existing bill as an amendment package.
+
+The recommended approach is to build on Blumenthal's bill, which already includes federal agent buffer zones and ballot seizure protections. Adding the template's criminal penalties, civil enforcement with voter standing, polling place firearms restrictions, and emergency procedures would create one of the nation's most comprehensive polling place protection statutes. The TRUST Act precedent demonstrates the legislature's willingness to limit federal enforcement cooperation. Hartford, New Haven, Bridgeport, and Stamford provide a coalition base with existing sanctuary-type protections.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| House | Government Administration and Elections | Verify current chair | Primary jurisdiction over election law; Blumenthal's bill likely assigned here |
+| Senate | Government Administration and Elections | Verify current chair | Senate companion consideration |
+
 ## Conclusion: A narrow but viable path exists
 
 Connecticut's legal landscape presents genuine obstacles for municipal election protection ordinances—most significantly the explicit election preemption in CGS § 7-192a. However, the research reveals a potential pathway: **framing ordinances as police resource allocation decisions** under the clear municipal authority established by CGS §§ 7-276 and 7-148 rather than as election regulations.

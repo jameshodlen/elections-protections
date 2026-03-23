@@ -155,6 +155,50 @@ A **council ordinance** is strongly preferred — a charter amendment requires a
 - **OCIO/SISO**: Patrick Wright, (402) 473-3677, siso@nebraska.gov
 - **NEMA**: nema.nebraska.gov
 
+## Section 6: State Legislative Viability
+
+### Quick Reference
+
+| Factor | Status |
+|---|---|
+| **Government control** | Republican trifecta (Governor Pillen, R-majority unicameral) |
+| **Governor's posture** | Would veto — Pillen issued EO 25-01 mandating full cooperation with federal immigration enforcement |
+| **State bill viability** | Not viable this session |
+| **2026 session** | January 7 – April 17, 2026 |
+| **Active legislation** | None identified |
+
+### Current Statutory Landscape
+
+Nebraska's voter intimidation protections are distributed across Chapter 32 penalty provisions and general criminal law without a single clearly labeled voter intimidation statute — a structural weakness compared to peer states. Federal causes of action (Section 1983, VRA) provide a backstop.
+
+Nebraska's firearms-at-polling-places framework is uniquely split: Neb. Rev. Stat. § 28-1202.01(3) specifically prohibits concealed carry of handguns at polling places (first offense is Class 3 misdemeanor), but open carry at polling places is not specifically addressed. Nebraska enacted constitutional carry in 2023 (LB 77) but retained the concealed-carry polling place prohibition — a partial protection that leaves the open carry gap.
+
+Governor Pillen's Executive Order No. 25-01 (January 2025) mandates full cooperation between Nebraska agencies and federal immigration enforcement, signaling aggressive hostility to non-cooperation frameworks. Nebraska's Constitution, Article I, Section 22, provides: "All elections shall be free; and there shall be no hindrance or impediment to the right of a qualified voter to exercise the elective franchise."
+
+### What the Master State Bill Template Would Add
+
+Based on the current statutory framework, the [Master State Bill Template](../legal-foundation/master-state-bill-template/) would add:
+
+- **Article 2 — Prohibition on armed federal personnel at election sites**: Nebraska has no state-level restriction on armed federal personnel at polling places. The template creates a state felony for deploying armed federal agents within election zones.
+- **Article 3 — Consolidated intimidation standard**: Nebraska lacks a single comprehensive voter intimidation statute. The template consolidates protections into one statute with an effects-based standard matching VRA § 11(b).
+- **Article 4 — Civil enforcement with voter standing**: Nebraska has no private right of action for voter intimidation. The template grants standing to voters, election officials, and the attorney general, with $50,000/violation civil penalties and attorney fee shifting.
+- **Article 5 — Emergency election procedures**: Nebraska lacks statutory authority for emergency polling relocation when a site is compromised.
+- **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap at polling places that § 28-1202.01(3) leaves unaddressed.
+- **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
+
+### Strategic Assessment
+
+Nebraska's Republican-controlled unicameral and Governor Pillen's aggressive federal cooperation posture (EO 25-01) make passage of the Master State Bill Template impossible in the current session. The EO specifically mandates the opposite of what the template would require — full cooperation rather than non-cooperation with federal enforcement.
+
+The municipal ordinance track described in Sections 1–5 is the primary strategy, though Nebraska's 2023 statewide firearms preemption (LB 77) constrains local action. Omaha and Lincoln are the most viable municipal targets. The state bill serves as a messaging vehicle, and Nebraska's Article I, Section 22 ("All elections shall be free; and there shall be no hindrance or impediment") provides constitutional language that directly supports the template's premise. Introduction by urban senators in the nonpartisan unicameral creates a public record of statutory gaps.
+
+### Target Committees
+
+| Chamber | Committee | Chair | Relevance |
+|---|---|---|---|
+| Unicameral | Government, Military and Veterans Affairs | Verify current chair | Primary jurisdiction over election law |
+| Unicameral | Judiciary | Verify current chair | Criminal provisions review |
+
 ---
 
 ## Printable Flyer
