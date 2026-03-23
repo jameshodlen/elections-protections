@@ -23,6 +23,17 @@ tags:
 
 Arizona is a high-stakes battleground for election protection. The state features one of the most active election litigation landscapes in the nation, a constitutional Free and Equal Elections Clause that directly mirrors 18 U.S.C. Section 592 ("no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage"), an explicit firearms prohibition at polling places, and a Democratic Secretary of State (Adrian Fontes) who established the state's first dedicated Election Cybersecurity Unit. Arizona joined the 19-state lawsuit against EO 14248, and AG Kris Mayes obtained grand jury indictments of 11 "fake electors." However, the state's deeply polarized political environment, aggressive election litigation from all sides, and the massive scale of Maricopa County (2.6 million registered voters, 4th-largest county nationally) create significant challenges. Real cybersecurity threats materialized in 2025 with Iranian-linked attacks on the SOS candidate portal and website.
 
+!!! warning "March 2026 Update — Arizona Is a Two-Front Battleground"
+    Arizona is experiencing **both directions** of the national election protection fight simultaneously.
+
+    **The offensive front — SB 1570 (defeated, can be revived):** In February 2026, Sen. Jake Hoffman (R-Queen Creek) introduced a strike-everything amendment to **SB 1570** that would have required all 15 Arizona counties to sign agreements with federal immigration law enforcement to station officers at **every polling place and ballot drop box** during the 2026 general election. The bill was scheduled for the Senate Judiciary & Elections Committee on February 20, but after six hours of testimony and massive community opposition, Committee Chair Wendy Rogers announced the bill would not be heard — causing it to miss the committee deadline. **The bill is effectively dead for the Senate but can be revived through a House strike-everything amendment.**
+
+    Community members, faith leaders, and advocacy organizations packed the hearing room. Several organizers from **LUCHA** (Living United for Change in Arizona) were banned from the Senate building by the sergeant-at-arms. The opposition coalition — detailed below — successfully prevented a vote.
+
+    **The defensive front — Arizona ICE Act:** Gov. Katie Hobbs **vetoed** the "Arizona ICE Act" (SB 1164) in April 2025, which would have forced all state and local law enforcement to cooperate with ICE. Republican leaders have threatened to **put the Arizona ICE Act on the 2026 ballot** as a ballot referral, following the same playbook used for the Secure Border Act (Prop 314, which passed with 63% in 2024).
+
+    **What this means for municipal ordinances:** The Hobbs veto firewall protects against hostile *state* legislation, making Arizona's municipal ordinance pathway a supplementary strategy rather than the primary defense. If Hobbs loses her 2026 reelection bid, municipal ordinances in Tucson, Tempe, Flagstaff, and Phoenix become critical. The coalition contacts listed below are actively organizing on both fronts.
+
 ---
 
 ## Section 1: Legal Battlefield
@@ -113,6 +124,47 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 ---
 
 ## Section 4: Coalition Directory
+
+### SB 1570 opposition coalition — proven and mobilized
+
+The following organizations and individuals led the successful opposition to SB 1570 in February 2026. They represent a battle-tested coalition that can be mobilized for both defensive (blocking hostile legislation) and offensive (supporting municipal ordinances or future state-level protections) purposes.
+
+**LUCHA (Living United for Change in Arizona)** — luchaaz.org
+The lead organizing force against SB 1570. LUCHA mobilized community members to pack the Senate committee room for six hours and maintained pressure despite multiple members being banned from the Senate building.
+
+- **Alejandra Gomez**, Executive Director
+- **Vivian Serafin**, spokesperson — banned from the Senate building during the Feb. 20 hearing; told media: "We packed that room with community members, and they do not want us to be there to show our opposition, because they have their minds made up. We are not going to stop fighting."
+- **Gina Mendez**, organizer — also banned from the building
+- **Stephanie Maldonado**, Political Director — told the crowd after the bill was pulled: "It's a win for today. And it's a win that when people show up, show out, we win."
+
+LUCHA has existing election protection litigation infrastructure — they are the plaintiff in *LUCHA v. Fontes* (with the Campaign Legal Center), challenging discriminatory voter registration restrictions targeting Latino and Native voters.
+
+**VetsForward** — Veterans advocacy organization
+- **Ricardo Reyes**, Executive Director — provided powerful historical framing, telling reporters: "It brought back memories of being in history class and learning about the KKK being at the polls when Black people first started to vote."
+
+**Rural Arizona Action**
+- **Antonio Ramirez** — called SB 1570 "clearly voter suppression." Important for demonstrating that opposition extends beyond Phoenix/Tucson urban cores.
+
+**ACLU of Arizona**
+Flagged the likely illegality of SB 1570 under existing federal law (18 U.S.C. § 592) and state voter intimidation statutes. Has existing election protection litigation capacity.
+
+**Campaign Legal Center**
+Co-counsel on *LUCHA v. Fontes*. National litigation organization with Arizona-specific expertise on voter registration and access.
+
+**Key Democratic legislators:**
+
+- **Sen. Analise Ortiz (D-Phoenix)** — Sits on the Senate Judiciary & Elections Committee that was to have heard SB 1570. Called the proposal "racist" and said: "You have these politicians who introduce these racist proposals, and they don't expect the community to come out in such force to stand against them. But when they actually see just how unpopular their ideas are, they run scared."
+- **Sen. Catherine Miranda (D-Laveen)** — Connected SB 1570 to the broader pattern of anti-immigrant legislation in the 2026 session, including SB 1474 (sanctuary city retaliation) and SB 1051 (hospital citizenship inquiries).
+
+**Notable Republican dissent:**
+
+- **Lisa Everett**, former chair of Arizona LD29 Republicans — Published an op-ed calling SB 1570 "a political stunt" and wrote: "Any senator who votes in favor of SB 1570 should expect a primary challenge. This party does not belong to extremists or attention-seekers. It belongs to voters who want serious lawmakers solving real problems." This is significant because it demonstrates intra-party opposition that can be leveraged in framing.
+
+**Key Republican sponsors (opposition intelligence):**
+
+- **Sen. Jake Hoffman (R-Queen Creek)** — Bill sponsor; leader of the Arizona Freedom Caucus. Framed the bill as needed to "strengthen election security and ensure election laws are consistently enforced." Absent from the Feb. 20 hearing (reported illness). Previously indicted by a grand jury as one of Arizona's "fake electors" in the 2020 election.
+- **Sen. Wendy Rogers (R)** — Committee chair who ultimately pulled the bill. Repeatedly banged her gavel during prior hearings to silence SB 1570 opponents.
+- **Senate President Warren Petersen (R-Gilbert)** — Running for Attorney General. Controls whether parliamentary workarounds allow the bill to be revived.
 
 ### Anchor organizations
 

@@ -24,6 +24,13 @@ tags:
 
 **Connecticut presents a challenging but navigable legal landscape for municipal election protection ordinances.** While the state's hybrid Dillon's Rule system and explicit election preemption statute (CGS § 7-192a) create significant barriers, municipalities retain authority over police operations and local resources that could support a carefully framed ordinance. Three municipalities—New Haven, Hartford, and Hamden—offer the strongest prospects for success, backed by an existing coalition infrastructure that successfully passed the nation's strongest state voting rights act in 2023.
 
+!!! info "March 2026 Update — State Legislation Active"
+    Connecticut legislators have introduced a bill establishing a **250-foot buffer zone from federal agents at local polling places** and restricting federal intervention in state elections. The bill also addresses **federal seizure of ballots and election materials** — requiring state officials to receive notification before any such action — responding to concerns raised by the FBI's January 2026 search of an election center in Fulton County, Georgia.
+
+    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). Connecticut's Democratic trifecta makes state-level passage likely.
+
+    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes provisions specifically addressing ballot seizure scenarios.
+
 ---
 
 ## Section 1: The legal battlefield

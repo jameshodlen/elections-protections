@@ -24,6 +24,11 @@ tags:
 
 **A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places is legally viable in Washington State, but must be carefully drafted to avoid firearms preemption.** Washington's hybrid home rule system grants code cities and first-class charter cities substantial authority under Article XI of the state constitution, while the Keep Washington Working Act establishes a supportive precedent for limiting local police cooperation with federal authorities. The primary legal vulnerability is RCW 9.41.290's complete state preemption of firearms regulation—meaning any ordinance must frame itself around voter protection and resource allocation rather than weapons restrictions. Optimal target cities include Seattle, Olympia, and Spokane, where progressive councils and existing sanctuary infrastructure provide both legal authority and political will.
 
+!!! info "March 2026 Update — State Legislation Active"
+    Washington legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Washington's Democratic trifecta makes state-level passage likely.
+
+    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). As a primarily vote-by-mail state, Washington's adaptation should focus on ballot processing centers and drop box sites rather than traditional polling places. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes adaptation notes for vote-by-mail states.
+
 ---
 
 ## Section 1: The legal battlefield favors municipal action

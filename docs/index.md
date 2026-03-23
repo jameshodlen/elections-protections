@@ -36,6 +36,13 @@ Federal law makes it a felony for armed federal personnel to station themselves 
 
 </div>
 
+!!! info "Two Pathways to Protection"
+    **Path A: Push Your City Council** — Municipal ordinances withhold local resources from federal agents at polling places. Fastest to pass, effective locally. → [Master Ordinance Template](legal-foundation/master-ordinance-template/)
+
+    **Path B: Push Your State Legislature** — State bills create criminal and civil penalties for armed federal deployments at polls. Broadest protection, statewide reach. → [Master State Bill Template](legal-foundation/master-state-bill-template/)
+
+    New Mexico enacted Path B on March 9, 2026 — the first state in the nation. At least eight other states have introduced similar legislation. [Find your state's status →](state-guides/)
+
 ---
 
 ## Why This Matters in 2026
@@ -136,6 +143,24 @@ Municipal ordinances represent the **most legally durable** pre-election interve
     then your state guide's coalition directory for local partners.
 
     [50-State Strategic Overview](legal-foundation/50-state-overview.md){ .cta-primary } [State Guides](state-guides/index.md){ .cta-secondary }
+
+* **State Legislators & Staff**
+
+  ---
+
+  Your state can create criminal and civil penalties for deploying
+  armed federal personnel to polling places — going beyond what
+  municipal ordinances can achieve alone. Access model bill language
+  drawn from New Mexico's SB 264 (signed March 2026), the first
+  state law of its kind, with adaptation notes for your state's
+  legal framework, penalty classifications, and session calendar.
+
+  **Start:** The Master State Bill Template for model legislative
+  language with section-by-section commentary, then find your
+  [state guide](state-guides/) for state-specific viability
+  analysis and committee targeting.
+
+  [Master State Bill Template](legal-foundation/master-state-bill-template/) [Find Your State Guide](state-guides/)
 
 </div>
 
@@ -257,5 +282,6 @@ Municipal ordinances represent the **most legally durable** pre-election interve
 | [50-State Viability Analysis](legal-foundation/50-state-overview.md) | Full strategic map with GREEN/YELLOW/RED tiers, swing state windows, and coalition directory | <span class="audience-pill audience-pill--all">All</span> |
 | [Evidence Collection Framework](legal-foundation/evidence-framework.md) | Seven-category evidence protocol, chain of custody, expert witness strategy, litigation phase mapping | <span class="audience-pill audience-pill--attorneys">Attorneys</span> |
 | [Master Ordinance Template](legal-foundation/master-ordinance-template.md) | Model municipal ordinance with 14 operative sections and tier-specific adaptation notes | <span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span> |
+| [Master State Bill Template](legal-foundation/master-state-bill-template/) | Model state legislation with criminal/civil penalties for deploying armed federal personnel to polling places; drawn from NM SB 264 | Legislators Attorneys Officials |
 
 [How to Use This Guide](how-to-use.md){ .cta-primary } [Legal Foundation Overview](legal-foundation/index.md){ .cta-secondary }

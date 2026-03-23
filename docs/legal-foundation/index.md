@@ -5,7 +5,7 @@ description: Core constitutional and statutory documents underpinning the Munici
 
 # Legal Foundation
 
-These eight documents form the constitutional and statutory basis for the Municipal Election Integrity Ordinance. Every state guide references them. They are written for attorneys and legal advocates but are accessible to any reader.
+These nine documents form the constitutional and statutory basis for protecting polling places from armed federal personnel. They support two parallel action tracks: **municipal ordinances** (the Master Ordinance Template) and **state legislation** (the Master State Bill Template). Every state guide references them. They are written for attorneys and legal advocates but are accessible to any reader.
 
 ---
 
@@ -77,6 +77,14 @@ Model municipal ordinance language with WHEREAS clauses citing anti-commandeerin
 
 ---
 
+### 9. [Master State Bill Template](master-state-bill-template/)
+
+Model state legislation for legislatures seeking to create criminal and civil penalties for deploying armed federal personnel to polling places. Drawn directly from New Mexico's **SB 264** (signed March 9, 2026) — the first state law of its kind — with additional provisions from pending legislation in California, Connecticut, Virginia, and Washington. Includes a 20-section model bill, the "parallel enforcement" legal theory, a four-layer preemption defense framework, and state-specific adaptation notes for trifecta, divided-government, and hostile states.
+
+**Key takeaway:** State legislation fills the structural enforcement gap in 18 U.S.C. § 592 by creating parallel state criminal and civil penalties that don't depend on the federal executive branch for prosecution. The private right of action with attorney fee shifting creates a self-enforcing statute.
+
+---
+
 ## Reference Documents at a Glance
 
 <div class="doc-card-grid">
@@ -126,6 +134,12 @@ Model municipal ordinance language with WHEREAS clauses citing anti-commandeerin
     <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h4v-1.91L12.09 18H6v-2h8.09l2-2H6v-2h12.09L20 10.09V8l-6-6zm7 1.5L18.5 9H13zm7.15 9.5a.55.55 0 0 0-.4.16l-1.02 1.02 2.09 2.08 1.02-1.01c.21-.22.21-.58 0-.79l-1.3-1.3a.54.54 0 0 0-.39-.16m-2.01 1.77L12 20.92V23h2.08l6.15-6.15z"/></svg></div>
     <div class="doc-card-title">Master Ordinance Template</div>
     <div class="doc-card-desc">Model municipal ordinance with 14 operative sections and tier-specific adaptation notes</div>
+    <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
+  </a>
+  <a href="master-state-bill-template/" class="doc-card">
+    <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h4v-1.91L12.09 18H6v-2h8.09l2-2H6v-2h12.09L20 10.09V8l-6-6zm7 1.5L18.5 9H13zm7.15 9.5a.55.55 0 0 0-.4.16l-1.02 1.02 2.09 2.08 1.02-1.01c.21-.22.21-.58 0-.79l-1.3-1.3a.54.54 0 0 0-.39-.16m-2.01 1.77L12 20.92V23h2.08l6.15-6.15z"/></svg></div>
+    <div class="doc-card-title">Master State Bill Template</div>
+    <div class="doc-card-desc">Model state legislation with criminal/civil penalties, emergency procedures, voter data protection; based on NM SB 264</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
 </div>

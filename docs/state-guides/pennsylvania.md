@@ -23,6 +23,11 @@ tags:
 
 Pennsylvania is a **critical battleground state** with strong election security infrastructure but limited Secretary of State authority and a unique 100-foot police exclusion zone around polling places. The state's 67 county boards of elections administer elections locally, the PA National Guard operates elite cyber units (112th Cyber Operations Squadron), and Governor Shapiro established a multi-agency Election Threats Task Force. However, Pennsylvania **did not join the 19-state lawsuit** against Executive Order 14248 despite its Democratic governor, and the aging SURE voter registration system represents a critical vulnerability. The AG has prosecutorial jurisdiction over all Election Code violations, and voter intimidation carries penalties up to felony of the third degree. Pennsylvania's Article I, Section 5 "free and equal elections" clause and unique police exclusion zone provide strong constitutional and statutory foundations for election protection ordinances.
 
+!!! info "March 2026 Update — State Legislation Under Consideration"
+    Pennsylvania lawmakers are considering **protections for polling places from federal agent deployment.** Pennsylvania's split legislature makes passage challenging, but the state's status as a critical 2026 battleground increases both the urgency and the political stakes.
+
+    **Two-track strategy:** Given Pennsylvania's divided government, municipal ordinances in target cities (Path A) remain the primary action pathway. A state bill (Path B) serves as an organizing and messaging vehicle even if it does not pass the full legislature. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies.
+
 ---
 
 ## Section 1: Legal Battlefield
