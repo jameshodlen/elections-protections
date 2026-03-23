@@ -24,6 +24,11 @@ tags:
 
 Illinois offers an exceptionally favorable landscape for municipal election protection ordinances based on 18 U.S.C. § 592. The state's robust home rule framework under **Article VII, Section 6** of the Illinois Constitution, combined with established sanctuary law precedents (TRUST Act and Way Forward Act) and a landmark July 2025 federal court victory upholding non-cooperation policies, creates a strong legal foundation. Chicago, Evanston, and Oak Park emerge as tier-one targets, each with progressive governing bodies and demonstrated willingness to pioneer civil liberties ordinances. The Just Democracy Illinois coalition—led by Chicago Lawyers' Committee for Civil Rights, ICIRR, and Common Cause—provides ready infrastructure for campaign support.
 
+!!! info "March 2026 Update — State Legislative Activity"
+    Illinois lawmakers have introduced a **resolution urging federal agencies not to conduct immigration enforcement near polling places.** A resolution is non-binding — it sends a message but does not create penalties. Illinois's Democratic trifecta and strong home rule framework make it a strong candidate for upgrading from a non-binding resolution to binding legislation using the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
+
+    **Two-track strategy:** Push for binding state legislation (Path B) to replace or supplement the non-binding resolution, while advancing municipal ordinances in target cities (Path A). Chicago and other home rule cities can act immediately under existing authority.
+
 ---
 
 ## Section 1: The legal battlefield favors municipal action
