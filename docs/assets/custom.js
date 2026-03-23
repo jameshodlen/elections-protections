@@ -474,59 +474,161 @@ function initAccordionControls() {
 }
 
 /* ============================================================
-   FEATURE 7: INTERACTIVE US MAP
-   Tooltip on hover, click to navigate to state guide.
+   FEATURE 7: INTERACTIVE US MAP (D3 Choropleth)
+   Geographic state shapes, tier coloring, click to navigate.
+   Requires D3.js v7 and topojson-client loaded via CDN.
    ============================================================ */
 
+var US_STATE_DATA = {
+  "01":{name:"Alabama",slug:"alabama",tier:3},
+  "02":{name:"Alaska",slug:"alaska",tier:1},
+  "04":{name:"Arizona",slug:"arizona",tier:3},
+  "05":{name:"Arkansas",slug:"arkansas",tier:3},
+  "06":{name:"California",slug:"california",tier:1},
+  "08":{name:"Colorado",slug:"colorado",tier:1},
+  "09":{name:"Connecticut",slug:"connecticut",tier:2},
+  "10":{name:"Delaware",slug:"delaware",tier:2},
+  "12":{name:"Florida",slug:"florida",tier:3},
+  "13":{name:"Georgia",slug:"georgia",tier:3},
+  "15":{name:"Hawaii",slug:"hawaii",tier:2},
+  "16":{name:"Idaho",slug:"idaho",tier:3},
+  "17":{name:"Illinois",slug:"illinois",tier:1},
+  "18":{name:"Indiana",slug:"indiana",tier:3},
+  "19":{name:"Iowa",slug:"iowa",tier:3},
+  "20":{name:"Kansas",slug:"kansas",tier:2},
+  "21":{name:"Kentucky",slug:"kentucky",tier:2},
+  "22":{name:"Louisiana",slug:"louisiana",tier:3},
+  "23":{name:"Maine",slug:"maine",tier:1},
+  "24":{name:"Maryland",slug:"maryland",tier:1},
+  "25":{name:"Massachusetts",slug:"massachusetts",tier:1},
+  "26":{name:"Michigan",slug:"michigan",tier:1},
+  "27":{name:"Minnesota",slug:"minnesota",tier:1},
+  "28":{name:"Mississippi",slug:"mississippi",tier:3},
+  "29":{name:"Missouri",slug:"missouri",tier:3},
+  "30":{name:"Montana",slug:"montana",tier:3},
+  "31":{name:"Nebraska",slug:"nebraska",tier:2},
+  "32":{name:"Nevada",slug:"nevada",tier:2},
+  "33":{name:"New Hampshire",slug:"new-hampshire",tier:2},
+  "34":{name:"New Jersey",slug:"new-jersey",tier:1},
+  "35":{name:"New Mexico",slug:"new-mexico",tier:1},
+  "36":{name:"New York",slug:"new-york",tier:1},
+  "37":{name:"North Carolina",slug:"north-carolina",tier:3},
+  "38":{name:"North Dakota",slug:"north-dakota",tier:3},
+  "39":{name:"Ohio",slug:"ohio",tier:1},
+  "40":{name:"Oklahoma",slug:"oklahoma",tier:3},
+  "41":{name:"Oregon",slug:"oregon",tier:1},
+  "42":{name:"Pennsylvania",slug:"pennsylvania",tier:2},
+  "44":{name:"Rhode Island",slug:"rhode-island",tier:1},
+  "45":{name:"South Carolina",slug:"south-carolina",tier:3},
+  "46":{name:"South Dakota",slug:"south-dakota",tier:3},
+  "47":{name:"Tennessee",slug:"tennessee",tier:3},
+  "48":{name:"Texas",slug:"texas",tier:3},
+  "49":{name:"Utah",slug:"utah",tier:3},
+  "50":{name:"Vermont",slug:"vermont",tier:2},
+  "51":{name:"Virginia",slug:"virginia",tier:3},
+  "53":{name:"Washington",slug:"washington",tier:1},
+  "54":{name:"West Virginia",slug:"west-virginia",tier:3},
+  "55":{name:"Wisconsin",slug:"wisconsin",tier:2},
+  "56":{name:"Wyoming",slug:"wyoming",tier:3}
+};
+
+var TIER_LABELS = {
+  1: "Tier 1 \u2014 Strong Viability",
+  2: "Tier 2 \u2014 Proceed with Caution",
+  3: "Tier 3 \u2014 Significant Barriers"
+};
+
 function initUSMap() {
-  var container = document.querySelector(".us-map-container");
+  var container = document.getElementById("choropleth-map");
   if (!container) return;
+  if (typeof d3 === "undefined" || typeof topojson === "undefined") return;
 
-  var tooltip = container.querySelector(".map-tooltip");
-  if (!tooltip) return;
+  // Prevent duplicate renders on SPA navigation
+  container.innerHTML = "";
 
-  var states = container.querySelectorAll("g.state-tile, path.state-path");
+  var tooltip = container.parentElement
+    ? container.parentElement.querySelector(".map-tooltip")
+    : null;
+  if (!tooltip) {
+    tooltip = document.querySelector(".map-tooltip");
+  }
 
-  states.forEach(function (state) {
-    state.addEventListener("mouseenter", function () {
-      var name = this.dataset.state || this.id;
-      var tier = "";
-      if (this.classList.contains("state-tier-green"))
-        tier = "Tier 1 \u2014 Strong Viability";
-      else if (this.classList.contains("state-tier-yellow"))
-        tier = "Tier 2 \u2014 Proceed with Caution";
-      else if (this.classList.contains("state-tier-red"))
-        tier = "Tier 3 \u2014 Significant Barriers";
+  var width = 960;
+  var height = 600;
 
-      tooltip.textContent = name + " \u2014 " + tier;
-      tooltip.classList.add("visible");
+  var svg = d3.select(container)
+    .append("svg")
+    .attr("viewBox", "0 0 " + width + " " + height)
+    .attr("preserveAspectRatio", "xMidYMid meet")
+    .attr("role", "img")
+    .attr("aria-label", "Interactive choropleth map of the United States showing tier classifications for all 50 states. Click a state to view its guide.");
+
+  var style = getComputedStyle(document.documentElement);
+  var tierColors = {
+    1: style.getPropertyValue("--tier-green").trim() || "#2e7d32",
+    2: style.getPropertyValue("--tier-yellow").trim() || "#e65100",
+    3: style.getPropertyValue("--tier-red").trim() || "#c62828"
+  };
+
+  d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json")
+    .then(function(topoData) {
+      var projection = d3.geoAlbersUsa().fitSize([width, height], topojson.feature(topoData, topoData.objects.states));
+      var path = d3.geoPath().projection(projection);
+      var features = topojson.feature(topoData, topoData.objects.states).features;
+
+      svg.selectAll(".state-path")
+        .data(features)
+        .enter()
+        .append("path")
+        .attr("class", "state-path")
+        .attr("d", path)
+        .attr("tabindex", "0")
+        .attr("fill", function(d) {
+          var fips = String(d.id).padStart(2, "0");
+          var sd = US_STATE_DATA[fips];
+          return sd ? tierColors[sd.tier] : "#ddd";
+        })
+        .on("mouseover", function(event, d) {
+          if (!tooltip) return;
+          var fips = String(d.id).padStart(2, "0");
+          var sd = US_STATE_DATA[fips];
+          if (!sd) return;
+          tooltip.textContent = sd.name + " \u2014 " + TIER_LABELS[sd.tier];
+          tooltip.classList.add("visible");
+        })
+        .on("mousemove", function(event) {
+          if (!tooltip) return;
+          var rect = container.getBoundingClientRect();
+          tooltip.style.left = (event.clientX - rect.left + 12) + "px";
+          tooltip.style.top = (event.clientY - rect.top - 30) + "px";
+        })
+        .on("mouseout", function() {
+          if (tooltip) tooltip.classList.remove("visible");
+        })
+        .on("click", function(event, d) {
+          var fips = String(d.id).padStart(2, "0");
+          var sd = US_STATE_DATA[fips];
+          if (sd) window.location.href = "../state-guides/" + sd.slug + "/";
+        })
+        .on("keydown", function(event, d) {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            var fips = String(d.id).padStart(2, "0");
+            var sd = US_STATE_DATA[fips];
+            if (sd) window.location.href = "../state-guides/" + sd.slug + "/";
+          }
+        });
+
+      // State borders
+      svg.append("path")
+        .datum(topojson.mesh(topoData, topoData.objects.states, function(a, b) { return a !== b; }))
+        .attr("class", "state-borders")
+        .attr("d", path);
+    })
+    .catch(function(err) {
+      console.error("Failed to load map data:", err);
+      container.innerHTML = '<p style="color:var(--md-default-fg-color);text-align:center;padding:2rem;">Map unavailable. See the table below for all 50 states.</p>';
     });
-
-    state.addEventListener("mousemove", function (e) {
-      var rect = container.getBoundingClientRect();
-      var x = e.clientX - rect.left + 12;
-      var y = e.clientY - rect.top - 30;
-      tooltip.style.left = x + "px";
-      tooltip.style.top = y + "px";
-    });
-
-    state.addEventListener("mouseleave", function () {
-      tooltip.classList.remove("visible");
-    });
-
-    state.addEventListener("click", function () {
-      var href = this.dataset.href;
-      if (href) window.location.href = href;
-    });
-
-    state.addEventListener("keydown", function (e) {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        var href = this.dataset.href;
-        if (href) window.location.href = href;
-      }
-    });
-  });
 }
 
 /* ============================================================

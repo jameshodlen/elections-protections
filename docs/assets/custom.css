@@ -1352,7 +1352,7 @@
 
 .us-map-container {
   width: 100%;
-  max-width: 640px;
+  max-width: 960px;
   margin: 1.5rem auto;
   position: relative;
 }
@@ -1362,43 +1362,31 @@
   height: auto;
 }
 
-/* Tile grid map — state tiles (<g> with <rect> + <text>) */
-.us-map-container .state-tile {
+/* Geographic choropleth — state paths */
+.us-map-container .state-path {
+  stroke: #fff;
+  stroke-width: 0.5;
   cursor: pointer;
+  transition: opacity 0.15s ease, stroke-width 0.15s ease;
 }
 
-.us-map-container .state-tile .state-rect {
-  stroke: var(--md-default-bg-color);
-  stroke-width: 2;
-  transition: opacity 0.15s ease, stroke 0.15s ease;
-}
-
-.us-map-container .state-tile .state-label {
-  fill: #ffffff;
-  font-size: 13px;
-  font-weight: 700;
-  font-family: var(--md-text-font-family), sans-serif;
-  text-anchor: middle;
-  pointer-events: none;
-}
-
-.us-map-container .state-tier-green .state-rect { fill: var(--tier-green); }
-.us-map-container .state-tier-yellow .state-rect { fill: var(--tier-yellow); }
-.us-map-container .state-tier-red .state-rect { fill: var(--tier-red); }
-
-.us-map-container .state-tile:hover .state-rect {
+.us-map-container .state-path:hover {
   opacity: 0.8;
   stroke: var(--md-default-fg-color);
-  stroke-width: 3;
+  stroke-width: 1.5;
 }
 
-.us-map-container .state-tile:focus {
+.us-map-container .state-path:focus {
   outline: none;
+  stroke: var(--accent-teal);
+  stroke-width: 2;
 }
 
-.us-map-container .state-tile:focus .state-rect {
-  stroke: var(--accent-teal);
-  stroke-width: 3;
+.us-map-container .state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 0.5;
+  pointer-events: none;
 }
 
 .map-tooltip {
@@ -1443,12 +1431,12 @@
   display: inline-block;
 }
 
-[data-md-color-scheme="slate"] .us-map-container path.state-path {
+[data-md-color-scheme="slate"] .us-map-container .state-path {
   stroke: #1e1e1e;
 }
 
-[data-md-color-scheme="slate"] .us-map-container .state-tile .state-rect {
-  stroke: var(--md-default-bg-color);
+[data-md-color-scheme="slate"] .us-map-container .state-borders {
+  stroke: #1e1e1e;
 }
 
 /* ============================================================
