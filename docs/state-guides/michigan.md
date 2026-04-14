@@ -411,27 +411,3 @@ The primary risks center on Michigan's **evolving legislative landscape** (parti
 With careful drafting that leverages Michigan's constitutional provisions, targets cities with proven civil liberties commitments, and engages the existing coalition infrastructure, this ordinance has strong prospects for passage and durability.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Michigan Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Michigan-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Ann Arbor** — ~123,000](../flyers/city/MI_ann-arbor.html){:target="_blank" .md-button}
-[:material-file-download: **East Lansing** — ~49,000](../flyers/city/MI_east-lansing.html){:target="_blank" .md-button}
-[:material-file-download: **Ferndale** — ~19,400](../flyers/city/MI_ferndale.html){:target="_blank" .md-button}
-

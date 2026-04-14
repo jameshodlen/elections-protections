@@ -323,28 +323,3 @@ The strategic recommendation is to introduce the state bill in parallel with ref
 Massachusetts presents a **favorable but legally complex** environment for municipal election protection ordinances. The state's Home Rule status, absence of anti-sanctuary preemption, strong *Lunn* precedent, new H.4885 firearm restrictions, and dense progressive municipal infrastructure create genuine opportunity—but Article 89, Section 7(1)'s reservation of election regulation to the state requires careful legal framing focused on police operations and resource allocation rather than election administration. Cambridge's pioneering sanctuary history, clear legal authority, and unified progressive governance make it the optimal jurisdiction for initial implementation, with Somerville and Northampton providing immediate expansion opportunities and geographic diversity.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Massachusetts Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Massachusetts-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Boston** — ~654,000](../flyers/city/MA_boston.html){:target="_blank" .md-button}
-[:material-file-download: **Cambridge** — ~118,000](../flyers/city/MA_cambridge.html){:target="_blank" .md-button}
-[:material-file-download: **Northampton** — ~31,000](../flyers/city/MA_northampton.html){:target="_blank" .md-button}
-[:material-file-download: **Somerville** — ~81,000](../flyers/city/MA_somerville.html){:target="_blank" .md-button}
-

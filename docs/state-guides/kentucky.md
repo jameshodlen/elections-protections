@@ -242,26 +242,3 @@ The municipal ordinance track described in Sections 1–5 faces headwinds from b
 |---|---|---|---|
 | Senate | State and Local Government | Verify current chair | Jurisdiction over election law |
 | House | Elections, Constitutional Amendments & Intergovernmental Affairs | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Kentucky Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Kentucky-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/KY_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Covington** — ~41,000](../flyers/city/KY_covington.html){:target="_blank" .md-button}
-[:material-file-download: **Lexington-Fayette** — ~320,000](../flyers/city/KY_lexington-fayette.html){:target="_blank" .md-button}
-[:material-file-download: **Louisville Metro** — ~640,000](../flyers/city/KY_louisville-metro.html){:target="_blank" .md-button}
-

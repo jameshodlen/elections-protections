@@ -276,26 +276,3 @@ Key statutory hooks include RIGL § 17-23-5 (felony voter intimidation through "
 With Common Cause Rhode Island coordinating existing coalition infrastructure, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Rhode Island Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Rhode Island-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/RI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Central Falls** — ~22,600](../flyers/city/RI_central-falls.html){:target="_blank" .md-button}
-[:material-file-download: **Providence** — ~195,000](../flyers/city/RI_providence.html){:target="_blank" .md-button}
-

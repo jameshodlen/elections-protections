@@ -318,27 +318,3 @@ The most legally defensible approach would direct municipal police departments�
 The key strategic recommendation: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Connecticut Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Connecticut-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/CT_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Hamden** — ~61,000](../flyers/city/CT_hamden.html){:target="_blank" .md-button}
-[:material-file-download: **Hartford** — ~121,000](../flyers/city/CT_hartford.html){:target="_blank" .md-button}
-[:material-file-download: **New Haven** — ~135,000](../flyers/city/CT_new-haven.html){:target="_blank" .md-button}
-

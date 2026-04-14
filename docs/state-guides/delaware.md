@@ -236,27 +236,3 @@ The strongest framing builds on HB 182: if Delaware bars 287(g) agreements and d
 |---|---|---|---|
 | Senate | Elections & Government Affairs | Verify current chair | Primary jurisdiction over election law |
 | House | Elections | Verify current chair | Primary jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Delaware Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Delaware-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/DE_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Dover** — ~39,400](../flyers/city/DE_dover.html){:target="_blank" .md-button}
-[:material-file-download: **New Castle County** — ~570,000](../flyers/city/DE_new-castle-county.html){:target="_blank" .md-button}
-[:material-file-download: **Newark** — ~30,600](../flyers/city/DE_newark.html){:target="_blank" .md-button}
-[:material-file-download: **Wilmington** — ~70,900](../flyers/city/DE_wilmington.html){:target="_blank" .md-button}
-

@@ -266,27 +266,3 @@ The strongest argument for Maine action is the polling place firearms gap. Maine
 Maine presents near-optimal conditions for municipal election protection ordinances. The state's strong home rule framework provides constitutional and statutory authority, while the absence of anti-sanctuary laws and alignment with 18 U.S.C. § 592 minimize preemption risk. Portland's unanimous September 2025 ICE resolution and Bangor's November 2025 progressive council sweep create immediate political windows. The established infrastructure of Democracy Maine, ACLU of Maine, and LWVME chapters in target cities provides ready organizing capacity. The core legal insight—that **30-A M.R.S. § 2671(2)** explicitly permits municipal limitation of police powers "by charter or ordinance"—provides the statutory hook that distinguishes Maine as particularly favorable terrain for this campaign.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Maine Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Maine-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/ME_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Bangor** — ~32,000](../flyers/city/ME_bangor.html){:target="_blank" .md-button}
-[:material-file-download: **Lewiston** — ~38,000](../flyers/city/ME_lewiston.html){:target="_blank" .md-button}
-[:material-file-download: **Portland** — ~69,000](../flyers/city/ME_portland.html){:target="_blank" .md-button}
-

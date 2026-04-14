@@ -273,27 +273,3 @@ Boulder's existing sanctuary and police oversight ordinances, progressive counci
 The most significant strategic advantage is the pre-existing COVRA coalition infrastructure—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Colorado Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Colorado-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/CO_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Aurora** — ~386,000](../flyers/city/CO_aurora.html){:target="_blank" .md-button}
-[:material-file-download: **Boulder** — ~105,000](../flyers/city/CO_boulder.html){:target="_blank" .md-button}
-[:material-file-download: **Denver** — ~715,000](../flyers/city/CO_denver.html){:target="_blank" .md-button}
-

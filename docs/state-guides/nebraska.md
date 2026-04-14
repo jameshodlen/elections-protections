@@ -198,25 +198,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Unicameral | Government, Military and Veterans Affairs | Verify current chair | Primary jurisdiction over election law |
 | Unicameral | Judiciary | Verify current chair | Criminal provisions review |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Nebraska Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Nebraska-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NE_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Lincoln** — ~290,000](../flyers/city/NE_lincoln.html){:target="_blank" .md-button}
-[:material-file-download: **Omaha** — ~490,000](../flyers/city/NE_omaha.html){:target="_blank" .md-button}
-

@@ -167,24 +167,3 @@ Wyoming's Republican trifecta, comprehensive firearms preemption (§ 6-8-401), a
 |---|---|---|---|
 | Senate | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
 | House | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Wyoming Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Wyoming-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WY_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Jackson/Teton County** — ~10,700 (town) / ~23,400 (county)](../flyers/city/WY_jackson-teton-county.html){:target="_blank" .md-button}
-

@@ -188,17 +188,3 @@ Georgia's Republican trifecta makes passage impossible. The municipal ordinance 
 |---|---|---|---|
 | Senate | Ethics | Verify current chair | Jurisdiction over election law |
 | House | Special Committee on Election Integrity | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Georgia Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Georgia-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/GA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*

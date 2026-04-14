@@ -251,28 +251,3 @@ The most urgent gap to address is the $200 voter intimidation penalty (17 V.S.A.
 |---|---|---|---|
 | Senate | Government Operations | Verify current chair | Primary jurisdiction over election law |
 | House | Government Operations and Military Affairs | Verify current chair | Primary jurisdiction over election law; military affairs nexus relevant to federal personnel provisions |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Vermont Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Vermont-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/VT_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Brattleboro** — ~12,100](../flyers/city/VT_brattleboro.html){:target="_blank" .md-button}
-[:material-file-download: **Burlington** — ~44,400](../flyers/city/VT_burlington.html){:target="_blank" .md-button}
-[:material-file-download: **Middlebury** — ~9,150](../flyers/city/VT_middlebury.html){:target="_blank" .md-button}
-[:material-file-download: **Montpelier** — ~7,900](../flyers/city/VT_montpelier.html){:target="_blank" .md-button}
-[:material-file-download: **Winooski** — ~8,000](../flyers/city/VT_winooski.html){:target="_blank" .md-button}
-

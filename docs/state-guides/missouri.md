@@ -195,27 +195,3 @@ Missouri's Republican trifecta makes passage impossible. The municipal ordinance
 |---|---|---|---|
 | Senate | Local Government, Elections, and Pensions | Verify current chair | Jurisdiction over election law |
 | House | Elections and Elected Officials | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Missouri Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Missouri-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MO_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Columbia, MO** — ~129,000](../flyers/city/MO_columbia-mo.html){:target="_blank" .md-button}
-[:material-file-download: **Kansas City, MO** — ~508,000](../flyers/city/MO_kansas-city-mo.html){:target="_blank" .md-button}
-[:material-file-download: **St. Louis City** — ~281,000](../flyers/city/MO_st-louis-city.html){:target="_blank" .md-button}
-[:material-file-download: **St. Louis County** — ~987,000](../flyers/city/MO_st-louis-county.html){:target="_blank" .md-button}
-

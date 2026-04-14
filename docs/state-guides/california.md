@@ -368,27 +368,3 @@ Three strategic recommendations emerge from this research:
 The legal risk profile is low to moderate for charter cities, with the strongest protection available for ordinances that focus on directing local police conduct—an expressly enumerated municipal affair under the California Constitution—rather than attempting to directly bind federal agents.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the California Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with California-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/CA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Berkeley** — ~124,000](../flyers/city/CA_berkeley.html){:target="_blank" .md-button}
-[:material-file-download: **San Francisco** — ~874,000](../flyers/city/CA_san-francisco.html){:target="_blank" .md-button}
-[:material-file-download: **West Hollywood** — ~35,000](../flyers/city/CA_west-hollywood.html){:target="_blank" .md-button}
-

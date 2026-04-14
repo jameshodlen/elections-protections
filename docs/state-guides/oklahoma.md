@@ -238,27 +238,3 @@ Oklahoma's Republican trifecta makes passage impossible. The municipal ordinance
 |---|---|---|---|
 | Senate | Rules | Verify current chair | Election law jurisdiction |
 | House | Elections and Ethics | Verify current chair | Election law jurisdiction |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Oklahoma Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Oklahoma-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/OK_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Norman** — ~131,000](../flyers/city/OK_norman.html){:target="_blank" .md-button}
-[:material-file-download: **Oklahoma City** — ~703,000](../flyers/city/OK_oklahoma-city.html){:target="_blank" .md-button}
-[:material-file-download: **Stillwater** — ~50,000](../flyers/city/OK_stillwater.html){:target="_blank" .md-button}
-[:material-file-download: **Tulsa** — ~415,000](../flyers/city/OK_tulsa.html){:target="_blank" .md-button}
-

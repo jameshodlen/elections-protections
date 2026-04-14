@@ -235,27 +235,3 @@ South Carolina's Republican trifecta and Article VIII, Section 14(2) preemption 
 |---|---|---|---|
 | Senate | Judiciary | Verify current chair | Jurisdiction over election law |
 | House | Judiciary | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the South Carolina Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with South Carolina-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/SC_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Charleston** — ~150,200](../flyers/city/SC_charleston.html){:target="_blank" .md-button}
-[:material-file-download: **Columbia** — ~136,600](../flyers/city/SC_columbia.html){:target="_blank" .md-button}
-[:material-file-download: **Greenville** — ~70,700](../flyers/city/SC_greenville.html){:target="_blank" .md-button}
-[:material-file-download: **North Charleston** — ~114,900](../flyers/city/SC_north-charleston.html){:target="_blank" .md-button}
-

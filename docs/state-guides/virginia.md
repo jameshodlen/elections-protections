@@ -250,29 +250,3 @@ Virginia's existing private right of action (§ 24.2-1005(B)), pending firearms 
 |---|---|---|---|
 | Senate | Privileges and Elections | Verify current chair | Primary jurisdiction over election law |
 | House | Privileges and Elections | Verify current chair | HB 650 advanced through this committee |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Virginia Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Virginia-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/VA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Alexandria** — ~159,000](../flyers/city/VA_alexandria.html){:target="_blank" .md-button}
-[:material-file-download: **Arlington County** — ~239,000](../flyers/city/VA_arlington-county.html){:target="_blank" .md-button}
-[:material-file-download: **Charlottesville** — ~47,000](../flyers/city/VA_charlottesville.html){:target="_blank" .md-button}
-[:material-file-download: **Norfolk** — ~238,000](../flyers/city/VA_norfolk.html){:target="_blank" .md-button}
-[:material-file-download: **Richmond** — ~227,000](../flyers/city/VA_richmond.html){:target="_blank" .md-button}
-[:material-file-download: **Virginia Beach** — ~460,000](../flyers/city/VA_virginia-beach.html){:target="_blank" .md-button}
-

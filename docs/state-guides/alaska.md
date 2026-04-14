@@ -401,26 +401,3 @@ However, the state bill serves a valuable organizing and messaging function. Ala
 | Senate | State Affairs | Verify current chair | Primary jurisdiction over election law |
 | House | State Affairs | Verify current chair | Primary jurisdiction over election law |
 | Senate | Judiciary | Verify current chair | Criminal provisions in Articles 2–3 |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Alaska Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Alaska-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/AK_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Anchorage** — ~291,000](../flyers/city/AK_anchorage.html){:target="_blank" .md-button}
-[:material-file-download: **Fairbanks** — ~32,000](../flyers/city/AK_fairbanks.html){:target="_blank" .md-button}
-[:material-file-download: **Juneau** — ~32,000](../flyers/city/AK_juneau.html){:target="_blank" .md-button}
-

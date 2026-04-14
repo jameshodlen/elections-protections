@@ -264,29 +264,3 @@ Florida's Republican trifecta and Governor DeSantis's focus on election restrict
 |---|---|---|---|
 | Senate | Ethics and Elections | Verify current chair | Jurisdiction over election law |
 | House | Election Integrity & Reform Subcommittee | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Florida Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Florida-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/FL_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Gainesville** — ~146,000](../flyers/city/FL_gainesville.html){:target="_blank" .md-button}
-[:material-file-download: **Miami** — ~450,000](../flyers/city/FL_miami.html){:target="_blank" .md-button}
-[:material-file-download: **Orlando** — ~320,000](../flyers/city/FL_orlando.html){:target="_blank" .md-button}
-[:material-file-download: **St. Petersburg** — ~265,000](../flyers/city/FL_st-petersburg.html){:target="_blank" .md-button}
-[:material-file-download: **Tallahassee** — ~205,000](../flyers/city/FL_tallahassee.html){:target="_blank" .md-button}
-[:material-file-download: **Tampa** — ~402,000](../flyers/city/FL_tampa.html){:target="_blank" .md-button}
-

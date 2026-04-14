@@ -234,26 +234,3 @@ Arkansas's Republican trifecta and the legislature's deliberate 2015 removal of 
 |---|---|---|---|
 | Senate | State Agencies and Governmental Affairs | Verify current chair | Jurisdiction over election law |
 | House | State Agencies and Governmental Affairs | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Arkansas Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Arkansas-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/AR_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Eureka Springs** — ~2,200](../flyers/city/AR_eureka-springs.html){:target="_blank" .md-button}
-[:material-file-download: **Fayetteville** — ~103,000](../flyers/city/AR_fayetteville.html){:target="_blank" .md-button}
-[:material-file-download: **Little Rock** — ~205,000](../flyers/city/AR_little-rock.html){:target="_blank" .md-button}
-

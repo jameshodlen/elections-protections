@@ -271,26 +271,3 @@ New Mexico's passage of SB 264 transforms this state's role in the national elec
 | Sen. Katy Duhigg | Bill sponsor; former city clerk | NM Senate, District 10 — Albuquerque |
 | Secretary of State Maggie Toulouse Oliver | Championed as 2026 priority | 505-827-3600; Elections@sos.nm.gov |
 | Center for Civic Policy / NMCET | Coalition coordination (40+ orgs) | Oriana Sandoval, CEO |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the New Mexico Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with New Mexico-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NM_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Albuquerque** — ~560,000](../flyers/city/NM_albuquerque.html){:target="_blank" .md-button}
-[:material-file-download: **Las Cruces** — ~113,000](../flyers/city/NM_las-cruces.html){:target="_blank" .md-button}
-[:material-file-download: **Santa Fe** — ~87,500](../flyers/city/NM_santa-fe.html){:target="_blank" .md-button}
-

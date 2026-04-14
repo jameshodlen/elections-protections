@@ -180,28 +180,3 @@ Indiana's Republican trifecta makes passage impossible. The municipal ordinance 
 |---|---|---|---|
 | Senate | Elections | Verify current chair | Jurisdiction over election law |
 | House | Elections and Apportionment | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Indiana Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Indiana-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/IN_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Bloomington/Monroe County** — ~80,000](../flyers/city/IN_bloomington-monroe-county.html){:target="_blank" .md-button}
-[:material-file-download: **Gary** — ~68,000](../flyers/city/IN_gary.html){:target="_blank" .md-button}
-[:material-file-download: **Indianapolis/Marion County** — ~900,000](../flyers/city/IN_indianapolis-marion-county.html){:target="_blank" .md-button}
-[:material-file-download: **Marion County** — ~981,000](../flyers/city/IN_marion-county.html){:target="_blank" .md-button}
-[:material-file-download: **West Lafayette** — ~46,000](../flyers/city/IN_west-lafayette.html){:target="_blank" .md-button}
-

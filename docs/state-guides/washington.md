@@ -285,29 +285,3 @@ An election protection ordinance is legally viable in Washington if drafted to e
 **Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Washington Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Washington-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Bellingham** — ~95,000](../flyers/city/WA_bellingham.html){:target="_blank" .md-button}
-[:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
-[:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
-[:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
-[:material-file-download: **Tacoma** — ~220,000](../flyers/city/WA_tacoma.html){:target="_blank" .md-button}
-

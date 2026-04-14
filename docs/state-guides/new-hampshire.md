@@ -243,28 +243,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Senate | Election Law and Municipal Affairs | Verify current chair | Primary jurisdiction over election law |
 | House | Election Law | Verify current chair | Primary jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the New Hampshire Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with New Hampshire-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NH_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Concord** — ~44,700](../flyers/city/NH_concord.html){:target="_blank" .md-button}
-[:material-file-download: **Durham** — ~15,500](../flyers/city/NH_durham.html){:target="_blank" .md-button}
-[:material-file-download: **Hanover** — ~11,900](../flyers/city/NH_hanover.html){:target="_blank" .md-button}
-[:material-file-download: **Keene** — ~23,000](../flyers/city/NH_keene.html){:target="_blank" .md-button}
-[:material-file-download: **Portsmouth** — ~22,900](../flyers/city/NH_portsmouth.html){:target="_blank" .md-button}
-

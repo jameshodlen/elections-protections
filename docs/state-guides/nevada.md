@@ -256,28 +256,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Senate | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
 | Assembly | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Nevada Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Nevada-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NV_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Clark County** — ~2.3M](../flyers/city/NV_clark-county.html){:target="_blank" .md-button}
-[:material-file-download: **Henderson** — ~330,000](../flyers/city/NV_henderson.html){:target="_blank" .md-button}
-[:material-file-download: **Las Vegas** — ~650,000](../flyers/city/NV_las-vegas.html){:target="_blank" .md-button}
-[:material-file-download: **Reno** — ~265,000](../flyers/city/NV_reno.html){:target="_blank" .md-button}
-[:material-file-download: **Washoe County** — ~500,000](../flyers/city/NV_washoe-county.html){:target="_blank" .md-button}
-

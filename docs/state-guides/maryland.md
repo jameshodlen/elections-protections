@@ -222,27 +222,3 @@ The critical insight is that **federal supremacy provides the strongest legal fo
 Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery County's existing civil liberties code framework under Chapter 27, and Howard County's demonstrated voter support for the Liberty Act offer distinct but complementary launch pathways. Coalition outreach should begin with Amy Cruice at ACLU of Maryland and Joanne Antoine at Common Cause Maryland, both organizations with election protection specialization and local ordinance campaign experience. The established Everyone Votes Maryland coalition provides immediate infrastructure for coordinated advocacy across target jurisdictions.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Maryland Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Maryland-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MD_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Baltimore City** — ~570,000](../flyers/city/MD_baltimore-city.html){:target="_blank" .md-button}
-[:material-file-download: **Howard County** — ~334,500](../flyers/city/MD_howard-county.html){:target="_blank" .md-button}
-[:material-file-download: **Montgomery County** — ~1,062,000](../flyers/city/MD_montgomery-county.html){:target="_blank" .md-button}
-

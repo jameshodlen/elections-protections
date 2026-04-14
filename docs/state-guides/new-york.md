@@ -225,29 +225,3 @@ New York's robust home rule framework—anchored by Article IX of the State Cons
 The critical drafting insight is that framing under MHL § 10(1)(ii)(a)(1) authority over municipal officers and employees—rather than as election regulation—sidesteps the strongest preemption arguments under New York's "state concern" doctrine. Federal statutory support through 18 U.S.C. § 592 and the anti-commandeering doctrine provide additional constitutional grounding. The Let NY Vote Coalition's 150+ organizational partners and 11,000+ activists offer ready-made infrastructure for a coordinated municipal campaign.
 
 ---
-
----
-
-## Printable Flyer
-
-!!! tip "Download the New York Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with New York-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NY_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Albany** — ~100,000](../flyers/city/NY_albany.html){:target="_blank" .md-button}
-[:material-file-download: **Buffalo** — ~278,000](../flyers/city/NY_buffalo.html){:target="_blank" .md-button}
-[:material-file-download: **Ithaca** — ~33,000](../flyers/city/NY_ithaca.html){:target="_blank" .md-button}
-[:material-file-download: **New York City** — ~8,480,000](../flyers/city/NY_new-york-city.html){:target="_blank" .md-button}
-[:material-file-download: **Rochester** — ~210,000](../flyers/city/NY_rochester.html){:target="_blank" .md-button}
-[:material-file-download: **Syracuse** — ~148,000](../flyers/city/NY_syracuse.html){:target="_blank" .md-button}
-

@@ -7,6 +7,9 @@ site_author: Election Integrity Project
 docs_dir: docs
 site_dir: site
 
+exclude_docs: |
+  flyers/README.md
+
 theme:
   name: material
   palette:

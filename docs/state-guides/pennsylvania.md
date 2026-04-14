@@ -268,28 +268,3 @@ The House could pass a bill extending the existing exclusion zone to federal per
 |---|---|---|---|
 | House | State Government | Verify current chair | Primary jurisdiction over election law |
 | Senate | State Government | Verify current chair | Would need to advance past Republican majority |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Pennsylvania Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Pennsylvania-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/PA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Allegheny County** — ~1,250,578](../flyers/city/PA_allegheny-county.html){:target="_blank" .md-button}
-[:material-file-download: **Harrisburg** — ~50,099](../flyers/city/PA_harrisburg.html){:target="_blank" .md-button}
-[:material-file-download: **Philadelphia** — ~1,603,797](../flyers/city/PA_philadelphia.html){:target="_blank" .md-button}
-[:material-file-download: **Pittsburgh** — ~302,971](../flyers/city/PA_pittsburgh.html){:target="_blank" .md-button}
-[:material-file-download: **State College** — ~40,501](../flyers/city/PA_state-college.html){:target="_blank" .md-button}
-
