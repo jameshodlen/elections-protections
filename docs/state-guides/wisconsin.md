@@ -1,30 +1,30 @@
 ---
 title: Wisconsin — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political research guide for Wisconsin municipal election protection ordinances, covering Article XI Section 3 modified home rule, the firearms preemption trap under Wis. Stat. § 66.0409, and target city analysis for Racine, Green Bay, and La Crosse.
+ Legal and political research guide for Wisconsin municipal election protection ordinances, covering Article XI Section 3 modified home rule, the firearms preemption trap under Wis. Stat. § 66.0409, and city with home rule authority analysis for Racine, Green Bay, and La Crosse.
 tags:
-  - tier-yellow
-  - wisconsin
-  - home-rule
-  - madison
-  - racine
-  - firearms-preemption
+ - tier-2
+ - wisconsin
+ - home-rule
+ - madison
+ - racine
+ - firearms-preemption
 ---
 
 # Wisconsin Municipal Election Protection Ordinance: Legal and Political Research Guide
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">7</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">7</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Wisconsin cities can legally adopt ordinances directing local police not to assist armed federal personnel near polling places, but **careful drafting is essential** to survive preemption challenges. The state's modified home rule framework provides a workable path, though significant legal risks—particularly Wisconsin's firearms preemption statute—require strategic ordinance language that avoids triggering state law conflicts. With Madison's original ordinance as the model, **Racine, Green Bay, and La Crosse** emerge as the highest-priority targets for adoption, supported by a robust coalition infrastructure led by Voces de la Frontera and the ACLU of Wisconsin.
+Wisconsin cities can legally adopt ordinances directing local police not to assist armed federal personnel near polling places, but **careful drafting is essential** to survive preemption challenges. The state's modified home rule framework provides a workable path, though significant legal risks—particularly Wisconsin's firearms preemption statute—require strategic ordinance language that avoids triggering state law conflicts. With Madison's original ordinance as the model, **Racine, Green Bay, and La Crosse** emerge as the highest-priority targets for adoption, supported by a robust relevant organizations led by Voces de la Frontera and the ACLU of Wisconsin.
 
-This comprehensive guide covers the legal battlefield, localization toolkit, target city analysis, and coalition partner network for a statewide municipal campaign.
+This comprehensive guide covers the legal battlefield, localization toolkit, city with home rule authority analysis, and network of relevant organizations for a statewide municipal campaign.
 
 ---
 
@@ -130,7 +130,7 @@ However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-
 
 **Racine** ranks highest for new adoption. Mayor Cory Mason, a former Democratic Assembly member re-elected in 2023 with **57.4%**, leads a 15-member Common Council receptive to equity initiatives. The DHS designated Racine as a "sanctuary jurisdiction" in May 2025. Mason's legislative background ensures policy sophistication.
 
-**Green Bay** offers unique strategic value. Mayor Eric Genrich, also a former Democratic Assembly member re-elected in 2023 with **52.8%**, was personally targeted by the GOP's Gableman election investigation—dismissed in court. This direct experience with election-related harassment creates natural alignment with election protection measures. The 12-member Common Council has generally supported progressive direction.
+**Green Bay** offers unique legal relevance. Mayor Eric Genrich, also a former Democratic Assembly member re-elected in 2023 with **52.8%**, was personally targeted by the GOP's Gableman election investigation—dismissed in court. This direct experience with election-related harassment creates natural alignment with election protection measures. The 12-member Common Council has generally supported progressive direction.
 
 ### Tier 2: Strong candidates requiring groundwork
 
@@ -160,11 +160,11 @@ However, **[Wis. Stat. § 62.13](https://law.justia.com/codes/wisconsin/chapter-
 
 ---
 
-## Section 4: Coalition infrastructure centers on Voces and ACLU partnership
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tier 1: Essential partners
 
-**Voces de la Frontera** brings the highest partnership value. This membership-based organization has chapters in Milwaukee, Racine, Madison, Green Bay, Sheboygan, Kenosha, and Waukesha—aligning with target cities. Their current "No 287(g) Campaign" directly opposes ICE-local law enforcement collaboration. Voces has demonstrated mass mobilization capacity, with 40,000-100,000 attendees at "Day Without Latinxs" protests. The organization's "Voceros por el Voto" initiative has registered **48,000 voters**. Contact through vdlf.org.
+**Voces de la Frontera** brings the highest partnership value. This membership-based organization has chapters in Milwaukee, Racine, Madison, Green Bay, Sheboygan, Kenosha, and Waukesha—aligning with cities with home rule authority. Their current "No 287(g) Campaign" directly opposes ICE-local law enforcement collaboration. Voces has demonstrated mass mobilization capacity, with 40,000-100,000 attendees at "Day Without Latinxs" protests. The organization's "Voceros por el Voto" initiative has registered **48,000 voters**. Contact through vdlf.org.
 
 **ACLU of Wisconsin** operates the state's Election Protection Hotline (1-866-OUR-VOTE) and has litigation capacity. Critically, ACLU is currently representing Voces in a Wisconsin Supreme Court case challenging county sheriff cooperation with ICE detainers—demonstrating an effective partnership model. The organization's 2024 Democracy Campaign invested **$1.75 million** in voter education. Contact via aclu-wi.org.
 
@@ -261,8 +261,7 @@ The **Wisconsin Elections Commission (WEC)** administers elections, with Adminis
 - **EAC Grants:** grants@eac.gov
 - **EI-ISAC Registration:** learn.cisecurity.org/ei-isac-terms
 - **CEIR Legal Defense Network:** legaldefense@electioninnovation.org
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -291,8 +290,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Wisconsin's lack of a state-level polling place firearms ban is a significant gap. The template creates election-specific firearms restrictions, complementing the Elections Commission's position that firearms regulation is a municipal-level decision.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — critical for Wisconsin as a perennial swing state.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Wisconsin's divided government — a Democratic governor facing a Republican legislature — makes passage of the Master State Bill Template impossible in the current session. Governor Evers has consistently vetoed restrictive voting legislation, demonstrating his commitment to election protection, but the Republican legislature will not advance expanded protections.
 
 The municipal ordinance track described in Sections 1–5 is the primary strategy for Wisconsin. The Elections Commission's explicit acknowledgment that firearms regulation at polling places is a municipal-level decision provides direct institutional support for local ordinances. Milwaukee, Madison, Green Bay, and Racine are the most viable municipal targets. The 2017 anti-sanctuary law's narrow scope (detention cooperation only) may leave room for local election protection ordinances that do not implicate immigration detention. The state bill serves as a messaging vehicle heading into the November 2026 elections — Wisconsin's status as a presidential swing state ensures national media attention to the issue.
@@ -313,31 +311,3 @@ The **Voces de la Frontera–ACLU partnership model** demonstrated in current IC
 The May 2025 DHS sanctuary designations and ongoing state budget debates create political momentum. The window for municipal action should be leveraged before potential state preemption legislation, making **2026 the critical year** for expansion across Wisconsin's progressive cities.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Wisconsin Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Wisconsin-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Eau Claire** — ~74,000](../flyers/city/WI_eau-claire.html){:target="_blank" .md-button}
-[:material-file-download: **Green Bay** — ~105,000](../flyers/city/WI_green-bay.html){:target="_blank" .md-button}
-[:material-file-download: **La Crosse** — ~52,000](../flyers/city/WI_la-crosse.html){:target="_blank" .md-button}
-[:material-file-download: **Madison** — ~270,000](../flyers/city/WI_madison.html){:target="_blank" .md-button}
-[:material-file-download: **Milwaukee** — ~570,000](../flyers/city/WI_milwaukee.html){:target="_blank" .md-button}
-[:material-file-download: **Racine** — ~78,000](../flyers/city/WI_racine.html){:target="_blank" .md-button}
-[:material-file-download: **Waukesha** — ~71,000](../flyers/city/WI_waukesha.html){:target="_blank" .md-button}
-

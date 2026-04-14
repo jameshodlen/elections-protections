@@ -1,21 +1,21 @@
 ---
 title: "New Hampshire — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for New Hampshire municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for New Hampshire municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - new-hampshire
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - new-hampshire
+ - election-security
+ - 18-usc-592
 ---
 
 # New Hampshire Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -67,7 +67,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 New Hampshire's town-meeting tradition provides a unique direct-democracy pathway for ordinance adoption. Residents can vote directly on warrant articles.
 
@@ -106,11 +106,11 @@ New Hampshire's town-meeting tradition provides a unique direct-democracy pathwa
 - **Key advantage:** University of New Hampshire campus; strong student voter presence
 - **Passage probability:** MEDIUM
 
-**Strategic note:** Town meeting warrant articles in smaller progressive communities (Hanover, Durham) may provide the fastest pathway to passage. University towns provide natural coalition infrastructure through student organizations and faculty advocacy.
+**Strategic note:** Town meeting warrant articles in smaller progressive communities (Hanover, Durham) may provide the fastest pathway to passage. University towns provide natural relevant organizations through student organizations and faculty advocacy.
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential anchor organizations
 
@@ -201,8 +201,7 @@ The **critical strategic implication** for New Hampshire: municipal ordinances p
 | **AG Office** | (603) 271-3658 |
 | **DoIT (Cybersecurity)** | Through DoIT central office |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -231,8 +230,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: New Hampshire's constitutional carry regime with no polling place or government building restriction is the most significant gap. The template creates election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 New Hampshire's Republican trifecta makes passage of the Master State Bill Template impossible in the current session. The legislature's recent trajectory — including H.B. 154's restrictive ballot-counting requirements — signals a legislative environment hostile to expanding election protections.
 
 The municipal ordinance track described in Sections 1–5 is the primary strategy for New Hampshire. Manchester, Nashua, Concord, and Portsmouth are the most viable municipal targets. New Hampshire's strong town meeting tradition creates an alternative pathway: town meeting articles proposing polling place protections can generate grassroots pressure and public education even if the state legislature remains hostile. The state bill serves exclusively as a messaging and organizing vehicle, with Part I, Article 11's "all elections ought to be free" language providing the constitutional foundation.
@@ -243,28 +241,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Senate | Election Law and Municipal Affairs | Verify current chair | Primary jurisdiction over election law |
 | House | Election Law | Verify current chair | Primary jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the New Hampshire Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with New Hampshire-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NH_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Concord** — ~44,700](../flyers/city/NH_concord.html){:target="_blank" .md-button}
-[:material-file-download: **Durham** — ~15,500](../flyers/city/NH_durham.html){:target="_blank" .md-button}
-[:material-file-download: **Hanover** — ~11,900](../flyers/city/NH_hanover.html){:target="_blank" .md-button}
-[:material-file-download: **Keene** — ~23,000](../flyers/city/NH_keene.html){:target="_blank" .md-button}
-[:material-file-download: **Portsmouth** — ~22,900](../flyers/city/NH_portsmouth.html){:target="_blank" .md-button}
-

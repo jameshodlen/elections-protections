@@ -1,9 +1,9 @@
 ---
-title: The Law Explained in Plain English
+title: "18 U.S.C. § 592 and Related Statutes — Plain Language Summary"
 description: >-
-  Accessible explanation of the federal statutes, constitutional principles,
-  and proposed city ordinance that form the legal foundation for protecting
-  polling places from armed federal agents.
+  Plain-language summary of 18 U.S.C. § 592, 52 U.S.C. § 10307(b), the
+  anti-commandeering doctrine, the Insurrection Act, and the operative
+  sections of the model municipal ordinance.
 tags:
   - voter-guide
   - legal-explainer
@@ -12,170 +12,129 @@ tags:
   - anti-commandeering
 ---
 
-# The Law Explained in Plain English
+# 18 U.S.C. § 592 and Related Statutes — Plain Language Summary
 
-This page translates the dense legal analysis behind this project into language anyone can understand — without sacrificing accuracy. Every claim here links back to the full legal document for readers who want to go deeper.
+This page summarizes the principal federal statutes and doctrines that apply to the presence of armed federal personnel at polling places, together with the operative sections of the model municipal ordinance. Each summary is cross-referenced to the corresponding detailed analysis elsewhere on the site.
 
 ---
 
-## The Two Federal Laws That Protect You
+## Federal Statutes
 
-### Law #1: No Armed Agents at Polls (18 U.S.C. § 592)
+### 18 U.S.C. § 592 — Troops at polls
 
-!!! quote "The actual statute (1865)"
+!!! quote "Statutory text"
     "Whoever, being an officer of the Army or Navy, or **other person in the civil, military, or naval service of the United States**, orders, brings, keeps, or has under his authority or control any **troops or armed men** at any place where a general or special election is held... shall be fined under this title or **imprisoned not more than five years**, or both; and be **disqualified from holding any office** of honor, profit, or trust under the United States."
 
-**Translation:** If you work for the federal government and you station armed people at a polling place, you are committing a felony. Period. The penalty is up to five years in prison, and you can never hold federal office again.
+**Summary.** Section 592 makes it a federal felony for any person in the civil, military, or naval service of the United States to station troops or armed personnel at any place where a federal general or special election is held, except as necessary to repel armed enemies of the United States. Conviction carries a sentence of up to five years of imprisonment and permanent disqualification from federal office.
 
-**Key facts:**
+**Scope.** The statute was enacted in 1865 and remains in the current United States Code. The term "civil service of the United States" encompasses federal civilian employees, including officers of Immigration and Customs Enforcement and Customs and Border Protection. The statute refers to "troops or armed men" in the disjunctive, and accordingly applies both to organized military units and to individual armed officers. The narrow exception for repelling "armed enemies of the United States" has been construed to refer to armed attack on the nation and not to ordinary law-enforcement operations.
 
-- Signed into law by **President Lincoln** during Reconstruction in 1865
-- Covers anyone "in the civil... service of the United States" — ICE and CBP agents are federal civil servants
-- The Department of Justice's own manual confirms this law applies to "armed federal agents" at election sites
-- The words "troops **or** armed men" mean it covers both military units and individual armed officers
-- The only exception is "to repel armed enemies of the United States" — meaning a foreign military attack, not ordinary law enforcement
-
-[:octicons-arrow-right-24: Full legal analysis](../legal-foundation/ice-polling-places-law.md)
+[:octicons-arrow-right-24: Detailed analysis](../legal-foundation/ice-polling-places-law.md)
 
 ---
 
-### Law #2: No Voter Intimidation (Voting Rights Act § 11(b))
+### 52 U.S.C. § 10307(b) — Voting Rights Act § 11(b)
 
-!!! quote "The actual statute"
+!!! quote "Statutory text"
     "No person, whether acting under color of law or otherwise, shall **intimidate, threaten, or coerce**, or attempt to intimidate, threaten, or coerce any person **for voting or attempting to vote**..."
 
-**Translation:** You cannot scare people out of voting. And here is the critical part that makes this law especially powerful:
+**Summary.** Section 11(b) of the Voting Rights Act prohibits intimidation, threats, and coercion directed at voters or prospective voters. It applies both to state and federal officials and to private individuals.
 
-**You do not have to prove anyone *intended* to intimidate.** The law only asks: *Was the effect intimidating?* Would a reasonable person feel afraid to vote? If yes, the law has been violated.
+**Intent element.** Section 11(b) does not contain an express specific-intent requirement. Federal courts have interpreted the statute to impose liability based on the intimidating effect of the conduct on voter behavior, as measured by reference to a reasonable voter.
 
-Courts have applied this to:
+**Private right of action.** Section 11(b) is enforceable by private civil action.
 
-- Armed groups monitoring polling places *(CAIR v. Atlas Aegis, Minnesota, 2020 — court ordered a 2,500-foot buffer zone)*
-- Robocalls telling voters that mail-in voting would lead to police tracking them *(NCBCP v. Wohl, 2020 — $1 million settlement)*
-- Organizations publishing voter names to accuse them of illegal voting *(LULAC v. PILF, 2018)*
-- Poll watchers following voters and recording their license plates *(Daschle v. Thune, 2004 — temporary restraining order)*
+**Representative applications.**
 
-**Crucially, voters and organizations can sue under this law themselves.** They do not have to wait for the Department of Justice to act.
+- *CAIR v. Atlas Aegis*, No. 20-cv-2324 (D. Minn. 2020) — court ordered a 2,500-foot buffer zone in connection with armed monitoring of polling places.
+- *NCBCP v. Wohl* — settlement addressing robocalls that characterized mail-in voting as leading to law-enforcement tracking of voters.
+- *LULAC v. Public Interest Legal Foundation* — litigation arising from the publication of voter names in connection with allegations of illegal voting.
+- *Daschle v. Thune*, 2004 — temporary restraining order issued in connection with poll-watching conduct.
 
-[:octicons-arrow-right-24: Full legal analysis](../legal-foundation/ice-polling-places-law.md#part-ii-voting-rights-act-section-11b)
+[:octicons-arrow-right-24: Detailed analysis](../legal-foundation/ice-polling-places-law.md#part-ii-voting-rights-act-section-11b)
 
 ---
 
-## Why Cities Can Act: The Anti-Commandeering Principle
+## Constitutional Framework
 
-Here is a question people often ask: *Can the federal government force my city to help with this?*
+### Anti-commandeering doctrine
 
-**No. The Supreme Court has been clear about this for decades.**
+The anti-commandeering doctrine provides that the federal government may not require state or local governments to enact or administer a federal regulatory program.
 
-Think of it this way: Imagine the federal government tried to force your local fire department to enforce parking tickets. The Supreme Court has said they cannot do that. The same principle — called the "anti-commandeering doctrine" — means cities cannot be forced to help federal agents who show up at polling places.
-
-The key cases:
-
-| Case | Year | What the Court said |
+| Case | Year | Holding |
 |---|---|---|
-| *Printz v. United States* | 1997 | The federal government cannot force local sheriffs to run background checks for a federal program. "The Federal Government may not compel the States to enact or administer a federal regulatory program." |
-| *Murphy v. NCAA* | 2018 | The federal government cannot even *prohibit* states from passing their own laws. "The Supremacy Clause is not an independent grant of legislative power to Congress." |
-| *NFIB v. Sebelius* | 2012 | The federal government cannot use funding threats as "a gun to the head" to coerce states into complying. |
+| *Printz v. United States* | 1997 | The federal government may not compel state or local officers to execute federal law: "The Federal Government may not compel the States to enact or administer a federal regulatory program." |
+| *Murphy v. NCAA* | 2018 | The federal government may not prohibit states from enacting their own laws; the Supremacy Clause is "not an independent grant of legislative power to Congress." |
+| *NFIB v. Sebelius* | 2012 | The federal government may not use federal-funding conditions as a form of coercion. |
 
-**What this means in practice:** Your city can say: *"We will not provide our police, our vehicles, our databases, or our facilities to help armed federal agents operate near our polling places."* That is a decision about how the city spends its own resources — and the Supreme Court has consistently held that the federal government cannot override those decisions.
+**Application.** A municipal ordinance withholding local police, vehicles, databases, or facilities from federal operations is an allocation of the municipality's own resources and falls within the scope of the anti-commandeering doctrine. As the Ninth Circuit has observed, declining to assist in a federal program is distinct from obstructing one.
 
-The Ninth Circuit put it simply: **"Refusing to help is not the same as impeding."**
-
-[:octicons-arrow-right-24: Full Supremacy Clause analysis](../legal-foundation/supremacy-clause.md)
+[:octicons-arrow-right-24: Supremacy Clause analysis](../legal-foundation/supremacy-clause.md)
 
 ---
 
-## Can the President Override This with the Insurrection Act?
+### Insurrection Act and the Posse Comitatus Act
 
-**No.** This is one of the most common concerns, and the answer is clear for three independent reasons:
+The Insurrection Act authorizes the President to deploy military personnel in specified circumstances. The Posse Comitatus Act limits the use of the military for domestic law-enforcement functions. Three points are relevant to the analysis of polling place deployments:
 
-### Reason 1: The Insurrection Act Does Not Override Other Federal Laws
+1. **Relationship to 18 U.S.C. § 592.** Military personnel deployed under the Insurrection Act remain subject to other generally applicable federal statutes, including 18 U.S.C. § 592. The Insurrection Act is a deployment authority; it is not an exemption from other criminal statutes.
+2. **Judicial review.** In *Trump v. Illinois* (December 23, 2025), the Supreme Court held 6–3 that courts may review the factual predicates for a federalization of the National Guard and that the Posse Comitatus Act constrains the use of military forces in domestic law-enforcement functions.
+3. **Historical practice.** The Insurrection Act has been invoked approximately 30 times in United States history, including during the Civil War, Reconstruction-era enforcement actions, civil-rights-era desegregation, and the 1992 Los Angeles riots. It has not been invoked to deploy military forces to polling places.
 
-Even if the president invoked the Insurrection Act to deploy troops, those troops would still be bound by **every other federal law** — including 18 U.S.C. § 592, which makes it a felony to station armed personnel at polling places. The Insurrection Act is a deployment authority, not a license to commit other federal crimes.
-
-### Reason 2: The Supreme Court Has Limited Deployment Authority
-
-In *Trump v. Illinois* (December 23, 2025), the Supreme Court ruled **6-3 against the administration** when it tried to federalize the National Guard for immigration enforcement in Chicago. The Court held that:
-
-- Courts **can review** whether the conditions actually justify deployment (the administration cannot just claim "insurrection" without evidence)
-- The president cannot deploy military forces where they are not **legally authorized** to execute the laws
-- The Posse Comitatus Act limits what the military can do in domestic law enforcement
-
-### Reason 3: It Has Never Happened Before
-
-The Insurrection Act has been invoked approximately 30 times in American history — for the Civil War, crushing the KKK, enforcing desegregation, and responding to the 1992 Los Angeles riots. It has **never** been invoked to interfere with elections or deploy troops to polling places. Using it for that purpose would be unprecedented and would face immediate legal challenge.
-
-[:octicons-arrow-right-24: Full Insurrection Act analysis](../legal-foundation/insurrection-act-analysis.md)
+[:octicons-arrow-right-24: Insurrection Act analysis](../legal-foundation/insurrection-act-analysis.md)
 
 ---
 
-## Who Runs Elections? (Spoiler: Not the President)
+## Allocation of Election Authority
 
-The American election system is **deliberately decentralized**. Here is who actually runs elections:
+The Elections Clause (Article I, Section 4, Clause 1) provides that the "Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof." Under that allocation:
 
-- **States** set the rules: voter registration requirements, ballot design, polling hours, vote counting procedures
-- **Counties and cities** do the actual work: they run polling places, hire poll workers, manage voting equipment, and count ballots
-- **The federal government** has a limited role: Congress can pass election laws, and the DOJ can enforce them — but neither the president nor any federal agency has an operational role in running elections
+- **States** establish voter-registration requirements, ballot design, polling hours, and vote-counting procedures.
+- **Counties and municipalities** administer polling places, engage poll workers, manage voting equipment, and conduct canvassing.
+- **The federal government's role** is defined by statute: Congress enacts federal election legislation, and the Department of Justice and federal courts enforce it. No federal agency has an operational role in administering state or local elections.
 
-The Constitution is explicit about this. Article I, Section 4 says election rules "shall be prescribed in each State by the Legislature thereof." The president is not mentioned. Federal agencies are not mentioned.
-
-**The president has essentially no constitutional authority over how elections are conducted.** He can sign or veto legislation passed by Congress — and that is about it.
-
-This is why city ordinances are such a powerful tool: cities are the ones actually running elections. When they say "we will not use our resources to support armed federal agents at our polling places," they are exercising authority over a function that is constitutionally theirs.
-
-[:octicons-arrow-right-24: Full governance framework](../legal-foundation/governance-framework.md)
+[:octicons-arrow-right-24: Federal Governance Framework](../legal-foundation/governance-framework.md)
 
 ---
 
-## What the Proposed City Ordinance Would Do
+## Model Municipal Ordinance — Operative Sections
 
-This project includes a [model ordinance](../legal-foundation/master-ordinance-template.md) that cities can adapt and pass. Here is what it does, in plain language:
+The [Model Municipal Ordinance — Annotated Template](../legal-foundation/master-ordinance-template.md) contains fourteen operative sections. The substance of those sections is summarized below.
 
-1. **No city help for armed feds at polls.** The city will not provide police, vehicles, databases, or facilities to support armed federal agents operating near polling places during elections.
+1. **Restrictions on municipal resources.** The municipality will not provide local police, vehicles, databases, or facilities in support of armed federal personnel operating at or near polling places during election periods.
+2. **Protected zones.** A protected zone, typically 500 to 1,000 feet, is established around each polling place during the election period.
+3. **Chain of command.** Local law-enforcement officers assigned to polling places operate under the direction of the precinct election judge and city clerk.
+4. **Voter data.** Locally held voter data — including Social Security numbers, dates of birth, and voter signatures — is not disclosed to federal agencies absent a judicial order.
+5. **Election equipment.** Voting machines and ballots remain in the custody of local election officials. Federal personnel may not inspect, seize, or access such equipment absent a judicial order.
+6. **Transparency.** Federal requests for voter data, equipment access, or cooperation are recorded in a public registry.
+7. **Exceptions.** The restrictions do not apply to life-threatening emergencies, lawful judicial orders, or federal business unrelated to elections.
+8. **Non-obstruction.** The ordinance does not authorize physical obstruction of federal personnel, the provision of false information, or the concealment of persons.
 
-2. **Protected zone.** Establishes a buffer zone (500–1,000 feet) around every polling place during election periods where these restrictions apply.
-
-3. **Poll workers stay in charge.** Local law enforcement at polling places operates under the direction of the precinct election judge and city clerk — not under federal agents.
-
-4. **Voter data stays protected.** The city will not hand over Social Security numbers, dates of birth, voter signatures, or other sensitive voter data to federal agencies without a court order.
-
-5. **Election equipment stays secure.** Voting machines and ballots remain in the custody of local election officials. Federal agents cannot inspect, seize, or access them without a court order.
-
-6. **Transparency.** Every federal request for voter data, election equipment access, or cooperation must be logged in a public registry.
-
-7. **Common-sense exceptions.** The restrictions do not apply when someone's life is in immediate danger, when a court orders compliance, or when the cooperation is completely unrelated to elections.
-
-8. **No obstruction.** The ordinance explicitly says the city will not physically block federal agents, provide false information, or hide anyone from law enforcement. It simply declines to help with activities that federal law itself makes criminal.
-
-**The legal defense is straightforward:** The city cannot be forced to help someone commit a federal felony. Since 18 U.S.C. § 592 makes armed agents at polls a crime, the city is *implementing* federal law — not conflicting with it.
+The legal theory of the ordinance is that the municipality is declining to allocate its own resources to conduct that is itself prohibited by federal law (18 U.S.C. § 592). The ordinance accordingly implements federal law rather than conflicting with it.
 
 ---
 
-## Honest Limitations
+## Limitations of the Legal Framework
 
-This guide would not be credible if it did not acknowledge what the law cannot do:
+Several limitations of the framework summarized above warrant note:
 
-1. **The law cannot physically prevent agents from showing up.** Cities can refuse to help, and courts can issue injunctions, but if the administration decides to send agents anyway, the immediate remedy is legal action, not a physical barrier.
-
-2. **18 U.S.C. § 592 has never been prosecuted.** While the statute is clear, no one has ever been charged under it in the modern era. This means courts have not ruled on some of the specific questions (like whether it covers individual ICE agents as opposed to organized military units).
-
-3. **The chilling effect may persist even with protections.** Even if an ordinance is in place and an injunction is obtained, the *threat* of armed agents may still deter some voters. The Minnesota experience shows that fear spreads beyond the immediate target community.
-
-4. **This law does not cover private citizens or vigilantes.** Section 592 applies only to people "in the civil, military, or naval service of the United States." Private armed groups at polling places may violate other laws (state voter intimidation statutes, the VRA), but not this one specifically.
-
-5. **Red-state cities face additional risks.** In states with anti-sanctuary laws, local officials who pass ordinances could face penalties ranging from funding cuts to criminal charges. See the [state guides](../state-guides/index.md) for your state's specific landscape.
+1. **Enforcement mechanism.** Neither a municipal ordinance nor a judicial injunction physically prevents federal personnel from appearing at a polling place. The available remedies are judicial.
+2. **Absence of modern prosecutions.** 18 U.S.C. § 592 has not been the subject of a reported modern prosecution. Questions of scope accordingly remain without direct appellate authority.
+3. **Residual chilling effect.** Empirical research on the presence of armed law enforcement at polling places indicates that some voter-suppressive effect may persist notwithstanding the adoption of municipal protections.
+4. **Scope of Section 592.** Section 592 applies to persons "in the civil, military, or naval service of the United States." It does not by its terms apply to private armed individuals; other statutes, including state voter-intimidation statutes and 52 U.S.C. § 10307(b), govern private conduct.
+5. **State preemption.** In states that have enacted anti-sanctuary or related preemption statutes, local officials who enact ordinances in this subject area may be subject to state-law penalties. See the applicable [state guide](../state-guides/index.md) for the legal analysis in each state.
 
 ---
 
-## Want to Go Deeper?
+## Further Reading
 
-| Legal Document | What It Covers | Reading Level |
-|---|---|---|
-| [Federal Governance Framework](../legal-foundation/governance-framework.md) | Constitutional basis for local election authority | Expert |
-| [ICE at Polling Places — Federal Law](../legal-foundation/ice-polling-places-law.md) | 18 U.S.C. § 592 and VRA § 11(b) in detail | Expert |
-| [Insurrection Act Analysis](../legal-foundation/insurrection-act-analysis.md) | *Trump v. Illinois* and deployment scenarios | Expert |
-| [The Supremacy Clause](../legal-foundation/supremacy-clause.md) | Anti-commandeering, preemption, federalism | Expert |
-| [Ballot Security Injunction History](../legal-foundation/ballot-security-history.md) | DNC v. RNC consent decree and recent cases | Expert |
-| [50-State Viability Analysis](../legal-foundation/50-state-overview.md) | Which states can pass ordinances | All audiences |
-| [Evidence Collection Framework](../legal-foundation/evidence-framework.md) | The full evidentiary record | Expert |
-| [Master Ordinance Template](../legal-foundation/master-ordinance-template.md) | Model ordinance language | Officials, Attorneys |
+| Document | Subject matter |
+|---|---|
+| [Federal Governance Framework](../legal-foundation/governance-framework.md) | Constitutional basis for state and local election authority |
+| [ICE at Polling Places — Federal Law](../legal-foundation/ice-polling-places-law.md) | Full analysis of 18 U.S.C. § 592 and 52 U.S.C. § 10307(b) |
+| [Insurrection Act Analysis](../legal-foundation/insurrection-act-analysis.md) | *Trump v. Illinois* and deployment scenarios |
+| [The Supremacy Clause](../legal-foundation/supremacy-clause.md) | Anti-commandeering doctrine and federal preemption |
+| [Ballot Security Injunction History](../legal-foundation/ballot-security-history.md) | *DNC v. RNC* consent decree and subsequent litigation |
+| [50-State Home Rule and Preemption Analysis](../legal-foundation/50-state-overview.md) | State-by-state municipal-authority classification |
+| [Evidence Collection Framework](../legal-foundation/evidence-framework.md) | Evidentiary record and chain of custody |
+| [Model Municipal Ordinance — Annotated Template](../legal-foundation/master-ordinance-template.md) | Annotated model ordinance |

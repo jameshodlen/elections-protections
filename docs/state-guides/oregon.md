@@ -1,28 +1,28 @@
 ---
 title: Oregon — Municipal Election Protection Ordinance Guide
 description: >-
-  Adaptation guide for Oregon municipal election protection ordinances under constitutional home rule since 1906 (all 241 cities), covering ORS 181A.820 (sanctuary since 1987), City of La Grande v. PERB (1978), and target city analysis for Portland, Bend, and Corvallis.
+ Adaptation guide for Oregon municipal election protection ordinances under constitutional home rule since 1906 (all 241 cities), covering ORS 181A.820 (sanctuary since 1987), City of La Grande v. PERB (1978), and city with home rule authority analysis for Portland, Bend, and Corvallis.
 tags:
-  - tier-green
-  - oregon
-  - home-rule
-  - portland
-  - sanctuary-state
-  - la-grande
+ - tier-1
+ - oregon
+ - home-rule
+ - portland
+ - sanctuary-state
+ - la-grande
 ---
 
 # Adapting a Municipal Election Protection Ordinance to Oregon
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-**Oregon offers exceptionally favorable legal terrain for a municipal ordinance prohibiting city resources from assisting armed federal personnel at polling places.** The state's strong home rule framework, nation-leading sanctuary law precedent, and presumption against preemption create a solid constitutional foundation. Portland's October 2025 "Protect Portland Initiative"—which unanimously passed a sanctuary ordinance using nearly identical legal architecture—provides a ready-made template. Target cities with progressive councils and existing organizing infrastructure include Portland, Bend, Corvallis, and Ashland.
+**Oregon offers substantial legal terrain for a municipal ordinance prohibiting city resources from assisting armed federal personnel at polling places.** The state's strong home rule framework, nation-leading sanctuary law precedent, and presumption against preemption create a solid constitutional foundation. Portland's October 2025 "Protect Portland Initiative"—which unanimously passed a sanctuary ordinance using nearly identical legal architecture—provides a ready-made template. Target cities with progressive councils and existing organizing infrastructure include Portland, Bend, Corvallis, and Ashland.
 
 ---
 
@@ -126,7 +126,7 @@ Salem's **progressive council majority** is complicated by **Mayor Julie Hoy**, 
 
 ---
 
-## Section 4: Coalition infrastructure already supports election protection
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tier 1: Primary partners with municipal advocacy experience
 
@@ -210,8 +210,7 @@ In a separate action, the **DOJ sued Oregon** (September 16, 2025) to compel dis
 | Civil Rights Bias Response Hotline | 1-844-924-BIAS (2427) |
 | State Cybersecurity (CIO/CISO) | Oregon Enterprise Information Services |
 | Emergency Management | (503) 378-2911; oem_publicinfo@oem.oregon.gov |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -241,8 +240,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the sanctuary law's non-cooperation framework.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Oregon presents a mixed picture. The Democratic trifecta and Governor Kotek's support create favorable political conditions, but the 2026 session is a 35-day short session (February 2 – March 9) that severely limits legislative bandwidth. Pre-filing and fast-tracking would be essential, and the session has likely already concluded by the time this assessment is being read.
 
 The more realistic path is introduction in the 2027 regular session (Oregon's long session runs approximately January through July). For the 2026 election cycle, the municipal ordinance track and executive action through the governor's office provide more immediate protection. Oregon's vote-by-mail system mitigates some risks — there are no traditional polling places where voters could be confronted — but ballot drop-off locations, county election offices, and ballot counting centers remain vulnerable to federal agent deployment. Portland, Eugene, Salem, and Corvallis provide coalition support with existing sanctuary-type policies.
@@ -253,40 +251,3 @@ The more realistic path is introduction in the 2027 regular session (Oregon's lo
 |---|---|---|---|
 | Senate | Rules | Verify current chair | In short session, Rules often handles expedited legislation |
 | House | Rules | Verify current chair | In short session, Rules often handles expedited legislation |
-
-## Conclusion: Strategic path forward
-
-Oregon's legal framework is uniquely favorable for a municipal election protection ordinance. The combination of **strong constitutional home rule**, **nation-leading sanctuary law precedent**, **presumption against state preemption**, and **anti-commandeering doctrine protection** creates a solid foundation. Portland's October 2025 Protect Portland Initiative demonstrates that progressive councils will pass such ordinances.
-
-The recommended approach: Begin with **Portland** (proven infrastructure, recent precedent, 12-member progressive council), then pursue **Bend** and **Corvallis** (demonstrated progressive shifts, RCV/grassroots infrastructure). Coordinate through the existing **Oregonians Together coalition** with ACLU Oregon, LWVOR, Common Cause Oregon, and Western States Center as lead partners.
-
-The ordinance should mirror ORS 181A.820's structure: "No law enforcement agency of [City] shall use agency moneys, equipment, or personnel for the purpose of [assisting armed federal personnel within X feet of polling places during election periods]," with narrow exceptions for responding to genuine criminal activity or emergencies, and reporting requirements for any federal requests.
-
----
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Oregon Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Oregon-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/OR_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Ashland** — ~21,000](../flyers/city/OR_ashland.html){:target="_blank" .md-button}
-[:material-file-download: **Bend** — ~107,000](../flyers/city/OR_bend.html){:target="_blank" .md-button}
-[:material-file-download: **Corvallis** — ~60,000](../flyers/city/OR_corvallis.html){:target="_blank" .md-button}
-[:material-file-download: **Eugene** — ~179,000](../flyers/city/OR_eugene.html){:target="_blank" .md-button}
-[:material-file-download: **Portland** — ~636,000](../flyers/city/OR_portland.html){:target="_blank" .md-button}
-[:material-file-download: **Salem** — ~180,000](../flyers/city/OR_salem.html){:target="_blank" .md-button}
-

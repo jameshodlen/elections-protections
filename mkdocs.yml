@@ -7,6 +7,9 @@ site_author: Election Integrity Project
 docs_dir: docs
 site_dir: site
 
+exclude_docs: |
+  flyers/README.md
+
 theme:
   name: material
   palette:
@@ -89,29 +92,27 @@ markdown_extensions:
 nav:
   - Home: index.md
   - How to Use This Guide: how-to-use.md
-  - Voter & Activist Guide:
+  - Polling Place Law — Overview:
       - Overview: voter-guide/index.md
-      - What Is Happening: voter-guide/whats-happening.md
-      - Your Rights at the Polls: voter-guide/your-rights.md
-      - The Law in Plain English: voter-guide/the-law-explained.md
-      - Push Your City to Act: voter-guide/push-your-city-to-act.md
-      - Election Day Action Plan: voter-guide/election-day-action.md
-      - Talk to Your Neighbors: voter-guide/talk-to-your-neighbors.md
-  - Legal Foundation:
+      - "Factual Record: Federal Statements and Deployments": voter-guide/whats-happening.md
+      - Voter Rights Under Federal and State Law: voter-guide/your-rights.md
+      - "18 U.S.C. § 592 and Related Statutes — Plain Language Summary": voter-guide/the-law-explained.md
+      - Municipal Authority and Ordinance Frameworks: voter-guide/push-your-city-to-act.md
+      - "Election Day: Legal Rights and Reporting Procedures": voter-guide/election-day-action.md
+  - Legal Framework:
       - Overview: legal-foundation/index.md
       - Federal Governance Framework: legal-foundation/governance-framework.md
       - ICE at Polling Places — Federal Law: legal-foundation/ice-polling-places-law.md
       - Insurrection Act Analysis: legal-foundation/insurrection-act-analysis.md
       - The Supremacy Clause: legal-foundation/supremacy-clause.md
       - Ballot Security Injunction History: legal-foundation/ballot-security-history.md
-      - 50-State Viability Analysis: legal-foundation/50-state-overview.md
+      - 50-State Home Rule and Preemption Analysis: legal-foundation/50-state-overview.md
       - Evidence Collection Framework: legal-foundation/evidence-framework.md
-      - Master Ordinance Template: legal-foundation/master-ordinance-template.md
-      - Master State Bill Template: legal-foundation/master-state-bill-template.md
-  - Flyer Resources: flyer-resources.md
-  - State Guides:
+      - Model Municipal Ordinance — Annotated Template: legal-foundation/master-ordinance-template.md
+      - Model State Legislation — Annotated Template: legal-foundation/master-state-bill-template.md
+  - State Legal Profiles:
       - State Guide Overview: state-guides/index.md
-      - "Tier 1 — Strong Viability":
+      - "Tier 1 — Strong Home Rule Authority":
           - Alaska: state-guides/alaska.md
           - California: state-guides/california.md
           - Colorado: state-guides/colorado.md
@@ -128,7 +129,7 @@ nav:
           - Oregon: state-guides/oregon.md
           - Rhode Island: state-guides/rhode-island.md
           - Washington: state-guides/washington.md
-      - "Tier 2 — Proceed with Caution":
+      - "Tier 2 — Limited or Conditional Home Rule":
           - Connecticut: state-guides/connecticut.md
           - Delaware: state-guides/delaware.md
           - Hawaii: state-guides/hawaii.md
@@ -140,7 +141,7 @@ nav:
           - Pennsylvania: state-guides/pennsylvania.md
           - Vermont: state-guides/vermont.md
           - Wisconsin: state-guides/wisconsin.md
-      - "Tier 3 — Significant Barriers":
+      - "Tier 3 — Dillon's Rule or Preemption Constraints":
           - Alabama: state-guides/alabama.md
           - Arizona: state-guides/arizona.md
           - Arkansas: state-guides/arkansas.md

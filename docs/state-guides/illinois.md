@@ -1,33 +1,33 @@
 ---
 title: Illinois — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political roadmap for Illinois election protection ordinances under Article VII Section 6 home rule (224 municipalities), covering the Illinois TRUST Act, express preemption doctrine, and target city analysis for Chicago, Evanston, and Oak Park.
+ Legal and political roadmap for Illinois election protection ordinances under Article VII Section 6 home rule (224 municipalities), covering the Illinois TRUST Act, express preemption doctrine, and city with home rule authority analysis for Chicago, Evanston, and Oak Park.
 tags:
-  - tier-green
-  - illinois
-  - home-rule
-  - chicago
-  - trust-act
-  - express-preemption
+ - tier-1
+ - illinois
+ - home-rule
+ - chicago
+ - trust-act
+ - express-preemption
 ---
 
 # Illinois election protection ordinance: A legal and political roadmap
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Illinois offers an exceptionally favorable landscape for municipal election protection ordinances based on 18 U.S.C. § 592. The state's robust home rule framework under **Article VII, Section 6** of the Illinois Constitution, combined with established sanctuary law precedents (TRUST Act and Way Forward Act) and a landmark July 2025 federal court victory upholding non-cooperation policies, creates a strong legal foundation. Chicago, Evanston, and Oak Park emerge as tier-one targets, each with progressive governing bodies and demonstrated willingness to pioneer civil liberties ordinances. The Just Democracy Illinois coalition—led by Chicago Lawyers' Committee for Civil Rights, ICIRR, and Common Cause—provides ready infrastructure for campaign support.
+Illinois offers an substantial landscape for municipal election protection ordinances based on 18 U.S.C. § 592. The state's robust home rule framework under **Article VII, Section 6** of the Illinois Constitution, combined with established sanctuary law precedents (TRUST Act and Way Forward Act) and a landmark July 2025 federal court victory upholding non-cooperation policies, creates a strong legal foundation. Chicago, Evanston, and Oak Park emerge as tier-one targets, each with progressive governing bodies and demonstrated willingness to pioneer civil liberties ordinances. The Just Democracy Illinois coalition—led by Chicago Lawyers' Committee for Civil Rights, ICIRR, and Common Cause—provides ready infrastructure for campaign support.
 
 !!! info "March 2026 Update — State Legislative Activity"
-    Illinois lawmakers have introduced a **resolution urging federal agencies not to conduct immigration enforcement near polling places.** A resolution is non-binding — it sends a message but does not create penalties. Illinois's Democratic trifecta and strong home rule framework make it a strong candidate for upgrading from a non-binding resolution to binding legislation using the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
+ Illinois lawmakers have introduced a **resolution urging federal agencies not to conduct immigration enforcement near polling places.** A resolution is non-binding — it sends a message but does not create penalties. Illinois's Democratic trifecta and strong home rule framework make it a strong candidate for upgrading from a non-binding resolution to binding legislation using the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
 
-    **Two-track strategy:** Push for binding state legislation (Path B) to replace or supplement the non-binding resolution, while advancing municipal ordinances in target cities (Path A). Chicago and other home rule cities can act immediately under existing authority.
+ **Two-track strategy:** Push for binding state legislation (Path B) to replace or supplement the non-binding resolution, while advancing municipal ordinances in cities with home rule authority (Path A). Chicago and other home rule cities can act immediately under existing authority.
 
 ---
 
@@ -134,7 +134,7 @@ This structure means municipalities control their police forces but county elect
 
 ---
 
-## Section 3: Top three target cities for ordinance campaign
+## Section 3: Cities with Home Rule Authority
 
 ### Chicago: Tier-one priority with unmatched infrastructure
 
@@ -189,7 +189,7 @@ This structure means municipalities control their police forces but county elect
 
 ---
 
-## Section 4: Coalition partners and organizational infrastructure
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Lead legal capacity: Chicago Lawyers' Committee for Civil Rights
 
@@ -263,7 +263,7 @@ Illinois is the **only state in the Midwest batch using a Board of Elections mod
 
 The Illinois Election Code (10 ILCS 5/) governs all election procedures. Virtually all counties use hand-marked paper ballots with optical scan tabulators; **DRE systems are no longer in use.** Cook County's upgraded touchscreen ballot marking devices still produce paper records. A **5% random post-election retabulation** is required under 10 ILCS 5/24B-15.
 
-Illinois's **exceptionally strong home rule framework** under Article VII, Section 6 of the 1970 Constitution is the most favorable in the Midwest for municipal ordinance strategies. **224 home rule municipalities** automatically qualify (population over 25,000) and may "exercise any power and perform any function pertaining to its government and affairs," with powers construed liberally. Cook County is the only home rule county. The preemption mechanism requires affirmative legislative action: Section 6(g) requires a three-fifths vote to deny or limit home rule powers; Section 6(h) requires specific legislative declaration for exclusive state exercise. This creates a strong presumption favoring local authority.
+Illinois's ** strong home rule framework** under Article VII, Section 6 of the 1970 Constitution is the most favorable in the Midwest for municipal ordinance strategies. **224 home rule municipalities** automatically qualify (population over 25,000) and may "exercise any power and perform any function pertaining to its government and affairs," with powers construed liberally. Cook County is the only home rule county. The preemption mechanism requires affirmative legislative action: Section 6(g) requires a three-fifths vote to deny or limit home rule powers; Section 6(h) requires specific legislative declaration for exclusive state exercise. This creates a strong presumption favoring local authority.
 
 **Key case law:** *Kanellos v. County of Cook* (1972) established that the 1970 Constitution "was designed to drastically alter the relationship which previously existed between local and state government." *Kalodimos v. Village of Morton Grove* (1984) upheld a complete municipal handgun ban. *Scadron v. City of Des Plaines* (1992) established the "specifically limited" standard for preemption.
 
@@ -308,8 +308,7 @@ The risk of hostile preemptive legislation is **near zero**. Republicans would n
 | AG Election Protection (Central/South) | 1-866-559-6812 |
 | DoIT / Cyber Navigator | (217) 524-3648; James.L.Patterson@illinois.gov |
 | IEMA | (217) 782-2700 |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -339,8 +338,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template fills the explicit gap in Illinois law — no current statute prohibits firearms at polling places. The template creates an election-specific firearms restriction covering all polling locations regardless of venue type.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Illinois's Democratic trifecta, year-round session, and Governor Pritzker's demonstrated support for both election protection and sanctuary measures create favorable conditions for comprehensive state legislation. The existing non-binding resolution signals legislative awareness of the issue. The strategic opportunity is to convert the resolution into binding legislation using the Master State Bill Template framework.
 
 The most compelling argument for Illinois action is the explicit polling place firearms gap. With HB 5178 having failed to pass, the template's Article 6 addresses a documented vulnerability that leaves private polling venues (churches, community centers, union halls) unprotected. Pairing the firearms gap with the federal personnel prohibition creates a comprehensive package that builds on the TRUST Act precedent. Chicago, Cook County, and the collar counties provide a natural coalition with existing sanctuary ordinances and demonstrated electoral support for gun safety measures.
@@ -352,42 +350,3 @@ The most compelling argument for Illinois action is the explicit polling place f
 | Senate | Elections | Verify current chair | Primary jurisdiction over election law |
 | House | Elections & Campaign Finance | Verify current chair | Primary jurisdiction over election law |
 | Senate | Judiciary | Verify current chair | Criminal provisions in Articles 2–3 |
-
-## Conclusion: A strategic pathway forward
-
-Illinois presents an unusually favorable legal and political environment for election protection ordinances. The combination of constitutional home rule authority, express preemption doctrine favoring local action, established sanctuary law precedents, and fresh judicial validation creates a strong foundation. Three strategic insights emerge:
-
-**The legal argument is strongest when framed around police cooperation, not election administration.** An ordinance directing municipal police not to assist armed federal personnel near polling places—rather than regulating polling place conduct—avoids the express preemption in 10 ILCS 5/17-29(c) while leveraging the TRUST Act framework that survived federal challenge.
-
-**Chicago's Progressive Caucus offers the most efficient pathway to a high-impact ordinance.** Nineteen alderpersons already aligned on civil liberties issues means a majority coalition of 26 is achievable. The city's experience defending the Welcoming City Ordinance through federal litigation provides institutional confidence and legal expertise.
-
-**Evanston and Oak Park offer opportunities for pioneering models.** Both have smaller governing bodies where majorities are easier to build, demonstrated willingness to be first-movers on progressive policy, and recent actions (Oak Park's Flock Safety cancellation) showing readiness for concrete civil liberties measures.
-
-The Just Democracy Illinois coalition provides existing infrastructure for coordinated advocacy, with Chicago Lawyers' Committee offering litigation support and ICIRR contributing grassroots organizing capacity. An organized campaign leveraging these resources, targeting the identified municipalities, and framing the ordinance within the established sanctuary law framework has strong prospects for success.
-
----
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Illinois Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Illinois-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/IL_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Chicago** — ~2,720,000](../flyers/city/IL_chicago.html){:target="_blank" .md-button}
-[:material-file-download: **Evanston** — ~76,000](../flyers/city/IL_evanston.html){:target="_blank" .md-button}
-[:material-file-download: **Oak Park** — ~52,000](../flyers/city/IL_oak-park.html){:target="_blank" .md-button}
-[:material-file-download: **Urbana** — ~42,000](../flyers/city/IL_urbana.html){:target="_blank" .md-button}
-

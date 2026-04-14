@@ -1,27 +1,27 @@
 ---
 title: "Missouri — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Missouri municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Missouri municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - missouri
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - missouri
+ - election-security
+ - 18-usc-592
 ---
 
 # Missouri Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Missouri presents the strongest opportunity within the Plains and Mountain West batch for municipal ordinance strategies enforcing 18 U.S.C. § 592. It is the only state in the region with an existing statutory polling place firearms restriction, the nation's oldest home rule tradition (dating to 1875), and a narrow but real municipal exception for regulating open carry. The combination of progressive urban centers (St. Louis, Kansas City, Columbia), robust coalition infrastructure centered on the Missouri Voter Protection Coalition, and the instructive SAPA litigation precedent create a viable — if legally contested — pathway for municipal action.
+Missouri presents the strongest opportunity within the Plains and Mountain West batch for municipal ordinance strategies enforcing 18 U.S.C. § 592. It is the only state in the region with an existing statutory polling place firearms restriction, the nation's oldest home rule tradition (dating to 1875), and a narrow but real municipal exception for regulating open carry. The combination of progressive urban centers (St. Louis, Kansas City, Columbia), robust relevant organizations centered on the Missouri Voter Protection Coalition, and the instructive SAPA litigation precedent create a viable — if legally contested — pathway for municipal action.
 
 ---
 
@@ -29,7 +29,7 @@ Missouri presents the strongest opportunity within the Plains and Mountain West 
 
 ### Home Rule Authority
 
-Missouri's home rule tradition dates to 1875 — among the oldest in the nation. **Mo. Const. Art. VI, Section 19(a)** provides charter cities with "all powers which the general assembly of the state of Missouri has authority to confer upon any city, provided such powers are consistent with the constitution of this state and are not limited or denied either by the charter so adopted or by statute." This is an exceptionally broad grant. Any city with **5,000+ population** may adopt a charter under Mo. Rev. Stat. Section 82.020. Approximately **32+ home rule charter cities** exist, including St. Louis, Kansas City, Springfield, Columbia, Independence, and St. Joseph. However, Missouri courts have applied Dillon's Rule even to home rule cities, construing powers narrowly when in doubt.
+Missouri's home rule tradition dates to 1875 — among the oldest in the nation. **Mo. Const. Art. VI, Section 19(a)** provides charter cities with "all powers which the general assembly of the state of Missouri has authority to confer upon any city, provided such powers are consistent with the constitution of this state and are not limited or denied either by the charter so adopted or by statute." This is an broad grant. Any city with **5,000+ population** may adopt a charter under Mo. Rev. Stat. Section 82.020. Approximately **32+ home rule charter cities** exist, including St. Louis, Kansas City, Springfield, Columbia, Independence, and St. Joseph. However, Missouri courts have applied Dillon's Rule even to home rule cities, construing powers narrowly when in doubt.
 
 **St. Louis City** holds unique status as an **independent city** since 1876 — not part of any county, one of only three independent cities in the United States outside Virginia. St. Louis operates as both a city and county-equivalent entity, performing circuit court functions, election administration, and revenue collection. Its Board of Aldermen (14 aldermen plus president) serves as the legislative body. This dual authority gives St. Louis broader regulatory scope and fewer jurisdictional overlaps.
 
@@ -79,11 +79,11 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### St. Louis City — Population ~301,578 — Passage Probability: HIGH
 
-Mayor Tishaura Jones (Democrat, progressive) leads an overwhelmingly Democratic Board of Aldermen. St. Louis attempted a minimum wage increase in 2015 (preempted), and Jones joined Kansas City Mayor Lucas in opposing SAPA. As an independent city-county, St. Louis exercises both municipal and county authority with no county government overlap. The Board of Election Commissioners is governor-appointed (not city-controlled), but the ordinance targets city *resources* rather than election administration. **St. Louis is the optimal first target in Missouri.**
+Mayor Tishaura Jones (Democrat, progressive) leads an overwhelmingly Democratic Board of Aldermen. St. Louis attempted a minimum wage increase in 2015 (preempted), and Jones joined Kansas City Mayor Lucas in opposing SAPA. As an independent city-county, St. Louis exercises both municipal and county authority with no county government overlap. The Board of Election Commissioners is governor-appointed (not city-controlled), but the ordinance targets city *resources* rather than election administration. **St. Louis is the home rule city analyzed in Missouri.**
 
 ### Kansas City, MO — Population ~508,090 — Passage Probability: MEDIUM-HIGH
 
@@ -99,7 +99,7 @@ Charter county with Democratic County Executive Sam Page. Combined with St. Loui
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **Missouri Voter Protection Coalition (MOVPC)** — Director and General Counsel Denise Lieberman, Washington University Law faculty. Nonpartisan statewide voter advocacy network; leads every major voting rights lawsuit; coordinates statewide Election Protection with ACLU, Lawyers' Committee, and Demos.
 
@@ -157,8 +157,7 @@ Missouri lacks a specific state-level private right of action for voter intimida
 - **National Guard Cyber Team**: mocyber.io; Jefferson Barracks, south St. Louis County
 - **Local Election Authorities Directory**: www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -185,8 +184,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap. HB 726/SB 74 would partially address this but the template provides a more comprehensive solution.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Missouri's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Kansas City, St. Louis, Columbia, and Springfield as targets. HB 726/SB 74's pending expansion of the open carry prohibition at polling places shows some legislative awareness of the firearms gap. Article I, Section 25's "free and open" language supports the constitutional argument. The state bill serves as a messaging vehicle.
 
 ### Target Committees
@@ -195,27 +193,3 @@ Missouri's Republican trifecta makes passage impossible. The municipal ordinance
 |---|---|---|---|
 | Senate | Local Government, Elections, and Pensions | Verify current chair | Jurisdiction over election law |
 | House | Elections and Elected Officials | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Missouri Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Missouri-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MO_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Columbia, MO** — ~129,000](../flyers/city/MO_columbia-mo.html){:target="_blank" .md-button}
-[:material-file-download: **Kansas City, MO** — ~508,000](../flyers/city/MO_kansas-city-mo.html){:target="_blank" .md-button}
-[:material-file-download: **St. Louis City** — ~281,000](../flyers/city/MO_st-louis-city.html){:target="_blank" .md-button}
-[:material-file-download: **St. Louis County** — ~987,000](../flyers/city/MO_st-louis-county.html){:target="_blank" .md-button}
-

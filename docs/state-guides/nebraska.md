@@ -1,21 +1,21 @@
 ---
 title: "Nebraska — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Nebraska municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Nebraska municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - nebraska
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - nebraska
+ - election-security
+ - 18-usc-592
 ---
 
 # Nebraska Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -80,7 +80,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Omaha -- Population ~486,000 -- Passage Probability: MEDIUM
 
@@ -94,7 +94,7 @@ Other potential targets (Bellevue, Grand Island, Kearney) are first-class cities
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **ACLU of Nebraska** (Lincoln/Omaha; Legal and Policy Counsel Jane Seu, Policy Fellow Jason Witmer) — Lead voting rights organization; successfully litigated felony voting rights case before Nebraska Supreme Court; primary legal capacity for the campaign.
 
@@ -155,8 +155,7 @@ A **council ordinance** is strongly preferred — a charter amendment requires a
 - **OCIO/SISO**: Patrick Wright, (402) 473-3677, siso@nebraska.gov
 - **NEMA**: nema.nebraska.gov
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -186,8 +185,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap at polling places that § 28-1202.01(3) leaves unaddressed.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Nebraska's Republican-controlled unicameral and Governor Pillen's aggressive federal cooperation posture (EO 25-01) make passage of the Master State Bill Template impossible in the current session. The EO specifically mandates the opposite of what the template would require — full cooperation rather than non-cooperation with federal enforcement.
 
 The municipal ordinance track described in Sections 1–5 is the primary strategy, though Nebraska's 2023 statewide firearms preemption (LB 77) constrains local action. Omaha and Lincoln are the most viable municipal targets. The state bill serves as a messaging vehicle, and Nebraska's Article I, Section 22 ("All elections shall be free; and there shall be no hindrance or impediment") provides constitutional language that directly supports the template's premise. Introduction by urban senators in the nonpartisan unicameral creates a public record of statutory gaps.
@@ -198,25 +196,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Unicameral | Government, Military and Veterans Affairs | Verify current chair | Primary jurisdiction over election law |
 | Unicameral | Judiciary | Verify current chair | Criminal provisions review |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Nebraska Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Nebraska-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NE_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Lincoln** — ~290,000](../flyers/city/NE_lincoln.html){:target="_blank" .md-button}
-[:material-file-download: **Omaha** — ~490,000](../flyers/city/NE_omaha.html){:target="_blank" .md-button}
-

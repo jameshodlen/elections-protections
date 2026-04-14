@@ -1,27 +1,27 @@
 ---
 title: Maryland — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political implementation guide for Maryland election protection ordinances, covering the three-article home rule framework, Election Law § 16-903 (100-foot firearms ban), and target analysis for Baltimore City, Montgomery County, and Howard County.
+ Legal and political implementation guide for Maryland election protection ordinances, covering the three-article home rule framework, Election Law § 16-903 (100-foot firearms ban), and target analysis for Baltimore City, Montgomery County, and Howard County.
 tags:
-  - tier-green
-  - maryland
-  - home-rule
-  - baltimore
-  - montgomery-county
+ - tier-1
+ - maryland
+ - home-rule
+ - baltimore
+ - montgomery-county
 ---
 
 # Maryland Election Protection Ordinance: Legal and Political Implementation Guide
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Maryland offers a **favorable but legally nuanced environment** for municipal election protection ordinances modeled on Madison, Wisconsin's approach to enforcing 18 U.S.C. § 592. The state's robust home rule framework, absence of anti-sanctuary laws, and concentration of progressive charter jurisdictions create viable pathways—though Maryland's comprehensive Election Law Article presents **moderate-to-high preemption risk** that requires careful ordinance drafting. Baltimore City, Montgomery County, and Howard County emerge as optimal launch jurisdictions, supported by an established coalition infrastructure centered on ACLU of Maryland and Common Cause Maryland.
+Maryland offers a **favorable but legally nuanced environment** for municipal election protection ordinances modeled on Madison, Wisconsin's approach to enforcing 18 U.S.C. § 592. The state's robust home rule framework, absence of anti-sanctuary laws, and concentration of progressive charter jurisdictions create viable pathways—though Maryland's comprehensive Election Law Article presents **moderate-to-high preemption risk** that requires careful ordinance drafting. Baltimore City, Montgomery County, and Howard County emerge as applicable launch jurisdictions, supported by an established relevant organizations centered on ACLU of Maryland and Common Cause Maryland.
 
 ---
 
@@ -99,11 +99,11 @@ Most significantly for ordinance implementation, Montgomery County has an existi
 
 ---
 
-## Section 4: Coalition infrastructure provides organizing foundation
+## Section 4: Relevant Legal and Civic Organizations
 
 Maryland's election protection and civil liberties ecosystem includes established organizations with relevant experience and existing collaborative relationships that can be leveraged for ordinance campaigns.
 
-**ACLU of Maryland** serves as the anchor coalition partner with extensive election protection infrastructure and legal capacity. Executive Director Dana Vickers Shelley leads the organization from headquarters at **3600 Clipper Mill Road, Suite 200, Baltimore, MD 21211** (main phone: 410-889-8555). **Amy Cruice, Legal Program Manager and Election Protection Director**, manages the statewide election protection program including a dedicated hotline (667-219-2625) and can be reached at cruice@aclu-md.org or 667-219-2593. Public Policy Director Yanet Amanuel and Senior Staff Attorney David Rocah bring relevant expertise on federal overreach and civil liberties challenges. The ACLU-MD has experience challenging federal agencies on voter data and has worked on municipal police accountability ordinances through the Maryland Police Accountability Act of 2021.
+**ACLU of Maryland** serves as the anchor organization with extensive election protection infrastructure and legal capacity. Executive Director Dana Vickers Shelley leads the organization from headquarters at **3600 Clipper Mill Road, Suite 200, Baltimore, MD 21211** (main phone: 410-889-8555). **Amy Cruice, Legal Program Manager and Election Protection Director**, manages the statewide election protection program including a dedicated hotline (667-219-2625) and can be reached at cruice@aclu-md.org or 667-219-2593. Public Policy Director Yanet Amanuel and Senior Staff Attorney David Rocah bring relevant expertise on federal overreach and civil liberties challenges. The ACLU-MD has experience challenging federal agencies on voter data and has worked on municipal police accountability ordinances through the Maryland Police Accountability Act of 2021.
 
 **Common Cause Maryland** brings democracy reform specialization and municipal policy experience. Executive Director **Joanne Antoine** operates from **121 Cathedral Street, Suite 2A, Annapolis, MD 21401** (phone: 443-906-0442, email: jantoine@commoncause.org). Policy and Engagement Manager Morgan Drayton (mdrayton@commoncause.org, 410-245-3532) handles local-level campaigns. The organization leads Maryland's 866-OUR-VOTE Election Protection hotline and lists the Maryland Voting Rights Act among 2025 priorities. With 32,000+ supporters statewide and founding in 1974, Common Cause Maryland has deep institutional relationships across jurisdictions.
 
@@ -170,8 +170,7 @@ Maryland employs a bipartisan State Board of Elections (Chair Michael Summers) w
 - **AG Election Protection:** (443) 961-2830 / (833) 282-0960 / electionswork@oag.state.md.us
 - **DoIT/CISO:** doit.maryland.gov
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -200,9 +199,8 @@ Maryland's existing framework already covers firearms at polling places and prov
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the TRUST Act's non-cooperation framework.
 - **Article 9 — Expedited judicial review**: Maryland lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
-Maryland is exceptionally well-positioned for state legislation. The Democratic trifecta, Governor Moore's decisive action on the TRUST Act (signed as emergency legislation), the 2023 Gun Safety Act (upheld January 2026), and the absence of a state constitutional RKBA provision create an optimal legislative environment. The session window through April 13 is tight but the TRUST Act precedent demonstrates the legislature can move quickly on emergency election-related measures.
+### Legislative Process Considerations
+Maryland is well-positioned for state legislation. The Democratic trifecta, Governor Moore's decisive action on the TRUST Act (signed as emergency legislation), the 2023 Gun Safety Act (upheld January 2026), and the absence of a state constitutional RKBA provision create an applicable legislative environment. The session window through April 13 is tight but the TRUST Act precedent demonstrates the legislature can move quickly on emergency election-related measures.
 
 The most compelling framing for Maryland is completing the TRUST Act framework: if Maryland bars 287(g) agreements generally, it should specifically address the scenario of armed federal agents appearing at polling places during elections. The bill could be positioned as the TRUST Act's election-specific companion. The existing private right of action (§ 16-201(c)) provides a statutory hook for the template's enhanced civil enforcement provisions. Baltimore, Montgomery County, Prince George's County, and the Baltimore suburbs provide a strong coalition base with existing local trust act ordinances.
 
@@ -212,37 +210,3 @@ The most compelling framing for Maryland is completing the TRUST Act framework: 
 |---|---|---|---|
 | Senate | Education, Energy, and the Environment | Verify current chair | Jurisdiction over election law |
 | House | Ways and Means | Verify current chair | Primary jurisdiction over election law in Maryland House |
-
-## Conclusion: Strategic pathway forward
-
-Maryland presents viable terrain for municipal election protection ordinances despite meaningful legal complexities. The combination of constitutional home rule, absence of anti-sanctuary laws, progressive political control in charter jurisdictions, and established civil liberties coalition infrastructure creates favorable conditions for implementation. 
-
-The critical insight is that **federal supremacy provides the strongest legal foundation**: ordinances explicitly framed as local implementation of 18 U.S.C. § 592's prohibition on armed federal personnel at polling places invoke constitutional protection against state preemption challenges. This framing distinguishes election protection ordinances from pure state-law sanctuary policies and places them within the tradition of local-federal cooperative enforcement.
-
-Baltimore City's progressive Council leadership under Zeke Cohen, Montgomery County's existing civil liberties code framework under Chapter 27, and Howard County's demonstrated voter support for the Liberty Act offer distinct but complementary launch pathways. Coalition outreach should begin with Amy Cruice at ACLU of Maryland and Joanne Antoine at Common Cause Maryland, both organizations with election protection specialization and local ordinance campaign experience. The established Everyone Votes Maryland coalition provides immediate infrastructure for coordinated advocacy across target jurisdictions.
-
----
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Maryland Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Maryland-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MD_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Baltimore City** — ~570,000](../flyers/city/MD_baltimore-city.html){:target="_blank" .md-button}
-[:material-file-download: **Howard County** — ~334,500](../flyers/city/MD_howard-county.html){:target="_blank" .md-button}
-[:material-file-download: **Montgomery County** — ~1,062,000](../flyers/city/MD_montgomery-county.html){:target="_blank" .md-button}
-

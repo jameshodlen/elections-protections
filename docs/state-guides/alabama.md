@@ -1,21 +1,21 @@
 ---
 title: "Alabama — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Alabama municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Alabama municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - alabama
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - alabama
+ - election-security
+ - 18-usc-592
 ---
 
 # Alabama Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -75,15 +75,15 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 **No city can be rated above "Very Low" probability.** Even Birmingham — the most progressive municipality — has seen every progressive ordinance preempted.
 
-### Birmingham (Primary Target)
+### Birmingham (Analyzed City)
 
 **Population:** ~200,000. Approximately 89% Democratic, ~73% Black. Mayor Randall Woodfin (D) re-elected August 2025. The most progressive municipality with the strongest will to pass progressive ordinances. However, every progressive ordinance has been preempted, including the minimum wage ordinance (16-day turnaround). **Probability: VERY LOW.**
 
-### Montgomery (Secondary Target)
+### Montgomery (Analyzed City)
 
 **Population:** ~200,000. Mayor Steven Reed (D), first Black mayor, former probate judge with election integrity experience. Symbolic significance as the birthplace of the civil rights movement. **Probability: VERY LOW.**
 
@@ -101,9 +101,9 @@ A **non-binding resolution** in Birmingham or Montgomery is the most viable vehi
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
-### Priority Coalition Partners
+### Priority Relevant Organizations
 
 Alabama possesses **the strongest civil rights movement legacy infrastructure** of any target state, providing a coalition base despite hostile state politics:
 
@@ -208,8 +208,7 @@ The loss of CISA/EI-ISAC support is particularly damaging for Alabama's 60+ coun
 | **Attorney General Steve Marshall (R)** | (334) 242-7300 / alabamaag.gov |
 | **Alabama OIT** | oit.alabama.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -237,8 +236,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template fills the polling place firearms gap that § 13A-11-61.2 leaves unaddressed.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Alabama's Republican trifecta makes passage impossible in the current session. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Birmingham, Montgomery, Huntsville, and Mobile as the most viable targets given their home rule authority. The state bill serves as a messaging and organizing tool. Alabama's constitutional provision — while lacking the explicit "no power, civil or military" language found in some states — supports the argument through general suffrage protections.
 
 ### Target Committees
@@ -247,25 +245,3 @@ Alabama's Republican trifecta makes passage impossible in the current session. T
 |---|---|---|---|
 | Senate | Constitution, Ethics and Elections | Verify current chair | Primary jurisdiction over election law |
 | House | Constitution, Campaigns and Elections | Verify current chair | Primary jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Alabama Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Alabama-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/AL_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Birmingham** — ~196,000](../flyers/city/AL_birmingham.html){:target="_blank" .md-button}
-[:material-file-download: **Montgomery** — ~196,000](../flyers/city/AL_montgomery.html){:target="_blank" .md-button}
-

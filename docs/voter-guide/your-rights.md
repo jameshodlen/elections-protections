@@ -1,17 +1,17 @@
 ---
-title: Your Rights at the Polling Place
+title: Voter Rights Under Federal and State Law
 description: >-
-  What federal and state laws protect you as a voter, what to do if you see
-  armed federal agents at your polling place, and who to call for help.
+  Summary of federal and state statutory protections for voters at polling
+  places, and procedures for reporting suspected violations.
 tags:
   - voter-guide
   - voter-rights
   - election-protection
 ---
 
-# Your Rights at the Polling Place
+# Voter Rights Under Federal and State Law
 
-This page tells you what protections exist under federal and state law, what to do if you encounter armed agents at your polling place, and who to call. Save this page — you may need it on Election Day.
+This page summarizes the federal and state statutory protections that apply to voters at polling places, describes the procedures available if a voter encounters armed federal personnel at a polling place, and lists the organizations responsible for receiving reports of suspected violations.
 
 ---
 
@@ -49,11 +49,11 @@ Your state may offer additional protections. Check your state's guide for specif
 
 [:octicons-arrow-right-24: Find your state guide](../state-guides/index.md)
 
-The tier system tells you how much legal support your state provides:
+The state-guide tier classification reflects the available municipal authority in each state:
 
-- **Tier 1 (Green):** Strong home rule authority and no anti-sanctuary preemption — clearest path for city action
-- **Tier 2 (Yellow):** Viable pathways but with legal or political obstacles
-- **Tier 3 (Red):** Significant barriers, including anti-sanctuary laws with penalties for local officials
+- **Tier 1 — Strong Home Rule Authority:** Broad constitutional or charter home rule and no state preemption of local regulation of law-enforcement presence at polling places.
+- **Tier 2 — Limited or Conditional Home Rule:** Home rule authority is conditional, statutory, or subject to specific procedural requirements.
+- **Tier 3 — Dillon's Rule or Preemption Constraints:** State follows Dillon's Rule strictly or has enacted anti-sanctuary or related preemption statutes.
 
 ---
 
@@ -136,5 +136,5 @@ These pages provide the full legal analysis behind the protections described abo
 |---|---|
 | [ICE at Polling Places — Federal Law](../legal-foundation/ice-polling-places-law.md) | Full statutory text, case law, and application of § 592 and VRA § 11(b) to ICE agents |
 | [Ballot Security Injunction History](../legal-foundation/ballot-security-history.md) | The 36-year DNC v. RNC consent decree and modern voter intimidation cases |
-| [Master Ordinance Template](../legal-foundation/master-ordinance-template.md) | The model municipal ordinance with 14 sections covering resource allocation, voter data, and more |
-| [Your State Guide](../state-guides/index.md) | State-specific laws, contacts, and coalition directories |
+| [Model Municipal Ordinance — Annotated Template](../legal-foundation/master-ordinance-template.md) | The model municipal ordinance with 14 sections covering resource allocation, voter data, and related matters |
+| [State Legal Profiles](../state-guides/index.md) | State-specific statutes, organizations, and legal analysis |

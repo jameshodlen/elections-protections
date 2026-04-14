@@ -1,21 +1,21 @@
 ---
 title: "Wyoming — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Wyoming municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Wyoming municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - wyoming
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - wyoming
+ - election-security
+ - 18-usc-592
 ---
 
 # Wyoming Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">1</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">1</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -68,7 +68,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Political Lean | Key Assets | Rating |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 Coalition infrastructure in Wyoming is negligible. The **ACLU of Wyoming** is a tri-state chapter (WY/ND/SD) with limited standalone capacity, and no significant voting rights organizations exist in the state.
 
@@ -127,8 +127,7 @@ Wyoming is **the only state in this batch where voter intimidation is exclusivel
 - **Wyoming Office of Homeland Security**: hls.wyo.gov
 - **Election Protection Hotline**: 866-OUR-VOTE (866-687-8683)
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -157,8 +156,7 @@ Wyoming's felony-level voter intimidation and quasi-private right of action are 
 - **Article 6 — Firearms at election sites**: HB 172's gun-free zone repeal and § 6-8-401 preemption make this the most challenging provision. The template creates election-specific restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Wyoming's Republican trifecta, comprehensive firearms preemption (§ 6-8-401), and HB 172's gun-free zone repeal create one of the most hostile environments for election protection legislation. The municipal ordinance track faces severe preemption constraints. Jackson, Laramie, and Cheyenne are the only viable municipal targets. Wyoming's Article 6, Section 27 — using the word "untrammeled," which means completely free from obstruction — provides the strongest possible constitutional language for the argument. The state bill serves as a constitutional messaging vehicle.
 
 ### Target Committees
@@ -167,24 +165,3 @@ Wyoming's Republican trifecta, comprehensive firearms preemption (§ 6-8-401), a
 |---|---|---|---|
 | Senate | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
 | House | Corporations, Elections & Political Subdivisions | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Wyoming Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Wyoming-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WY_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Jackson/Teton County** — ~10,700 (town) / ~23,400 (county)](../flyers/city/WY_jackson-teton-county.html){:target="_blank" .md-button}
-

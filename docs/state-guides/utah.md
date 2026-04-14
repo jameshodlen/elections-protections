@@ -1,21 +1,21 @@
 ---
 title: "Utah — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Utah municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Utah municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - utah
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - utah
+ - election-security
+ - 18-usc-592
 ---
 
 # Utah Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -76,7 +76,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Salt Lake City (Primary — Likely Only Viable Target)
 
@@ -84,7 +84,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 Salt Lake City's extreme demographic divergence from the rest of the state makes it uniquely positioned but also uniquely vulnerable to legislative retaliation.
 
-### Park City (Secondary Target)
+### Park City (Analyzed City)
 
 **Population:** ~8,400. Council-manager government, highly educated population (67.79% bachelor's degree or higher), Summit County's progressive lean. Symbolic value but limited practical scale.
 
@@ -98,7 +98,7 @@ City population ~5,300. Symbolically valuable but practically limited by small p
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -195,8 +195,7 @@ Utah's original HAVA equipment grant was **$21.5 million federal + $10 million s
 | **Utah Cyber Center** | cybercenter.utah.gov |
 | **Division of Emergency Management** | 801-538-3400 / dem.utah.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -223,8 +222,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Utah's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Salt Lake City, Park City, and Moab as targets. Utah's Article I, Section 17 ("no power, civil or military, shall at any time interfere") provides the strongest possible conservative constitutional argument — the state's own constitution already prohibits exactly what the template addresses. This framing may find traction with constitutionalist legislators even in a hostile environment. The state bill serves as a constitutional messaging vehicle.
 
 ### Target Committees
@@ -233,27 +231,3 @@ Utah's Republican trifecta makes passage impossible. The municipal ordinance tra
 |---|---|---|---|
 | Senate | Government Operations and Political Subdivisions | Verify current chair | Jurisdiction over election law |
 | House | Government Operations | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Utah Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Utah-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/UT_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Moab** — ~5,200](../flyers/city/UT_moab.html){:target="_blank" .md-button}
-[:material-file-download: **Park City** — ~8,400](../flyers/city/UT_park-city.html){:target="_blank" .md-button}
-[:material-file-download: **Salt Lake City** — ~220,000](../flyers/city/UT_salt-lake-city.html){:target="_blank" .md-button}
-[:material-file-download: **Salt Lake County** — ~1.2M](../flyers/city/UT_salt-lake-county.html){:target="_blank" .md-button}
-

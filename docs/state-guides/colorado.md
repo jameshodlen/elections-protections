@@ -1,28 +1,28 @@
 ---
 title: Colorado — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political analysis of Colorado's strongly favorable landscape for municipal election protection ordinances, covering the 2021 repeal of firearms preemption (SB 21-256), the Vote Without Fear Act (HB22-1086), and target city analysis for Boulder, Denver, and Aurora.
+ Legal and political analysis of Colorado's strongly favorable landscape for municipal election protection ordinances, covering the 2021 repeal of firearms preemption (SB 21-256), the Vote Without Fear Act (HB22-1086), and city with home rule authority analysis for Boulder, Denver, and Aurora.
 tags:
-  - tier-green
-  - colorado
-  - home-rule
-  - boulder
-  - denver
-  - vote-without-fear-act
+ - tier-1
+ - colorado
+ - home-rule
+ - boulder
+ - denver
+ - vote-without-fear-act
 ---
 
 # Colorado legal landscape strongly favors municipal election protection ordinances
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-**Colorado offers exceptionally fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the optimal launch city, with Denver and the newly progressive Aurora as strong secondary targets.
+**Colorado offers fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the city with broad home rule authority, with Denver and the newly progressive Aurora as strong secondary targets.
 
 The core legal insight: Unlike most states, Colorado no longer preempts local firearms regulation, making Supremacy Clause arguments against state law largely unnecessary. Home rule municipalities possess broad authority over "local and municipal matters" under Article XX of the Colorado Constitution, and the state's existing sanctuary-style laws protecting immigrants from federal overreach provide favorable precedent for ordinances limiting local cooperation with armed federal personnel at polling places.
 
@@ -49,7 +49,7 @@ The critical distinction between home rule and statutory cities shapes any munic
 Colorado courts apply a three-category framework established in *City of Longmont v. Colorado Oil & Gas Association* (2016) for analyzing home rule authority:
 
 - **Purely local concern**: Home rule ordinances supersede state law
-- **Mixed state and local concern**: Both may coexist unless "operational conflict" exists  
+- **Mixed state and local concern**: Both may coexist unless "operational conflict" exists 
 - **Purely statewide concern**: State law preempts municipal action
 
 The courts apply a four-factor test: need for statewide uniformity, extraterritorial impact, traditional regulatory authority, and constitutional commitment. For election protection ordinances, the analysis is nuanced—election administration is clearly a state concern, but **local police powers and municipal resource allocation are traditionally local matters**.
@@ -88,7 +88,7 @@ No explicit state statute authorizes municipalities to create "election protecti
 
 ---
 
-## Section 3: Boulder leads the optimal target city ranking
+## Section 3: Cities with Home Rule Authority
 
 ### #1 Boulder offers the ideal launch environment
 
@@ -108,7 +108,7 @@ The Denver City Council has 13 members (11 districts plus 2 at-large) with overw
 
 **Governing body**: Denver City Council (13 members)
 
-### #3 Aurora's progressive flip creates optimal timing
+### #3 Aurora's progressive flip creates applicable timing
 
 Aurora's November 2025 elections flipped the council from a 7-3 conservative majority to a **6-4 progressive majority**—creating a window of opportunity. Critically, a sanctuary ordinance and immigrant defense fund were previously introduced but defeated 5-6 in 2020-21; these measures now likely have the votes to pass.
 
@@ -128,7 +128,7 @@ The new progressive councilmembers explicitly plan to establish independent civi
 
 ---
 
-## Section 4: A ready-made coalition infrastructure exists
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Colorado Common Cause leads existing election protection work
 
@@ -220,8 +220,7 @@ Colorado's sanctuary state legislation provides direct structural precedent for 
 | AG Election Protection | (720) 508-6777; coag.gov/votingadvisory/ |
 | CIAC Watch Center | (877) 509-2422; WatchCenter@state.co.us |
 | DHSEM | (720) 852-6600; dhsem.colorado.gov |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -248,8 +247,7 @@ Colorado's post-2021 framework already addresses firearms at polling places. Bas
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
 - **Article 9 — Expedited judicial review**: Colorado lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Colorado is well-positioned for state legislation given its Democratic trifecta and Governor Polis's track record of signing election protection measures (HB 22-1086, SB 24-131, SB 21-256). The 2021 preemption repeal demonstrates the legislature's willingness to act on election-adjacent firearms issues. No active bill has been identified, but the legislative window through May 13 provides time for introduction.
 
 The strongest approach would position a Colorado bill as the third state model (after New Mexico's SB 264 and California's SB 884), emphasizing the federal personnel gap that existing Colorado law does not address. Denver, Boulder, and other home rule cities provide a natural coalition base with existing local firearms ordinances that demonstrate municipal support for the framework.
@@ -268,32 +266,8 @@ Colorado's unique combination of repealed firearms preemption, robust home rule 
 
 The December 2025 *Camp v. Westminster* decision signals courts may scrutinize ordinances that create criminal penalties exceeding state law, making careful drafting essential. However, ordinances directing municipal police not to assist armed federal personnel at polling places—framed as resource allocation and local police directives—should survive preemption analysis.
 
-Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the optimal launch city. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
+Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the city with broad home rule authority. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
 
-The most significant strategic advantage is the pre-existing COVRA coalition infrastructure—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
-
----
-
+The most significant strategic advantage is the pre-existing COVRA relevant organizations—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
 
 ---
-
-## Printable Flyer
-
-!!! tip "Download the Colorado Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Colorado-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/CO_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Aurora** — ~386,000](../flyers/city/CO_aurora.html){:target="_blank" .md-button}
-[:material-file-download: **Boulder** — ~105,000](../flyers/city/CO_boulder.html){:target="_blank" .md-button}
-[:material-file-download: **Denver** — ~715,000](../flyers/city/CO_denver.html){:target="_blank" .md-button}
-

@@ -1,28 +1,28 @@
 ---
 title: Michigan — Municipal Election Protection Ordinance Guide
 description: >-
-  Strategic implementation guide for Michigan election protection ordinances under Article VII constitutional home rule, covering MCL 750.234d (2025 firearms at polls), Proposal 2 (2022), and target city analysis for East Lansing, Ann Arbor, and Ferndale.
+ Strategic implementation guide for Michigan election protection ordinances under Article VII constitutional home rule, covering MCL 750.234d (2025 firearms at polls), Proposal 2 (2022), and city with home rule authority analysis for East Lansing, Ann Arbor, and Ferndale.
 tags:
-  - tier-green
-  - michigan
-  - home-rule
-  - ann-arbor
-  - east-lansing
-  - detroit
+ - tier-1
+ - michigan
+ - home-rule
+ - ann-arbor
+ - east-lansing
+ - detroit
 ---
 
 # Michigan election protection ordinance: A strategic implementation guide
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-**Michigan's constitutional framework strongly supports municipal election protection ordinances** prohibiting city resources from assisting armed federal personnel near polling places. As a definitively home rule state with robust constitutional protections for local authority, Michigan charter cities possess broad powers to direct municipal police departments and allocate city resources—powers directly applicable to enforcing 18 U.S.C. § 592. Three cities stand out as optimal launch targets: East Lansing (currently Michigan's only municipality on the DOJ sanctuary list), Ann Arbor (designated an ACLU "Freedom City"), and Ferndale (LGBTQ civil rights hub). A strong coalition infrastructure already exists through Promote the Vote Michigan's network of 40+ organizations with established election protection programming.
+**Michigan's constitutional framework strongly supports municipal election protection ordinances** prohibiting city resources from assisting armed federal personnel near polling places. As a definitively home rule state with robust constitutional protections for local authority, Michigan charter cities possess broad powers to direct municipal police departments and allocate city resources—powers directly applicable to enforcing 18 U.S.C. § 592. Three cities stand out as applicable launch targets: East Lansing (currently Michigan's only municipality on the DOJ sanctuary list), Ann Arbor (designated an ACLU "Freedom City"), and Ferndale (LGBTQ civil rights hub). A strong relevant organizations already exists through Promote the Vote Michigan's network of 40+ organizations with established election protection programming.
 
 ---
 
@@ -170,7 +170,7 @@ These reforms **centralize state oversight** of election administration while lo
 
 ## Section 3: Target cities for ordinance launch
 
-### East Lansing ranks as the optimal first target
+### East Lansing ranks as the home rule city analyzed
 
 **Governing body:** City Council (5 members—Mayor plus 4 Council members)
 - Mayor: George Brookover
@@ -220,7 +220,7 @@ Ferndale passed its Human Rights Ordinance over 15 years ago, prohibiting LGBTQ 
 
 ---
 
-## Section 4: Coalition partners
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tier 1—Established election protection infrastructure
 
@@ -308,13 +308,13 @@ Ferndale passed its Human Rights Ordinance over 15 years ago, prohibiting LGBTQ 
 
 ## Section 5: Election Security Infrastructure
 
-Michigan's election security infrastructure is anchored by exceptionally strong constitutional voter protections following Proposal 2 of 2022, which established voting as a "fundamental right" and created the nation's strongest private right of action for voter intimidation. The state's cybersecurity apparatus benefits from a dedicated Cyber Corps, the 272nd Cyber Operations Squadron (one of only 12 in the Air National Guard), and approximately $49.88 million in audited HAVA grants. Governor Whitmer's 2024 legislation banning open carry of firearms at polling places fills a critical physical security gap. The DOJ's 2025 lawsuit seeking unredacted voter file data -- which Michigan resisted -- demonstrates the state's commitment to defending election infrastructure against federal overreach.
+Michigan's election security infrastructure is anchored by strong constitutional voter protections following Proposal 2 of 2022, which established voting as a "fundamental right" and created the nation's strongest private right of action for voter intimidation. The state's cybersecurity apparatus benefits from a dedicated Cyber Corps, the 272nd Cyber Operations Squadron (one of only 12 in the Air National Guard), and approximately $49.88 million in audited HAVA grants. Governor Whitmer's 2024 legislation banning open carry of firearms at polling places fills a critical physical security gap. The DOJ's 2025 lawsuit seeking unredacted voter file data -- which Michigan resisted -- demonstrates the state's commitment to defending election infrastructure against federal overreach.
 
 ### State Election Authority & Legal Framework
 
 Secretary of State **Jocelyn Benson** serves as Michigan's chief election officer under **MCL section 168.21**, with "supervisory control over local election officials." Her specific duties under **MCL section 168.31** include promulgating rules under the Administrative Procedures Act, directing local officials, establishing training curricula, and creating an **Election Day dispute resolution team** with regional representatives. The Bureau of Elections (430 W. Allegan St., Lansing, MI 48933) is headed by a Director of Elections appointed under civil service regulations.
 
-Michigan's constitutional framework is exceptionally strong following **Proposal 2 of 2022**, which amended **Article II, section 4** to establish voting as a "fundamental right" and created a comprehensive set of self-executing protections including: no-excuse absentee voting, same-day registration, 9 days of early in-person voting, state-funded election security measures, mandatory risk-limiting audits, and ballot tracking. Critically, the amendment includes an **explicit prohibition** on "harassing, threatening, or intimidating conduct" that burdens voting rights.
+Michigan's constitutional framework is strong following **Proposal 2 of 2022**, which amended **Article II, section 4** to establish voting as a "fundamental right" and created a comprehensive set of self-executing protections including: no-excuse absentee voting, same-day registration, 9 days of early in-person voting, state-funded election security measures, mandatory risk-limiting audits, and ballot tracking. Critically, the amendment includes an **explicit prohibition** on "harassing, threatening, or intimidating conduct" that burdens voting rights.
 
 Michigan's **approximately 1,600 local clerks** (city and township) administer elections in a highly decentralized system, with 83 county clerks playing supervisory roles.
 
@@ -353,8 +353,7 @@ Michigan's **private right of action** provision (Article II, section 4(1)(a), P
 | AG Voter Intimidation Reports | 517-335-7659 |
 | DTMB Cybersecurity Grants | DTMB-CIP-SLCGP@michigan.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -382,8 +381,7 @@ Michigan's post-Proposal 2 framework already addresses several template provisio
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
 - **Article 9 — Expedited judicial review**: Michigan lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Michigan's divided government — with a Republican House majority of 58-52 — makes passage of comprehensive polling place protection legislation unlikely in the current session. While Governor Whitmer would sign and the Democratic Senate could advance a bill, the Republican House presents an insurmountable barrier for binding legislation. Whitmer is also term-limited (term ends January 2027), reducing her political leverage for controversial legislation.
 
 The municipal ordinance track described in Sections 1–5 above remains the primary strategy for Michigan. The state bill serves as a messaging vehicle and organizing tool, particularly given the strength of Michigan's post-Proposal 2 constitutional framework. The bill's introduction in the Senate builds the public record and creates campaign issue material for the November 2026 elections, when control of both chambers and the governor's office will be contested. Detroit, Ann Arbor, Grand Rapids, and Kalamazoo — all with existing sanctuary-type protections — provide a coalition base for both the municipal ordinance and state bill tracks.
@@ -395,43 +393,3 @@ The municipal ordinance track described in Sections 1–5 above remains the prim
 | Senate | Elections and Ethics | Verify current chair | Primary jurisdiction over election law |
 | House | Elections | Verify current chair | Would need to advance bill past Republican majority |
 | Senate | Judiciary | Verify current chair | Criminal provisions review |
-
-## Conclusion: A strategically favorable environment
-
-Michigan presents an exceptionally favorable legal environment for municipal election protection ordinances. The state's **strong home rule framework** (Article VII, Sections 22 and 34, plus MCL 117.4j) grants charter cities broad authority to direct police resources and manage municipal property—precisely the powers needed for an ordinance prohibiting assistance to armed federal personnel near polling places.
-
-The **alignment with 18 U.S.C. § 592** transforms this from a "sanctuary" ordinance into a federal law enforcement measure, providing a powerful defense against preemption challenges. Combined with the **presumption of ordinance validity** under *Detroit v. Qualls*, municipalities hold significant legal advantages.
-
-**East Lansing's existing sanctuary infrastructure** makes it the optimal launch target—the city has already demonstrated willingness to limit cooperation with federal authorities and has the legal framework in place. **Ann Arbor's extensive civil liberties history** and ACLU relationships provide strong secondary support, while **Ferndale offers a smaller-city model** with proven progressive leadership.
-
-The **coalition infrastructure already exists** through Promote the Vote Michigan's 40+ partner organizations. Rather than building from scratch, this project can leverage existing relationships between ACLU Michigan, League of Women Voters, Michigan Voices, and Detroit Action—organizations already coordinating on election protection.
-
-The primary risks center on Michigan's **evolving legislative landscape** (particularly HB 4342) and potential federal funding pressures. Drafting should emphasize the ordinance's federal law enforcement function rather than its limitation on federal authority, framing it as protecting election integrity under 18 U.S.C. § 592 rather than as a sanctuary policy.
-
-With careful drafting that leverages Michigan's constitutional provisions, targets cities with proven civil liberties commitments, and engages the existing coalition infrastructure, this ordinance has strong prospects for passage and durability.
-
----
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Michigan Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Michigan-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/MI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Ann Arbor** — ~123,000](../flyers/city/MI_ann-arbor.html){:target="_blank" .md-button}
-[:material-file-download: **East Lansing** — ~49,000](../flyers/city/MI_east-lansing.html){:target="_blank" .md-button}
-[:material-file-download: **Ferndale** — ~19,400](../flyers/city/MI_ferndale.html){:target="_blank" .md-button}
-

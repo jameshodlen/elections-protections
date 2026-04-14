@@ -1,21 +1,21 @@
 ---
 title: "Nevada — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Nevada municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Nevada municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - nevada
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - nevada
+ - election-security
+ - 18-usc-592
 ---
 
 # Nevada Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -70,7 +70,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Clark County
 
@@ -111,7 +111,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Anchor organizations
 
@@ -214,8 +214,7 @@ The AG's role as co-lead litigant creates a strong ally for municipal election p
 | **AG Aaron Ford** | ag.nv.gov |
 | **All Voting is Local NV** | Kerry Durmick / Kerry@AllVotingisLocal.org |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -244,11 +243,10 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Nevada's lack of a polling place firearms ban is the most critical gap. The template creates election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Nevada faces a double barrier: no regular legislative session in 2026 (biennial legislature) and a Republican governor who would likely veto. The next regular session convenes in 2027, by which time a new governor may be in office (Lombardo's term runs through January 2027, with the 2026 election determining his successor).
 
-The municipal ordinance track described in Sections 1–5 is the primary strategy for the 2026 election cycle. Las Vegas, Henderson, Reno, and North Las Vegas are the most viable municipal targets. Nevada's Voters' Bill of Rights (Article 2, Section 1A) — which explicitly guarantees "the right to vote without intimidation" — provides exceptionally strong constitutional support for both municipal ordinances and future state legislation. A governor's special session is theoretically possible but politically unlikely given Lombardo's posture. The 2027 regular session under a potentially new governor is the realistic target for state legislation.
+The municipal ordinance track described in Sections 1–5 is the primary strategy for the 2026 election cycle. Las Vegas, Henderson, Reno, and North Las Vegas are the most viable municipal targets. Nevada's Voters' Bill of Rights (Article 2, Section 1A) — which explicitly guarantees "the right to vote without intimidation" — provides strong constitutional support for both municipal ordinances and future state legislation. A governor's special session is theoretically possible but politically unlikely given Lombardo's posture. The 2027 regular session under a potentially new governor is the realistic target for state legislation.
 
 ### Target Committees
 
@@ -256,28 +254,3 @@ The municipal ordinance track described in Sections 1–5 is the primary strateg
 |---|---|---|---|
 | Senate | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
 | Assembly | Legislative Operations and Elections | Verify current chair | Primary jurisdiction over election law (2027 session) |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Nevada Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Nevada-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NV_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Clark County** — ~2.3M](../flyers/city/NV_clark-county.html){:target="_blank" .md-button}
-[:material-file-download: **Henderson** — ~330,000](../flyers/city/NV_henderson.html){:target="_blank" .md-button}
-[:material-file-download: **Las Vegas** — ~650,000](../flyers/city/NV_las-vegas.html){:target="_blank" .md-button}
-[:material-file-download: **Reno** — ~265,000](../flyers/city/NV_reno.html){:target="_blank" .md-button}
-[:material-file-download: **Washoe County** — ~500,000](../flyers/city/NV_washoe-county.html){:target="_blank" .md-button}
-

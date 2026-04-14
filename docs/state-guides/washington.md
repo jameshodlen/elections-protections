@@ -1,33 +1,33 @@
 ---
 title: Washington State — Municipal Election Protection Ordinance Guide
 description: >-
-  Adaptation guide for Washington State municipal election protection ordinances under Article XI hybrid home rule and the Keep Washington Working Act, covering RCW 9.41.290 firearms preemption, RCW 29A.84.510(3), and target city analysis for Seattle, Olympia, and Spokane.
+ Adaptation guide for Washington State municipal election protection ordinances under Article XI hybrid home rule and the Keep Washington Working Act, covering RCW 9.41.290 firearms preemption, RCW 29A.84.510(3), and city with home rule authority analysis for Seattle, Olympia, and Spokane.
 tags:
-  - tier-green
-  - washington
-  - home-rule
-  - seattle
-  - spokane
-  - keep-washington-working-act
+ - tier-1
+ - washington
+ - home-rule
+ - seattle
+ - spokane
+ - keep-washington-working-act
 ---
 
 # Adapting a Municipal Election Protection Ordinance to Washington State
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-**A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places is legally viable in Washington State, but must be carefully drafted to avoid firearms preemption.** Washington's hybrid home rule system grants code cities and first-class charter cities substantial authority under Article XI of the state constitution, while the Keep Washington Working Act establishes a supportive precedent for limiting local police cooperation with federal authorities. The primary legal vulnerability is RCW 9.41.290's complete state preemption of firearms regulation—meaning any ordinance must frame itself around voter protection and resource allocation rather than weapons restrictions. Optimal target cities include Seattle, Olympia, and Spokane, where progressive councils and existing sanctuary infrastructure provide both legal authority and political will.
+**A municipal ordinance prohibiting city resources from assisting armed federal personnel near polling places is legally viable in Washington State, but must be carefully drafted to avoid firearms preemption.** Washington's hybrid home rule system grants code cities and first-class charter cities substantial authority under Article XI of the state constitution, while the Keep Washington Working Act establishes a supportive precedent for limiting local police cooperation with federal authorities. The primary legal vulnerability is RCW 9.41.290's complete state preemption of firearms regulation—meaning any ordinance must frame itself around voter protection and resource allocation rather than weapons restrictions. Cities with home rule authority include Seattle, Olympia, and Spokane, where progressive councils and existing sanctuary infrastructure provide both legal authority and political will.
 
 !!! info "March 2026 Update — State Legislation Active"
-    Washington legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Washington's Democratic trifecta makes state-level passage likely.
+ Washington legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Washington's Democratic trifecta makes state-level passage likely.
 
-    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). As a primarily vote-by-mail state, Washington's adaptation should focus on ballot processing centers and drop box sites rather than traditional polling places. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes adaptation notes for vote-by-mail states.
+ **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in cities with home rule authority (Path A). As a primarily vote-by-mail state, Washington's adaptation should focus on ballot processing centers and drop box sites rather than traditional polling places. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes adaptation notes for vote-by-mail states.
 
 ---
 
@@ -150,7 +150,7 @@ Existing sanctuary city ordinances—Seattle (2003), King County (2014), Olympia
 
 ---
 
-## Section 4: Coalition partners span legal, civic, and labor sectors
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Core legal and democracy organizations
 
@@ -160,7 +160,7 @@ Existing sanctuary city ordinances—Seattle (2003), King County (2014), Olympia
 
 **Fix Democracy First** (fixdemocracyfirst.org), directed by Cindy Black, championed Seattle's Democracy Voucher Program (I-122, 2015) and the Seattle foreign money in elections ordinance (2020). Their Women in Office Now (WON) training program and weekly Democracy Happy Hour provide ongoing engagement infrastructure.
 
-### Voting justice coalition infrastructure
+### Voting justice relevant organizations
 
 The **Washington Voting Justice Coalition** (wavotingjustice.org) coordinates non-partisan advocacy for expanded voting access, hosting annual Democracy Lobby Day (January 23, 2026 upcoming) and developing the 2025 "Voter Power Package" of priority legislation. Key members include The Washington Bus, FairVote Washington, Fix Democracy First, and OneAmerica. Contact: info@wavotingjustice.org.
 
@@ -230,8 +230,7 @@ The WVRA provides a **private right of action** (RCW 29A.92.090), and courts con
 | Attorney General | (360) 753-6200; atg.wa.gov |
 | WaTech Office of Cybersecurity | officeofcybersecurity@watech.wa.gov; SOC@watech.wa.gov |
 | Emergency Management Division | (253) 512-7000; 1-800-562-6108 |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -261,8 +260,7 @@ Washington's existing framework addresses firearms at some election sites but wi
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the Keep Washington Working Act framework.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Washington has active legislation through Sen. Drew Hansen's bill restricting federal agents at election sites, advanced in the context of the Democratic trifecta and Governor Ferguson's strong election protection stance (Ferguson served as Attorney General before becoming governor, with extensive experience in election law litigation). However, the 60-day 2026 session (January 12 – March 12) creates a tight window, and the session may have concluded by the time this assessment is being read.
 
 The strategic approach depends on Hansen's bill status. If still in committee, the Master State Bill Template provisions should be offered as amendments to strengthen the bill's criminal penalties, civil enforcement, and emergency procedures. If the session has concluded without passage, the 2027 session provides a longer window. Washington's Keep Washington Working Act provides the strongest statutory analogy: if Washington limits police cooperation with federal immigration enforcement generally, it should specifically protect election infrastructure from armed federal presence. Seattle, Tacoma, Olympia, and Spokane provide coalition support. The recent Seattle City Council ban on federal immigration staging (March 2026) demonstrates continued municipal momentum.
@@ -273,41 +271,3 @@ The strategic approach depends on Hansen's bill status. If still in committee, t
 |---|---|---|---|
 | Senate | State Government & Elections | Verify current chair | Hansen's bill likely assigned here |
 | House | State Government & Tribal Relations | Verify current chair | House companion consideration |
-
-## Conclusion: Strategic recommendations
-
-An election protection ordinance is legally viable in Washington if drafted to emphasize **voter protection, municipal resource allocation, and police cooperation policies** rather than firearms regulation. The strongest legal foundation combines Article XI Section 11 police powers, RCW 35A.11.020's liberal construction mandate for code cities, the Keep Washington Working Act's precedent for limiting federal cooperation, and RCW 29A.84.510(3)'s explicit authorization of municipal law enforcement at voting centers.
-
-**Primary legal vulnerabilities** include firearms preemption under RCW 9.41.290 (requiring careful drafting to avoid weapons-specific language) and potential general preemption claims under Title 29A (though RCW 29A.84.510's municipal authorization provides counter-authority). Post-*Bruen* Second Amendment challenges remain possible but defensible under sensitive-places doctrine.
-
-**Optimal implementation path**: Begin with **Spokane** (new progressive supermajority, first-class charter, Eastern WA location provides proof-of-concept outside Puget Sound) and **Olympia** (state capital symbolism, demonstrated progressive capacity, code city efficiency). Build toward **Seattle** (maximum visibility but more complex political dynamics) using early victories as momentum.
-
-**Coalition strategy**: Anchor on ACLU-WA for legal expertise, Washington Voting Justice Coalition for coordination, and Fuse Washington for progressive infrastructure. Engage OneAmerica for immigrant community organizing given sanctuary policy overlap. Labor unions (WSLC, SEIU locals) provide mass mobilization and funding capacity for municipal campaigns.
-
----
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Washington Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Washington-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Bellingham** — ~95,000](../flyers/city/WA_bellingham.html){:target="_blank" .md-button}
-[:material-file-download: **Olympia** — ~57,000](../flyers/city/WA_olympia.html){:target="_blank" .md-button}
-[:material-file-download: **Seattle** — ~798,000](../flyers/city/WA_seattle.html){:target="_blank" .md-button}
-[:material-file-download: **Spokane** — ~231,000](../flyers/city/WA_spokane.html){:target="_blank" .md-button}
-[:material-file-download: **Tacoma** — ~220,000](../flyers/city/WA_tacoma.html){:target="_blank" .md-button}
-

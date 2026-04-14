@@ -1,21 +1,21 @@
 ---
 title: "Hawaii — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Hawaii municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Hawaii municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - hawaii
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - hawaii
+ - election-security
+ - 18-usc-592
 ---
 
 # Hawaii Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -68,7 +68,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Maui County (recommended launch target)
 
@@ -101,11 +101,11 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 - **Key challenge:** Very heavy military community presence -- heaviest military opposition risk
 - **Passage probability:** MEDIUM
 
-**Optimal dual-track strategy:** Pursue county ordinances in Maui and Hawaii County while simultaneously pursuing statewide legislation through the overwhelmingly Democratic legislature (Senate 22-3, House 42-9).
+**Dual-track analysis:** County ordinances in Maui and Hawaii County are available concurrently with a statewide legislative path through the Democratic-majority legislature (Senate 22-3, House 42-9).
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Anchor organizations
 
@@ -193,8 +193,7 @@ AG Anne E. Lopez has authority to investigate and prosecute election crimes unde
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -209,7 +208,7 @@ AG Anne E. Lopez has authority to investigate and prosecute election crimes unde
 
 Hawaii has built one of the nation's most comprehensive election security frameworks. HRS § 19-3(4) criminalizes voter intimidation through force, violence, restraint, or intimidation that interferes with the free exercise of the elective franchise, with penalties of $1,000–$5,000 fines and up to two years imprisonment under § 19-6, plus disqualification from voting and holding office.
 
-Hawaii's firearms restrictions at election sites are exceptionally strong. HRS § 134-9.1(a)(11) (Act 52, 2023) prohibits firearms — loaded or unloaded, operable or not, concealed or unconcealed — at any voter service center or polling place, including adjacent parking areas. HRS § 134-9.5 designates a 200-foot area around voter service centers as a sensitive location. SB 1030 (2025) further amended the election fraud statute to include carrying unconcealed dangerous instruments within 200 feet of any voter service center or polling place.
+Hawaii's firearms restrictions at election sites are strong. HRS § 134-9.1(a)(11) (Act 52, 2023) prohibits firearms — loaded or unloaded, operable or not, concealed or unconcealed — at any voter service center or polling place, including adjacent parking areas. HRS § 134-9.5 designates a 200-foot area around voter service centers as a sensitive location. SB 1030 (2025) further amended the election fraud statute to include carrying unconcealed dangerous instruments within 200 feet of any voter service center or polling place.
 
 Hawaii joined the 19-state EO 14248 lawsuit. The state's all-mail voting system with Voter Service Centers (not traditional polling places) provides structural mitigation against polling place intimidation, though service centers remain vulnerable.
 
@@ -223,8 +222,7 @@ Hawaii's existing framework is among the strongest in the nation. Based on gap a
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — particularly important given Hawaii's geographic isolation and time zone challenges for federal court coordination.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Hawaii is highly viable for state legislation. The Democratic trifecta, Governor Green's support, and the existing comprehensive election security framework make passage straightforward. Hawaii's primary gap is the lack of an explicit federal personnel prohibition — the state has addressed firearms, dangerous instruments, and buffer zones but not the specific scenario of armed federal agent deployment.
 
 Hawaii's all-mail voting system with voter service centers presents a unique adaptation opportunity: the bill should be tailored to protect voter service centers, ballot processing facilities, and county election offices rather than traditional polling places. Hawaii's participation in the EO 14248 lawsuit demonstrates institutional commitment. Honolulu, Maui County, and Hawaii County provide a coalition base.
@@ -235,27 +233,3 @@ Hawaii's all-mail voting system with voter service centers presents a unique ada
 |---|---|---|---|
 | Senate | Judiciary | Verify current chair | Criminal provisions jurisdiction |
 | House | Judiciary & Hawaiian Affairs | Verify current chair | Criminal provisions and election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Hawaii Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Hawaii-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/HI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Hawaii County** — ~201,000](../flyers/city/HI_hawaii-county.html){:target="_blank" .md-button}
-[:material-file-download: **Honolulu** — ~1.0M](../flyers/city/HI_honolulu.html){:target="_blank" .md-button}
-[:material-file-download: **Kauai County** — ~73,000](../flyers/city/HI_kauai-county.html){:target="_blank" .md-button}
-[:material-file-download: **Maui County** — ~165,000](../flyers/city/HI_maui-county.html){:target="_blank" .md-button}
-

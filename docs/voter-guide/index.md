@@ -1,38 +1,35 @@
 ---
-title: Voter & Activist Guide
+title: "Polling Place Law — Overview"
 description: >-
-  Plain-English guide for voters and community members explaining the threat
-  to polling places, your rights, the law, and how to take action to protect
-  elections in your community.
+  Overview of federal and state law governing armed federal personnel at
+  polling places, voter rights, and the procedures available on election day.
 tags:
   - voter-guide
   - overview
 ---
 
-# Voter & Activist Guide
+# Polling Place Law — Overview
 
-Federal law makes it a crime to station armed agents at polling places. Some leaders are threatening to do exactly that before the 2026 elections. This guide explains the problem, your rights, and what you can do about it.
+This section provides an overview of the federal and state law applicable to the presence of armed federal personnel at polling places, a summary of voter rights under federal and state law, a plain-language summary of 18 U.S.C. § 592 and related statutes, and a description of the legal authority available to municipalities under state home rule frameworks.
 
-!!! info "How does this connect to the rest of the site?"
-    The other sections of this site — the [Legal Foundation](../legal-foundation/index.md) and [State Guides](../state-guides/index.md) — are written for lawyers, elected officials, and professional organizers. This section distills that same legal analysis into language anyone can understand, with clear action steps. See [How to Use This Guide](../how-to-use.md) for all audience paths.
+!!! info "Relationship to other sections"
+    The materials in this section present the same legal analysis set out in the [Legal Framework](../legal-foundation/index.md) and [State Legal Profiles](../state-guides/index.md) sections, in summary form and without extensive footnoting. The more detailed analysis, with full citations, is set out in those sections. See [How to Use This Guide](../how-to-use.md) for navigation by role.
 
 ---
 
-## Your Reading Path
+## Contents
 
-Follow these pages in order, or jump to the one that answers your question.
+The pages in this section are arranged in the following order:
 
-1. **[What Is Happening and Why It Matters](whats-happening.md)** — The threat explained in plain English: what senior officials have said, what already happened in Minnesota, and the numbers showing how real this is.
+1. **[Factual Record: Federal Statements and Deployments](whats-happening.md)** — Dated, attributed record of public statements by federal officials and the observed effects of the January 2026 federal deployment in Minneapolis–St. Paul.
 
-2. **[Your Rights at the Polling Place](your-rights.md)** — Federal and state laws that protect you, what to do if you see armed agents, and who to call for help.
+2. **[Voter Rights Under Federal and State Law](your-rights.md)** — Federal statutory protections (Voting Rights Act § 11(b); Help America Vote Act; 18 U.S.C. § 592), state election-code protections, and procedures for reporting violations.
 
-3. **[The Law Explained in Plain English](the-law-explained.md)** — The two federal statutes, the anti-commandeering principle, the Insurrection Act question, and what the proposed city ordinance would actually do — all without legal jargon.
+3. **[18 U.S.C. § 592 and Related Statutes — Plain Language Summary](the-law-explained.md)** — Summary of 18 U.S.C. § 592, 52 U.S.C. § 10307(b), the anti-commandeering doctrine, the Insurrection Act, and the operative sections of the model municipal ordinance.
 
-4. **[How to Push Your City Council to Act](push-your-city-to-act.md)** — A step-by-step guide to advocating for a protection ordinance in your city, from finding your state's legal landscape to showing up at a council meeting.
+4. **[Municipal Authority and Ordinance Frameworks](push-your-city-to-act.md)** — Analysis of municipal legal authority under state home rule frameworks.
 
-5. **[Election Day Action Plan](election-day-action.md)** — What to prepare before Election Day, what to do if something goes wrong, and where to report problems.
-
-6. **[How to Talk to Your Neighbors About This](talk-to-your-neighbors.md)** — Conversation guides for different audiences, key facts and talking points, and tips on spreading the word effectively.
+5. **[Election Day: Legal Rights and Reporting Procedures](election-day-action.md)** — Voter rights at the polling place and procedures for reporting suspected violations.
 
 ---
 
@@ -40,52 +37,44 @@ Follow these pages in order, or jump to the one that answers your question.
 
 <div class="grid cards" markdown>
 
--   :material-alert:{ .lg .middle } **What Is Happening**
+-   :material-alert:{ .lg .middle } **Factual Record**
 
     ---
 
-    The threat to polling places: government statements, the Minnesota case, and the polling data.
+    Federal statements and the January 2026 Minnesota deployment.
 
     [:octicons-arrow-right-24: Read more](whats-happening.md)
 
--   :material-shield-account:{ .lg .middle } **Your Rights**
+-   :material-shield-account:{ .lg .middle } **Voter Rights**
 
     ---
 
-    Federal and state protections for voters, plus what to do if you encounter armed agents.
+    Federal and state protections for voters, and procedures for reporting violations.
 
     [:octicons-arrow-right-24: Read more](your-rights.md)
 
--   :material-scale-balance:{ .lg .middle } **The Law Explained**
+-   :material-scale-balance:{ .lg .middle } **Plain-Language Summary of the Law**
 
     ---
 
-    The legal foundation behind this project, translated into plain English.
+    18 U.S.C. § 592, 52 U.S.C. § 10307(b), and related statutes.
 
     [:octicons-arrow-right-24: Read more](the-law-explained.md)
 
--   :material-city-variant:{ .lg .middle } **Push Your City to Act**
+-   :material-city-variant:{ .lg .middle } **Municipal Authority**
 
     ---
 
-    Step-by-step civic engagement guide for getting your city council to pass a protection ordinance.
+    Analysis of municipal ordinance frameworks under state home rule.
 
     [:octicons-arrow-right-24: Read more](push-your-city-to-act.md)
 
--   :material-calendar-check:{ .lg .middle } **Election Day Action**
+-   :material-calendar-check:{ .lg .middle } **Election Day**
 
     ---
 
-    Preparation checklist and real-time response plan for Election Day 2026.
+    Voter rights and reporting procedures on election day.
 
     [:octicons-arrow-right-24: Read more](election-day-action.md)
-
--   :material-account-group:{ .lg .middle } **Talk to Your Neighbors**
-
-    ---
-
-    Conversation guides, talking points, and messaging tips for spreading the word.
-
-    [:octicons-arrow-right-24: Read more](talk-to-your-neighbors.md)
 
 </div>

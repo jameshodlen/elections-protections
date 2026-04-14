@@ -1,30 +1,30 @@
 ---
 title: New Jersey — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political roadmap for New Jersey municipal election protection ordinances under the Faulkner Act, covering N.J.S.A. 40:69A-29, N.J.S.A. 40A:14-118 (police priorities), and target city analysis for Hoboken, Newark, and Jersey City.
+ Legal and political roadmap for New Jersey municipal election protection ordinances under the Faulkner Act, covering N.J.S.A. 40:69A-29, N.J.S.A. 40A:14-118 (police priorities), and city with home rule authority analysis for Hoboken, Newark, and Jersey City.
 tags:
-  - tier-green
-  - new-jersey
-  - faulkner-act
-  - home-rule
-  - hoboken
-  - newark
+ - tier-1
+ - new-jersey
+ - faulkner-act
+ - home-rule
+ - hoboken
+ - newark
 ---
 
 # New Jersey municipal ordinances to enforce federal polling place protections: A legal and political roadmap
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-New Jersey municipalities possess substantial authority to pass ordinances reinforcing **18 U.S.C. § 592** (the federal ban on armed troops at polling places), though they face moderate preemption risk from the state's comprehensive election code. The state's "statutory home rule" framework under the Faulkner Act grants municipalities broad powers that courts must construe liberally, while existing state laws already criminalize voter intimidation and ban firearms at polling places. **Hoboken, Newark, and Jersey City** emerge as the optimal launching municipalities—all three operate under the Faulkner Act, maintain designated sanctuary city status, and have recently elected progressive leadership positioned to support election protection ordinances.
+New Jersey municipalities possess substantial authority to pass ordinances reinforcing **18 U.S.C. § 592** (the federal ban on armed troops at polling places), though they face moderate preemption risk from the state's comprehensive election code. The state's "statutory home rule" framework under the Faulkner Act grants municipalities broad powers that courts must construe liberally, while existing state laws already criminalize voter intimidation and ban firearms at polling places. **Hoboken, Newark, and Jersey City** emerge as the applicable launching municipalities—all three operate under the Faulkner Act, maintain designated sanctuary city status, and have recently elected progressive leadership positioned to support election protection ordinances.
 
-The legal pathway is viable but requires careful drafting. Municipal ordinances should frame protections as exercise of local police powers under **N.J.S.A. 40:48-2** and control over municipal police priorities under **N.J.S.A. 40A:14-118**, rather than attempting to regulate elections directly. A robust coalition infrastructure already exists through the NJ Election Protection Coalition, anchored by the ACLU of New Jersey, NJ Institute for Social Justice, and League of Women Voters.
+The legal pathway is viable but requires careful drafting. Municipal ordinances should frame protections as exercise of local police powers under **N.J.S.A. 40:48-2** and control over municipal police priorities under **N.J.S.A. 40A:14-118**, rather than attempting to regulate elections directly. A robust relevant organizations already exists through the NJ Election Protection Coalition, anchored by the ACLU of New Jersey, NJ Institute for Social Justice, and League of Women Voters.
 
 ---
 
@@ -109,8 +109,8 @@ All recommended municipalities meet critical criteria: operation under the Faulk
 
 ### Hoboken: The progressive laboratory with new leadership
 
-**Governing body:** Hoboken City Council (9 members: 3 at-large, 6 ward-based)  
-**Government form:** Faulkner Act Mayor-Council  
+**Governing body:** Hoboken City Council (9 members: 3 at-large, 6 ward-based) 
+**Government form:** Faulkner Act Mayor-Council 
 **Mayor:** Emily Jabbour (took office January 2026 after December 2025 runoff victory)
 
 Hoboken self-identifies as "the progressive capital of New Jersey" and maintains the strongest track record of innovative ordinances. Recent enactments include the "Skip the Stuff" environmental ordinance (2024), inclusionary zoning for affordable housing, paid parental leave for municipal employees, and LGBT/veteran/disabled-owned business inclusion requirements. The city was among the first in New Jersey to allow recreational marijuana sales.
@@ -121,8 +121,8 @@ As a **designated sanctuary city** currently under federal lawsuit from the Trum
 
 ### Newark: Scale and visibility from New Jersey's largest city
 
-**Governing body:** Newark Municipal Council (9 members: 4 at-large, 5 ward-based)  
-**Government form:** Faulkner Act Mayor-Council Plan C (strong mayor)  
+**Governing body:** Newark Municipal Council (9 members: 4 at-large, 5 ward-based) 
+**Government form:** Faulkner Act Mayor-Council Plan C (strong mayor) 
 **Mayor:** Ras Baraka (since 2014)
 
 As New Jersey's largest city (**311,000+ population**), Newark offers maximum visibility and impact. Mayor Ras Baraka is a nationally recognized progressive leader with strong relationships to civil rights organizations. The city has enacted inclusionary zoning, environmental justice/cumulative impact zoning provisions, and maintained sanctuary city status despite federal pressure.
@@ -133,8 +133,8 @@ Newark serves as headquarters for multiple key coalition organizations including
 
 ### Jersey City: Fresh leadership with regional influence
 
-**Governing body:** Jersey City City Council (9 members: 3 at-large, 6 ward-based)  
-**Government form:** Faulkner Act Mayor-Council  
+**Governing body:** Jersey City City Council (9 members: 3 at-large, 6 ward-based) 
+**Government form:** Faulkner Act Mayor-Council 
 **Mayor:** James Solomon (took office January 15, 2026)
 
 New Jersey's second-largest city (**293,000 population**) offers both scale and a newly installed mayor potentially receptive to establishing early progressive credentials. Mayor Solomon's December 2025 victory over Jim McGreevey suggests voter appetite for reform-oriented leadership.
@@ -151,7 +151,7 @@ The New Jersey Supreme Court in *Redd v. Bowman* (2015) affirmed broad citizen i
 
 ---
 
-## Section 4: An established coalition infrastructure awaits activation
+## Section 4: Relevant Legal and Civic Organizations
 
 ### The NJ Election Protection Coalition provides ready infrastructure
 
@@ -167,36 +167,36 @@ Rather than building from scratch, advocates should plug into the existing **New
 
 ### Tier 1 priority partners for ordinance campaigns
 
-**ACLU of New Jersey**  
-89 Market Street, 7th Floor, Newark, NJ  
-Website: aclu-nj.org  
-Executive Director: Amol N. Sinha, Esq.  
-Legal Director: Jeanne LoCicero  
+**ACLU of New Jersey** 
+89 Market Street, 7th Floor, Newark, NJ 
+Website: aclu-nj.org 
+Executive Director: Amol N. Sinha, Esq. 
+Legal Director: Jeanne LoCicero 
 Election hotline: 973-854-1719
 
 The ACLU-NJ provides essential legal expertise and has demonstrated commitment through county line ballot reform litigation (*Kim v. Hanlon* amicus brief), NJ Voting Rights Act advocacy, and ongoing election protection coordination.
 
-**New Jersey Institute for Social Justice**  
-60 Park Place, Suite 511, Newark, NJ 07102  
-Phone: (973) 624-9400  
-Email: justice@njisj.org  
-President & CEO: Ryan P. Haygood  
+**New Jersey Institute for Social Justice** 
+60 Park Place, Suite 511, Newark, NJ 07102 
+Phone: (973) 624-9400 
+Email: justice@njisj.org 
+President & CEO: Ryan P. Haygood 
 Law & Policy Director: Henal Patel
 
-Based in Newark, NJISJ leads voting rights advocacy statewide, spearheads the NJ Voting Rights Act campaign, and maintains dedicated voting resources at njisj.org/vote. Their location in a target city makes them an immediate implementation partner.
+Based in Newark, NJISJ leads voting rights advocacy statewide, spearheads the NJ Voting Rights Act campaign, and maintains dedicated voting resources at njisj.org/vote. Their location in a city with home rule authority makes them an immediate implementation partner.
 
-**League of Women Voters of New Jersey**  
-204 West State Street, Trenton, NJ 08608  
-Phone: (609) 394-3303  
-Voter hotline: 1-800-792-VOTE (8683)  
-Email: contact@lwvnj.org  
+**League of Women Voters of New Jersey** 
+204 West State Street, Trenton, NJ 08608 
+Phone: (609) 394-3303 
+Voter hotline: 1-800-792-VOTE (8683) 
+Email: contact@lwvnj.org 
 Executive Director: Kerry Margaret Butch
 
 LWV-NJ provides nonpartisan credibility essential for election protection work, maintains local chapters in all target regions (Essex County for Newark, Hudson County for Jersey City/Hoboken), and operates the Vote411 voter education platform.
 
-**Salvation and Social Justice**  
-Website: sandsj.org  
-Based in Trenton, NJ  
+**Salvation and Social Justice** 
+Website: sandsj.org 
+Based in Trenton, NJ 
 Founder/Director: Rev. Dr. Charles Franklin Boyer
 
 This Black-led, Trenton-based organization brings faith community networks and voting rights experience, including advocacy for voting rights restoration for people on probation/parole.
@@ -205,17 +205,17 @@ This Black-led, Trenton-based organization brings faith community networks and v
 
 Organizations with direct experience advocating for municipal policies that assert local authority against federal enforcement provide valuable strategic insight:
 
-**Make the Road New Jersey**  
-Elizabeth, NJ (satellites in Perth Amboy, Passaic, Newark)  
-Phone: 908.967.3478  
+**Make the Road New Jersey** 
+Elizabeth, NJ (satellites in Perth Amboy, Passaic, Newark) 
+Phone: 908.967.3478 
 Email: nj4dreamers@maketheroadnj.org
 
 Strong organizing capacity in immigrant communities and direct experience with sanctuary city advocacy makes Make the Road essential for grassroots mobilization.
 
 **Local NAACP chapters** in Newark (973-624-6400), Jersey City (201-333-3697), and through the New Jersey State Conference (president@njnaacp.org) provide civil rights credibility and community networks.
 
-**Latino Action Network**  
-2560 US Hwy 22, Suite 322, Scotch Plains, NJ 07076  
+**Latino Action Network** 
+2560 US Hwy 22, Suite 322, Scotch Plains, NJ 07076 
 Phone: (908) 670-0552
 
 LAN participated in NJVRA coalition work and provides access to Latino civic engagement networks statewide.
@@ -285,8 +285,7 @@ New Jersey's Faulkner Act and other municipal governance statutes provide home r
 - **NJCCIC:** njccic@cyber.nj.gov
 - **AG Election Protection:** Report incidents through the AG's office at (609) 292-4925
 - **Secretary of State:** 33 W. State St., Trenton, NJ 08608
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -313,8 +312,7 @@ New Jersey's existing framework already addresses firearms at polling places wit
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 New Jersey is well-positioned for state legislation with its Democratic trifecta, year-round session, and the nation's strongest criminal penalties for voter intimidation. The state's participation in the 19-state EO 14248 lawsuit demonstrates institutional commitment to challenging federal enforcement overreach. The most compelling framing builds on New Jersey's existing framework: if voter intimidation is already a second-degree crime (5–10 years), then armed federal deployment at polling places — which creates the conditions for intimidation — should be explicitly addressed.
 
 The year-round session provides ample time for introduction and deliberation. Newark, Jersey City, Hoboken, and other sanctuary cities provide a natural coalition base. The AG's active role in the EO 14248 litigation creates executive-branch alignment. New Jersey's passage would be particularly significant as a Northeastern model complementing New Mexico's Western model and California's Pacific model.
@@ -330,31 +328,8 @@ The year-round session provides ample time for introduction and deliberation. Ne
 
 New Jersey municipalities possess the legal authority to pass ordinances reinforcing 18 U.S.C. § 592 protections, provided they frame such ordinances as exercises of local police power and municipal property management rather than direct election regulation. The Faulkner Act's liberal construction mandate and explicit grant of power over police "priorities and objectives" under N.J.S.A. 40A:14-118 provide the strongest legal foundation.
 
-**Hoboken** offers the optimal launch platform given its progressive track record, new mayoral leadership, manageable scale, and demonstrated willingness to defend local authority. **Newark** provides maximum visibility and immediate access to coalition legal infrastructure. **Jersey City** combines scale with fresh leadership potentially seeking early policy wins.
+**Hoboken** offers the applicable launch platform given its progressive track record, new mayoral leadership, manageable scale, and demonstrated willingness to defend local authority. **Newark** provides maximum visibility and immediate access to coalition legal infrastructure. **Jersey City** combines scale with fresh leadership potentially seeking early policy wins.
 
 The immediate next step is engaging the existing NJ Election Protection Coalition—specifically the NJ Institute for Social Justice and ACLU-NJ—to coordinate ordinance drafting with their legal expertise. The infrastructure exists; the legal pathway is navigable; the political will in target municipalities appears aligned. Success depends on translating this analysis into coordinated action before the next major election cycle.
 
 ---
-
----
-
-## Printable Flyer
-
-!!! tip "Download the New Jersey Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with New Jersey-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/NJ_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Hoboken** — ~60,000](../flyers/city/NJ_hoboken.html){:target="_blank" .md-button}
-[:material-file-download: **Jersey City** — ~292,000](../flyers/city/NJ_jersey-city.html){:target="_blank" .md-button}
-[:material-file-download: **Newark** — ~312,000](../flyers/city/NJ_newark.html){:target="_blank" .md-button}
-

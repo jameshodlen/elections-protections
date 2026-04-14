@@ -1,21 +1,21 @@
 ---
 title: "West Virginia — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for West Virginia municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for West Virginia municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - west-virginia
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - west-virginia
+ - election-security
+ - 18-usc-592
 ---
 
 # West Virginia Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -79,7 +79,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Charleston (Primary — Likely Only Realistic Target)
 
@@ -87,21 +87,21 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 Charleston's status as an original home rule participant and state capital provides both legal standing and visibility. However, the extreme legislative supermajorities make sustained legal survival unlikely.
 
-### Morgantown (Secondary Target)
+### Morgantown (Analyzed City)
 
 **Population:** ~30,347. Home to West Virginia University. Offers a progressive university town base with a non-partisan city manager government. WVU College of Law provides academic legal support.
 
-### Huntington (Tertiary Target)
+### Huntington (Analyzed City)
 
 **Population:** ~45,110. Home to Marshall University. Third candidate as an original home rule participant.
 
 ### Non-Binding Resolution Strategy
 
-Given the extreme legislative environment (Senate 32-2 R-D; House 91-9 R-D), a **non-binding resolution** may be more appropriate than a binding ordinance. Non-binding resolutions calling attention to 18 U.S.C. § 592, police department internal policy directives on resource allocation, and public education campaigns through coalition partners can build awareness without triggering the full force of legislative retaliation. This approach also protects the home rule program for all participating cities — an ordinance that provokes legislative backlash could jeopardize home rule authority for all 38+ participants.
+Given the extreme legislative environment (Senate 32-2 R-D; House 91-9 R-D), a **non-binding resolution** may be more appropriate than a binding ordinance. Non-binding resolutions calling attention to 18 U.S.C. § 592, police department internal policy directives on resource allocation, and public education campaigns through relevant organizations can build awareness without triggering the full force of legislative retaliation. This approach also protects the home rule program for all participating cities — an ordinance that provokes legislative backlash could jeopardize home rule authority for all 38+ participants.
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -212,8 +212,7 @@ West Virginia represents the **most concerning cybersecurity posture** among all
 | **WVOT / CISO** | (304) 957-8107 / CSO@wv.gov |
 | **WVU College of Law** | Prof. Robert M. Bastress, Jr. (home rule expert) |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -241,8 +240,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions, filling the gap at community polling venues (churches, fire halls, community centers).
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 West Virginia's Republican trifecta and the 2025 session's five restrictive election laws signal one of the most hostile environments for election protection legislation. The municipal ordinance track is the primary strategy, with Charleston, Huntington, and Morgantown as targets. West Virginia's weak voter intimidation penalties (misdemeanor only) are the most critical gap — the template's felony-level penalties would represent a significant upgrade. The state bill serves exclusively as a messaging vehicle.
 
 ### Target Committees
@@ -251,26 +249,3 @@ West Virginia's Republican trifecta and the 2025 session's five restrictive elec
 |---|---|---|---|
 | Senate | Judiciary | Verify current chair | Election law jurisdiction |
 | House | Judiciary | Verify current chair | Election law jurisdiction |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the West Virginia Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with West Virginia-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/WV_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Charleston** — ~47,000](../flyers/city/WV_charleston.html){:target="_blank" .md-button}
-[:material-file-download: **Huntington** — ~45,000](../flyers/city/WV_huntington.html){:target="_blank" .md-button}
-[:material-file-download: **Morgantown** — ~30,000](../flyers/city/WV_morgantown.html){:target="_blank" .md-button}
-

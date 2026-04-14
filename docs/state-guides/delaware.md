@@ -1,21 +1,21 @@
 ---
 title: "Delaware — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Delaware municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Delaware municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - delaware
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - delaware
+ - election-security
+ - 18-usc-592
 ---
 
 # Delaware Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -66,7 +66,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 Given Dillon's Rule constraints, **county-level action is most viable**, complemented by a statewide legislative pathway as the primary strategy.
 
@@ -103,7 +103,7 @@ Given Dillon's Rule constraints, **county-level action is most viable**, complem
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Anchor organizations
 
@@ -158,7 +158,7 @@ Delaware punches above its weight through the **166th Cyberspace Operations Squa
 | **Guard Cyber Assets** | 166th Cyberspace Operations Squadron |
 | **CISA Impact Severity** | High |
 
-The loss of CISA election security services in early 2025 created an unprecedented gap. The Trump administration terminated EI-ISAC funding in February 2025, cut $10 million in MS-ISAC funding in March, and placed regional election security advisors on administrative leave. These cuts eliminated free vulnerability scanning, Albert sensor monitoring, penetration testing, threat intelligence briefings, and physical security assessments that **17,000+ state and local entities** had relied upon.
+The loss of CISA election security services in early 2025 created an without precedent gap. The Trump administration terminated EI-ISAC funding in February 2025, cut $10 million in MS-ISAC funding in March, and placed regional election security advisors on administrative leave. These cuts eliminated free vulnerability scanning, Albert sensor monitoring, penetration testing, threat intelligence briefings, and physical security assessments that **17,000+ state and local entities** had relied upon.
 
 ### Physical Security and Polling Place Protections
 
@@ -194,8 +194,7 @@ Likelihood of success: UNCERTAIN for municipal ordinances (Dillon's Rule is exis
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -224,8 +223,7 @@ Delaware's existing framework already covers firearms at polling places and prov
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records, building on the HB 182 non-cooperation framework.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Delaware is well-positioned for state legislation. The Democratic trifecta, Governor Meyer's aggressive posture on federal enforcement non-cooperation (HB 182, state police directive), the existing total firearms ban at polling places, and the existing civil remedy for election interference create a strong foundation. The session window through June 30 provides ample time.
 
 The strongest framing builds on HB 182: if Delaware bars 287(g) agreements and directs state police non-cooperation with ICE, it should specifically protect polling places from armed federal agent deployment. Delaware's existing § 5302 — which already criminalizes "military or other interference" with elections — provides a direct statutory hook for the template's federal agent provisions. Wilmington, Dover, and Newark provide a coalition base with existing non-cooperation policies.
@@ -236,27 +234,3 @@ The strongest framing builds on HB 182: if Delaware bars 287(g) agreements and d
 |---|---|---|---|
 | Senate | Elections & Government Affairs | Verify current chair | Primary jurisdiction over election law |
 | House | Elections | Verify current chair | Primary jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Delaware Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Delaware-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/DE_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Dover** — ~39,400](../flyers/city/DE_dover.html){:target="_blank" .md-button}
-[:material-file-download: **New Castle County** — ~570,000](../flyers/city/DE_new-castle-county.html){:target="_blank" .md-button}
-[:material-file-download: **Newark** — ~30,600](../flyers/city/DE_newark.html){:target="_blank" .md-button}
-[:material-file-download: **Wilmington** — ~70,900](../flyers/city/DE_wilmington.html){:target="_blank" .md-button}
-

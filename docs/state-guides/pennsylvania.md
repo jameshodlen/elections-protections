@@ -1,21 +1,21 @@
 ---
 title: "Pennsylvania — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Pennsylvania municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Pennsylvania municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - pennsylvania
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - pennsylvania
+ - election-security
+ - 18-usc-592
 ---
 
 # Pennsylvania Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -24,9 +24,9 @@ tags:
 Pennsylvania is a **critical battleground state** with strong election security infrastructure but limited Secretary of State authority and a unique 100-foot police exclusion zone around polling places. The state's 67 county boards of elections administer elections locally, the PA National Guard operates elite cyber units (112th Cyber Operations Squadron), and Governor Shapiro established a multi-agency Election Threats Task Force. However, Pennsylvania **did not join the 19-state lawsuit** against Executive Order 14248 despite its Democratic governor, and the aging SURE voter registration system represents a critical vulnerability. The AG has prosecutorial jurisdiction over all Election Code violations, and voter intimidation carries penalties up to felony of the third degree. Pennsylvania's Article I, Section 5 "free and equal elections" clause and unique police exclusion zone provide strong constitutional and statutory foundations for election protection ordinances.
 
 !!! info "March 2026 Update — State Legislation Under Consideration"
-    Pennsylvania lawmakers are considering **protections for polling places from federal agent deployment.** Pennsylvania's split legislature makes passage challenging, but the state's status as a critical 2026 battleground increases both the urgency and the political stakes.
+ Pennsylvania lawmakers are considering **protections for polling places from federal agent deployment.** Pennsylvania's split legislature makes passage challenging, but the state's status as a critical 2026 battleground increases both the urgency and the political stakes.
 
-    **Two-track strategy:** Given Pennsylvania's divided government, municipal ordinances in target cities (Path A) remain the primary action pathway. A state bill (Path B) serves as an organizing and messaging vehicle even if it does not pass the full legislature. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies.
+ **Two-track strategy:** Given Pennsylvania's divided government, municipal ordinances in cities with home rule authority (Path A) remain the primary action pathway. A state bill (Path B) serves as an organizing and messaging vehicle even if it does not pass the full legislature. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies.
 
 ---
 
@@ -73,7 +73,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Philadelphia
 
@@ -115,7 +115,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Anchor organizations
 
@@ -226,8 +226,7 @@ The AG has prosecutorial jurisdiction over **all** Election Code violations (25 
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -256,8 +255,7 @@ Pennsylvania's existing 100-foot police exclusion zone already restricts state a
 - **Article 6 — Firearms at election sites**: Pennsylvania's lack of a general polling place firearms ban is a significant gap, particularly given the existing law enforcement exclusion. The template creates comprehensive election-site firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests — critical for Pennsylvania given its status as a perennial swing state with high-stakes elections.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Pennsylvania's divided government — a Democratic governor and narrowly Democratic House facing a Republican Senate — makes full passage unlikely in the current session. However, Pennsylvania's existing 100-foot police exclusion zone (25 P.S. §§ 3047/3520) provides the strongest existing statutory foundation in the country for extending restrictions to federal agents. The argument is straightforward: if Pennsylvania already prohibits state and local police within 100 feet of polling places, the same principle must apply to armed federal agents.
 
 The House could pass a bill extending the existing exclusion zone to federal personnel, creating a powerful messaging vehicle even if the Senate blocks it. Pennsylvania's status as a perennial presidential swing state — with intense scrutiny on Philadelphia, Pittsburgh, and collar county polling places — adds urgency and national significance. The near year-long session (through November 30) provides time for strategic introduction timed to the election cycle. Philadelphia, Pittsburgh, Allegheny County, and the Lehigh Valley provide a coalition base.
@@ -268,28 +266,3 @@ The House could pass a bill extending the existing exclusion zone to federal per
 |---|---|---|---|
 | House | State Government | Verify current chair | Primary jurisdiction over election law |
 | Senate | State Government | Verify current chair | Would need to advance past Republican majority |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Pennsylvania Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Pennsylvania-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/PA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Allegheny County** — ~1,250,578](../flyers/city/PA_allegheny-county.html){:target="_blank" .md-button}
-[:material-file-download: **Harrisburg** — ~50,099](../flyers/city/PA_harrisburg.html){:target="_blank" .md-button}
-[:material-file-download: **Philadelphia** — ~1,603,797](../flyers/city/PA_philadelphia.html){:target="_blank" .md-button}
-[:material-file-download: **Pittsburgh** — ~302,971](../flyers/city/PA_pittsburgh.html){:target="_blank" .md-button}
-[:material-file-download: **State College** — ~40,501](../flyers/city/PA_state-college.html){:target="_blank" .md-button}
-

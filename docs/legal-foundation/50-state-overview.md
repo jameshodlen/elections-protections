@@ -1,7 +1,7 @@
 ---
-title: 50-State Legal and Strategic Viability Analysis
+title: 50-State Home Rule and Preemption Analysis
 description: >-
-  Comprehensive classification of all 50 states by home rule framework, anti-sanctuary law status, and strategic tier (GREEN/YELLOW/RED), with swing state analysis for the Municipal Election Integrity Ordinance.
+  State-by-state classification of home rule framework, state preemption statutes, and municipal-authority tier, for purposes of analyzing polling place protection ordinances under 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
   - strategy
   - 50-states
@@ -11,13 +11,13 @@ tags:
   - tier-analysis
 ---
 
-# Municipal Election Integrity Ordinance: 50-State Legal and Strategic Viability Analysis
+# 50-State Home Rule and Preemption Analysis
 
-**Prohibiting city employees and resources from assisting armed federal personnel near polling places—a comprehensive assessment grounded in 18 U.S.C. § 592 and 52 U.S.C. § 10307(b)**
+Classification of state home rule frameworks and preemption statutes relevant to municipal ordinances on polling place law, grounded in 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 
-The proposed Municipal Election Integrity Ordinance has viable legal pathways in approximately **16-18 states**, with strong implementation potential in major cities across California, Oregon, Washington, Illinois, Michigan, New York, and Colorado. The ordinance's foundation in explicit federal criminal law—18 U.S.C. § 592 makes deploying "troops or armed men" at polling places a **five-year federal felony**—creates a uniquely defensible legal position that distinguishes it from traditional sanctuary city policies. However, **23 states** have enacted anti-sanctuary laws with penalties ranging from funding cuts to felony criminal charges for local officials, creating significant legal barriers in the South, Mountain West, and several swing states.
+Municipal ordinances addressing the presence of armed federal personnel at polling places have legal foundations in approximately 16 to 18 states under current home rule and preemption doctrine. 18 U.S.C. § 592 criminalizes the deployment of "troops or armed men" at polling places, with a sentence of up to five years of imprisonment. Twenty-three states have enacted anti-sanctuary statutes with penalties that range from funding reductions to criminal charges for local officials; those statutes are concentrated in the South, Mountain West, and certain swing states.
 
-The strongest strategic approach frames this not as federal enforcement non-cooperation but as **municipal resource management ensuring compliance with federal election law**. This framing leverages the "federal felony exemption" argument: the Supremacy Clause protects only lawful federal activity, and local governments cannot be compelled to facilitate federal crimes. Priority implementation should begin in California (sanctuary state status), Oregon (Portland), Illinois (Chicago, protected by Illinois Trust Act), and Michigan (Ann Arbor, strongest home rule), with coordinated rollout across **Tier 1 states** before the November 2026 elections.
+The strongest analytical approach frames this not as federal enforcement non-cooperation but as **municipal resource management ensuring compliance with federal election law**. This framing leverages the "federal felony exemption" argument: the Supremacy Clause protects only lawful federal activity, and local governments cannot be compelled to facilitate federal crimes. Priority implementation should begin in California (sanctuary state status), Oregon (Portland), Illinois (Chicago, protected by Illinois Trust Act), and Michigan (Ann Arbor, strongest home rule), with coordinated rollout across **Tier 1 states** before the November 2026 elections.
 
 ---
 
@@ -27,7 +27,7 @@ Municipal authority in America operates on a spectrum from strong constitutional
 
 The anti-sanctuary landscape has expanded dramatically since 2017. Texas SB 4 pioneered aggressive enforcement mechanisms including **daily fines up to $25,500** and Class A misdemeanor charges for non-compliant sheriffs. Florida followed with SB 168 in 2019, and Georgia, Iowa, Indiana, Arizona, and more than a dozen other states enacted their own versions. Most significantly, **Tennessee's 2025 SB 6002 created the nation's harshest penalties**: officials who vote for sanctuary policies face Class E felony charges carrying **1-6 years imprisonment**, mandatory removal from office, and $3,000 fines. Arizona's SB 1487 nuclear option allows any single state legislator to trigger an investigation that can result in complete withholding of all state-shared revenues.
 
-The federal legal foundation for this ordinance is exceptionally strong. **18 U.S.C. § 592** explicitly criminalizes deployment of armed federal personnel—whether military or civilian—at polling places, with only one narrow exception for "repelling armed enemies of the United States." The statute applies to "any person in the civil, military, or naval service of the United States," clearly encompassing ICE, CBP, FBI, and other armed federal civilian law enforcement. Complementary protection under **52 U.S.C. § 10307(b)** prohibits voter intimidation without requiring proof of intent—the intimidating *effect* of armed presence suffices. Courts have consistently held that armed presence at or near polling locations raises "serious concerns" of voter intimidation, as demonstrated in the 2022 Arizona drop box case.
+The federal legal foundation for this ordinance is substantial. **18 U.S.C. § 592** explicitly criminalizes deployment of armed federal personnel—whether military or civilian—at polling places, with only one narrow exception for "repelling armed enemies of the United States." The statute applies to "any person in the civil, military, or naval service of the United States," clearly encompassing ICE, CBP, FBI, and other armed federal civilian law enforcement. Complementary protection under **52 U.S.C. § 10307(b)** prohibits voter intimidation without requiring proof of intent—the intimidating *effect* of armed presence suffices. Courts have consistently held that armed presence at or near polling locations raises "serious concerns" of voter intimidation, as demonstrated in the 2022 Arizona drop box case.
 
 ---
 
@@ -35,75 +35,75 @@ The federal legal foundation for this ordinance is exceptionally strong. **18 U.
 </div>
 <div class="map-tooltip" role="tooltip"></div>
 <div class="us-map-legend">
-  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#2e7d32"></span> Tier 1 — Strong Viability</div>
-  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#e65100"></span> Tier 2 — Proceed with Caution</div>
-  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#c62828"></span> Tier 3 — Significant Barriers</div>
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#2e7d32"></span> Tier 1 — Strong Home Rule Authority</div>
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#e65100"></span> Tier 2 — Limited or Conditional Home Rule</div>
+  <div class="us-map-legend-item"><span class="us-map-legend-swatch" style="background:#c62828"></span> Tier 3 — Dillon's Rule or Preemption Constraints</div>
 </div>
 
 ## 50-State Analysis Table
 
-| State | Home Rule/Dillon's Rule | Key Legal Citation | Anti-Sanctuary Laws | Tier | Target Cities | Flyer |
+| State | Home Rule/Dillon's Rule | Key Legal Citation | State Preemption Statutes | Tier | Home Rule Cities | Flyer |
 |-------|------------------------|-------------------|--------------------|----- |---------------|---|
-| **[Alabama](../state-guides/alabama.md)** | Dillon's Rule (strict) | AL Const. 1901, Amend. 825; Code §11-40-1 | Proposed; HB 56 (2011) active | **RED** | — | [:material-printer:](../flyers/AL_flyer.html){:target="_blank" title="Alabama flyer"} |
-| **[Alaska](../state-guides/alaska.md)** | Home Rule (strong) | AK Const. Art. X, §11 | None | **GREEN** | Anchorage, Juneau | [:material-printer:](../flyers/AK_flyer.html){:target="_blank" title="Alaska flyer"} |
-| **[Arizona](../state-guides/arizona.md)** | Hybrid (HR 3,500+) | AZ Const. Art. XIII, §2 | SB 1070 (2010); SB 1487 (2016) preemption | **RED** | See swing state section | [:material-printer:](../flyers/AZ_flyer.html){:target="_blank" title="Arizona flyer"} |
-| **[Arkansas](../state-guides/arkansas.md)** | Dillon's Rule + limited HR | AR Const. Art. 12, §3; Code §14-42-307 | 2019 ban | **RED** | — | [:material-printer:](../flyers/AR_flyer.html){:target="_blank" title="Arkansas flyer"} |
-| **[California](../state-guides/california.md)** | Home Rule (charter cities) | CA Const. Art. XI, §§5, 7 | **Sanctuary State (SB 54)** | **GREEN** | Los Angeles, San Francisco, San Jose, Oakland | [:material-printer:](../flyers/CA_flyer.html){:target="_blank" title="California flyer"} |
-| **[Colorado](../state-guides/colorado.md)** | Home Rule (strong, since 1902) | CO Const. Art. XX, §6 | None | **GREEN** | Denver, Aurora, Boulder | [:material-printer:](../flyers/CO_flyer.html){:target="_blank" title="Colorado flyer"} |
-| **[Connecticut](../state-guides/connecticut.md)** | Home Rule | CT Const. Art. X; CGS §7-148 | None | **GREEN** | New Haven, Hartford, Bridgeport | [:material-printer:](../flyers/CT_flyer.html){:target="_blank" title="Connecticut flyer"} |
-| **[Delaware](../state-guides/delaware.md)** | Statutory HR (municipal)/Dillon's (counties) | 22 Del. C. Ch. 8 | None | **YELLOW** | Wilmington | [:material-printer:](../flyers/DE_flyer.html){:target="_blank" title="Delaware flyer"} |
-| **[Florida](../state-guides/florida.md)** | Home Rule (except taxation) | FL Const. Art. VIII, §2(b); F.S. Ch. 166 | SB 168 (2019) | **RED** | — | [:material-printer:](../flyers/FL_flyer.html){:target="_blank" title="Florida flyer"} |
-| **[Georgia](../state-guides/georgia.md)** | Dillon's Rule + limited HR | GA Const. Art. IX, §2; O.C.G.A. §36-35-3 | HB 87 (2011); HB 301 (2024) | **RED** | See swing state section | [:material-printer:](../flyers/GA_flyer.html){:target="_blank" title="Georgia flyer"} |
-| **[Hawaii](../state-guides/hawaii.md)** | Dillon's Rule (counties only) | HI Const. Art. VIII | None | **YELLOW** | Honolulu | [:material-printer:](../flyers/HI_flyer.html){:target="_blank" title="Hawaii flyer"} |
-| **[Idaho](../state-guides/idaho.md)** | Hybrid | ID Const. Art. XII, §2 | HB 465 (2012) | **RED** | — | [:material-printer:](../flyers/ID_flyer.html){:target="_blank" title="Idaho flyer"} |
-| **[Illinois](../state-guides/illinois.md)** | Home Rule (strong, constitutional) | IL Const. Art. VII, §6 | **Illinois Trust Act protections** | **GREEN** | Chicago, Aurora, Evanston | [:material-printer:](../flyers/IL_flyer.html){:target="_blank" title="Illinois flyer"} |
-| **[Indiana](../state-guides/indiana.md)** | Statutory HR (weak) | IC 36-1-3 | SB 590 (2011); SB 181 (2024); AG active enforcement | **RED** | — | [:material-printer:](../flyers/IN_flyer.html){:target="_blank" title="Indiana flyer"} |
-| **[Iowa](../state-guides/iowa.md)** | Constitutional HR (since 1968) | IA Const. Art. III, §38A | SF 481 (2018) statewide ban | **RED** | — | [:material-printer:](../flyers/IA_flyer.html){:target="_blank" title="Iowa flyer"} |
-| **[Kansas](../state-guides/kansas.md)** | Home Rule (strong, since 1961) | KS Const. Art. 12, §5 | None formal; conservative governance | **YELLOW** | Kansas City, Lawrence | [:material-printer:](../flyers/KS_flyer.html){:target="_blank" title="Kansas flyer"} |
-| **[Kentucky](../state-guides/kentucky.md)** | Dillon's Rule | KY Const. §§156-160; KRS Ch. 82-83 | None | **YELLOW** | Louisville, Lexington | [:material-printer:](../flyers/KY_flyer.html){:target="_blank" title="Kentucky flyer"} |
-| **[Louisiana](../state-guides/louisiana.md)** | Hybrid (Dillon's pre-1974/HR post-1974) | LA Const. 1974 Art. VI | None | **YELLOW** | New Orleans (existing sanctuary) | [:material-printer:](../flyers/LA_flyer.html){:target="_blank" title="Louisiana flyer"} |
-| **[Maine](../state-guides/maine.md)** | Home Rule (strong) | ME Const. Art. VIII, Part 2, §1 | None | **GREEN** | Portland, Lewiston | [:material-printer:](../flyers/ME_flyer.html){:target="_blank" title="Maine flyer"} |
-| **[Maryland](../state-guides/maryland.md)** | Home Rule (tiered) | MD Const. Art. XI-A, XI-E, XI-F | None | **GREEN** | Baltimore, Montgomery County | [:material-printer:](../flyers/MD_flyer.html){:target="_blank" title="Maryland flyer"} |
-| **[Massachusetts](../state-guides/massachusetts.md)** | Home Rule (hybrid) | MA Const. Amend. Art. 89 | None | **GREEN** | Boston, Cambridge, Worcester | [:material-printer:](../flyers/MA_flyer.html){:target="_blank" title="Massachusetts flyer"} |
-| **[Michigan](../state-guides/michigan.md)** | Home Rule (strong, constitutional) | MI Const. Art. VII, §§21-22 | Pending (HB 4338-4342) | **GREEN** | See swing state section | [:material-printer:](../flyers/MI_flyer.html){:target="_blank" title="Michigan flyer"} |
-| **[Minnesota](../state-guides/minnesota.md)** | Dillon's Rule + optional HR charter | MN Const. Art. XII, §§3-5; Ch. 410 | None; multiple sanctuary counties | **GREEN** | Minneapolis, St. Paul | [:material-printer:](../flyers/MN_flyer.html){:target="_blank" title="Minnesota flyer"} |
-| **[Mississippi](../state-guides/mississippi.md)** | Dillon's Rule | MS Const. Art. 4, §88; Code Title 21 | SB 2988 (2008) | **RED** | — | [:material-printer:](../flyers/MS_flyer.html){:target="_blank" title="Mississippi flyer"} |
-| **[Missouri](../state-guides/missouri.md)** | Constitutional HR (charter cities) | MO Const. Art. VI, §19 | State ban | **RED** | — | [:material-printer:](../flyers/MO_flyer.html){:target="_blank" title="Missouri flyer"} |
-| **[Montana](../state-guides/montana.md)** | Home Rule (strong) | MT Const. Art. XI, §§4, 6 | HB 200 (2017) | **RED** | — | [:material-printer:](../flyers/MT_flyer.html){:target="_blank" title="Montana flyer"} |
-| **[Nebraska](../state-guides/nebraska.md)** | Hybrid (Dillon's + limited HR >5,000) | NE Const. Art. XI, §2 | None formal | **YELLOW** | Omaha, Lincoln | [:material-printer:](../flyers/NE_flyer.html){:target="_blank" title="Nebraska flyer"} |
-| **[Nevada](../state-guides/nevada.md)** | Hybrid (Dillon's modified 2015) | NV Const. Art. VIII; NRS 268.001 | DOJ Agreement (2025) | **YELLOW** | See swing state section | [:material-printer:](../flyers/NV_flyer.html){:target="_blank" title="Nevada flyer"} |
-| **[New Hampshire](../state-guides/new-hampshire.md)** | Dillon's Rule (strict) | NH Const. Art. 39, Part I; RSA 49-B | None | **YELLOW** | Manchester, Nashua | [:material-printer:](../flyers/NH_flyer.html){:target="_blank" title="New Hampshire flyer"} |
-| **[New Jersey](../state-guides/new-jersey.md)** | Statutory HR (liberal construction) | NJ Const. Art. IV, §7; N.J.S.A. 40:42-4 | None | **GREEN** | Newark, Jersey City | [:material-printer:](../flyers/NJ_flyer.html){:target="_blank" title="New Jersey flyer"} |
-| **[New Mexico](../state-guides/new-mexico.md)** | Home Rule (strong) | NM Const. Art. X, §6 | None | **GREEN** | Albuquerque, Santa Fe | [:material-printer:](../flyers/NM_flyer.html){:target="_blank" title="New Mexico flyer"} |
-| **[New York](../state-guides/new-york.md)** | Home Rule (constitutional) | NY Const. Art. IX; Mun. Home Rule Law §10 | None | **GREEN** | New York City, Buffalo, Albany | [:material-printer:](../flyers/NY_flyer.html){:target="_blank" title="New York flyer"} |
-| **[North Carolina](../state-guides/north-carolina.md)** | Hybrid (modified Dillon's) | NC Const. Art. VII; G.S. 160A-4 | State ban; HB 10 (2024) | **RED** | See swing state section | [:material-printer:](../flyers/NC_flyer.html){:target="_blank" title="North Carolina flyer"} |
-| **[North Dakota](../state-guides/north-dakota.md)** | Constitutional HR (since 1966) | ND Const. Art. VII; NDCC 40-05.1 | 2011 legislation | **RED** | — | [:material-printer:](../flyers/ND_flyer.html){:target="_blank" title="North Dakota flyer"} |
-| **[Ohio](../state-guides/ohio.md)** | Home Rule (strong, since 1912) | OH Const. Art. XVIII, §§1-14 | None; Cincinnati/Cleveland sanctuary | **GREEN** | Cleveland, Cincinnati, Columbus | [:material-printer:](../flyers/OH_flyer.html){:target="_blank" title="Ohio flyer"} |
-| **[Oklahoma](../state-guides/oklahoma.md)** | Dillon's Rule + HR provisions | OK Const. Art. XVIII | HB 1804 (2007) | **RED** | — | [:material-printer:](../flyers/OK_flyer.html){:target="_blank" title="Oklahoma flyer"} |
-| **[Oregon](../state-guides/oregon.md)** | Home Rule (strong, since 1906) | OR Const. Art. XI, §2 | None; Portland sanctuary | **GREEN** | Portland, Eugene, Salem | [:material-printer:](../flyers/OR_flyer.html){:target="_blank" title="Oregon flyer"} |
-| **[Pennsylvania](../state-guides/pennsylvania.md)** | HR (optional charter since 1972) | PA Const. Art. IX, §2; 53 Pa.C.S. §2901 | None; firearms preemption precedent | **YELLOW** | See swing state section | [:material-printer:](../flyers/PA_flyer.html){:target="_blank" title="Pennsylvania flyer"} |
-| **[Rhode Island](../state-guides/rhode-island.md)** | Home Rule (constitutional) | RI Const. Art. XIII | None | **GREEN** | Providence | [:material-printer:](../flyers/RI_flyer.html){:target="_blank" title="Rhode Island flyer"} |
-| **[South Carolina](../state-guides/south-carolina.md)** | Home Rule (Dillon's Rule abolished 1993) | SC Const. Art. VIII; S.C. Code §5-7-30 | SB 20 (2011) E-Verify | **YELLOW** | Charleston, Columbia | [:material-printer:](../flyers/SC_flyer.html){:target="_blank" title="South Carolina flyer"} |
-| **[South Dakota](../state-guides/south-dakota.md)** | Dillon's Rule | SD Codified Laws | 2011 legislation | **RED** | — | [:material-printer:](../flyers/SD_flyer.html){:target="_blank" title="South Dakota flyer"} |
-| **[Tennessee](../state-guides/tennessee.md)** | Hybrid (Dillon's + exceptions) | TN Const. Art. XI, §9; TCA Title 6 | **SB 6002 (2025) - FELONY for officials** | **RED** | — | [:material-printer:](../flyers/TN_flyer.html){:target="_blank" title="Tennessee flyer"} |
-| **[Texas](../state-guides/texas.md)** | Hybrid (HR >5,000) | TX Const. Art. XI, §5 | **SB 4 (2017) - fines, misdemeanor, removal** | **RED** | — | [:material-printer:](../flyers/TX_flyer.html){:target="_blank" title="Texas flyer"} |
-| **[Utah](../state-guides/utah.md)** | Home Rule (strong) | UT Const. Art. XI, §5 | None formal | **YELLOW** | Salt Lake City | [:material-printer:](../flyers/UT_flyer.html){:target="_blank" title="Utah flyer"} |
-| **[Vermont](../state-guides/vermont.md)** | Dillon's Rule (strict) | VT Const. Ch. II, §§2, 6; 24 V.S.A. | None | **YELLOW** | Burlington | [:material-printer:](../flyers/VT_flyer.html){:target="_blank" title="Vermont flyer"} |
-| **[Virginia](../state-guides/virginia.md)** | Dillon's Rule (strictest in nation) | VA Const. Art. VII; Code Title 15.2 | Effective via Dillon's Rule | **RED** | — | [:material-printer:](../flyers/VA_flyer.html){:target="_blank" title="Virginia flyer"} |
-| **[Washington](../state-guides/washington.md)** | Hybrid (HR for first-class cities) | WA Const. Art. XI, §§10-11 | None; Seattle sanctuary | **GREEN** | Seattle, Tacoma | [:material-printer:](../flyers/WA_flyer.html){:target="_blank" title="Washington flyer"} |
-| **[West Virginia](../state-guides/west-virginia.md)** | Hybrid (statutory 1969) | WV Const. Art. VI; Code §8-12-2 | Comprehensive ban | **RED** | — | [:material-printer:](../flyers/WV_flyer.html){:target="_blank" title="West Virginia flyer"} |
-| **[Wisconsin](../state-guides/wisconsin.md)** | Constitutional HR (limited) | WI Const. Art. XI, §3 | 2019 ban (Walker); DHS designations | **YELLOW** | See swing state section | [:material-printer:](../flyers/WI_flyer.html){:target="_blank" title="Wisconsin flyer"} |
-| **[Wyoming](../state-guides/wyoming.md)** | Dillon's Rule | WY Const. Art. XIII | State policy | **RED** | — | [:material-printer:](../flyers/WY_flyer.html){:target="_blank" title="Wyoming flyer"} |
+| **[Alabama](../state-guides/alabama.md)** | Dillon's Rule (strict) | AL Const. 1901, Amend. 825; Code §11-40-1 | Proposed; HB 56 (2011) active | **Tier 3** | — | [:material-printer:](../flyers/AL_flyer.html){:target="_blank" title="Alabama flyer"} |
+| **[Alaska](../state-guides/alaska.md)** | Home Rule (strong) | AK Const. Art. X, §11 | None | **Tier 1** | Anchorage, Juneau | [:material-printer:](../flyers/AK_flyer.html){:target="_blank" title="Alaska flyer"} |
+| **[Arizona](../state-guides/arizona.md)** | Hybrid (HR 3,500+) | AZ Const. Art. XIII, §2 | SB 1070 (2010); SB 1487 (2016) preemption | **Tier 3** | See swing state section | [:material-printer:](../flyers/AZ_flyer.html){:target="_blank" title="Arizona flyer"} |
+| **[Arkansas](../state-guides/arkansas.md)** | Dillon's Rule + limited HR | AR Const. Art. 12, §3; Code §14-42-307 | 2019 ban | **Tier 3** | — | [:material-printer:](../flyers/AR_flyer.html){:target="_blank" title="Arkansas flyer"} |
+| **[California](../state-guides/california.md)** | Home Rule (charter cities) | CA Const. Art. XI, §§5, 7 | **Sanctuary State (SB 54)** | **Tier 1** | Los Angeles, San Francisco, San Jose, Oakland | [:material-printer:](../flyers/CA_flyer.html){:target="_blank" title="California flyer"} |
+| **[Colorado](../state-guides/colorado.md)** | Home Rule (strong, since 1902) | CO Const. Art. XX, §6 | None | **Tier 1** | Denver, Aurora, Boulder | [:material-printer:](../flyers/CO_flyer.html){:target="_blank" title="Colorado flyer"} |
+| **[Connecticut](../state-guides/connecticut.md)** | Home Rule | CT Const. Art. X; CGS §7-148 | None | **Tier 1** | New Haven, Hartford, Bridgeport | [:material-printer:](../flyers/CT_flyer.html){:target="_blank" title="Connecticut flyer"} |
+| **[Delaware](../state-guides/delaware.md)** | Statutory HR (municipal)/Dillon's (counties) | 22 Del. C. Ch. 8 | None | **Tier 2** | Wilmington | [:material-printer:](../flyers/DE_flyer.html){:target="_blank" title="Delaware flyer"} |
+| **[Florida](../state-guides/florida.md)** | Home Rule (except taxation) | FL Const. Art. VIII, §2(b); F.S. Ch. 166 | SB 168 (2019) | **Tier 3** | — | [:material-printer:](../flyers/FL_flyer.html){:target="_blank" title="Florida flyer"} |
+| **[Georgia](../state-guides/georgia.md)** | Dillon's Rule + limited HR | GA Const. Art. IX, §2; O.C.G.A. §36-35-3 | HB 87 (2011); HB 301 (2024) | **Tier 3** | See swing state section | [:material-printer:](../flyers/GA_flyer.html){:target="_blank" title="Georgia flyer"} |
+| **[Hawaii](../state-guides/hawaii.md)** | Dillon's Rule (counties only) | HI Const. Art. VIII | None | **Tier 2** | Honolulu | [:material-printer:](../flyers/HI_flyer.html){:target="_blank" title="Hawaii flyer"} |
+| **[Idaho](../state-guides/idaho.md)** | Hybrid | ID Const. Art. XII, §2 | HB 465 (2012) | **Tier 3** | — | [:material-printer:](../flyers/ID_flyer.html){:target="_blank" title="Idaho flyer"} |
+| **[Illinois](../state-guides/illinois.md)** | Home Rule (strong, constitutional) | IL Const. Art. VII, §6 | **Illinois Trust Act protections** | **Tier 1** | Chicago, Aurora, Evanston | [:material-printer:](../flyers/IL_flyer.html){:target="_blank" title="Illinois flyer"} |
+| **[Indiana](../state-guides/indiana.md)** | Statutory HR (weak) | IC 36-1-3 | SB 590 (2011); SB 181 (2024); AG active enforcement | **Tier 3** | — | [:material-printer:](../flyers/IN_flyer.html){:target="_blank" title="Indiana flyer"} |
+| **[Iowa](../state-guides/iowa.md)** | Constitutional HR (since 1968) | IA Const. Art. III, §38A | SF 481 (2018) statewide ban | **Tier 3** | — | [:material-printer:](../flyers/IA_flyer.html){:target="_blank" title="Iowa flyer"} |
+| **[Kansas](../state-guides/kansas.md)** | Home Rule (strong, since 1961) | KS Const. Art. 12, §5 | None formal; conservative governance | **Tier 2** | Kansas City, Lawrence | [:material-printer:](../flyers/KS_flyer.html){:target="_blank" title="Kansas flyer"} |
+| **[Kentucky](../state-guides/kentucky.md)** | Dillon's Rule | KY Const. §§156-160; KRS Ch. 82-83 | None | **Tier 2** | Louisville, Lexington | [:material-printer:](../flyers/KY_flyer.html){:target="_blank" title="Kentucky flyer"} |
+| **[Louisiana](../state-guides/louisiana.md)** | Hybrid (Dillon's pre-1974/HR post-1974) | LA Const. 1974 Art. VI | None | **Tier 2** | New Orleans (existing sanctuary) | [:material-printer:](../flyers/LA_flyer.html){:target="_blank" title="Louisiana flyer"} |
+| **[Maine](../state-guides/maine.md)** | Home Rule (strong) | ME Const. Art. VIII, Part 2, §1 | None | **Tier 1** | Portland, Lewiston | [:material-printer:](../flyers/ME_flyer.html){:target="_blank" title="Maine flyer"} |
+| **[Maryland](../state-guides/maryland.md)** | Home Rule (tiered) | MD Const. Art. XI-A, XI-E, XI-F | None | **Tier 1** | Baltimore, Montgomery County | [:material-printer:](../flyers/MD_flyer.html){:target="_blank" title="Maryland flyer"} |
+| **[Massachusetts](../state-guides/massachusetts.md)** | Home Rule (hybrid) | MA Const. Amend. Art. 89 | None | **Tier 1** | Boston, Cambridge, Worcester | [:material-printer:](../flyers/MA_flyer.html){:target="_blank" title="Massachusetts flyer"} |
+| **[Michigan](../state-guides/michigan.md)** | Home Rule (strong, constitutional) | MI Const. Art. VII, §§21-22 | Pending (HB 4338-4342) | **Tier 1** | See swing state section | [:material-printer:](../flyers/MI_flyer.html){:target="_blank" title="Michigan flyer"} |
+| **[Minnesota](../state-guides/minnesota.md)** | Dillon's Rule + optional HR charter | MN Const. Art. XII, §§3-5; Ch. 410 | None; multiple sanctuary counties | **Tier 1** | Minneapolis, St. Paul | [:material-printer:](../flyers/MN_flyer.html){:target="_blank" title="Minnesota flyer"} |
+| **[Mississippi](../state-guides/mississippi.md)** | Dillon's Rule | MS Const. Art. 4, §88; Code Title 21 | SB 2988 (2008) | **Tier 3** | — | [:material-printer:](../flyers/MS_flyer.html){:target="_blank" title="Mississippi flyer"} |
+| **[Missouri](../state-guides/missouri.md)** | Constitutional HR (charter cities) | MO Const. Art. VI, §19 | State ban | **Tier 3** | — | [:material-printer:](../flyers/MO_flyer.html){:target="_blank" title="Missouri flyer"} |
+| **[Montana](../state-guides/montana.md)** | Home Rule (strong) | MT Const. Art. XI, §§4, 6 | HB 200 (2017) | **Tier 3** | — | [:material-printer:](../flyers/MT_flyer.html){:target="_blank" title="Montana flyer"} |
+| **[Nebraska](../state-guides/nebraska.md)** | Hybrid (Dillon's + limited HR >5,000) | NE Const. Art. XI, §2 | None formal | **Tier 2** | Omaha, Lincoln | [:material-printer:](../flyers/NE_flyer.html){:target="_blank" title="Nebraska flyer"} |
+| **[Nevada](../state-guides/nevada.md)** | Hybrid (Dillon's modified 2015) | NV Const. Art. VIII; NRS 268.001 | DOJ Agreement (2025) | **Tier 2** | See swing state section | [:material-printer:](../flyers/NV_flyer.html){:target="_blank" title="Nevada flyer"} |
+| **[New Hampshire](../state-guides/new-hampshire.md)** | Dillon's Rule (strict) | NH Const. Art. 39, Part I; RSA 49-B | None | **Tier 2** | Manchester, Nashua | [:material-printer:](../flyers/NH_flyer.html){:target="_blank" title="New Hampshire flyer"} |
+| **[New Jersey](../state-guides/new-jersey.md)** | Statutory HR (liberal construction) | NJ Const. Art. IV, §7; N.J.S.A. 40:42-4 | None | **Tier 1** | Newark, Jersey City | [:material-printer:](../flyers/NJ_flyer.html){:target="_blank" title="New Jersey flyer"} |
+| **[New Mexico](../state-guides/new-mexico.md)** | Home Rule (strong) | NM Const. Art. X, §6 | None | **Tier 1** | Albuquerque, Santa Fe | [:material-printer:](../flyers/NM_flyer.html){:target="_blank" title="New Mexico flyer"} |
+| **[New York](../state-guides/new-york.md)** | Home Rule (constitutional) | NY Const. Art. IX; Mun. Home Rule Law §10 | None | **Tier 1** | New York City, Buffalo, Albany | [:material-printer:](../flyers/NY_flyer.html){:target="_blank" title="New York flyer"} |
+| **[North Carolina](../state-guides/north-carolina.md)** | Hybrid (modified Dillon's) | NC Const. Art. VII; G.S. 160A-4 | State ban; HB 10 (2024) | **Tier 3** | See swing state section | [:material-printer:](../flyers/NC_flyer.html){:target="_blank" title="North Carolina flyer"} |
+| **[North Dakota](../state-guides/north-dakota.md)** | Constitutional HR (since 1966) | ND Const. Art. VII; NDCC 40-05.1 | 2011 legislation | **Tier 3** | — | [:material-printer:](../flyers/ND_flyer.html){:target="_blank" title="North Dakota flyer"} |
+| **[Ohio](../state-guides/ohio.md)** | Home Rule (strong, since 1912) | OH Const. Art. XVIII, §§1-14 | None; Cincinnati/Cleveland sanctuary | **Tier 1** | Cleveland, Cincinnati, Columbus | [:material-printer:](../flyers/OH_flyer.html){:target="_blank" title="Ohio flyer"} |
+| **[Oklahoma](../state-guides/oklahoma.md)** | Dillon's Rule + HR provisions | OK Const. Art. XVIII | HB 1804 (2007) | **Tier 3** | — | [:material-printer:](../flyers/OK_flyer.html){:target="_blank" title="Oklahoma flyer"} |
+| **[Oregon](../state-guides/oregon.md)** | Home Rule (strong, since 1906) | OR Const. Art. XI, §2 | None; Portland sanctuary | **Tier 1** | Portland, Eugene, Salem | [:material-printer:](../flyers/OR_flyer.html){:target="_blank" title="Oregon flyer"} |
+| **[Pennsylvania](../state-guides/pennsylvania.md)** | HR (optional charter since 1972) | PA Const. Art. IX, §2; 53 Pa.C.S. §2901 | None; firearms preemption precedent | **Tier 2** | See swing state section | [:material-printer:](../flyers/PA_flyer.html){:target="_blank" title="Pennsylvania flyer"} |
+| **[Rhode Island](../state-guides/rhode-island.md)** | Home Rule (constitutional) | RI Const. Art. XIII | None | **Tier 1** | Providence | [:material-printer:](../flyers/RI_flyer.html){:target="_blank" title="Rhode Island flyer"} |
+| **[South Carolina](../state-guides/south-carolina.md)** | Home Rule (Dillon's Rule abolished 1993) | SC Const. Art. VIII; S.C. Code §5-7-30 | SB 20 (2011) E-Verify | **Tier 2** | Charleston, Columbia | [:material-printer:](../flyers/SC_flyer.html){:target="_blank" title="South Carolina flyer"} |
+| **[South Dakota](../state-guides/south-dakota.md)** | Dillon's Rule | SD Codified Laws | 2011 legislation | **Tier 3** | — | [:material-printer:](../flyers/SD_flyer.html){:target="_blank" title="South Dakota flyer"} |
+| **[Tennessee](../state-guides/tennessee.md)** | Hybrid (Dillon's + exceptions) | TN Const. Art. XI, §9; TCA Title 6 | **SB 6002 (2025) - FELONY for officials** | **Tier 3** | — | [:material-printer:](../flyers/TN_flyer.html){:target="_blank" title="Tennessee flyer"} |
+| **[Texas](../state-guides/texas.md)** | Hybrid (HR >5,000) | TX Const. Art. XI, §5 | **SB 4 (2017) - fines, misdemeanor, removal** | **Tier 3** | — | [:material-printer:](../flyers/TX_flyer.html){:target="_blank" title="Texas flyer"} |
+| **[Utah](../state-guides/utah.md)** | Home Rule (strong) | UT Const. Art. XI, §5 | None formal | **Tier 2** | Salt Lake City | [:material-printer:](../flyers/UT_flyer.html){:target="_blank" title="Utah flyer"} |
+| **[Vermont](../state-guides/vermont.md)** | Dillon's Rule (strict) | VT Const. Ch. II, §§2, 6; 24 V.S.A. | None | **Tier 2** | Burlington | [:material-printer:](../flyers/VT_flyer.html){:target="_blank" title="Vermont flyer"} |
+| **[Virginia](../state-guides/virginia.md)** | Dillon's Rule (strictest in nation) | VA Const. Art. VII; Code Title 15.2 | Effective via Dillon's Rule | **Tier 3** | — | [:material-printer:](../flyers/VA_flyer.html){:target="_blank" title="Virginia flyer"} |
+| **[Washington](../state-guides/washington.md)** | Hybrid (HR for first-class cities) | WA Const. Art. XI, §§10-11 | None; Seattle sanctuary | **Tier 1** | Seattle, Tacoma | [:material-printer:](../flyers/WA_flyer.html){:target="_blank" title="Washington flyer"} |
+| **[West Virginia](../state-guides/west-virginia.md)** | Hybrid (statutory 1969) | WV Const. Art. VI; Code §8-12-2 | Comprehensive ban | **Tier 3** | — | [:material-printer:](../flyers/WV_flyer.html){:target="_blank" title="West Virginia flyer"} |
+| **[Wisconsin](../state-guides/wisconsin.md)** | Constitutional HR (limited) | WI Const. Art. XI, §3 | 2019 ban (Walker); DHS designations | **Tier 2** | See swing state section | [:material-printer:](../flyers/WI_flyer.html){:target="_blank" title="Wisconsin flyer"} |
+| **[Wyoming](../state-guides/wyoming.md)** | Dillon's Rule | WY Const. Art. XIII | State policy | **Tier 3** | — | [:material-printer:](../flyers/WY_flyer.html){:target="_blank" title="Wyoming flyer"} |
 
 ---
 
-## Tier 1 (GREEN) states offer strongest implementation pathways
+## Tier 1 states — strong home rule authority
 
 ### California leads with sanctuary state infrastructure
 
 California presents the ideal environment for this ordinance. The state's **SB 54 (California Values Act, 2017)** already establishes statewide sanctuary protections, providing legal and political cover for further protective measures. Constitutional home rule under Article XI, Sections 5 and 7 grants charter cities "all embracing" authority over municipal affairs. Los Angeles formalized its sanctuary city ordinance in 2024, San Francisco has maintained sanctuary status since 1989, and San Jose operates with strong immigrant-friendly policies.
 
-**Implementation targets**: Los Angeles (population 3.9M, progressive council, recent sanctuary ordinance), San Francisco (810K, sanctuary since 1989, strong legal infrastructure), San Jose (1M, progressive council), Oakland (progressive council, existing sanctuary policies).
+**Home Rule Cities**: Los Angeles (population 3.9M, progressive council, recent sanctuary ordinance), San Francisco (810K, sanctuary since 1989, strong legal infrastructure), San Jose (1M, progressive council), Oakland (progressive council, existing sanctuary policies).
 
 **Legal framing**: Position as implementing California Values Act protections in the election context; emphasize state policy alignment.
 
@@ -111,7 +111,7 @@ California presents the ideal environment for this ordinance. The state's **SB 5
 
 Illinois's strong constitutional home rule (Article VII, Section 6) automatically applies to cities over 25,000 population—currently 224 municipalities. The **Illinois Trust Act** already limits immigration detainer cooperation, establishing precedent for protective policies. Chicago has defended its sanctuary status against federal litigation, demonstrating institutional capacity for legal challenges.
 
-**Implementation targets**: Chicago (2.7M, existing sanctuary infrastructure, legal defense capacity), Aurora (180K, home rule municipality), Evanston (progressive suburb with history of innovative ordinances).
+**Home Rule Cities**: Chicago (2.7M, existing sanctuary infrastructure, legal defense capacity), Aurora (180K, home rule municipality), Evanston (progressive suburb with history of innovative ordinances).
 
 **Legal framing**: Extension of Trust Act protections to election integrity; municipal personnel management authority under Article VII, Section 6.
 
@@ -119,7 +119,7 @@ Illinois's strong constitutional home rule (Article VII, Section 6) automaticall
 
 Oregon completely rejects Dillon's Rule—all 241 cities operate under constitutional home rule (Article XI, Section 2). Portland reaffirmed its sanctuary status in 2025 and maintains legal defense funds for immigration-related litigation. The state's political environment strongly supports local autonomy.
 
-**Implementation targets**: Portland (650K, sanctuary city reaffirmed 2025, progressive council), Eugene (175K, progressive university city, charter authority), Salem (180K, moderate but home rule authority).
+**Home Rule Cities**: Portland (650K, sanctuary city reaffirmed 2025, progressive council), Eugene (175K, progressive university city, charter authority), Salem (180K, moderate but home rule authority).
 
 **Legal framing**: Pure home rule authority over local affairs; non-interference with federal operations, only resource management decisions.
 
@@ -127,7 +127,7 @@ Oregon completely rejects Dillon's Rule—all 241 cities operate under constitut
 
 Constitutional home rule since 1889 gives first-class cities (population 10,000+) authority to "exercise all powers of legislation upon municipal affairs." Seattle operates as a sanctuary city with legal defense funds and language access initiatives. King County also maintains sanctuary policies.
 
-**Implementation targets**: Seattle (750K, sanctuary city, legal defense capacity, progressive council), Tacoma (220K, progressive-moderate council).
+**Home Rule Cities**: Seattle (750K, sanctuary city, legal defense capacity, progressive council), Tacoma (220K, progressive-moderate council).
 
 **Legal framing**: First-class city police power; Article XI, Section 11 authority over local affairs.
 
@@ -135,7 +135,7 @@ Constitutional home rule since 1889 gives first-class cities (population 10,000+
 
 Michigan's 1963 Constitution provides robust home rule with a mandate for liberal construction. **Proposal 2 (2022)** enshrined local election administration authority in the state constitution, providing specific protection for election-related ordinances. No statewide anti-sanctuary law currently exists, though legislation is pending. Multiple jurisdictions maintain sanctuary-like policies: Detroit (anti-profiling ordinances), Ann Arbor, East Lansing (declared sanctuary January 2023), Lansing ("welcoming city").
 
-**Implementation targets**: Ann Arbor (123K, very progressive council, university community with constitutional law expertise, existing protective policies), Detroit (639K, maximum impact, strong home rule history), Lansing (112K, welcoming city framework, state capital visibility).
+**Home Rule Cities**: Ann Arbor (123K, very progressive council, university community with constitutional law expertise, existing protective policies), Detroit (639K, maximum impact, strong home rule history), Lansing (112K, welcoming city framework, state capital visibility).
 
 **Legal framing**: Tie directly to Proposal 2 election integrity protections; municipal personnel authority under Article VII, Section 22; emphasize non-interference language.
 
@@ -145,7 +145,7 @@ Michigan's 1963 Constitution provides robust home rule with a mandate for libera
 
 ---
 
-## Swing state analysis requires enhanced strategic considerations
+## Swing state analysis
 
 ### Arizona: High political will, extreme legal risk
 
@@ -155,11 +155,11 @@ Michigan's 1963 Constitution provides robust home rule with a mandate for libera
 
 **Anti-Sanctuary Framework**: SB 1070 (2010) provisions remain in effect prohibiting sanctuary policies. The "show me your papers" provision was upheld by the Supreme Court in *Arizona v. United States* (2012).
 
-**Political Window**: Democratic Governor Hobbs and AG Mayes (both elected 2022) provide a friendlier enforcement environment through at least January 2027. However, any Republican legislator could file SB 1487 complaints regardless of executive branch composition.
+**Political context**: Democratic Governor Hobbs and AG Mayes (both elected 2022) provide a friendlier enforcement environment through at least January 2027. However, any Republican legislator could file SB 1487 complaints regardless of executive branch composition.
 
-**Target Cities**: Tucson (highest political will, but highest target risk—has been the primary focus of SB 1487), Phoenix (Democratic Mayor Gallego, largest city means highest financial stakes), Tempe (progressive but cautious council).
+**Home Rule Cities**: Tucson (highest political will, but highest target risk—has been the primary focus of SB 1487), Phoenix (Democratic Mayor Gallego, largest city means highest financial stakes), Tempe (progressive but cautious council).
 
-**Strategic Recommendation**: Wait for 2026 election results. If Democrats retain Governor and AG, pass ordinances in Phoenix and Tucson in early 2027. Frame explicitly as federal law compliance (18 U.S.C. § 592) rather than anything immigration-related. Multiple cities passing simultaneously spreads political risk.
+**Analytical notes**: Wait for 2026 election results. If Democrats retain Governor and AG, pass ordinances in Phoenix and Tucson in early 2027. Frame explicitly as federal law compliance (18 U.S.C. § 592) rather than anything immigration-related. Multiple cities passing simultaneously spreads political risk.
 
 ### Georgia: Hostile state environment, Atlanta as fortress
 
@@ -169,9 +169,9 @@ Michigan's 1963 Constitution provides robust home rule with a mandate for libera
 
 **State-City Hostility**: Georgia demonstrates the most adversarial state-city relationship in the nation. The Republican legislature has repeatedly attempted to take over Atlanta's airport, with Lt. Governor Burt Jones leading these efforts. SB 202 (2021) gave the General Assembly power to suspend/replace local election officials.
 
-**Target Cities**: Atlanta (500K, progressive council, history of successful resistance to state takeover, federal allies including Senator Warnock secured FAA legislation blocking airport takeover), Athens-Clarke County (68% Harris vote 2024, passed ranked-choice voting resolution, but specifically targeted by Lt. Gov. Jones), Savannah (lower profile may avoid legislative attention).
+**Home Rule Cities**: Atlanta (500K, progressive council, history of successful resistance to state takeover, federal allies including Senator Warnock secured FAA legislation blocking airport takeover), Athens-Clarke County (68% Harris vote 2024, passed ranked-choice voting resolution, but specifically targeted by Lt. Gov. Jones), Savannah (lower profile may avoid legislative attention).
 
-**Strategic Recommendation**: Atlanta is the only viable target given resources for legal defense and history of successful resistance. Frame as personnel management/worker safety rather than election policy to avoid triggering the constitutional exclusion. Build coalition with Brennan Center, ACLU, and election law experts before adoption. Prepare for immediate legislative response.
+**Analytical notes**: Atlanta is the only viable target given resources for legal defense and history of successful resistance. Frame as personnel management/worker safety rather than election policy to avoid triggering the constitutional exclusion. Build coalition with Brennan Center, ACLU, and election law experts before adoption. Prepare for immediate legislative response.
 
 ### Michigan: Best swing state opportunity
 
@@ -181,7 +181,7 @@ As detailed in Tier 1 analysis, Michigan combines strong constitutional home rul
 
 **Political Dynamics**: Governor Whitmer (D) supports local autonomy; Secretary of State Benson (D) has supported local election administration; legislature potentially divided.
 
-**Strategic Recommendation**: Begin with Ann Arbor as test case—progressive council, university constitutional law expertise, existing protective policies. Follow with Detroit for maximum impact. Frame as Proposal 2 implementation and municipal personnel management.
+**Analytical notes**: Begin with Ann Arbor as test case—progressive council, university constitutional law expertise, existing protective policies. Follow with Detroit for maximum impact. Frame as Proposal 2 implementation and municipal personnel management.
 
 ### Nevada: Moderate opportunity but gubernatorial obstacle
 
@@ -189,11 +189,11 @@ As detailed in Tier 1 analysis, Michigan combines strong constitutional home rul
 
 **Complicating Factor**: Governor Lombardo (R) signed a DOJ agreement in September 2025 making Nevada the first state removed from the federal "sanctuary jurisdiction" list. The agreement commits the state to "counter-balance" any sanctuary policies from the Attorney General or Legislature.
 
-**Political Window**: AG Aaron Ford (D) is running against Lombardo for Governor in 2026. If Ford wins, the environment changes dramatically.
+**Political context**: AG Aaron Ford (D) is running against Lombardo for Governor in 2026. If Ford wins, the environment changes dramatically.
 
-**Target Cities**: Las Vegas (660K, new Democratic Mayor Shelley Berkley elected November 2024), Reno (depends on 2026 mayoral race outcome).
+**Home Rule Cities**: Las Vegas (660K, new Democratic Mayor Shelley Berkley elected November 2024), Reno (depends on 2026 mayoral race outcome).
 
-**Strategic Recommendation**: Wait for November 2026 election results. If Ford defeats Lombardo, implement in Las Vegas in 2027. Frame as election administration and voter protection, completely separate from immigration terminology.
+**Analytical notes**: Wait for November 2026 election results. If Ford defeats Lombardo, implement in Las Vegas in 2027. Frame as election administration and voter protection, completely separate from immigration terminology.
 
 ### North Carolina: Hostile environment with aggressive preemption
 
@@ -203,9 +203,9 @@ As detailed in Tier 1 analysis, Michigan combines strong constitutional home rul
 
 **Current Dynamics**: Republican Senate supermajority, House Republicans one seat short but have secured Democratic defectors for veto overrides. State Board of Elections control transferred to Republican State Auditor. Republican-majority state Supreme Court limits judicial relief.
 
-**Target Cities**: Durham (strongest progressive council, existing protective policies, Gaza ceasefire resolution, HEART crisis response program), Asheville (progressive enclave, smaller profile).
+**Home Rule Cities**: Durham (strongest progressive council, existing protective policies, Gaza ceasefire resolution, HEART crisis response program), Asheville (progressive enclave, smaller profile).
 
-**Strategic Recommendation**: Durham is the only viable target. Frame as personnel management under G.S. 160A-174 "health, safety, or welfare" authority. Expect immediate legislative preemption response. Consider whether establishing precedent is worth certain legislative override. Charlotte should be avoided initially due to HB2 baggage.
+**Analytical notes**: Durham is the only viable target. Frame as personnel management under G.S. 160A-174 "health, safety, or welfare" authority. Expect immediate legislative preemption response. Consider whether establishing precedent is worth certain legislative override. Charlotte should be avoided initially due to HB2 baggage.
 
 ### Pennsylvania: Moderate opportunity with preemption concerns
 
@@ -215,9 +215,9 @@ As detailed in Tier 1 analysis, Michigan combines strong constitutional home rul
 
 **Political Balance**: Governor Shapiro (D) is moderate; Democratic House majority, Republican Senate. Pennsylvania Supreme Court has 5-2 Democratic majority.
 
-**Target Cities**: Pittsburgh (302K, progressive Mayor Ed Gainey seeking re-election 2025, attempted local gun ordinances, union support), Philadelphia (1.6M, WFP council members could champion, but recent Supreme Court loss is concerning).
+**Home Rule Cities**: Pittsburgh (302K, progressive Mayor Ed Gainey seeking re-election 2025, attempted local gun ordinances, union support), Philadelphia (1.6M, WFP council members could champion, but recent Supreme Court loss is concerning).
 
-**Strategic Recommendation**: Pittsburgh is the better initial target—progressive mayor, history of attempting local ordinances despite preemption, strong union infrastructure. Frame under home rule charter authority over "municipal property and government," distinguishing from firearms cases. Cite Pennsylvania Constitution Article I, Section 5: "Elections shall be free and equal; and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage."
+**Analytical notes**: Pittsburgh is the better initial target—progressive mayor, history of attempting local ordinances despite preemption, strong union infrastructure. Frame under home rule charter authority over "municipal property and government," distinguishing from firearms cases. Cite Pennsylvania Constitution Article I, Section 5: "Elections shall be free and equal; and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage."
 
 ### Wisconsin: Most challenging swing state
 
@@ -229,9 +229,9 @@ As detailed in Tier 1 analysis, Michigan combines strong constitutional home rul
 
 **Political Dynamics**: Republican-controlled legislature despite 2023 redistricting. Wisconsin Supreme Court flipped to 4-3 liberal majority; Act 10 may face full review.
 
-**Target Cities**: Madison (269K, strong progressive tradition, Dane County actively pushing back on federal sanctuary designation), Milwaukee (577K, but Mayor Johnson explicitly refuses "sanctuary" label to avoid targeting).
+**Home Rule Cities**: Madison (269K, strong progressive tradition, Dane County actively pushing back on federal sanctuary designation), Milwaukee (577K, but Mayor Johnson explicitly refuses "sanctuary" label to avoid targeting).
 
-**Strategic Recommendation**: Wisconsin is the riskiest swing state. Avoid "sanctuary" terminology entirely. Madison is the only viable target. Wait for Act 10 litigation outcome—if struck down, new local collective bargaining authority may strengthen local control arguments. Frame as local election administration and public safety management, completely separate from immigration enforcement cooperation.
+**Analytical notes**: Wisconsin is the riskiest swing state. Avoid "sanctuary" terminology entirely. Madison is the only viable target. Wait for Act 10 litigation outcome—if struck down, new local collective bargaining authority may strengthen local control arguments. Frame as local election administration and public safety management, completely separate from immigration enforcement cooperation.
 
 ---
 
@@ -294,9 +294,9 @@ Section 2. Nothing in this ordinance shall: (a) Prohibit city employees from res
 
 ---
 
-## Coalition building should precede adoption
+## Relevant legal and civic organizations
 
-Before any city adopts the ordinance, coordinate with established organizations that bring legal expertise, electoral credibility, community organizing capacity, and litigation support. Simultaneous adoption across multiple jurisdictions creates mutual support and spreads political targeting risk. A coordinated multi-city campaign is more defensible than isolated local efforts.
+The organizations identified below have relevant experience in voting-rights litigation, civil-rights advocacy, and local-ordinance analysis.
 
 ### Legal and Litigation Organizations
 
@@ -443,8 +443,8 @@ Before any city adopts the ordinance, coordinate with established organizations 
 
 ---
 
-## Conclusion
+## Summary
 
-The Municipal Election Integrity Ordinance has viable legal pathways in approximately one-third of states, with strong implementation potential in major progressive cities. The federal felony exemption argument—grounding the ordinance in compliance with 18 U.S.C. § 592 rather than traditional sanctuary city principles—provides a distinctly defensible legal position. However, implementation must account for the dramatically varied legal landscape across states, ranging from constitutional home rule protections in California and Oregon to felony criminal penalties for officials in Tennessee.
+Approximately one-third of states provide home rule and preemption frameworks within which municipal ordinances addressing armed federal personnel at polling places can be enacted without conflict with state law. The compliance theory — grounding the ordinance in the Supremacy Clause limitation that federal law is supreme only when lawful, together with 18 U.S.C. § 592's criminalization of the underlying conduct — provides a defensible legal position distinct from the sanctuary-city doctrine. The remaining states present a varied set of constraints, ranging from Dillon's Rule limitations on municipal authority to anti-sanctuary statutes carrying criminal penalties for local officials.
 
-Priority implementation should focus on Tier 1 states with strong home rule, no anti-sanctuary laws, and existing protective infrastructure. Swing state implementation requires careful timing around the 2026 elections and state-specific strategic considerations. The strongest approach frames the ordinance as municipal resource management ensuring compliance with federal election law, explicitly preserving city ability to respond to genuine emergencies while directing resources away from facilitating what federal law itself prohibits.
+Priority implementation should focus on Tier 1 states with strong home rule, no anti-sanctuary laws, and existing protective infrastructure. Swing state implementation requires careful timing around the 2026 elections and state-specific considerations. The strongest approach frames the ordinance as municipal resource management ensuring compliance with federal election law, explicitly preserving city ability to respond to genuine emergencies while directing resources away from facilitating what federal law itself prohibits.

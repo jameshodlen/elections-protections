@@ -1,21 +1,21 @@
 ---
 title: "Iowa — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Iowa municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Iowa municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - iowa
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - iowa
+ - election-security
+ - 18-usc-592
 ---
 
 # Iowa Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -82,7 +82,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Key Assets | Rating |
 |---|---|---|---|---|
@@ -104,13 +104,13 @@ However, the Winneshiek County Sheriff incident (2025) demonstrates the AG will 
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **ACLU of Iowa** (Executive Director Mark Stringer, Legal Director Rita Bettis Austen) — Active voting rights program; successfully challenged SF 2340 in federal court; critical partner with litigation capacity and statewide credibility.
 
 **League of Women Voters of Iowa** — Nonpartisan election monitoring and advocacy; national LWV president Dr. Deborah Ann Turner is from Iowa; provides mainstream credibility.
 
-**Iowa Migrant Movement for Justice (Iowa MMJ)** (Founding Executive Director Erica Johnson) — Lead plaintiff in SF 2340 litigation; demonstrated ability to mobilize communities and challenge state overreach in federal court.
+**Iowa Migrant Movement for Justice (Iowa MMJ)** (Founding Executive Director Erica Johnson) — Lead plaintiff in SF 2340 litigation; demonstrated ability to engage communities and challenge state overreach in federal court.
 
 **States United Democracy Center** — National organization focused on election protection; has published analysis of 18 U.S.C. Section 592 and federal roles at elections; legal resources and model language.
 
@@ -167,8 +167,7 @@ A **council ordinance** is recommended — charter amendments require voter appr
 - **OCIO/Cybersecurity**: (515) 281-5503; SecurityAwareness@iowa.gov
 - **HSEM**: (515) 725-3231; homelandsecurity.iowa.gov
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -195,8 +194,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions — though the 2022 strict scrutiny amendment creates a high constitutional bar for any firearms regulation.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Iowa's Republican trifecta, anti-sanctuary law, and constitutional strict scrutiny requirement for firearms restrictions create one of the most hostile environments for the Master State Bill Template. Both state legislation and municipal ordinances face severe headwinds. Iowa City, Des Moines, and Cedar Rapids are the most viable municipal targets but face preemption constraints. The state bill serves exclusively as a messaging vehicle.
 
 ### Target Committees
@@ -205,29 +203,3 @@ Iowa's Republican trifecta, anti-sanctuary law, and constitutional strict scruti
 |---|---|---|---|
 | Senate | State Government | Verify current chair | Jurisdiction over election law |
 | House | State Government | Verify current chair | Jurisdiction over election law |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Iowa Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Iowa-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/IA_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Ames** — ~66,000](../flyers/city/IA_ames.html){:target="_blank" .md-button}
-[:material-file-download: **Cedar Rapids** — ~138,000](../flyers/city/IA_cedar-rapids.html){:target="_blank" .md-button}
-[:material-file-download: **Davenport** — ~102,000](../flyers/city/IA_davenport.html){:target="_blank" .md-button}
-[:material-file-download: **Des Moines** — ~214,000](../flyers/city/IA_des-moines.html){:target="_blank" .md-button}
-[:material-file-download: **Iowa City** — ~75,000](../flyers/city/IA_iowa-city.html){:target="_blank" .md-button}
-[:material-file-download: **Johnson County (Iowa City)** — ~75,000](../flyers/city/IA_johnson-county-iowa-city.html){:target="_blank" .md-button}
-

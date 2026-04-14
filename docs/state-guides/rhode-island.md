@@ -1,32 +1,32 @@
 ---
 title: Rhode Island — Municipal Election Protection Ordinance Guide
 description: >-
-  Strategic legal and political roadmap for Rhode Island municipal election protection ordinances under Article XIII constitutional home rule, covering the 2022 North Providence v. FOP decision and target city analysis for Providence and Central Falls.
+ Strategic legal and political roadmap for Rhode Island municipal election protection ordinances under Article XIII constitutional home rule, covering the 2022 North Providence v. FOP decision and city with home rule authority analysis for Providence and Central Falls.
 tags:
-  - tier-green
-  - rhode-island
-  - home-rule
-  - providence
-  - central-falls
+ - tier-1
+ - rhode-island
+ - home-rule
+ - providence
+ - central-falls
 ---
 
 # Rhode Island election protection ordinance: A strategic legal and political roadmap
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">2</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Rhode Island presents **exceptionally favorable conditions** for adapting a municipal election protection ordinance prohibiting city resources from assisting armed federal personnel near polling places. The state's constitutional home rule framework (Article XIII), absence of anti-sanctuary preemption laws, and established municipal precedents—most notably Providence's Community-Police Relations Act—create strong legal footing. A 2022 Rhode Island Supreme Court decision confirming municipal "indispensable managerial rights" over police operations further strengthens the legal case. Providence and Central Falls emerge as priority targets, with existing sanctuary infrastructure, progressive leadership, and proven federal court victories defending local autonomy.
+Rhode Island presents **substantial conditions** for adapting a municipal election protection ordinance prohibiting city resources from assisting armed federal personnel near polling places. The state's constitutional home rule framework (Article XIII), absence of anti-sanctuary preemption laws, and established municipal precedents—most notably Providence's Community-Police Relations Act—create strong legal footing. A 2022 Rhode Island Supreme Court decision confirming municipal "indispensable managerial rights" over police operations further strengthens the legal case. Providence and Central Falls emerge as priority targets, with existing sanctuary infrastructure, progressive leadership, and proven federal court victories defending local autonomy.
 
 !!! info "March 2026 Update — State Legislation Under Consideration"
-    Rhode Island lawmakers are considering legislation to **protect polling places from federal agent deployment.** Rhode Island's Democratic trifecta and constitutional home rule framework make state-level passage a strong possibility.
+ Rhode Island lawmakers are considering legislation to **protect polling places from federal agent deployment.** Rhode Island's Democratic trifecta and constitutional home rule framework make state-level passage a strong possibility.
 
-    **Two-track strategy:** Push for state legislation (Path B) while maintaining the municipal ordinance pathway (Path A). Rhode Island's small size means a state bill effectively covers the entire state, making the municipal track supplementary. See the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** for model language.
+ **Two-track strategy:** Push for state legislation (Path B) while maintaining the municipal ordinance pathway (Path A). Rhode Island's small size means a state bill effectively covers the entire state, making the municipal track supplementary. See the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** for model language.
 
 ---
 
@@ -98,7 +98,7 @@ Providence's Community-Police Relations Act demonstrates the model:
 
 ---
 
-## Section 3: Providence and Central Falls lead target city priorities
+## Section 3: Cities with Home Rule Authority
 
 ### Providence offers the strongest launching platform
 
@@ -132,7 +132,7 @@ Interestingly, **10 rural Rhode Island towns** have declared themselves "Second 
 
 ---
 
-## Section 4: Coalition infrastructure already exists through RIVAC
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Rhode Island Voting Access Coalition provides immediate organizing capacity
 
@@ -218,8 +218,7 @@ Rhode Island operates under a unique dual-authority system: Secretary of State G
 - **AG Neronha:** (401) 274-4400 / riag.ri.gov
 - **Election Protection Hotline:** 2-1-1, press 5
 - **ETSS/CISO:** etss.ri.gov/cybersecurity
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -248,8 +247,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Rhode Island's lack of a polling place firearms ban is the most significant gap. The template creates election-specific firearms restrictions, complementing the existing permit requirement.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Rhode Island is well-positioned for state legislation. The Democratic trifecta, six-month session, and existing H7434 (200-foot ICE buffer near polling places) create momentum for comprehensive action. The strategic question is whether to pursue the full Master State Bill Template as a standalone bill or integrate its provisions into H7434 as an amendment package.
 
 The recommended approach is to expand H7434 with the template's criminal penalties, civil enforcement, and emergency procedures. Rhode Island's existing felony penalty for voter intimidation (RIGL § 17-23-5) with permanent disenfranchisement demonstrates the legislature's willingness to impose severe penalties for election interference — the template's criminal provisions align with this precedent. The polling place firearms gap provides additional legislative urgency. Providence, Central Falls, Cranston, and Warwick provide a coalition base with existing non-cooperation ordinances and the judicial precedent of City of Providence v. Barr.
@@ -267,35 +265,12 @@ Rhode Island's legal landscape presents **unusually favorable conditions** for m
 
 1. **Constitutional home rule with no anti-sanctuary preemption** leaves municipalities free to establish police cooperation policies
 2. **Proven federal court victories** in *City of Providence v. Barr* demonstrate that Rhode Island sanctuary ordinances survive legal challenge
-3. **Existing coalition infrastructure through RIVAC's 30+ organizations** eliminates the need to build advocacy capacity from scratch
+3. **Existing relevant organizations through RIVAC's 30+ organizations** eliminates the need to build advocacy capacity from scratch
 
 The recommended strategy begins with **Providence** (existing sanctuary framework, recent executive action, progressive council allies) and **Central Falls** (established ordinance, battle-tested mayor, immigrant community base), presenting joint action to build regional momentum. The **dual legal framing**—local police management authority under home rule combined with alignment with 18 U.S.C. § 592's federal prohibition—provides defensive strength against preemption challenges.
 
 Key statutory hooks include RIGL § 17-23-5 (felony voter intimidation through "any means of intimidation"), RIGL § 17-19-49 (50-foot buffer zone), and the broad prohibition in § 17-23-17(7) against "willfully hindering the orderly conduct of any election." The 2022 *Town of North Providence v. FOP* decision confirming municipal "indispensable managerial rights" over police operations provides the definitive precedent for ordinance authority.
 
-With Common Cause Rhode Island coordinating existing coalition infrastructure, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
+With Common Cause Rhode Island coordinating existing relevant organizations, ACLU of Rhode Island prepared to provide model ordinance language, and progressive elected officials in place across target municipalities, Rhode Island offers a viable pathway for municipal election protection ordinances that other states may struggle to replicate.
 
 ---
-
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Rhode Island Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Rhode Island-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/RI_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Central Falls** — ~22,600](../flyers/city/RI_central-falls.html){:target="_blank" .md-button}
-[:material-file-download: **Providence** — ~195,000](../flyers/city/RI_providence.html){:target="_blank" .md-button}
-

@@ -1,27 +1,27 @@
 ---
 title: "Texas — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Texas municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Texas municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - texas
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - texas
+ - election-security
+ - 18-usc-592
 ---
 
 # Texas Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Texas offers the strongest foundation for a municipal election protection ordinance campaign among the Southern and Border states. The state's robust constitutional home rule framework, the powerful **HB 2622 (2021) mirror argument** (the Texas Second Amendment Sanctuary Act), deep coalition infrastructure, and the partial-protection gap — firearms prohibited inside polling place buildings but legal in parking lots and outdoor areas where voters form lines — create both urgent need and viable legal pathways. Texas home rule cities possess "full power of local self-government" under Article XI, § 5, and the firearms preemption statute (§ 229.001) includes a critical exception preserving the enforceability of "any state or federal law." Austin, San Antonio, Houston, and Dallas present the most viable targets, with experienced city attorneys already litigating the "Death Star" HB 2127 preemption law. The campaign's center of gravity, Texas represents the highest-return investment for municipal ordinance strategy.
+Texas offers the strongest foundation for a municipal election protection ordinance campaign among the Southern and Border states. The state's robust constitutional home rule framework, the powerful **HB 2622 (2021) mirror argument** (the Texas Second Amendment Sanctuary Act), deep relevant organizations, and the partial-protection gap — firearms prohibited inside polling place buildings but legal in parking lots and outdoor areas where voters form lines — create both urgent need and viable legal pathways. Texas home rule cities possess "full power of local self-government" under Article XI, § 5, and the firearms preemption statute (§ 229.001) includes a critical exception preserving the enforceability of "any state or federal law." Austin, San Antonio, Houston, and Dallas present the most viable targets, with experienced city attorneys already litigating the "Death Star" HB 2127 preemption law. The campaign's center of gravity, Texas represents the highest-return investment for municipal ordinance strategy.
 
 ---
 
@@ -83,15 +83,15 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-### Austin (Primary Target)
+### Austin (Analyzed City)
 
 **Population:** ~1,020,000. Council-manager government, all 10 council members are Democrats. Charter city since 1919, extensive history of progressive ordinances. Mayor Kirk Watson (D) presides. Travis County district courts are favorable (Judge Maya Guerra Gamble declared HB 2127 unconstitutional).
 
 **Weakness:** Long history of ordinance preemption makes Austin a "punching bag" for state Republicans. Previous preempted ordinances include the plastic bag ban (*Laredo Merchants Association v. City of Laredo*, 2018), paid sick leave (*Texas Ass'n of Business v. City of Austin*, 2018), and ban-the-box (HB 2127). However, those ordinances failed when they directly conflicted with specific statutes — the proposed ordinance occupies unpreempted territory and governs internal resource allocation rather than private conduct.
 
-### San Antonio (Secondary Target)
+### San Antonio (Analyzed City)
 
 **Population:** ~1,580,000. Council-manager government, Democratic-leaning council, Mayor Ron Nirenberg (D). City Attorney Andy Segovia is actively fighting HB 2127. Strong MALDEF/LULAC presence. Filed as intervenor in the HB 2127 challenge.
 
@@ -113,11 +113,11 @@ Language must emphasize: (1) the city shall not expend municipal resources to as
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
-Texas has the deepest coalition infrastructure of any target state.
+Texas has the deepest relevant organizations of any target state.
 
 - **ACLU of Texas** — runs the largest non-partisan poll-monitoring program in the state; challenged SB 1 (2021 voting restrictions)
 - **Texas Civil Rights Project** — partnered with ACLU on voter purge litigation; documented 275,000 voters adversely impacted by election administration issues
@@ -194,7 +194,7 @@ HAVA allocations are the largest in this group: **$23.25 million (FY2018)**, **$
 
 ### Legal Strategies & Key Contacts
 
-**Tier Rating:** Tier 2 (Moderate-high viability) — strongest foundation among Southern/Border states due to home rule framework, HB 2622 mirror argument, deep coalition infrastructure, and strategic timing window.
+**Tier Rating:** Tier 2 (Moderate-high viability) — strongest foundation among Southern/Border states due to home rule framework, HB 2622 mirror argument, deep relevant organizations, and strategic timing window.
 
 **Top Legal Risks:**
 
@@ -218,8 +218,7 @@ HAVA allocations are the largest in this group: **$23.25 million (FY2018)**, **$
 | **DIR / Cyber Incident Response** | (877) DIR-CISO (877-347-2476) / security@dir.texas.gov |
 | **TDEM** | (512) 424-2208 / tdem.texas.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -246,8 +245,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Extended election zone**: The existing § 46.03(a)(2) covers only the building interior. The template creates a comprehensive zone including adjacent areas — parking lots, sidewalks, and drop-off locations.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Texas faces a double barrier: no regular 2026 session and a Republican trifecta. The next regular session convenes in January 2027. The municipal ordinance track is the primary strategy for the 2026 election cycle. Houston, San Antonio, Austin, Dallas, Fort Worth, and El Paso provide a large coalition base — Texas's major cities lean Democratic despite the state's Republican trifecta. HB 2127 (2023) preempts some local regulation but its scope for election-specific ordinances remains contested in litigation. The state bill serves as a messaging vehicle for the 2027 session.
 
 ### Target Committees
@@ -256,29 +254,3 @@ Texas faces a double barrier: no regular 2026 session and a Republican trifecta.
 |---|---|---|---|
 | Senate | State Affairs | Verify current chair | Jurisdiction over election law (2027 session) |
 | House | Elections | Verify current chair | Jurisdiction over election law (2027 session) |
-
----
-
-## Printable Flyer
-
-!!! tip "Download the Texas Election Protection Flyer"
-
-    A printable 5.5" × 8.5" flyer with Texas-specific legal analysis,
-    target cities, and coalition partners.
-
-    [:material-file-download: **View & Download Flyer**](../flyers/TX_flyer.html){:target="_blank" .md-button .md-button--primary}
-
-    *Open the flyer in your browser, then use **File → Print** or **Ctrl+P** to
-    print or save as PDF. The flyer is optimized for half-letter (5.5" × 8.5") printing.*
-
-### City-Specific Flyers
-
-Printable flyers for individual cities with local council details, meeting schedules, and action steps.
-
-[:material-file-download: **Austin** — ~1,025,000](../flyers/city/TX_austin.html){:target="_blank" .md-button}
-[:material-file-download: **Dallas** — ~1,310,000](../flyers/city/TX_dallas.html){:target="_blank" .md-button}
-[:material-file-download: **Denton** — ~158,000](../flyers/city/TX_denton.html){:target="_blank" .md-button}
-[:material-file-download: **El Paso** — ~681,000](../flyers/city/TX_el-paso.html){:target="_blank" .md-button}
-[:material-file-download: **Houston** — ~2,390,000](../flyers/city/TX_houston.html){:target="_blank" .md-button}
-[:material-file-download: **San Antonio** — ~1,530,000](../flyers/city/TX_san-antonio.html){:target="_blank" .md-button}
-
