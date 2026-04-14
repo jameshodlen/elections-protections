@@ -1,21 +1,21 @@
 ---
 title: "Tennessee — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Tennessee municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Tennessee municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - tennessee
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - tennessee
+ - election-security
+ - 18-usc-592
 ---
 
 # Tennessee Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -39,11 +39,11 @@ Tennessee preempts local law **more than any other state**, according to researc
 
 **T.C.A. Section 39-17-1314 (Firearms):** Full field preemption "to the exclusion of all county, city, town, municipality, or metropolitan government." A 2021 strengthening allows adversely affected parties to sue local governments for violations, with **3x attorney's fees** as damages.
 
-**T.C.A. Section 7-68-101 et seq. (Sanctuary cities):** Originally enacted 2009, expanded 2018. In a **2025 special session**, the legislature made it a **Class E felony** (up to 6 years prison, $3,000 fine) for any public official who votes in favor of sanctuary policies — unprecedented in any state. The ACLU filed suit in June 2025.
+**T.C.A. Section 7-68-101 et seq. (Sanctuary cities):** Originally enacted 2009, expanded 2018. In a **2025 special session**, the legislature made it a **Class E felony** (up to 6 years prison, $3,000 fine) for any public official who votes in favor of sanctuary policies — without precedent in any state. The ACLU filed suit in June 2025.
 
 Additional preemptions cover minimum wage (T.C.A. Section 50-2-112), anti-discrimination (T.C.A. Section 7-51-1802, passed specifically to overturn Nashville's 2011 LGBTQ+ ordinance — Tennessee was the first state to pass such a law), local hire laws, gig economy regulation, scheduling predictability, municipal broadband, plastic containers, tobacco, police oversight boards, pretextual traffic stops (to override Memphis's Tyre Nichols-inspired reform), construction safety, and energy project restrictions.
 
-**The 2023 session targeting Nashville** was unprecedented: the Metro Council Reduction Act (halving Nashville's council), the Airport Authority Takeover (giving state officials 6 of 8 seats), the Sports Authority Restructuring, the Fairgrounds Charter Reversal, Police Oversight Board Abolition, and Convention Center Revenue Restrictions. Nashville filed four constitutional lawsuits; outcomes are split on appeal with oral arguments heard by the Tennessee Supreme Court on February 13, 2026.
+**The 2023 session targeting Nashville** was without precedent: the Metro Council Reduction Act (halving Nashville's council), the Airport Authority Takeover (giving state officials 6 of 8 seats), the Sports Authority Restructuring, the Fairgrounds Charter Reversal, Police Oversight Board Abolition, and Convention Center Revenue Restrictions. Nashville filed four constitutional lawsuits; outcomes are split on appeal with oral arguments heard by the Tennessee Supreme Court on February 13, 2026.
 
 **Title 2 (Elections):** Tennessee elections are administered entirely by **County Election Commissions appointed by the State Election Commission**, which is itself selected by the General Assembly. Municipalities have **zero formal role** in election administration. T.C.A. Section 2-7-111 regulates conduct near polling places (100-foot boundary). This creates effective field preemption.
 
@@ -75,9 +75,9 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-### Nashville/Davidson County (Primary Target)
+### Nashville/Davidson County (Analyzed City)
 
 **Population:** ~715,000. Mayor Freddie O'Connell (D) and a heavily Democratic Metro Council make passage likely (**70-80%**). Nashville has the strongest progressive ordinance infrastructure and litigation capacity in the state, with four active state constitutional lawsuits. However, near-certain state retaliation makes survival unlikely.
 
@@ -103,13 +103,13 @@ While government entities can theoretically post polling places under **Section 
 
 ### Recommended Approach
 
-A **non-binding resolution** is safer than a binding ordinance, given the 2025 felony provision for sanctuary city votes creating a chilling effect on council members. **Police department internal policy guidance** (below the legislative radar) may be the most durable vehicle. Whether passage is worth pursuing: **Yes, with clear-eyed expectations.** Even if preempted, the ordinance creates a public messaging platform for 18 U.S.C. Section 592, forces the state to publicly defend armed federal personnel at polling places, and builds coalition infrastructure. Nashville's litigation capacity means it can challenge preemption.
+A **non-binding resolution** is safer than a binding ordinance, given the 2025 felony provision for sanctuary city votes creating a chilling effect on council members. **Police department internal policy guidance** (below the legislative radar) may be the most durable vehicle. Whether passage is worth pursuing: **Yes, with clear-eyed expectations.** Even if preempted, the ordinance creates a public messaging platform for 18 U.S.C. Section 592, forces the state to publicly defend armed federal personnel at polling places, and builds relevant organizations. Nashville's litigation capacity means it can challenge preemption.
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
-### Priority Coalition Partners
+### Priority Relevant Organizations
 
 1. **ACLU of Tennessee** — Primary voting rights litigation organization; challenged voter suppression measures; filed suit against 2025 felony provision
 2. **The Equity Alliance** (founder Tequila Johnson) — Leading Black-led grassroots organization; registered 90,000+ voters; operates Tennessee Black Voter Project
@@ -202,8 +202,7 @@ Secretary of State **Tre Hargett** (R) oversees the Division of Elections. **Sta
 | **STS / CISO Curtis Clan** | tn.gov/cybersecurity |
 | **Tennessee Cybersecurity Advisory Council** | tn.gov/cybersecurity/state-government-cybersecurity |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -232,8 +231,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions, addressing the gap that the impractical § 39-17-1359 posting requirement fails to fill.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Tennessee's Republican trifecta and the 2025 sanctuary city felony provision create an extremely hostile environment. The municipal ordinance track is the primary strategy, with Nashville, Memphis, Knoxville, and Chattanooga as targets — though the sanctuary city felony provision casts a shadow over local non-cooperation ordinances. Tennessee's existing § 2-7-103(c) (law enforcement exclusion from polling places) and § 58-1-402 (prohibition on state guard election supervision) provide the strongest conservative constitutional argument: Tennessee already recognizes the principle that armed government personnel should not be at polling places. The state bill frames the issue in terms Tennessee law already acknowledges.
 
 ### Target Committees

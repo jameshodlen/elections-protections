@@ -1,21 +1,21 @@
 ---
 title: "Oklahoma — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Oklahoma municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Oklahoma municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - oklahoma
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - oklahoma
+ - election-security
+ - 18-usc-592
 ---
 
 # Oklahoma Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -81,15 +81,15 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-### Tulsa (Primary Target)
+### Tulsa (Analyzed City)
 
 **Population:** ~413,000. Tulsa presents the campaign's strongest Oklahoma opportunity. Mayor **Monroe Nichols** (Democrat, first Black mayor) assumed office December 2, 2024, winning with 56% in the runoff — the first Democratic mayor since 2006. Tulsa operates under a strong mayor-council charter (amended 1989).
 
 Nichols has demonstrated progressive momentum: an executive order creating the Beyond Apology Commission and a $75M housing framework. The **Tulsa Race Massacre history creates unique political resonance** for election protection — the connection between armed violence and voting rights carries particular weight in Tulsa.
 
-### Norman (Secondary Target)
+### Norman (Analyzed City)
 
 **Population:** ~128,000. Charter city (since 1919), council-manager form, home to the University of Oklahoma (~30,000 students), with progressive/academic demographics. The OU College of Law connection provides academic legal support.
 
@@ -103,7 +103,7 @@ Nichols has demonstrated progressive momentum: an executive order creating the B
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -176,7 +176,7 @@ HAVA Requirements Payments balance as of December 31, 2023: **$1,908,070**.
 
 ### Legal Strategies & Key Contacts
 
-**Tier Rating:** Tier 3 (High risk, strategic value through Tulsa) — Tulsa's new progressive leadership and the SB 631 mirror argument create a compelling opportunity, but the nation's most punitive firearms preemption makes direct ordinances fiscally dangerous for municipalities.
+**Tier Rating:** Tier 3 (High risk, legal relevance through Tulsa) — Tulsa's new progressive leadership and the SB 631 mirror argument create a compelling opportunity, but the nation's most punitive firearms preemption makes direct ordinances fiscally dangerous for municipalities.
 
 **Top Legal Risks:**
 
@@ -200,8 +200,7 @@ HAVA Requirements Payments balance as of December 31, 2023: **$1,908,070**.
 | **OK-ISAC** | okisac@omes.ok.gov |
 | **Oklahoma Emergency Management** | oklahoma.gov/oem |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -228,8 +227,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions filling the gap in 21 O.S. § 1277.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Oklahoma's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Oklahoma City, Tulsa, and Norman as targets. Oklahoma's recent elevation of voter intimidation to a D1 felony (effective January 2026) shows some bipartisan support for election security — framing the state bill as extending that protection to federal agent deployment may find limited traction. Article II, Section 4's "no power, civil or military" language provides the constitutional argument.
 
 ### Target Committees

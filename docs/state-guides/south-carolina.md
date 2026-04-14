@@ -1,21 +1,21 @@
 ---
 title: "South Carolina — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for South Carolina municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for South Carolina municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - south-carolina
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - south-carolina
+ - election-security
+ - 18-usc-592
 ---
 
 # South Carolina Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -80,7 +80,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Columbia (Only Realistic Target)
 
@@ -104,9 +104,9 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
-### Priority Coalition Partners
+### Priority Relevant Organizations
 
 1. **ACLU of South Carolina** — Lead voting rights litigator; currently litigating *SC NAACP v. Wilson* and *League of Women Voters of SC v. Alexander*
 2. **NAACP South Carolina State Conference** (President Brenda Murphy) — Co-plaintiff in major voting rights cases; strong grassroots network
@@ -198,8 +198,7 @@ The **SC Critical Infrastructure Cybersecurity (SC CIC)** program, led by SLED C
 | **Attorney General Alan Wilson (R)** | scag.gov |
 | **SC CIC** | sccic.sc.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -225,8 +224,7 @@ South Carolina's existing total firearms ban at polling places is strong. Based 
 - **Article 5 — Emergency election procedures**: South Carolina lacks statutory authority for emergency polling relocation.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 South Carolina's Republican trifecta and Article VIII, Section 14(2) preemption clause make both state legislation and municipal ordinances difficult. Charleston, Columbia, and Greenville are the most viable municipal targets but face constitutional preemption. South Carolina's existing total firearms ban means the template's primary value is the federal personnel prohibition and civil enforcement. The state bill serves as a messaging vehicle.
 
 ### Target Committees

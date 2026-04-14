@@ -1,22 +1,22 @@
 ---
 title: New York — Municipal Election Protection Ordinance Guide
 description: >-
-  Implementation guide for polling place protection ordinances in New York State under Article IX constitutional home rule and the Municipal Home Rule Law, covering the New York Voting Rights Act (2022), and target city analysis for New York City, Ithaca, and Rochester.
+ Implementation guide for polling place protection ordinances in New York State under Article IX constitutional home rule and the Municipal Home Rule Law, covering the New York Voting Rights Act (2022), and city with home rule authority analysis for New York City, Ithaca, and Rochester.
 tags:
-  - tier-green
-  - new-york
-  - home-rule
-  - new-york-city
-  - nyvra
-  - let-ny-vote
+ - tier-1
+ - new-york
+ - home-rule
+ - new-york-city
+ - nyvra
+ - let-ny-vote
 ---
 
 # Implementing polling place protection ordinances in New York State
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -35,7 +35,7 @@ New York is definitively a **Constitutional Home Rule State**—not a Dillon's R
 **NY Constitution Article IX, Section 2(c)** grants municipalities authority to adopt local laws relating to their "property, affairs or government," including explicit powers over:
 
 - **Officers and employees** (§2(c)(ii)(1)): "The powers, duties, qualifications, number, mode of selection and removal...of its officers and employees," including "creation or discontinuance of departments" and "prescription or modification of their powers and duties"
-- **Municipal property** (§2(c)(ii)(6)): "The acquisition, care, management and use of its highways, roads, streets, avenues and property"  
+- **Municipal property** (§2(c)(ii)(6)): "The acquisition, care, management and use of its highways, roads, streets, avenues and property" 
 - **Public safety** (§2(c)(ii)(12)): "The government, protection, order, conduct, safety, health and well-being of persons or property therein"
 
 These constitutional provisions are implemented through **Municipal Home Rule Law § 10**, which authorizes local governments to adopt local laws "not inconsistent with the Constitution or any general law" on these subjects. Critically, **MHL § 11** (restrictions on local laws) does not prohibit local control over police operations or federal cooperation, and **no New York statute requires municipal police cooperation with federal authorities**.
@@ -92,13 +92,13 @@ For municipal police authority, **[Second Class Cities Law § 131](https://law.j
 
 **Ithaca** offers the highest feasibility among smaller cities. The 10-member Common Council is entirely Democratic with strong Working Families Party and Democratic Socialists of America presence, including endorsed members Jorge DeFendini and Hannah Shvets. Ithaca's 2021 Reimagining Public Safety Initiative proposed the nation's most ambitious police restructuring—replacing the police department with civilian-led public safety. The city has maintained sanctuary status protecting undocumented immigrants, transgender individuals, and those seeking abortion care since 2025 recommitment. The council has passed ceasefire resolutions and actively pursues rent stabilization. This track record demonstrates willingness to enact bold ordinances challenging law enforcement norms.
 
-**Rochester** provides strong police accountability infrastructure through its pioneering **Police Accountability Board (PAB)**—created by council in 2019 and approved by public referendum, giving civilians authority to investigate officers. Though a 2023 Court of Appeals ruling limited PAB disciplinary powers, the council continues supporting it with a **$3.7 million annual budget**. The nine-member City Council is entirely Democratic under Mayor Malik Evans (re-elected November 2025). The Police Accountability Board Alliance, comprising over 50 organizations, provides established civil liberties coalition infrastructure. Rochester's experience navigating legal challenges to progressive ordinances provides valuable institutional knowledge for potential litigation.
+**Rochester** provides strong police accountability infrastructure through its pioneering **Police Accountability Board (PAB)**—created by council in 2019 and approved by public referendum, giving civilians authority to investigate officers. Though a 2023 Court of Appeals ruling limited PAB disciplinary powers, the council continues supporting it with a **$3.7 million annual budget**. The nine-member City Council is entirely Democratic under Mayor Malik Evans (re-elected November 2025). The Police Accountability Board Alliance, comprising over 50 organizations, provides established civil liberties relevant organizations. Rochester's experience navigating legal challenges to progressive ordinances provides valuable institutional knowledge for potential litigation.
 
 Secondary targets include **Buffalo** (all-Democratic Common Council, 2025 housing anti-discrimination protections for transgender communities, ongoing charter review), **Syracuse** (sanctuary city status, new progressive at-large member Hanah Ehrenreich endorsed by Working Families Party, new WFP-endorsed Mayor Sharon Owens), and **Albany** (new Council President Kelly Kimbrough and Mayor Dorcey Applyrs, both Democrats with Working Families Party support).
 
 ---
 
-## Section 4: Established coalition infrastructure provides immediate organizing capacity
+## Section 4: Relevant Legal and Civic Organizations
 
 The **Let NY Vote Coalition**, coordinated by Common Cause New York, offers ready-made statewide infrastructure with **over 150 organizational partners and 11,000+ activists**. The coalition successfully passed the John R. Lewis NY Voting Rights Act, Automatic Voter Registration, and expanded early voting—demonstrating proven legislative capacity on election protection measures.
 
@@ -172,8 +172,7 @@ New York's Municipal Home Rule Law grants cities and counties significant author
 - **JSOC/Cybersecurity:** NYS Chief Cyber Officer through ITS: (518) 402-2813
 - **DHSES:** (518) 292-2301
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -202,8 +201,7 @@ New York's existing framework already addresses firearms at polling places and p
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of voter rolls and election records — particularly important given the scale of New York's voter registration database.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 New York's Democratic trifecta, year-round session, and strong existing framework make it a prime candidate for comprehensive state legislation. The John R. Lewis Act provides both policy precedent and an institutional champion (the legislature has already demonstrated willingness to modernize election protection law). The CCIA's sensitive locations framework provides a model for the template's election zone designations.
 
 The strongest framing for New York builds on the sanctuary policy tradition: if New York City has limited NYPD cooperation with federal immigration enforcement since 1989, the principle should be codified in state law specifically for the most sensitive democratic spaces. New York's passage would be significant given its population (20 million voters) and symbolic importance as the nation's largest Democratic state. NYC, Albany, Buffalo, Rochester, and Syracuse provide a statewide coalition base with existing sanctuary protections.

@@ -1,21 +1,21 @@
 ---
 title: "North Dakota — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for North Dakota municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for North Dakota municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - north-dakota
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - north-dakota
+ - election-security
+ - 18-usc-592
 ---
 
 # North Dakota Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -74,7 +74,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Home Rule? | Key Assets | Rating |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tribal Voting Rights Coalition — North Dakota's Greatest Strategic Asset
 
@@ -158,8 +158,7 @@ North Dakota's **citizen initiative process** provides a significant alternative
 - **Governor**: Kelly Armstrong (R) — (701) 328-2200
 - **ND Department of Emergency Services**: des.nd.gov
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -186,8 +185,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: HB 1588's building-level authority provides a foundation, but the template creates comprehensive election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 North Dakota faces a double barrier: no regular 2026 session and a Republican trifecta. The next regular session convenes in 2027. The municipal ordinance track is the primary strategy for 2026, with Fargo, Bismarck, and Grand Forks as targets. HB 1588's grant of building-level firearms authority provides a narrow pathway for government-owned polling locations. The state bill serves as a messaging vehicle for the 2027 session.
 
 ### Target Committees

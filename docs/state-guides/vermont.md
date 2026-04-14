@@ -1,21 +1,21 @@
 ---
 title: "Vermont — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Vermont municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Vermont municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - vermont
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - vermont
+ - election-security
+ - 18-usc-592
 ---
 
 # Vermont Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -65,7 +65,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 Vermont's town meeting tradition provides direct-democracy pathways for warrant article adoption.
 
@@ -108,7 +108,7 @@ Vermont's town meeting tradition provides direct-democracy pathways for warrant 
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Anchor organizations
 
@@ -209,8 +209,7 @@ Vermont has resolved its core firearms gap through 13 V.S.A. Section 4027 but re
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -239,8 +238,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 5 — Emergency election procedures**: Vermont lacks statutory authority for emergency polling relocation when a site is compromised.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Vermont's Democratic/Progressive supermajority legislature can override gubernatorial vetoes, making the governor's posture less determinative than in other divided-government states. The 2024 precedent — where Scott allowed the polling place firearms ban to become law without his signature — suggests he may follow the same path for broader polling place protection legislation, particularly if framed as extending the existing firearms ban to federal agents.
 
 The most urgent gap to address is the $200 voter intimidation penalty (17 V.S.A. § 2017), which provides virtually no deterrence. The template's enhanced penalties should be the legislative priority even apart from the federal personnel provisions. The session window through May 8 is adequate. Burlington, Montpelier, Brattleboro, and Rutland provide a coalition base. Vermont's small size and accessible legislative process make it a viable early-passage state that can build momentum for the national campaign.

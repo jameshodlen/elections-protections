@@ -1,21 +1,21 @@
 ---
 title: "Virginia — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Virginia municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Virginia municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - virginia
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - virginia
+ - election-security
+ - 18-usc-592
 ---
 
 # Virginia Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -24,11 +24,11 @@ tags:
 Virginia presents a unique transitional opportunity for election protection. The November 2025 elections produced a historic **Democratic trifecta** — Governor Abigail Spanberger, AG Jay Jones (first Black AG in state history), and expanded legislative majorities — creating an immediate window for state-level action. However, Virginia is a **strict Dillon Rule state**, severely limiting municipal authority to act independently on election security. This means the primary strategy must be **state-level legislative advocacy** rather than municipal ordinances. HB 909, which would expand the polling place firearms buffer from 40 to 100 feet, is already in the 2026 legislative pipeline. Virginia already has significant protections — a firearms ban within 40 feet of polling places, a statutory private right of action for intimidated voters, strong anti-paramilitary statutes, and one of the nation's most advanced cybersecurity infrastructures anchored by the 91st Cyber Brigade headquarters. The Dillon Rule constraint means municipal election protection ordinances require enabling legislation, making the new Democratic trifecta the critical lever.
 
 !!! info "March 2026 Update — State Legislation Active"
-    Virginia legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Virginia is currently classified as Tier 3 for municipal ordinances due to significant preemption barriers, but the state-level legislative track may offer a more viable pathway depending on the governor's posture.
+ Virginia legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** Virginia is currently classified as Tier 3 for municipal ordinances due to significant preemption barriers, but the state-level legislative track may offer a more viable pathway depending on the governor's posture.
 
-    **Two-track strategy:** The state bill is the primary pathway in Virginia given the municipal barriers documented below. Municipal ordinances remain a supplementary option in charter cities if the state bill does not advance.
+ **Two-track strategy:** The state bill is the primary pathway in Virginia given the municipal barriers documented below. Municipal ordinances remain a supplementary option in charter cities if the state bill does not advance.
 
-    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
+ For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**.
 
 ---
 
@@ -38,7 +38,7 @@ Virginia presents a unique transitional opportunity for election protection. The
 
 Virginia is a **strict Dillon Rule state**, severely limiting municipal authority to act independently. Municipalities may only exercise powers (1) expressly granted by the General Assembly, (2) necessarily implied from express grants, or (3) essential to the purposes of the municipality. This means municipal election protection ordinances **require enabling legislation** — cities cannot independently adopt new election security measures without state authorization.
 
-The 2026 Democratic trifecta creates an unprecedented opportunity to seek Dillon Rule carve-outs for municipal election security ordinances through the General Assembly. This is the most productive path forward.
+The 2026 Democratic trifecta creates an without precedent opportunity to seek Dillon Rule carve-outs for municipal election security ordinances through the General Assembly. This is the most productive path forward.
 
 ### Existing Firearms Protections at Polling Places
 
@@ -79,7 +79,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### State-Level Action Is the Primary Strategy
 
@@ -106,7 +106,7 @@ Virginia's unique system of independent cities and counties creates complexity. 
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -199,7 +199,7 @@ Virginia's IT infrastructure under VITA is mature, operating under SEC530 standa
 **Top Political Risks:**
 
 1. Political window is time-limited; next election cycle could shift balance
-2. Overreach could mobilize opposition for future elections
+2. Overreach could engage opposition for future elections
 3. Federal backlash against state-level action
 
 **Key Contacts:**
@@ -210,8 +210,7 @@ Virginia's IT infrastructure under VITA is mature, operating under SEC530 standa
 | **Attorney General Jay Jones** | (804) 786-2071 / oag.state.va.us |
 | **VITA / CISO** | (804) 416-6000 / vita.virginia.gov/security |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -238,8 +237,7 @@ Virginia's existing framework is among the strongest of any Tier 3 state, with a
 - **Article 6 — Expanded firearms zone**: The current 40-foot buffer (with HB 909's proposed expansion to 100 feet) would be complemented by the template's comprehensive election zone framework.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Virginia's Democratic trifecta transforms its position from Tier 3 (based on municipal ordinance viability under the previous divided government) to one of the most viable states for comprehensive state legislation. HB 650's passage through the legislature demonstrates immediate momentum. The strategic approach is to sign HB 650 as an immediate win, then pursue the full Master State Bill Template provisions as a follow-on bill — either in the 2026 session's remaining window or in the 2027 session.
 
 Virginia's existing private right of action (§ 24.2-1005(B)), pending firearms buffer expansion (HB 909), and HB 650's immigration enforcement prohibition create a legislative framework that the template's comprehensive provisions would complete. The coalition of election protection advocates built during the 2025 campaign and the Spanberger administration's first months provides strong institutional support. Virginia's passage would be nationally significant as a Southern/border state model.

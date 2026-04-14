@@ -1,21 +1,21 @@
 ---
 title: "South Dakota — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for South Dakota municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for South Dakota municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - south-dakota
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - south-dakota
+ - election-security
+ - 18-usc-592
 ---
 
 # South Dakota Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -72,7 +72,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Political Lean | Key Assets | Rating |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tribal Voting-Rights Coalition — The Nation's Deepest
 
@@ -140,8 +140,7 @@ Election law under **SDCL Title 12** is administered at the state and county lev
 - **Cybersecurity**: BIT — bit.sd.gov; cybersecurity.sd.gov; CIO Madhu Gottumukkala
 - **National Guard**: Maj. Gen. Mark Morrell, Adjutant General — Camp Rapid, Rapid City
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -169,8 +168,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions in a state with multilevel preemption (municipal, county, and township).
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 South Dakota's Republican trifecta and multilevel firearms preemption (SDCL §§ 9-19-20, 7-18A-36, 8-5-13) make both state legislation and municipal ordinances extremely difficult. Sioux Falls and Rapid City are the only viable municipal targets, but preemption severely constrains local action. The state bill serves exclusively as a messaging vehicle. South Dakota's lack of a comprehensive voter intimidation statute is the most critical gap — even apart from the federal personnel issue.
 
 ### Target Committees

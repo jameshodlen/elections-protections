@@ -1,22 +1,22 @@
 ---
 title: Ohio — Municipal Election Protection Ordinance Guide
 description: >-
-  Municipal legal and political roadmap for Ohio election protection ordinances under the 1912 constitutional home rule (Article XVIII), covering the Canton four-part preemption test, ORC § 737.05, and target city analysis for Columbus, Cleveland, and Cincinnati.
+ Municipal legal and political roadmap for Ohio election protection ordinances under the 1912 constitutional home rule (Article XVIII), covering the Canton four-part preemption test, ORC § 737.05, and city with home rule authority analysis for Columbus, Cleveland, and Cincinnati.
 tags:
-  - tier-green
-  - ohio
-  - home-rule
-  - columbus
-  - cleveland
-  - cincinnati
+ - tier-1
+ - ohio
+ - home-rule
+ - columbus
+ - cleveland
+ - cincinnati
 ---
 
 # Ohio election protection ordinance: A municipal legal and political roadmap
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -81,7 +81,7 @@ Municipal budget authority under **[ORC § 5705.38](https://law.justia.com/codes
 
 ---
 
-## Section 3: Columbus, Cleveland, and Cincinnati lead the target city analysis
+## Section 3: Cities with Home Rule Authority
 
 Ohio's major cities present a favorable political landscape for election protection ordinances, with **21 cities** recently joining the Columbus tobacco preemption lawsuit and demonstrating willingness for coordinated action against state overreach.
 
@@ -113,13 +113,13 @@ An emerging **Ohio Voting and Elections Amendment** currently gathering signatur
 
 ---
 
-## Section 4: The Ohio Voter Rights Coalition anchors coalition infrastructure
+## Section 4: Relevant Legal and Civic Organizations
 
 The most efficient path to a municipal campaign runs through the **Ohio Voter Rights Coalition (OVRC)**, a non-partisan network coordinating election protection across the state. The OVRC Steering Committee includes the five most relevant organizations:
 
 **ACLU of Ohio** serves as primary litigator on election protection issues, currently challenging HB 458 (strict voter ID) and SB 293 (voter purge provisions). Chief Legal Officer Freda Levenson leads a team with direct experience in municipal-level advocacy through Cleveland Consent Decree police accountability work.
 
-**League of Women Voters of Ohio** provides unparalleled grassroots infrastructure with chapters in all target cities. Executive Director Jen Miller leads an organization that successfully obtained a preliminary injunction striking down HB 458 voter assistance restrictions. Local chapters in Cleveland (216-208-4171), Columbus (president@lwvcols.org), and Cincinnati conduct Observer Corps monitoring of local government—exactly the volunteer base needed for municipal campaigns.
+**League of Women Voters of Ohio** provides unparalleled grassroots infrastructure with chapters in all cities with home rule authority. Executive Director Jen Miller leads an organization that successfully obtained a preliminary injunction striking down HB 458 voter assistance restrictions. Local chapters in Cleveland (216-208-4171), Columbus (president@lwvcols.org), and Cincinnati conduct Observer Corps monitoring of local government—exactly the volunteer base needed for municipal campaigns.
 
 **Common Cause Ohio** co-leads Ohio's Election Protection program including the 866-OUR-VOTE hotline. Voting and Elections Manager Kelly Dufour coordinates poll monitoring, testified against SB 4 (Election Integrity Unit), and hosts monthly community engagement events providing ongoing organizing touchpoints.
 
@@ -149,7 +149,7 @@ Ohio uses a mixed voting system: **47 counties** use hand-marked paper ballots w
 
 Ohio's constitutional home rule under Article XVIII, Section 3 grants municipalities authority to exercise "all powers of local self-government." The critical structural detail is that **Section 3 contains three distinct clauses** that operate differently: Clause 1 grants power to exercise "all powers of local self-government" -- this power **stands alone** and is not modified by the conflict clause. Clause 2 grants police power concurrently with the state. Clause 3 (the conflict clause) modifies **only Clause 2**, not Clause 1. Ordinances framed as exercises of local self-government (Clause 1) -- such as management of city resources and personnel -- are generally immune from state preemption, while police power ordinances (Clause 2) may be preempted by conflicting general laws.
 
-Over **300 municipalities** have adopted home rule charters; all target cities -- Columbus, Cleveland, Cincinnati, Dayton -- are charter cities. Home rule is **self-executing** (*Perrysburg v. Ridgway*, 1923). There is **no supremacy clause** in the Ohio Constitution, making preemption narrower than its federal counterpart.
+Over **300 municipalities** have adopted home rule charters; all cities with home rule authority -- Columbus, Cleveland, Cincinnati, Dayton -- are charter cities. Home rule is **self-executing** (*Perrysburg v. Ridgway*, 1923). There is **no supremacy clause** in the Ohio Constitution, making preemption narrower than its federal counterpart.
 
 Key recent legislative changes include SB 215 (constitutional carry, effective June 2022) and the defeat of Issue 1 (August 2023), preserving the simple majority threshold for constitutional amendments.
 
@@ -189,8 +189,7 @@ Private rights of action rely on federal statutes (42 U.S.C. section 1983, VRA).
 | Attorney General | ohioattorneygeneral.gov |
 | Ohio Cyber Reserve | ohcr.ohio.gov |
 | Ohio EMA | (614) 889-7150; ema.ohio.gov |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -222,8 +221,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Ohio's constitutional carry regime means anyone may carry at polling places. The template creates election-specific firearms restrictions that fill the most significant gap in Ohio's election security framework.
 - **Article 9 — Expedited judicial review**: Ohio lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Ohio's Republican trifecta makes passage of the Master State Bill Template impossible in the current session. Governor DeWine, who is term-limited (term ends January 2027), has demonstrated no interest in polling place protection and recently signed a ranked-choice voting ban. H.B. 26's anti-sanctuary provisions and R.C. 9.68's punitive firearms preemption create a hostile legislative environment for both the state bill and municipal ordinance tracks.
 
 The municipal ordinance track described in Sections 1–5 above is the primary strategy for Ohio, though it faces significant headwinds from R.C. 9.68's preemption and attorney fee provisions. Columbus, Cleveland, Cincinnati, and Dayton — all home rule municipalities — remain the most viable targets, but litigation risk is high. The state bill serves exclusively as a messaging and organizing tool, with introduction by Democratic legislators creating a public record of statutory gaps heading into the November 2026 elections when the governor's office will be open. The 2026 gubernatorial race presents an opportunity to make polling place protection a campaign issue.
@@ -237,7 +235,7 @@ The municipal ordinance track described in Sections 1–5 above is the primary s
 
 ## Conclusion: A coordinated multi-city strategy is achievable
 
-The legal and political conditions in Ohio favor a municipal election protection ordinance campaign. **Article XVIII home rule powers, the Canton test's high bar for state preemption, recent litigation victories, Democratic control of major city councils, and existing OVRC coalition infrastructure** create a favorable environment for action.
+The legal and political conditions in Ohio favor a municipal election protection ordinance campaign. **Article XVIII home rule powers, the Canton test's high bar for state preemption, recent litigation victories, Democratic control of major city councils, and existing OVRC relevant organizations** create a favorable environment for action.
 
 The recommended approach prioritizes Columbus, Cleveland, and Cincinnati as simultaneous first-movers, leveraging the momentum from *Columbus v. Ohio* (2025) and the proven willingness of these cities to challenge state overreach. Working through the Ohio Voter Rights Coalition structure—rather than building parallel infrastructure—maximizes efficiency and draws on established relationships between ACLU Ohio, League of Women Voters chapters, Common Cause Ohio, and allied organizations.
 

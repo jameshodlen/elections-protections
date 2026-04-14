@@ -1,21 +1,21 @@
 ---
 title: "North Carolina — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for North Carolina municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for North Carolina municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - north-carolina
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - north-carolina
+ - election-security
+ - 18-usc-592
 ---
 
 # North Carolina Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -72,7 +72,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Durham
 
@@ -122,7 +122,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 Stub -- for the full coalition and opposition landscape, see the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 
@@ -245,8 +245,7 @@ Active litigation includes **Cooper v. Berger/Boliek** (Governor Stein's challen
 | **AG Jeff Jackson** | ncdoj.gov |
 | **Federal Partners** | CISA (844-729-2472); FBI CyWatch (855-292-3937) |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -273,8 +272,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Chapter 163 contains no polling place firearms prohibition — a significant gap. The template creates comprehensive election-site firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 North Carolina's Republican supermajority can override gubernatorial vetoes, making even Governor Stein's support insufficient for passage. SB 382's transfer of election board appointment authority and restriction of AG authority demonstrate the legislature's trajectory. The municipal ordinance track is the primary strategy, with Charlotte, Raleigh, Durham, Asheville, and Greensboro as targets. North Carolina's status as a perennial swing state ensures national attention to the issue. The state bill serves as a messaging vehicle.
 
 ### Target Committees
