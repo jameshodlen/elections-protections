@@ -1,19 +1,20 @@
 ---
-title: How to Talk to Your Neighbors About This
+title: Community Conversation Reference
 description: >-
-  Conversation guides, talking points, and messaging tips for discussing
-  polling place protections with different audiences, from worried voters
-  to conservative neighbors.
+  Reference materials for community conversations on polling place law,
+  including factual summaries and suggested framing for different audiences.
 tags:
   - voter-guide
-  - messaging
   - community-engagement
-  - talking-points
+  - reference
 ---
 
-# How to Talk to Your Neighbors About This
+# Community Conversation Reference
 
-The most effective messengers are not websites or organizations — they are trusted community members. People listen to their neighbors, friends, coworkers, and family. This page helps you have those conversations.
+!!! note "Archived page"
+    This page is retained as a reference resource and is not linked from the site navigation. It compiles factual summaries and framing notes for community conversations on polling place law. The primary legal analysis is in the [Legal Framework](../legal-foundation/index.md) and [State Legal Profiles](../state-guides/index.md) sections.
+
+This page assembles factual summaries, statutory references, and framing notes for community conversations on polling place law.
 
 ---
 
