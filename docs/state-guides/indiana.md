@@ -1,21 +1,21 @@
 ---
 title: "Indiana — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Indiana municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Indiana municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - indiana
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - indiana
+ - election-security
+ - 18-usc-592
 ---
 
 # Indiana Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -71,7 +71,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Key Assets | Rating |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Counties have home rule under IC 36-1-3. Marion County through Unigov is the pri
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **Sympathetic State Legislators:** Sen. Shelli Yoder (D, Senate Minority Leader), Sen. Rodney Pol (D-Gary, who served as Gary's city attorney), and Rep. Nathan Coulter (D-Bloomington). These legislators can provide vocal support and committee testimony but cannot advance legislation.
 
@@ -100,7 +100,7 @@ Counties have home rule under IC 36-1-3. Marion County through Unigov is the pri
 
 ### Opposition Landscape
 
-**AG Todd Rokita (R)** represents the campaign's most dangerous adversary. He has actively supported EO 14248's objectives, filing a citizenship verification lawsuit against DHS (settled 2025) and identifying 165 registered non-citizens with 21 having cast ballots. Rokita previously defended Indiana's voter photo ID law before the Supreme Court in *Crawford v. Marion County Election Board*, 553 U.S. 181 (2008). His demonstrated willingness to target progressive municipalities (Gary, West Lafayette, Bloomington) creates an exceptionally hostile enforcement environment.
+**AG Todd Rokita (R)** represents the campaign's most dangerous adversary. He has actively supported EO 14248's objectives, filing a citizenship verification lawsuit against DHS (settled 2025) and identifying 165 registered non-citizens with 21 having cast ballots. Rokita previously defended Indiana's voter photo ID law before the Supreme Court in *Crawford v. Marion County Election Board*, 553 U.S. 181 (2008). His demonstrated willingness to target progressive municipalities (Gary, West Lafayette, Bloomington) creates an hostile enforcement environment.
 
 **Governor Mike Braun (R)** would sign reactive preemption legislation. The legislature's 110-40 supermajority can pass targeted preemption legislation at will.
 
@@ -142,8 +142,7 @@ Voter intimidation under IC 3-14-3-21.5 criminalizes knowingly or intentionally 
 - **IOT/CISO**: Hemant Jain; Local Gov: Brett Edstene, (463) 261-6177
 - **IDHS**: in.gov/dhs
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -170,8 +169,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template fills the polling place firearms gap.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Indiana's Republican trifecta makes passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Indianapolis, Bloomington, South Bend, and Fort Wayne as targets. The 2024 election worker protection enhancement (HEA 1265) demonstrates some bipartisan appetite for election security — the state bill could be framed as extending that protection to cover federal agent deployment.
 
 ### Target Committees

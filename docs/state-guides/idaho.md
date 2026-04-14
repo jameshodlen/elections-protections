@@ -1,21 +1,21 @@
 ---
 title: "Idaho — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Idaho municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Idaho municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - idaho
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - idaho
+ - election-security
+ - 18-usc-592
 ---
 
 # Idaho Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -77,7 +77,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 | Municipality | Pop. | Government | Political Lean | Key Assets | Rating |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **ACLU of Idaho** (Boise headquarters) — Top-tier partner with active voting rights litigation capacity and a Voting Rights Hotline.
 
@@ -148,8 +148,7 @@ The **Idaho Supreme Court** scores 7.0 on Ballotpedia's Republican-control scale
 - **224th Cyber Operations Squadron**: Gowen Field, Boise
 - **Idaho State Police**: (208) 884-7000
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -176,8 +175,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The template creates election-specific firearms restrictions in a state with full preemption (§ 18-3302J).
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Idaho's Republican trifecta and statewide firearms preemption (§ 18-3302J) make both state legislation and municipal ordinances extremely difficult. The municipal ordinance track described in Sections 1–5 is the primary strategy but faces significant preemption headwinds. Boise, Moscow, and Sun Valley are the most viable municipal targets given their relatively moderate political environments. The state bill serves exclusively as a messaging vehicle.
 
 ### Target Committees

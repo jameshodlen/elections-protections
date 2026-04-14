@@ -1,21 +1,21 @@
 ---
 title: "Florida — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Florida municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Florida municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - florida
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - florida
+ - election-security
+ - 18-usc-592
 ---
 
 # Florida Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">6</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -91,7 +91,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### St. Petersburg (Recommended First Target)
 
@@ -129,9 +129,9 @@ Critical language adjustments from the Madison model: frame as local resource al
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
-### Priority Coalition Partners
+### Priority Relevant Organizations
 
 1. **ACLU of Florida** (Executive Director Micah Kubic) — Premier civil liberties organization; led Amendment 4 campaign with $5.53M investment; staff expertise on preemption
 2. **Florida Rights Restoration Coalition (FRRC)** (Desmond Meade, founder) — Led Amendment 4 to passage with 64.5% in 2018; deep organizing infrastructure
@@ -139,7 +139,7 @@ Critical language adjustments from the Madison model: frame as local resource al
 4. **Florida Rising** (Senior Political Advisor Dwight Bullard) — Statewide grassroots organization in communities of color
 5. **League of Women Voters of Florida** — Nonpartisan credibility; presence in all target municipalities
 
-Additional coalition partners include **All Voting is Local Action** (Brad Ashwell, FL Director), **Southern Poverty Law Center** (Florida policy), **NAACP Florida State Conference**, **Brennan Center for Justice**, and **Brady United** (existing gun-free polling places petition). The LGBTQ+ community (strong in St. Petersburg, Tampa, Orlando), Black communities, immigrant communities, and student/university communities are the most mobilizable constituencies.
+Additional relevant organizations include **All Voting is Local Action** (Brad Ashwell, FL Director), **Southern Poverty Law Center** (Florida policy), **NAACP Florida State Conference**, **Brennan Center for Justice**, and **Brady United** (existing gun-free polling places petition). The LGBTQ+ community (strong in St. Petersburg, Tampa, Orlando), Black communities, immigrant communities, and student/university communities are the most mobilizable constituencies.
 
 ### Opposition Landscape
 
@@ -227,8 +227,7 @@ Florida maintains robust infrastructure through the Florida Digital Service and 
 | **Attorney General James Uthmeier (R)** | myfloridalegal.com |
 | **Cyber Florida (USF)** | cyberflorida.org |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -254,8 +253,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 5 — Emergency election procedures**: Florida lacks statutory authority for emergency polling relocation.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Florida's Republican trifecta and Governor DeSantis's focus on election restriction make passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy. Florida's partial firearms prohibition (concealed carry banned, open carry already illegal) means the firearms gap is narrower than in many other Tier 3 states. Miami-Dade, Broward, Palm Beach County, Orlando, and Tampa provide a coalition base — though Florida's broad state preemption of local firearms regulation constrains the municipal track. The state bill serves exclusively as a messaging vehicle.
 
 ### Target Committees

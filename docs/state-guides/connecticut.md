@@ -1,35 +1,35 @@
 ---
 title: Connecticut — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political research report for Connecticut election protection ordinances, covering the hybrid Dillon's Rule framework, CGS § 7-192a explicit election preemption obstacle, the 2025 TRUST Act, and target city analysis for New Haven, Hartford, and Hamden.
+ Legal and political research report for Connecticut election protection ordinances, covering the hybrid Dillon's Rule framework, CGS § 7-192a explicit election preemption obstacle, the 2025 TRUST Act, and city with home rule authority analysis for New Haven, Hartford, and Hamden.
 tags:
-  - tier-yellow
-  - connecticut
-  - dillons-rule
-  - trust-act
-  - new-haven
-  - hartford
+ - tier-2
+ - connecticut
+ - dillons-rule
+ - trust-act
+ - new-haven
+ - hartford
 ---
 
 # Connecticut Election Protection Ordinance: Legal and Political Research Report
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-**Connecticut presents a challenging but navigable legal landscape for municipal election protection ordinances.** While the state's hybrid Dillon's Rule system and explicit election preemption statute (CGS § 7-192a) create significant barriers, municipalities retain authority over police operations and local resources that could support a carefully framed ordinance. Three municipalities—New Haven, Hartford, and Hamden—offer the strongest prospects for success, backed by an existing coalition infrastructure that successfully passed the nation's strongest state voting rights act in 2023.
+**Connecticut presents a challenging but navigable legal landscape for municipal election protection ordinances.** While the state's hybrid Dillon's Rule system and explicit election preemption statute (CGS § 7-192a) create significant barriers, municipalities retain authority over police operations and local resources that could support a carefully framed ordinance. Three municipalities—New Haven, Hartford, and Hamden—offer the strongest prospects for success, backed by an existing relevant organizations that successfully passed the nation's strongest state voting rights act in 2023.
 
 !!! info "March 2026 Update — State Legislation Active"
-    Connecticut legislators have introduced a bill establishing a **250-foot buffer zone from federal agents at local polling places** and restricting federal intervention in state elections. The bill also addresses **federal seizure of ballots and election materials** — requiring state officials to receive notification before any such action — responding to concerns raised by the FBI's January 2026 search of an election center in Fulton County, Georgia.
+ Connecticut legislators have introduced a bill establishing a **250-foot buffer zone from federal agents at local polling places** and restricting federal intervention in state elections. The bill also addresses **federal seizure of ballots and election materials** — requiring state officials to receive notification before any such action — responding to concerns raised by the FBI's January 2026 search of an election center in Fulton County, Georgia.
 
-    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). Connecticut's Democratic trifecta makes state-level passage likely.
+ **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in cities with home rule authority (Path A). Connecticut's Democratic trifecta makes state-level passage likely.
 
-    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes provisions specifically addressing ballot seizure scenarios.
+ For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes provisions specifically addressing ballot seizure scenarios.
 
 ---
 
@@ -190,7 +190,7 @@ Hamden's comprehensive home rule charter was most recently revised April 22, 202
 
 ---
 
-## Section 4: Coalition infrastructure and key partners
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Tier 1 essential partners anchor the coalition
 
@@ -200,7 +200,7 @@ Hamden's comprehensive home rule charter was most recently revised April 22, 202
 
 **Common Cause Connecticut** offers deep election integrity expertise and established Election Protection infrastructure that trains nonpartisan poll monitors focusing on BIPOC communities. Contact Dera Silvestre at dsilvestre@commoncause.org. While transitioning leadership after Cheri Quickmire's retirement, the organization maintains the Democracy Scorecard tracking legislator positions and partners with CCAG on the Connect the Dollars independent expenditure monitoring project.
 
-**Connecticut Immigrant Rights Alliance (CIRA)** provides coalition infrastructure connecting over 30 member organizations with direct ties to impacted communities. Contact ctimmigrantrightsalliance@gmail.com; lead organizer Alok Bhatt and campaign manager Juan Fonseca Tapia coordinate the Trust Act Now Coalition that achieved the 2025 Trust Act expansion. Legal support comes from Yale Law School's Worker and Immigrant Rights Advocacy Clinic.
+**Connecticut Immigrant Rights Alliance (CIRA)** provides relevant organizations connecting over 30 member organizations with direct ties to impacted communities. Contact ctimmigrantrightsalliance@gmail.com; lead organizer Alok Bhatt and campaign manager Juan Fonseca Tapia coordinate the Trust Act Now Coalition that achieved the 2025 Trust Act expansion. Legal support comes from Yale Law School's Worker and Immigrant Rights Advocacy Clinic.
 
 **Connecticut NAACP State Conference**, led by President Scot X. Esdaile, with active local chapters including Greater New Haven (President Dori Dumas) and Windham/Willimantic (President Leah Ralls), provides essential credibility for racial justice framing and reaches Black communities directly impacted by election protection issues.
 
@@ -214,7 +214,7 @@ Hamden's comprehensive home rule charter was most recently revised April 22, 202
 
 **Connecticut Citizen Action Group (CCAG)**, founded in 1970 by Ralph Nader with over 20,000 members, partners with Common Cause on campaign finance monitoring. Contact Executive Director Tom Swan at action@ccag.net or (860) 233-2181.
 
-### Existing coalition infrastructure accelerates organizing
+### Existing relevant organizations accelerates organizing
 
 The **Connecticut Voting Rights Coalition**—comprising over 50 organizations that passed the nation's strongest state voting rights act—provides ready infrastructure. Members include all Tier 1 partners plus LatinoJustice PRLDEF, NAACP Legal Defense Fund, Campaign Legal Center, Asian American Legal Defense and Education Fund, multiple Indivisible chapters, CSEA SEIU Local 2001, CT Alliance for Retired Americans, and Planned Parenthood Votes.
 
@@ -263,8 +263,7 @@ Connecticut municipalities administer elections locally through town clerks and 
 **Key contacts:**
 - **Secretary of the State:** (860) 509-6100, sots.ct.gov
 - **AG Election Protection:** (860) 808-5318, attorney.general@ct.gov
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -294,8 +293,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 7 — Voter data protection**: The template adds protections against federal seizure of ballots and election records — a specific focus of Blumenthal's bill, which the template would strengthen with criminal penalties.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Connecticut is well-positioned for comprehensive state legislation. The Democratic trifecta, Governor Lamont's support, and Rep. Blumenthal's active 250-foot buffer bill create clear momentum. The session window through May 6 provides adequate time. The strategic question is whether to pursue the full Master State Bill Template as a standalone bill or integrate its provisions into Blumenthal's existing bill as an amendment package.
 
 The recommended approach is to build on Blumenthal's bill, which already includes federal agent buffer zones and ballot seizure protections. Adding the template's criminal penalties, civil enforcement with voter standing, polling place firearms restrictions, and emergency procedures would create one of the nation's most comprehensive polling place protection statutes. The TRUST Act precedent demonstrates the legislature's willingness to limit federal enforcement cooperation. Hartford, New Haven, Bridgeport, and Stamford provide a coalition base with existing sanctuary-type protections.
@@ -313,8 +311,8 @@ Connecticut's legal landscape presents genuine obstacles for municipal election 
 
 The most legally defensible approach would direct municipal police departments—through police commission regulations or council ordinances—not to allocate resources to assist armed federal personnel in activities near polling locations. This framing invokes the federal policy of 18 U.S.C. § 592, operates within the TRUST Act framework limiting local-federal cooperation, and exercises established municipal authority over police operations while avoiding direct regulation of election conduct reserved to the state.
 
-**New Haven, Hartford, and Hamden** offer the strongest prospects for adoption, with progressive majorities, established sanctuary frameworks, recent ordinance successes, and strong relationships with essential coalition partners. The existing coalition infrastructure from the Connecticut Voting Rights Act and Trust Act campaigns provides organizing capacity that few states can match.
+**New Haven, Hartford, and Hamden** offer the strongest prospects for adoption, with progressive majorities, established sanctuary frameworks, recent ordinance successes, and strong relationships with essential relevant organizations. The existing relevant organizations from the Connecticut Voting Rights Act and Trust Act campaigns provides organizing capacity that few states can match.
 
-The key strategic recommendation: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
+The key analytical notes: secure an **Attorney General opinion** or coordinate with the **Secretary of State** before adoption to reduce litigation risk, and ensure careful drafting that frames the ordinance as a police policy matter within established municipal authority rather than an election regulation that CGS § 7-192a prohibits.
 
 ---

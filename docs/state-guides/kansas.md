@@ -1,21 +1,21 @@
 ---
 title: "Kansas — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Kansas municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Kansas municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - kansas
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - kansas
+ - election-security
+ - 18-usc-592
 ---
 
 # Kansas Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">4</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -24,9 +24,9 @@ tags:
 Kansas possesses one of the **strongest home rule frameworks in the nation**. Article 12, Section 5 of the Kansas Constitution (adopted 1961) empowers cities to "determine their local affairs and government including the levying of taxes, excises, fees, charges and other exactions," with a mandatory liberal construction clause requiring "the largest measure of self-government." This constitutional entrenchment, combined with progressive urban targets (Lawrence, the Wyandotte County/KCK Unified Government, Topeka), an established ACLU-led election protection coalition, and a 250-foot electioneering buffer zone, makes Kansas a Tier 2 (Moderate viability) state. The unique Wyandotte Unified Government structure allows a single ordinance to cover an entire county under both city and county home rule authority — the strongest single target across the four-state Kansas-Missouri-Nebraska-Iowa campaign.
 
 !!! info "March 2026 Update — State Legislation Active"
-    Kansas legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places.** Kansas presents the most interesting divided-government scenario among states with active legislation — the state has a Democratic governor (Laura Kelly) who would likely sign a protection bill, but a Republican-controlled legislature.
+ Kansas legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places.** Kansas presents the most interesting divided-government scenario among states with active legislation — the state has a Democratic governor (Laura Kelly) who would likely sign a protection bill, but a Republican-controlled legislature.
 
-    **Two-track strategy:** The state bill faces a difficult path through the Republican legislature but Gov. Kelly's signature is available if it passes. Municipal ordinances in target cities remain the primary action pathway in Kansas. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies, including "Election Sovereignty" framing that emphasizes state authority over federal overreach.
+ **Two-track strategy:** The state bill faces a difficult path through the Republican legislature but Gov. Kelly's signature is available if it passes. Municipal ordinances in cities with home rule authority remain the primary action pathway in Kansas. The **[Master State Bill Template](../legal-foundation/master-state-bill-template/)** includes divided-government adaptation strategies, including "Election Sovereignty" framing that emphasizes state authority over federal overreach.
 
 ---
 
@@ -92,11 +92,11 @@ For a comprehensive statutory cross-reference, see the [50-State Viability Analy
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Lawrence (Douglas County) -- Population ~99,000 -- Passage Probability: HIGH
 
-Commission-Manager government with 5 commissioners elected at-large; virtually all commissioners are Democrats. Home to the University of Kansas and Kansas Appleseed's headquarters. The city passed anti-discrimination ordinances and approved a sales tax increase for affordable housing in November 2024. Lawrence is a first-class city with full constitutional home rule. The combination of overwhelming progressive composition, robust civil liberties infrastructure, and strong organizational partners makes Lawrence the **optimal first target** in Kansas.
+Commission-Manager government with 5 commissioners elected at-large; virtually all commissioners are Democrats. Home to the University of Kansas and Kansas Appleseed's headquarters. The city passed anti-discrimination ordinances and approved a sales tax increase for affordable housing in November 2024. Lawrence is a first-class city with full constitutional home rule. The combination of overwhelming progressive composition, robust civil liberties infrastructure, and strong organizational partners makes Lawrence the **home rule city analyzed** in Kansas.
 
 ### Kansas City, KS / Wyandotte County Unified Government -- Population ~156,000 -- Passage Probability: MEDIUM-HIGH
 
@@ -104,7 +104,7 @@ The consolidated city-county government (established 1997 under K.S.A. 12-345) f
 
 ### Topeka (Shawnee County) -- Population ~127,000 -- Passage Probability: MEDIUM
 
-Council-Manager government with 9 members (3 at-large, 6 districts) plus directly elected mayor. More moderate than Lawrence politically; primary strategic value is symbolic significance as the state capital. First-class city with full home rule.
+Council-Manager government with 9 members (3 at-large, 6 districts) plus directly elected mayor. More moderate than Lawrence politically; primary legal relevance is symbolic significance as the state capital. First-class city with full home rule.
 
 ### Manhattan (Riley County) -- Population ~55,000 -- Passage Probability: LOW-MEDIUM
 
@@ -116,7 +116,7 @@ County-level ordinances face a significant hurdle: **K.S.A. 19-101a(a)(6)** expr
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 **ACLU of Kansas** (Overland Park/statewide) — Runs Election Protection program (866-OUR-VOTE hotline, 7+ years); partners with Lawyers' Committee for Civil Rights and Stinson LLP; filed amicus in *LWV Kansas v. Schwab*; best partner for legal strategy. The 2023 joint voting rights campaign in Wyandotte County brought together ACLU Kansas, El Centro, LWV Topeka-Shawnee County, LWV Wichita-Metro, Loud Light, and MORE2.
 
@@ -175,8 +175,7 @@ An **ordinary home rule ordinance** — not a charter ordinance — is recommend
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -204,8 +203,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Kansas's constitutional carry regime with no polling place restriction is the most significant gap. The template creates election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Kansas's divided government — a Democratic governor facing a Republican supermajority legislature — makes passage of the Master State Bill Template impossible in the current session. The introduced polling place protection bill has been referred to committee with no hearing scheduled, confirming the legislative blockade. SB 5's restriction on federal election funds demonstrates the legislature's hostility to federal election involvement from the opposite direction — viewing federal engagement as a threat to state sovereignty rather than a voter intimidation concern.
 
 The municipal ordinance track described in Sections 1–5 above is the primary strategy for Kansas. Lawrence, Kansas City (KS), Topeka, and Wichita are the most viable targets. The state bill serves as a messaging vehicle and organizes the coalition heading into the November 2026 elections. Governor Kelly's willingness to sign — if the bill could reach her desk — underscores the legislative barrier rather than the executive one.

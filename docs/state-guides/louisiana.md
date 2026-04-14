@@ -1,21 +1,21 @@
 ---
 title: "Louisiana — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Louisiana municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Louisiana municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - louisiana
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - louisiana
+ - election-security
+ - 18-usc-592
 ---
 
 # Louisiana Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -90,7 +90,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### New Orleans (Primary and Likely Only Target)
 
@@ -118,9 +118,9 @@ The ordinance should be drafted **not** as an election regulation but as: (1) a 
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
-### Priority Coalition Partners
+### Priority Relevant Organizations
 
 1. **ACLU of Louisiana** — Active on voting rights, prosecutorial accountability, and defending New Orleans policies
 2. **Power Coalition for Equity and Justice (PCEJ)** (Ashley Shelton, founder) — Statewide civic engagement table; voter mobilization in communities of color; C4 affiliate: Power Coalition for Electoral Justice
@@ -132,7 +132,7 @@ Additional partners: **SPLC Louisiana office**, **Campaign Legal Center/Lawyers'
 
 ### Opposition Landscape
 
-Governor Jeff Landry (R) has deployed State Police and requested National Guard for urban enforcement. AG Liz Murrill (R) has already litigated against New Orleans' sanctuary policies. The legislature would likely pass retaliatory legislation including potential funding cuts. SB 15's criminalization of non-cooperation creates an exceptionally hostile environment. The ordinance would be framed alongside sanctuary policies as part of a pattern of defiance.
+Governor Jeff Landry (R) has deployed State Police and requested National Guard for urban enforcement. AG Liz Murrill (R) has already litigated against New Orleans' sanctuary policies. The legislature would likely pass retaliatory legislation including potential funding cuts. SB 15's criminalization of non-cooperation creates an hostile environment. The ordinance would be framed alongside sanctuary policies as part of a pattern of defiance.
 
 ### State Legislative Pathway
 
@@ -216,8 +216,7 @@ Louisiana has developed notable capacity through **Chief Cyber Officer Dustin Gl
 | **Attorney General Liz Murrill (R)** | ag.state.la.us |
 | **LC3 / Chief Cyber Officer** | cybersecurity.la.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -244,8 +243,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap at polling places that current law leaves unaddressed.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Louisiana's Republican trifecta under Governor Landry makes passage impossible. The municipal ordinance track described in Sections 1–5 is the primary strategy, with New Orleans, Baton Rouge, and Shreveport as targets. Louisiana's partial firearms protection (concealed carry banned at polls) means the primary gaps are the open carry exception and the federal personnel prohibition. The state bill serves as a messaging vehicle.
 
 ### Target Committees

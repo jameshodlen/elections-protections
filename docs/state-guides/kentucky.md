@@ -1,21 +1,21 @@
 ---
 title: "Kentucky — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Kentucky municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Kentucky municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-yellow
-  - kentucky
-  - election-security
-  - 18-usc-592
+ - tier-2
+ - kentucky
+ - election-security
+ - 18-usc-592
 ---
 
 # Kentucky Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="yellow">
-<div class="state-header-tier">Tier 2 — Proceed with Caution</div>
+<div class="state-header-tier">Tier 2 — Limited or Conditional Home Rule</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -82,25 +82,25 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-### Louisville Metro (Primary Target — Second-Strongest Nationally)
+### Louisville Metro (Analyzed City — Second-Strongest Nationally)
 
 **Population:** ~780,000. Consolidated city-county government (merged 2003) operating as a First Class city with complete home rule. Mayor **Craig Greenberg (D)** elected 2022, running for re-election in 2026. The **26-member Metro Council has a slim Democratic majority** (~13 D, 12 R, 1 Independent after a January 2025 party switch), requiring careful vote-counting. Ordinances require a majority of members present (14 votes).
 
 Louisville has passed notable progressive ordinances including "Breonna's Law" (2020, banning no-knock warrants, passed unanimously). The consolidated government's exercise of both municipal and county powers creates the most robust legal position available in Kentucky.
 
-### Lexington-Fayette Urban County Government (Secondary Target)
+### Lexington-Fayette Urban County Government (Analyzed City)
 
 **Population:** ~322,570. Consolidated city-county government (merged 1974 under KRS Chapter 67C) with a mayor and 15-member council (12 district, 3 at-large). However, Mayor **Linda Gorton (R)**, re-elected in 2022 by a 71-14% margin, could complicate passage.
 
-### Covington (Tertiary Target)
+### Covington (Analyzed City)
 
 **Population:** ~41,000. In Northern Kentucky, directly across the Ohio River from Cincinnati. Has adopted an LGBT Fairness Ordinance and has progressive tendencies. **NKU Chase College of Law** is a nearby academic legal resource.
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -200,8 +200,7 @@ Estimated HAVA allocation: **~$6.49 million (FY2020)**, declining to approximate
 | **KY Office of Homeland Security** | homelandsecurity.ky.gov |
 | **Election Law Violation Hotline** | 1-800-328-VOTE (8683) |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -230,8 +229,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Kentucky's constitutional carry regime with no polling place restriction is a significant gap. The template creates election-specific firearms restrictions.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Kentucky's divided government — a Democratic governor facing a Republican supermajority legislature — and the anti-sanctuary law (SB 1) make passage of the Master State Bill Template impossible in the current session. The legislature has demonstrated active hostility to non-cooperation frameworks, and SB 1's private lawsuit provision against non-compliant municipalities constrains the local ordinance track as well.
 
 The municipal ordinance track described in Sections 1–5 faces headwinds from both KRS § 237.110's firearms preemption and SB 1's anti-sanctuary provisions. Louisville, Lexington, and Covington remain the most viable municipal targets given their home rule charters. The state bill's primary value is as a constitutional argument vehicle — framing armed federal deployment at polling places as violating Section 22's military subordination principle provides a conservative constitutional framework that may resonate with some Republican legislators. Governor Beshear's willingness to sign underscores the legislative barrier.

@@ -1,21 +1,21 @@
 ---
 title: "Arizona — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Arizona municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Arizona municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - arizona
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - arizona
+ - election-security
+ - 18-usc-592
 ---
 
 # Arizona Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">5</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -24,15 +24,15 @@ tags:
 Arizona is a high-stakes battleground for election protection. The state features one of the most active election litigation landscapes in the nation, a constitutional Free and Equal Elections Clause that directly mirrors 18 U.S.C. Section 592 ("no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage"), an explicit firearms prohibition at polling places, and a Democratic Secretary of State (Adrian Fontes) who established the state's first dedicated Election Cybersecurity Unit. Arizona joined the 19-state lawsuit against EO 14248, and AG Kris Mayes obtained grand jury indictments of 11 "fake electors." However, the state's deeply polarized political environment, aggressive election litigation from all sides, and the massive scale of Maricopa County (2.6 million registered voters, 4th-largest county nationally) create significant challenges. Real cybersecurity threats materialized in 2025 with Iranian-linked attacks on the SOS candidate portal and website.
 
 !!! warning "March 2026 Update — Arizona Is a Two-Front Battleground"
-    Arizona is experiencing **both directions** of the national election protection fight simultaneously.
+ Arizona is experiencing **both directions** of the national election protection fight simultaneously.
 
-    **The offensive front — SB 1570 (defeated, can be revived):** In February 2026, Sen. Jake Hoffman (R-Queen Creek) introduced a strike-everything amendment to **SB 1570** that would have required all 15 Arizona counties to sign agreements with federal immigration law enforcement to station officers at **every polling place and ballot drop box** during the 2026 general election. The bill was scheduled for the Senate Judiciary & Elections Committee on February 20, but after six hours of testimony and massive community opposition, Committee Chair Wendy Rogers announced the bill would not be heard — causing it to miss the committee deadline. **The bill is effectively dead for the Senate but can be revived through a House strike-everything amendment.**
+ **The offensive front — SB 1570 (defeated, can be revived):** In February 2026, Sen. Jake Hoffman (R-Queen Creek) introduced a strike-everything amendment to **SB 1570** that would have required all 15 Arizona counties to sign agreements with federal immigration law enforcement to station officers at **every polling place and ballot drop box** during the 2026 general election. The bill was scheduled for the Senate Judiciary & Elections Committee on February 20, but after six hours of testimony and massive community opposition, Committee Chair Wendy Rogers announced the bill would not be heard — causing it to miss the committee deadline. **The bill is effectively dead for the Senate but can be revived through a House strike-everything amendment.**
 
-    Community members, faith leaders, and advocacy organizations packed the hearing room. Several organizers from **LUCHA** (Living United for Change in Arizona) were banned from the Senate building by the sergeant-at-arms. The opposition coalition — detailed below — successfully prevented a vote.
+ Community members, faith leaders, and advocacy organizations packed the hearing room. Several organizers from **LUCHA** (Living United for Change in Arizona) were banned from the Senate building by the sergeant-at-arms. The opposition coalition — detailed below — successfully prevented a vote.
 
-    **The defensive front — Arizona ICE Act:** Gov. Katie Hobbs **vetoed** the "Arizona ICE Act" (SB 1164) in April 2025, which would have forced all state and local law enforcement to cooperate with ICE. Republican leaders have threatened to **put the Arizona ICE Act on the 2026 ballot** as a ballot referral, following the same playbook used for the Secure Border Act (Prop 314, which passed with 63% in 2024).
+ **The defensive front — Arizona ICE Act:** Gov. Katie Hobbs **vetoed** the "Arizona ICE Act" (SB 1164) in April 2025, which would have forced all state and local law enforcement to cooperate with ICE. Republican leaders have threatened to **put the Arizona ICE Act on the 2026 ballot** as a ballot referral, following the same playbook used for the Secure Border Act (Prop 314, which passed with 63% in 2024).
 
-    **What this means for municipal ordinances:** The Hobbs veto firewall protects against hostile *state* legislation, making Arizona's municipal ordinance pathway a supplementary strategy rather than the primary defense. If Hobbs loses her 2026 reelection bid, municipal ordinances in Tucson, Tempe, Flagstaff, and Phoenix become critical. The coalition contacts listed below are actively organizing on both fronts.
+ **What this means for municipal ordinances:** The Hobbs veto firewall protects against hostile *state* legislation, making Arizona's municipal ordinance pathway a supplementary strategy rather than the primary defense. If Hobbs loses her 2026 reelection bid, municipal ordinances in Tucson, Tempe, Flagstaff, and Phoenix become critical. The coalition contacts listed below are actively organizing on both fronts.
 
 ---
 
@@ -81,7 +81,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 ### Tucson
 
@@ -123,7 +123,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### SB 1570 opposition coalition — proven and mobilized
 
@@ -271,8 +271,7 @@ Arizona's Article II, Section 21 ("no power, civil or military, shall at any tim
 | **AG Election Integrity Unit** | azag.gov/criminal/eiu |
 | **SOS Grants Manager** | Gatjeak Gew / ggew@azsos.gov / (602) 320-3431 |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -298,8 +297,7 @@ Arizona's existing framework covers firearms at polling places. Based on gap ana
 - **Article 5 — Emergency election procedures**: Arizona lacks statutory authority for emergency polling relocation.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Arizona's divided government means the Master State Bill Template cannot pass the Republican legislature, but the defensive posture is strong. Governor Hobbs's vetoes of SB 1570 and the Arizona ICE Act demonstrate that hostile legislation cannot become law either. The constitutional language of Article II, Section 21 provides the strongest textual foundation in any state for arguing that armed federal deployment at polling places is unconstitutional.
 
 The coalition mobilized against SB 1570 — LUCHA, VetsForward, Rural Arizona Action, and key legislators Ortiz and Miranda — provides a ready-made advocacy network for both the municipal ordinance track and future state legislation. The municipal ordinance track is the primary strategy, with Phoenix, Tucson, Flagstaff, and Tempe as targets. The 2026 election may shift legislative control, making the 2027 session a realistic target for state legislation.

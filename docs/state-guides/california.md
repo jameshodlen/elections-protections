@@ -1,34 +1,34 @@
 ---
 title: California — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political analysis for California municipal election protection ordinances, covering charter city home rule authority under Article XI, SB 54 sanctuary state precedent, Elections Code §§ 18544–18545, and target city analysis for Berkeley, San Francisco, and West Hollywood.
+ Legal and political analysis for California municipal election protection ordinances, covering charter city home rule authority under Article XI, SB 54 sanctuary state precedent, Elections Code §§ 18544–18545, and city with home rule authority analysis for Berkeley, San Francisco, and West Hollywood.
 tags:
-  - tier-green
-  - california
-  - home-rule
-  - sanctuary-state
-  - charter-city
+ - tier-1
+ - california
+ - home-rule
+ - sanctuary-state
+ - charter-city
 ---
 
 # California's legal and political landscape favors municipal election protection ordinances
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Charter City</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-California offers an unusually favorable environment for local election protection ordinances based on 18 U.S.C. § 592. The state's robust Home Rule doctrine, explicit constitutional protection for charter city control over police and elections, existing state law prohibiting armed presence at polls, and the precedent established by SB 54's successful defense against federal challenge create a strong legal foundation. **Berkeley, San Francisco, and West Hollywood emerge as optimal targets**, with a well-established coalition infrastructure ready to mobilize.
+California offers an unusually favorable environment for local election protection ordinances based on 18 U.S.C. § 592. The state's robust Home Rule doctrine, explicit constitutional protection for charter city control over police and elections, existing state law prohibiting armed presence at polls, and the precedent established by SB 54's successful defense against federal challenge create a strong legal foundation. **Berkeley, San Francisco, and West Hollywood emerge as applicable targets**, with a well-established relevant organizations ready to engage.
 
 !!! info "March 2026 Update — State Legislation Active"
-    California legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** This state-level legislation would complement the municipal ordinance strategy described below — municipal ordinances can go further on voter data protection, election equipment custody, and community oversight even after a state bill passes.
+ California legislators have introduced a bill **prohibiting the enforcement of immigration laws near polling places, vote-counting locations, and other election sites.** This state-level legislation would complement the municipal ordinance strategy described below — municipal ordinances can go further on voter data protection, election equipment custody, and community oversight even after a state bill passes.
 
-    **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in target cities (Path A). If the state bill passes, municipal ordinances provide additional local protections. If the state bill stalls, municipal ordinances are the fallback.
+ **Two-track strategy:** Push the state bill through the legislature (Path B) while advancing municipal ordinances in cities with home rule authority (Path A). If the state bill passes, municipal ordinances provide additional local protections. If the state bill stalls, municipal ordinances are the fallback.
 
-    For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes California-specific adaptation notes.
+ For model state legislative language, see the **[Master State Bill Template](../legal-foundation/master-state-bill-template/)**, which includes California-specific adaptation notes.
 
 ---
 
@@ -152,9 +152,9 @@ This provides a state-law mechanism addressing federal agents at polls without e
 
 ---
 
-## Section 3: Berkeley leads the target city analysis
+## Section 3: Cities with Home Rule Authority
 
-### Berkeley: optimal first target
+### Berkeley: home rule city analyzed
 
 **Charter Status:** Long-established charter city with full municipal affairs authority over police force and elections.
 
@@ -212,7 +212,7 @@ Berkeley created one of the nation's first **Police Review Commissions** in 1973
 
 ---
 
-## Section 4: Established coalition infrastructure ready to mobilize
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Core partners bring litigation and advocacy capacity
 
@@ -240,7 +240,7 @@ Berkeley created one of the nation's first **Police Review Commissions** in 1973
 
 **Chinese for Affirmative Action** anchors the Asian Americans for Civil Rights and Equality network and led the Immigrant Parent Voting Collaborative that won San Francisco school board noncitizen voting implementation. Contact: (415) 274-6750; 17 Walter U Lum Place, San Francisco, CA 94108.
 
-### Existing coalition infrastructure provides foundation
+### Existing relevant organizations provides foundation
 
 The **National Election Protection Coalition (California chapter)**, led by California Common Cause and the Lawyers' Committee for Civil Rights Under Law, has operated for over 10 years with 400+ poll monitors deployed across seven or more counties.
 
@@ -307,8 +307,7 @@ AG Bonta has filed **50+ lawsuits** against the Trump administration as of 2025.
 | AG Election Protection | (916) 210-6300 (Division of Law Enforcement) |
 | Cal-CSIC | (833) REPORT-1; calcsic@caloes.ca.gov |
 | Cal OES | (916) 845-8510 |
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -335,11 +334,10 @@ California's existing framework already covers several template provisions. Base
 - **Article 7 — Voter data protection**: The template adds explicit protections against federal seizure of voter rolls and election records, an area not fully addressed by current California law.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests during election periods, creating a faster judicial response than currently available.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 California is among the most viable states for comprehensive state-level polling place protection legislation. SB 884, currently in the Senate Rules Committee, already addresses the 200-foot buffer for immigration enforcement near election sites. The Democratic trifecta and Governor Newsom's demonstrated support for election protection measures (signing the PEACE Act in 2024) create a clear path to passage. The strategic question is whether to pursue the full Master State Bill Template as an amendment to SB 884 or as standalone legislation.
 
-The optimal approach is to build on SB 884's existing momentum while incorporating the template's stronger criminal penalties, civil enforcement mechanisms, and emergency procedures. California's passage would create a second state model (alongside New Mexico's SB 264) and substantially strengthen the national precedent.
+The applicable approach is to build on SB 884's existing momentum while incorporating the template's stronger criminal penalties, civil enforcement mechanisms, and emergency procedures. California's passage would create a second state model (alongside New Mexico's SB 264) and substantially strengthen the national precedent.
 
 ### Target Committees
 
@@ -348,23 +346,3 @@ The optimal approach is to build on SB 884's existing momentum while incorporati
 | Senate | Rules Committee | Verify current chair | SB 884 currently assigned here |
 | Senate | Elections and Constitutional Amendments | Verify current chair | Primary jurisdiction over election law |
 | Assembly | Elections | Verify current chair | Assembly companion consideration |
-
-## Conclusion: strategic pathway for California implementation
-
-California's legal architecture provides **exceptional foundation** for municipal election protection ordinances. Charter cities possess explicit constitutional authority over both police force regulation and conduct of elections—the two core elements of any ordinance based on 18 U.S.C. § 592. Existing state law through Elections Code § 18544-18545 already prohibits armed presence at polls (including federal agents) without elections official authorization, meaning local ordinances can build on rather than conflict with state policy.
-
-**Berkeley emerges as the optimal launch city** given its charter status, status as America's first sanctuary city, consistently progressive council, and demonstrated recent political will through the 2025 Sanctuary City Ordinance and Election Rigging Response Act resolution. The city offers faster action potential than larger jurisdictions while providing sufficient visibility.
-
-The coalition infrastructure is already in place. Organizations with litigation capacity (ACLU chapters, MALDEF), grassroots voter mobilization (CHIRLA, Mi Familia Vota, California Calls), established election protection operations (Common Cause, LWVC), and language access expertise (Asian Americans Advancing Justice chapters) have existing partnerships and track records of successful collaboration.
-
-Three strategic recommendations emerge from this research:
-
-1. **Target charter cities exclusively** for initial ordinance passage to maximize legal defensibility under the municipal affairs doctrine—Berkeley first, then San Francisco
-
-2. **Frame ordinances as implementing existing state policy** (Election Code § 18544-18545) and aligning with federal law (§ 592) rather than creating new restrictions, reducing preemption vulnerability
-
-3. **Leverage SB 54 precedent** both legally (anticommandeering doctrine) and rhetorically (California's established position on limiting local-federal law enforcement cooperation)
-
-The legal risk profile is low to moderate for charter cities, with the strongest protection available for ordinances that focus on directing local police conduct—an expressly enumerated municipal affair under the California Constitution—rather than attempting to directly bind federal agents.
-
----

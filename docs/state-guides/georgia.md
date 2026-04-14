@@ -1,21 +1,21 @@
 ---
 title: "Georgia — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Georgia municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Georgia municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - georgia
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - georgia
+ - election-security
+ - 18-usc-592
 ---
 
 # Georgia Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -66,15 +66,15 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-Georgia's strong existing polling place firearms ban (150-foot zone covering all firearms) reduces the urgency for local ordinance campaigns relative to states with no such protections. The primary strategic need is ensuring enforcement of existing state law and building coalition infrastructure.
+Georgia's strong existing polling place firearms ban (150-foot zone covering all firearms) reduces the urgency for local ordinance campaigns relative to states with no such protections. The primary strategic need is ensuring enforcement of existing state law and building relevant organizations.
 
 > Target city analysis is under development. See the [50-State Viability Analysis](../legal-foundation/50-state-overview.md).
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 Georgia has significant civil rights and voting rights infrastructure. Organizations like Fair Fight Action have existing organizing capacity. Key organizations include the **NAACP Georgia State Conference**, **ACLU of Georgia**, **League of Women Voters of Georgia**, **Fair Fight Action**, **Asian Americans Advancing Justice - Atlanta**, and the **Southern Center for Human Rights**.
 
@@ -151,8 +151,7 @@ The **Georgia Technology Authority (GTA)** leads state cybersecurity under CISO 
 | **Attorney General Chris Carr (R)** | law.georgia.gov |
 | **GTA Cybersecurity** | gta.georgia.gov |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -178,8 +177,7 @@ Georgia's existing 150-foot firearms prohibition is among the strongest. Based o
 - **Article 5 — Emergency election procedures**: Georgia lacks statutory authority for emergency polling relocation.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Georgia's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Atlanta, Savannah, Augusta, and Columbus as targets. Georgia's existing 150-foot firearms ban means the template's primary value is the federal personnel prohibition and civil enforcement provisions rather than firearms restrictions. The state bill serves as a messaging vehicle — particularly powerful in Georgia given the national attention on Georgia elections since 2020.
 
 ### Target Committees

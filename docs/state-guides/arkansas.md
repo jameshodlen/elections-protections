@@ -1,21 +1,21 @@
 ---
 title: "Arkansas — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Arkansas municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Arkansas municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - arkansas
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - arkansas
+ - election-security
+ - 18-usc-592
 ---
 
 # Arkansas Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Limited</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -87,15 +87,15 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
-### Fayetteville (Primary Target)
+### Fayetteville (Analyzed City)
 
 **Population:** ~103,000. Progressive university town home to the University of Arkansas. New Mayor **Molly Rawn** elected December 2024. The 8-member city council is elected by ward.
 
 Fayetteville has a history of passing progressive ordinances despite state preemption, including an LGBT non-discrimination ordinance (later preempted by Act 137 of 2015 sponsored by Senate President Pro Tempore Bart Hester). The city's willingness to push legal boundaries makes it the primary target, though the Fayetteville preemption saga demonstrates the state's willingness to rapidly override local action.
 
-### Little Rock (Secondary Target)
+### Little Rock (Analyzed City)
 
 **Population:** ~202,591. State capital with a Council-Manager government under Mayor **Frank Scott Jr.** Provides state-capital visibility and institutional capacity.
 
@@ -109,7 +109,7 @@ Fayetteville has a history of passing progressive ordinances despite state preem
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 ### Potential Allies
 
@@ -196,8 +196,7 @@ Estimated cumulative HAVA election security funding since 2018: **approximately 
 | **ADEM** | (501) 683-6700 |
 | **CISO (Gary Vance)** | Office of State Technology |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -224,8 +223,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: The 2015 removal of polling places from the prohibited list created a deliberate gap. The template would restore and strengthen election-site firearms protections.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Arkansas's Republican trifecta and the legislature's deliberate 2015 removal of polling places from the firearms prohibition list signal a hostile environment for election protection legislation. The municipal ordinance track described in Sections 1–5 is the primary strategy, with Little Rock, Fayetteville, Fort Smith, and North Little Rock as targets. The state bill's primary value is as a constitutional argument — Article 3, Section 2's "no power, civil or military" language provides the strongest possible textual basis and aligns with conservative constitutional interpretation principles.
 
 ### Target Committees

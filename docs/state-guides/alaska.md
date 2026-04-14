@@ -1,28 +1,28 @@
 ---
 title: Alaska — Municipal Election Protection Ordinance Guide
 description: >-
-  Legal and political landscape for Alaska municipal election protection ordinances, covering Alaska's explicit rejection of Dillon's Rule (Article X Section 1), AS 29.35.145 firearms preemption, and target city analysis for Anchorage, Juneau, and Fairbanks.
+ Legal and political landscape for Alaska municipal election protection ordinances, covering Alaska's explicit rejection of Dillon's Rule (Article X Section 1), AS 29.35.145 firearms preemption, and city with home rule authority analysis for Anchorage, Juneau, and Fairbanks.
 tags:
-  - tier-green
-  - alaska
-  - home-rule
-  - anchorage
-  - juneau
-  - native-voting-rights
+ - tier-1
+ - alaska
+ - home-rule
+ - anchorage
+ - juneau
+ - native-voting-rights
 ---
 
 # Alaska Municipal Election Protection Ordinance: Legal and Political Landscape
 
 <div class="state-header-card" data-tier="green">
-<div class="state-header-tier">Tier 1 — Strong Viability</div>
+<div class="state-header-tier">Tier 1 — Strong Home Rule Authority</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">3</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Home Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
 
 
-Alaska's strong home rule tradition and progressive urban coalitions create a viable pathway for municipal election protection ordinances based on 18 U.S.C. § 592—but state firearms preemption poses the single greatest legal obstacle. The Alaska Constitution explicitly rejects Dillon's Rule, granting municipalities "all legislative powers not prohibited by law or charter" with mandated "liberal construction." Anchorage's 9-3 progressive Assembly majority makes it the optimal launch city, followed by Juneau and Fairbanks. A robust coalition infrastructure exists, anchored by the ACLU of Alaska, Native American Rights Fund, and First Alaskans Institute's newly formalized Get Out The Native Vote partnership.
+Alaska's strong home rule tradition and progressive urban coalitions create a viable pathway for municipal election protection ordinances based on 18 U.S.C. § 592—but state firearms preemption poses the single greatest legal obstacle. The Alaska Constitution explicitly rejects Dillon's Rule, granting municipalities "all legislative powers not prohibited by law or charter" with mandated "liberal construction." Anchorage's 9-3 progressive Assembly majority makes it the applicable launch city, followed by Juneau and Fairbanks. A robust relevant organizations exists, anchored by the ACLU of Alaska, Native American Rights Fund, and First Alaskans Institute's newly formalized Get Out The Native Vote partnership.
 
 ---
 
@@ -109,7 +109,7 @@ Based on statutory analysis, an Alaska election protection ordinance should:
 
 ---
 
-## Section 3: Anchorage emerges as the optimal launch city
+## Section 3: Anchorage emerges as the applicable launch city
 
 ### Anchorage offers strongest political conditions
 
@@ -171,7 +171,7 @@ The **Fairbanks North Star Borough** has seen recent progressive gains but faces
 
 ---
 
-## Section 4: Strong coalition infrastructure anchored by Native voting rights organizations
+## Section 4: Relevant Legal and Civic Organizations
 
 ### ACLU of Alaska provides civil liberties leadership
 
@@ -298,7 +298,7 @@ The viability of an Alaska municipal election protection ordinance depends criti
 4. **Frame measures as public safety** following the *Alaska Trappers v. Valdez* (2024) approach
 5. **Invoke federal policy alignment** with 18 U.S.C. § 592 without claiming direct enforcement authority
 
-Anchorage presents the optimal launch opportunity with its progressive supermajority, established civil liberties record, and strong home rule authority. The coalition infrastructure—particularly the newly formalized Native voting partnership and ACLU leadership—provides essential organizational capacity. Legal risks exist primarily around firearms preemption, but careful ordinance drafting focused on resource allocation and police protocols rather than direct firearms regulation offers a viable path forward.
+Anchorage presents the applicable launch opportunity with its progressive supermajority, established civil liberties record, and strong home rule authority. The relevant organizations—particularly the newly formalized Native voting partnership and ACLU leadership—provides essential organizational capacity. Legal risks exist primarily around firearms preemption, but careful ordinance drafting focused on resource allocation and police protocols rather than direct firearms regulation offers a viable path forward.
 
 ---
 
@@ -359,8 +359,7 @@ Federal voter intimidation statutes (18 U.S.C. sections 241, 245, 594; 52 U.S.C.
 
 ---
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -388,8 +387,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Firearms at election sites**: Alaska's constitutional carry regime means anyone may carry at polling places. The template would create election-specific firearm restrictions that address the gap AS 29.35.145 prevents municipalities from filling.
 - **Article 9 — Expedited judicial review**: Alaska lacks expedited docketing for election-period cases. The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Alaska's divided government — a Republican governor with a bipartisan coalition legislature — makes passage of the full Master State Bill Template extremely unlikely in the current session. Governor Dunleavy's legislative priorities center on fiscal policy and "election integrity" measures (HB 63), not polling place protection from federal agents. The municipal ordinance track described in Sections 1–5 above remains the primary strategy for Alaska, with Anchorage and Juneau as the most viable targets given their home rule charters.
 
 However, the state bill serves a valuable organizing and messaging function. Alaska's unique constitutional provision requiring liberal construction of local government powers (Article X, Section 1) provides a foundation for arguing that election protection falls within municipal authority. Introduction of a state bill — even without passage — creates a public record of the statutory gaps and builds the coalition needed for future sessions if political conditions change.

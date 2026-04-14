@@ -1,21 +1,21 @@
 ---
 title: "Mississippi — Municipal Election Protection Ordinance Guide"
 description: >-
-  Legal, political, and election security analysis for Mississippi municipal
-  ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
+ Legal, political, and election security analysis for Mississippi municipal
+ ordinances enforcing 18 U.S.C. § 592 and 52 U.S.C. § 10307(b).
 tags:
-  - tier-red
-  - mississippi
-  - election-security
-  - 18-usc-592
+ - tier-3
+ - mississippi
+ - election-security
+ - 18-usc-592
 ---
 
 # Mississippi Municipal Ordinance Implementation
 
 <div class="state-header-card" data-tier="red">
-<div class="state-header-tier">Tier 3 — Significant Barriers</div>
+<div class="state-header-tier">Tier 3 — Dillon's Rule or Preemption Constraints</div>
 <div class="state-header-stats">
-<div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Target Cities</span></div>
+<div class="state-stat"><span class="state-stat-value">0</span><span class="state-stat-label">Home Rule Cities</span></div>
 <div class="state-stat"><span class="state-stat-value">Dillon's Rule</span><span class="state-stat-label">Home Rule</span></div>
 </div>
 </div>
@@ -61,7 +61,7 @@ For comprehensive cross-state statutory comparison, see the [50-State Viability 
 
 ---
 
-## Section 3: Target City Analysis
+## Section 3: Cities with Home Rule Authority
 
 Mississippi's combination of strict Dillon's Rule, explicit election procedure preemption (Section 21-17-5(2)(c)), and firearms preemption makes municipal ordinance campaigns essentially impossible. Even non-binding resolutions face significant legal risk.
 
@@ -69,7 +69,7 @@ Mississippi's combination of strict Dillon's Rule, explicit election procedure p
 
 ---
 
-## Section 4: Coalition Directory
+## Section 4: Relevant Legal and Civic Organizations
 
 Key organizations in Mississippi include the **NAACP Mississippi State Conference**, **Mississippi Center for Justice**, **ACLU of Mississippi**, **League of Women Voters of Mississippi**, and **Southern Echo** (grassroots leadership development). The **Mississippi Voting Rights Restoration Coalition** provides existing infrastructure.
 
@@ -99,7 +99,7 @@ Mississippi created the **Mississippi Cyber Unit** in January 2023 under the Off
 
 **Cybersecurity Maturity: Tier 3 (Resource-constrained)** — Minimal dedicated election cybersecurity; thin IT staffing; highest dependence on now-defunded federal support; county-level capacity gaps; no mandatory post-election audits.
 
-**CISA Withdrawal Impact: Most Affected** — The Brennan Center identifies Mississippi as among states with the most limited cybersecurity resources, making the CISA/EI-ISAC withdrawal particularly devastating. New Cyber Unit still building capacity.
+**CISA Withdrawal Impact: Most Affected** — The Brennan Center identifies Mississippi as among states with the most limited cybersecurity resources, making the CISA/EI-ISAC withdrawal particularly significant. New Cyber Unit still building capacity.
 
 **HAVA Funding:** Approximately **$5M per year** (formula minimum).
 
@@ -124,7 +124,7 @@ Mississippi created the **Mississippi Cyber Unit** in January 2023 under the Off
 1. **Federal enforcement focus** — Campaign for DOJ enforcement of 18 U.S.C. Section 592 to address the ambiguous firearms gap, particularly the open carry loophole for non-candidates
 2. **Cybersecurity investment advocacy** — Press for state and federal investment to replace lost CISA support; Mississippi is among the most vulnerable to the withdrawal
 3. **Post-election audit mandate** — Advocate for mandatory audit legislation (currently none exists)
-4. **HB 1446 coalition support** — Build coalition infrastructure around the "Robert G. Clark Jr. Voting Rights Act" even if passage is unlikely
+4. **HB 1446 coalition support** — Build relevant organizations around the "Robert G. Clark Jr. Voting Rights Act" even if passage is unlikely
 
 **Top Legal Risks:**
 
@@ -147,8 +147,7 @@ Mississippi created the **Mississippi Cyber Unit** in January 2023 under the Off
 | **Mississippi Cyber Unit** | Department of Public Safety |
 | **ITS** | Dr. Craig Orgeron, Executive Director |
 
-## Section 6: State Legislative Viability
-
+## Section 6: State Legislative Process Considerations
 ### Quick Reference
 
 | Factor | Status |
@@ -175,8 +174,7 @@ Based on the current statutory framework, the [Master State Bill Template](../le
 - **Article 6 — Complete firearms prohibition at election sites**: The template closes the open carry gap and the enhanced permit exception at polling places.
 - **Article 9 — Expedited judicial review**: The template mandates 48-hour hearings on TRO requests.
 
-### Strategic Assessment
-
+### Legislative Process Considerations
 Mississippi's Republican trifecta makes passage impossible. The municipal ordinance track is the primary strategy, with Jackson, Hattiesburg, and Oxford as targets. HB 1446 (Robert G. Clark Jr. Voting Rights Act) demonstrates that Democratic legislators are introducing election protection measures even without prospects of passage — the Master State Bill Template provisions could be incorporated as amendments. The state bill serves as a messaging and organizing vehicle.
 
 ### Target Committees
