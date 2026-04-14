@@ -532,7 +532,7 @@ In states with Democratic trifectas or sympathetic governors, the full template 
 
 ### Divided Government States
 
-In states where the governor may sign but the legislature is mixed, strategic adaptation is required:
+In states where the governor may sign but the legislature is mixed, analytical adaptation is required:
 
 | State | Key Challenge | Adaptation Strategy |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
-title: Legal Foundation
-description: Core constitutional and statutory documents underpinning the Municipal Election Integrity Ordinance strategy.
+title: Legal Framework
+description: Constitutional and statutory analysis of federal and state law governing armed federal personnel at polling places.
 ---
 
-# Legal Foundation
+# Legal Framework
 
-These nine documents form the constitutional and statutory basis for protecting polling places from armed federal personnel. They support two parallel action tracks: **municipal ordinances** (the Master Ordinance Template) and **state legislation** (the Master State Bill Template). Every state guide references them. They are written for attorneys and legal advocates but are accessible to any reader.
+This section contains the constitutional and statutory analysis that underlies the site's treatment of armed federal personnel at polling places. Two categories of sub-federal instruments are analyzed: municipal ordinances (the Model Municipal Ordinance — Annotated Template) and state legislation (the Model State Legislation — Annotated Template). The state-by-state application of this analysis is set out in the [State Legal Profiles](../state-guides/index.md). The materials below are written for legal practitioners; the [Polling Place Law — Overview](../voter-guide/index.md) section contains a summary in non-technical form.
 
 ---
 
@@ -29,11 +29,11 @@ The statutory text and legal analysis of **18 U.S.C. § 592** (Troops at Polls, 
 
 ---
 
-### 3. [50-State Viability Analysis](50-state-overview.md)
+### 3. [50-State Home Rule and Preemption Analysis](50-state-overview.md)
 
-The strategic map for which states and cities to prioritize. Classifies all 50 states into GREEN (strong home rule, no anti-sanctuary preemption), YELLOW (mixed), and RED (anti-sanctuary laws, Dillon's Rule constraints) tiers, with an interactive filter. Includes swing state analysis.
+Classification of all 50 states by municipal-authority framework and state-preemption status, organized in three tiers (Strong Home Rule Authority; Limited or Conditional Home Rule; Dillon's Rule or Preemption Constraints). Includes a state-by-state analysis and a section on swing states.
 
-**Key takeaway:** 16–18 states have strong legal pathways; 6 swing states have specific strategic windows even within Tier 2/3.
+**Key takeaway:** Approximately 16 to 18 states present home rule frameworks compatible with polling place protection ordinances; a subset of swing states present specific legal questions within Tier 2 and Tier 3.
 
 ---
 
@@ -69,17 +69,17 @@ A comprehensive litigation evidence protocol covering seven categories of eviden
 
 ---
 
-### 8. [Master Ordinance Template](master-ordinance-template.md)
+### 8. [Model Municipal Ordinance — Annotated Template](master-ordinance-template.md)
 
-Model municipal ordinance language with WHEREAS clauses citing anti-commandeering doctrine (*Printz*, *Murphy*), 14 operative sections (from definitions through severability), tier-specific adaptation notes for all three state tiers, optional provisions (personnel protection, funding resilience, risk-limiting audits), and messaging guidance for progressive, conservative, and moderate audiences.
+Annotated model municipal ordinance with WHEREAS clauses citing the anti-commandeering doctrine (*Printz*, *Murphy*), fourteen operative sections (from definitions through severability), tier-specific adaptation notes, optional provisions (personnel protection, funding resilience, risk-limiting audits), and framing considerations for adoption proceedings.
 
-**Key takeaway:** The ordinance template is designed to invoke federal law rather than conflict with it, using the "Federal Felony Exemption" argument — cities cannot be compelled to facilitate federal criminal activity under 18 U.S.C. § 592.
+**Key takeaway:** The template invokes federal law rather than conflicting with it, on the theory that local governments are not required to facilitate conduct prohibited by federal law under 18 U.S.C. § 592.
 
 ---
 
-### 9. [Master State Bill Template](master-state-bill-template/)
+### 9. [Model State Legislation — Annotated Template](master-state-bill-template.md)
 
-Model state legislation for legislatures seeking to create criminal and civil penalties for deploying armed federal personnel to polling places. Drawn directly from New Mexico's **SB 264** (signed March 9, 2026) — the first state law of its kind — with additional provisions from pending legislation in California, Connecticut, Virginia, and Washington. Includes a 20-section model bill, the "parallel enforcement" legal theory, a four-layer preemption defense framework, and state-specific adaptation notes for trifecta, divided-government, and hostile states.
+Annotated model state legislation creating state-law criminal and civil penalties for the deployment of armed federal personnel at polling places. Derived from New Mexico SB 264 (enacted March 9, 2026) with additional provisions drawn from pending legislation in California, Connecticut, Virginia, and Washington. Includes a 20-section model bill, the parallel-enforcement legal theory, a preemption-defense framework, and state-specific adaptation notes.
 
 **Key takeaway:** State legislation fills the structural enforcement gap in 18 U.S.C. § 592 by creating parallel state criminal and civil penalties that don't depend on the federal executive branch for prosecution. The private right of action with attorney fee shifting creates a self-enforcing statute.
 
@@ -120,8 +120,8 @@ Model state legislation for legislatures seeking to create criminal and civil pe
   </a>
   <a href="50-state-overview/" class="doc-card">
     <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m15 19-6-2.11V5l6 2.11M20.5 3h-.16L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5a.5.5 0 0 0 .5.5c.05 0 .11 0 .16-.03L9 18.9l6 2.1 5.64-1.9c.21-.1.36-.25.36-.48V3.5a.5.5 0 0 0-.5-.5"/></svg></div>
-    <div class="doc-card-title">50-State Viability Analysis</div>
-    <div class="doc-card-desc">Full strategic map with GREEN/YELLOW/RED tiers, swing state windows, coalition directory</div>
+    <div class="doc-card-title">50-State Home Rule and Preemption Analysis</div>
+    <div class="doc-card-desc">State-by-state classification of home rule authority and preemption statutes, with swing-state analysis and relevant-organizations directory</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--all">All</span></div>
   </a>
   <a href="evidence-framework/" class="doc-card">
@@ -132,14 +132,14 @@ Model state legislation for legislatures seeking to create criminal and civil pe
   </a>
   <a href="master-ordinance-template/" class="doc-card">
     <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h4v-1.91L12.09 18H6v-2h8.09l2-2H6v-2h12.09L20 10.09V8l-6-6zm7 1.5L18.5 9H13zm7.15 9.5a.55.55 0 0 0-.4.16l-1.02 1.02 2.09 2.08 1.02-1.01c.21-.22.21-.58 0-.79l-1.3-1.3a.54.54 0 0 0-.39-.16m-2.01 1.77L12 20.92V23h2.08l6.15-6.15z"/></svg></div>
-    <div class="doc-card-title">Master Ordinance Template</div>
-    <div class="doc-card-desc">Model municipal ordinance with 14 operative sections and tier-specific adaptation notes</div>
+    <div class="doc-card-title">Model Municipal Ordinance — Annotated Template</div>
+    <div class="doc-card-desc">Annotated model municipal ordinance with fourteen operative sections and tier-specific adaptation notes</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
   <a href="master-state-bill-template/" class="doc-card">
     <div class="doc-card-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2c-1.11 0-2 .89-2 2v16a2 2 0 0 0 2 2h4v-1.91L12.09 18H6v-2h8.09l2-2H6v-2h12.09L20 10.09V8l-6-6zm7 1.5L18.5 9H13zm7.15 9.5a.55.55 0 0 0-.4.16l-1.02 1.02 2.09 2.08 1.02-1.01c.21-.22.21-.58 0-.79l-1.3-1.3a.54.54 0 0 0-.39-.16m-2.01 1.77L12 20.92V23h2.08l6.15-6.15z"/></svg></div>
-    <div class="doc-card-title">Master State Bill Template</div>
-    <div class="doc-card-desc">Model state legislation with criminal/civil penalties, emergency procedures, voter data protection; based on NM SB 264</div>
+    <div class="doc-card-title">Model State Legislation — Annotated Template</div>
+    <div class="doc-card-desc">Model state legislation with criminal and civil penalties, emergency procedures, and voter-data protection, derived from New Mexico SB 264</div>
     <div class="doc-card-audience"><span class="audience-pill audience-pill--officials">Officials</span> <span class="audience-pill audience-pill--attorneys">Attorneys</span></div>
   </a>
 </div>
