@@ -185,4 +185,4 @@ If you want to go beyond one-on-one conversations, consider organizing an inform
 - Link to this guide for people who want to read more
 - Sign-up sheet for people who want to get involved with local advocacy
 
-[:octicons-arrow-right-24: How to Push Your City Council to Act](push-your-city-to-act.md)
+[:octicons-arrow-right-24: Municipal Authority and Ordinance Frameworks](push-your-city-to-act.md)

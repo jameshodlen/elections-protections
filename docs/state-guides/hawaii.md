@@ -101,7 +101,7 @@ For the full 50-state preemption and home rule comparison, see the [50-State Via
 - **Key challenge:** Very heavy military community presence -- heaviest military opposition risk
 - **Passage probability:** MEDIUM
 
-**Optimal dual-track strategy:** Pursue county ordinances in Maui and Hawaii County while simultaneously pursuing statewide legislation through the overwhelmingly Democratic legislature (Senate 22-3, House 42-9).
+**Dual-track analysis:** County ordinances in Maui and Hawaii County are available concurrently with a statewide legislative path through the Democratic-majority legislature (Senate 22-3, House 42-9).
 
 ---
 

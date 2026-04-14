@@ -133,7 +133,7 @@ Critical language adjustments from the Madison model: frame as local resource al
 
 ### Priority Relevant Organizations
 
-1. **ACLU of Florida** (Executive Director Micah Kubic) — Premier civil liberties organization; led Amendment 4 campaign with $5.53M investment; staff expertise on preemption
+1. **ACLU of Florida** (Executive Director Micah Kubic) — State civil-liberties organization; led Amendment 4 campaign with $5.53M investment; staff expertise on preemption
 2. **Florida Rights Restoration Coalition (FRRC)** (Desmond Meade, founder) — Led Amendment 4 to passage with 64.5% in 2018; deep organizing infrastructure
 3. **Equal Ground** (Genesis Robinson, ED) — Black voter mobilization; co-sponsors Florida Voting Rights Act
 4. **Florida Rising** (Senior Political Advisor Dwight Bullard) — Statewide grassroots organization in communities of color

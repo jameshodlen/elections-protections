@@ -22,7 +22,7 @@ tags:
 </div>
 
 
-Alaska's strong home rule tradition and progressive urban coalitions create a viable pathway for municipal election protection ordinances based on 18 U.S.C. § 592—but state firearms preemption poses the single greatest legal obstacle. The Alaska Constitution explicitly rejects Dillon's Rule, granting municipalities "all legislative powers not prohibited by law or charter" with mandated "liberal construction." Anchorage's 9-3 progressive Assembly majority makes it the applicable launch city, followed by Juneau and Fairbanks. A robust relevant organizations exists, anchored by the ACLU of Alaska, Native American Rights Fund, and First Alaskans Institute's newly formalized Get Out The Native Vote partnership.
+Alaska's strong home rule tradition and progressive urban coalitions create a viable pathway for municipal election protection ordinances based on 18 U.S.C. § 592—but state firearms preemption poses the single greatest legal obstacle. The Alaska Constitution explicitly rejects Dillon's Rule, granting municipalities "all legislative powers not prohibited by law or charter" with mandated "liberal construction." Anchorage's 9-3 progressive Assembly majority makes it the city with broad home rule authority, followed by Juneau and Fairbanks. A robust relevant organizations exists, anchored by the ACLU of Alaska, Native American Rights Fund, and First Alaskans Institute's newly formalized Get Out The Native Vote partnership.
 
 ---
 
@@ -109,7 +109,7 @@ Based on statutory analysis, an Alaska election protection ordinance should:
 
 ---
 
-## Section 3: Anchorage emerges as the applicable launch city
+## Section 3: Anchorage emerges as the city with broad home rule authority
 
 ### Anchorage offers strongest political conditions
 
@@ -140,7 +140,7 @@ The **City and Borough of Juneau** offers a progressive Assembly, civil libertie
 
 **Political Composition:** Juneau is identified as a Democratic stronghold. The Assembly passed an LGBTQ non-discrimination ordinance in 2016 by **8-1 vote**, sponsored by then-Deputy Mayor Jesse Kiehl (later state senator).
 
-**Strategic Value:** Smaller body (9 members) enables easier consensus-building. Capital city status provides statewide visibility and precedent value. Active civic engagement culture with League of Women Voters and Alaska Common Ground presence.
+**Legal relevance:** Smaller body (9 members) enables easier consensus-building. Capital city status provides statewide visibility and precedent value. Active civic engagement culture with League of Women Voters and Alaska Common Ground presence.
 
 **Potential Champions:** Alicia Hughes-Skandijs (replaced Jesse Kiehl, second-term); Greg Smith (third-term experienced member); Christine Woll (second-term member).
 

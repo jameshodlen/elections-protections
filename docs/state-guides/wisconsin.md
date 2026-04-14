@@ -24,7 +24,7 @@ tags:
 
 Wisconsin cities can legally adopt ordinances directing local police not to assist armed federal personnel near polling places, but **careful drafting is essential** to survive preemption challenges. The state's modified home rule framework provides a workable path, though significant legal risks—particularly Wisconsin's firearms preemption statute—require strategic ordinance language that avoids triggering state law conflicts. With Madison's original ordinance as the model, **Racine, Green Bay, and La Crosse** emerge as the highest-priority targets for adoption, supported by a robust relevant organizations led by Voces de la Frontera and the ACLU of Wisconsin.
 
-This comprehensive guide covers the legal battlefield, localization toolkit, city with home rule authority analysis, and coalition partner network for a statewide municipal campaign.
+This comprehensive guide covers the legal battlefield, localization toolkit, city with home rule authority analysis, and network of relevant organizations for a statewide municipal campaign.
 
 ---
 

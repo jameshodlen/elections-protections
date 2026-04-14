@@ -22,7 +22,7 @@ tags:
 </div>
 
 
-**Colorado offers fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the applicable launch city, with Denver and the newly progressive Aurora as strong secondary targets.
+**Colorado offers fertile ground for municipal election protection ordinances.** The state's 2021 repeal of firearms preemption, existing "Vote Without Fear Act" banning guns at polling places, and robust home rule constitutional framework create a legal environment where cities can pass protective ordinances with minimal litigation risk. Boulder emerges as the city with broad home rule authority, with Denver and the newly progressive Aurora as strong secondary targets.
 
 The core legal insight: Unlike most states, Colorado no longer preempts local firearms regulation, making Supremacy Clause arguments against state law largely unnecessary. Home rule municipalities possess broad authority over "local and municipal matters" under Article XX of the Colorado Constitution, and the state's existing sanctuary-style laws protecting immigrants from federal overreach provide favorable precedent for ordinances limiting local cooperation with armed federal personnel at polling places.
 
@@ -266,7 +266,7 @@ Colorado's unique combination of repealed firearms preemption, robust home rule 
 
 The December 2025 *Camp v. Westminster* decision signals courts may scrutinize ordinances that create criminal penalties exceeding state law, making careful drafting essential. However, ordinances directing municipal police not to assist armed federal personnel at polling places—framed as resource allocation and local police directives—should survive preemption analysis.
 
-Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the applicable launch city. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
+Boulder's existing sanctuary and police oversight ordinances, progressive council, and civic engagement tradition make it the city with broad home rule authority. Denver provides maximum impact potential but requires navigating the strong-mayor system. Aurora's recently flipped progressive council creates a time-sensitive opportunity, with previously drafted measures now likely viable.
 
 The most significant strategic advantage is the pre-existing COVRA relevant organizations—45+ organizations with established relationships, coordinated communications, and demonstrated capacity to pass legislation. Any municipal ordinance campaign should engage this coalition rather than building parallel infrastructure.
 

@@ -113,7 +113,7 @@ Cambridge stands as the **strongest candidate** for initial implementation. As M
 
 **Track record:** Beyond sanctuary status, Cambridge has enacted facial recognition bans, progressive housing policies, and numerous equity measures. The city's proportional representation system ensures diverse progressive voices, and the council-manager structure provides professional implementation capacity.
 
-**Strategic value:** Harvard and MIT presence guarantees national media coverage. No hostile mayor to veto. Clear legal authority through city charter. Proximity to Boston amplifies regional impact.
+**Legal relevance:** Harvard and MIT presence guarantees national media coverage. No hostile mayor to veto. Clear legal authority through city charter. Proximity to Boston amplifies regional impact.
 
 ### Somerville: Demonstrated willingness to challenge federal authority
 
@@ -125,7 +125,7 @@ Somerville, Massachusetts's second sanctuary city (1987), has already **filed a 
 
 **Track record:** 2024 sanctuary reaffirmation; 2018 ordinance banning ICE access to local facilities except with judicial warrants; 2020 facial recognition ban.
 
-**Strategic value:** Charter reform demonstrates capacity for structural innovation. Adjacent to Cambridge—simultaneous passage creates powerful regional statement. Already on record confronting federal immigration enforcement through litigation.
+**Legal relevance:** Charter reform demonstrates capacity for structural innovation. Adjacent to Cambridge—simultaneous passage creates powerful regional statement. Already on record confronting federal immigration enforcement through litigation.
 
 ### Northampton: Proven progressive governance outside Metro Boston
 
@@ -143,7 +143,7 @@ Northampton provides essential **geographic diversity**, demonstrating viability
 - Division of Community Care — unarmed crisis response program
 - Campaign finance limits stricter than state requirements
 
-**Strategic value:** Nationally recognized progressive enclave. Proven implementation capacity across multiple policy areas. Mayor-council alignment ensures smooth passage.
+**Legal relevance:** Nationally recognized progressive enclave. Proven implementation capacity across multiple policy areas. Mayor-council alignment ensures smooth passage.
 
 ### Alternative considerations
 

@@ -1,141 +1,119 @@
 ---
 title: How to Use This Guide
-description: Audience-specific reading paths for voters and activists, municipal officials, attorneys, and coalition organizers.
+description: Audience-specific reading paths for residents, municipal officials, legal practitioners, civic organizations, and state legislators.
 ---
 
 # How to Use This Guide
 
-This resource serves four distinct audiences with different goals and starting points. Find your role below for a recommended reading path.
+This resource is written for several distinct audiences. The recommended reading paths below identify the pages most relevant to each.
 
 !!! tip "New to this topic?"
-    If you're a voter or community member — not a lawyer, official, or professional
-    organizer — start with the **[Voter & Activist Guide](voter-guide/index.md)**.
-    It explains everything in plain English with clear action steps.
+    Readers who are new to the subject may begin with the
+    **[Polling Place Law — Overview](voter-guide/index.md)** section, which
+    provides a summary of the federal and state law analyzed elsewhere on the
+    site.
 
 ---
 
-## Municipal Officials & Lobbyists
+## Municipal Officials
 
-**Your goal:** Determine whether your city has legal authority to pass an election protection ordinance, assess the political risks, and access model ordinance language.
+**Objective:** Determine the scope of municipal authority under the state's home rule framework, identify relevant state preemption statutes, and locate model ordinance language.
 
-**Recommended path:**
+**Recommended reading:**
 
-1. Go to your **[state guide](state-guides/index.md)** and read Section 1 — the legal battlefield analysis for your state. This tells you whether your city operates under home rule or Dillon's Rule and what state-level preemption risks exist.
+1. The relevant **[state profile](state-guides/index.md)** — Section 1 (legal framework) sets out whether the municipality operates under home rule or Dillon's Rule and identifies any state preemption statutes.
+2. Section 3 of the state profile — Cities with Home Rule Authority.
+3. The **[Federal Governance Framework](legal-foundation/governance-framework.md)**, Part V ("Implications for a Municipal Ordinance").
+4. Section 2 of the state profile — statute-localization kit — when drafting ordinance language with municipal counsel.
 
-2. Read Section 3 of your state guide (target city analysis) to see how your city ranks and which council members may be champions.
+!!! info "Tier 3 states"
+    Tier 3 states — including Tennessee, Texas, Florida, Georgia, Indiana, and
+    Iowa — have enacted anti-sanctuary statutes with penalties for local
+    officials. Tennessee SB 6002 (2025) imposes criminal penalties. The
+    [50-State Home Rule and Preemption Analysis](legal-foundation/50-state-overview.md)
+    contains the applicable analysis; independent state-law counsel is
+    appropriate in each of these jurisdictions.
 
-3. Read the **[Federal Governance Framework](legal-foundation/governance-framework.md)** Part V ("Implications for a Municipal Ordinance") to understand the constitutional space you're operating in.
-
-4. Use your state's Section 2 (statute localization kit) when drafting ordinance language with your city attorney.
-
-!!! danger "Tennessee, Texas, Florida, Georgia, Indiana, Iowa, and Other Tier 3 States"
-    These states have enacted aggressive anti-sanctuary laws with severe penalties
-    for local officials — including felony charges (Tennessee SB 6002, 2025) and
-    mandatory funding cuts. Read your state's entry in the
-    [50-State Overview](legal-foundation/50-state-overview.md) before proceeding
-    and consult with independent legal counsel before any public statements.
-
-!!! warning "Wisconsin and Connecticut (Tier 2)"
-    Wisconsin's 2017 anti-sanctuary law and comprehensive firearms preemption
-    statute (§ 66.0409) create significant obstacles, but the
-    [Wisconsin guide](state-guides/wisconsin.md) identifies a specific "police
-    operational directives" pathway that avoids both traps. Connecticut faces
-    explicit election preemption under CGS § 7-192a but has a viable "federal
-    law implementation" framing strategy. Read the full state guides before acting.
-
----
-
-## Attorneys and Legal Advocates
-
-**Your goal:** Understand the statutory authority, preemption risks, and litigation strategy for pre-election injunctive relief.
-
-**Recommended path:**
-
-1. **[ICE at Polling Places — Federal Law](legal-foundation/ice-polling-places-law.md)** — the statutory text of 18 U.S.C. § 592 and VRA § 11(b), application to ICE agents, DOJ manual analysis, model plaintiffs, and honest assessment of the statutes' limitations.
-
-2. **[The Supremacy Clause](legal-foundation/supremacy-clause.md)** — comprehensive analysis of the anti-commandeering doctrine (*Printz v. United States*, *Murphy v. NCAA*) and its application to municipal non-cooperation ordinances. Covers preemption taxonomy (express, field, impossibility conflict, obstacle conflict) and the full jurisprudential history from *McCulloch* through the Roberts Court.
-
-3. **[Insurrection Act Analysis](legal-foundation/insurrection-act-analysis.md)** — analyzes whether Insurrection Act deployment overrides § 592. Short answer: it does not, per three independent legal arguments confirmed by *Trump v. Illinois* (December 23, 2025). Contains Election Day 2026 scenario analysis with likelihood ratings.
-
-4. **[Ballot Security Injunction History](legal-foundation/ballot-security-history.md)** — the DNC v. RNC consent decree history (1982–2017), why § 592 has never been litigated in a reported federal case, and the precedents from *CAIR v. Atlas Aegis* (2020, 2,500-foot buffer zone injunction), *NCBCP v. Wohl* (2020, $1M settlement), and *Fair Fight v. True the Vote* (2022, 364,000 Georgia voter challenges).
-
-!!! tip "Key Argument: Implementation, Not Conflict"
-    The strongest preemption defense across all states is that the municipal
-    ordinance *implements* 18 U.S.C. § 592 rather than conflicting with it.
-    An ordinance prohibiting city employee assistance to armed federal personnel
-    at polling places reinforces a federal felony prohibition. This framing
-    defeats both express preemption and obstacle conflict preemption.
+!!! info "Wisconsin and Connecticut (Tier 2)"
+    Wisconsin's 2017 anti-sanctuary statute and comprehensive firearms
+    preemption (Wis. Stat. § 66.0409) impose material constraints. The
+    [Wisconsin profile](state-guides/wisconsin.md) analyzes a "police
+    operational directives" framing. Connecticut is subject to explicit
+    election preemption under CGS § 7-192a; the
+    [Connecticut profile](state-guides/connecticut.md) analyzes a federal-law
+    compliance framing.
 
 ---
 
-## Coalition Organizers
+## Legal Practitioners
 
-**Your goal:** Identify target cities, reach coalition partners, and coordinate simultaneous adoption campaigns across multiple jurisdictions.
+**Objective:** Statutory authority, preemption analysis, and pre-election injunctive relief.
 
-**Recommended path:**
+**Recommended reading:**
 
-1. **[50-State Viability Analysis](legal-foundation/50-state-overview.md)** — start with the interactive tier table. Use the GREEN/YELLOW/RED filter to focus on viable states. The document includes a tiered implementation strategy organized by state viability.
+1. **[ICE at Polling Places — Federal Law](legal-foundation/ice-polling-places-law.md)** — statutory text and analysis of 18 U.S.C. § 592 and 52 U.S.C. § 10307(b), including application to ICE agents, Department of Justice manual guidance, and limitations of the statutes.
+2. **[The Supremacy Clause](legal-foundation/supremacy-clause.md)** — anti-commandeering doctrine (*Printz v. United States*, *Murphy v. NCAA*) and preemption taxonomy.
+3. **[Insurrection Act Analysis](legal-foundation/insurrection-act-analysis.md)** — analysis of the interaction between the Insurrection Act and 18 U.S.C. § 592, as informed by *Trump v. Illinois* (December 23, 2025).
+4. **[Ballot Security Injunction History](legal-foundation/ballot-security-history.md)** — *DNC v. RNC* consent decree (1982–2017), the absence of reported modern prosecutions under 18 U.S.C. § 592, and subsequent injunction cases including *CAIR v. Atlas Aegis* (2020) and *NCBCP v. Wohl* (2020).
 
-2. Each **[state guide](state-guides/index.md)** Section 4 contains a coalition directory with specific organization names, phone numbers, email addresses, and physical addresses for advocacy partners in that state. Each directory is pre-researched and includes assessment of each organization's election protection experience.
-
-3. The **[Minnesota](state-guides/minnesota.md)** and **[Wisconsin](state-guides/wisconsin.md)** state guides include implementation pathway sections with actionable policies drawn from analogous jurisdictions in other states.
-
-4. Both the **[Minnesota](state-guides/minnesota.md)** and **[Wisconsin](state-guides/wisconsin.md)** guides include "Key Contacts" sections with official contacts for state election security offices.
-
-!!! note "Terminology Strategy"
-    In states with anti-sanctuary laws (even Tier 1 states with no ban), avoid
-    the word "sanctuary" in ordinance titles and advocacy materials. Use
-    "election integrity," "voter protection," or "polling place security" framing
-    instead. The substantive content is identical; the framing affects political
-    viability and reduces exposure to state preemption arguments.
+!!! note "Preemption framing"
+    The principal preemption defense analyzed on this site is that a
+    municipal ordinance of this type implements 18 U.S.C. § 592 rather than
+    conflicting with it. An ordinance withholding local resources from armed
+    federal personnel at polling places reinforces a federal criminal
+    prohibition; this framing is relevant to both express and obstacle-conflict
+    preemption analyses.
 
 ---
 
-## Voters & Activists
+## Civic Organizations
 
-**Your goal:** Understand the threat to polling places, know your rights, and take action to protect elections in your community.
+**Objective:** Identify the jurisdictions in which municipal authority is available, and the state-level organizations active in each state.
 
-**Recommended path:**
+**Recommended reading:**
 
-1. **[What Is Happening and Why It Matters](voter-guide/whats-happening.md)** — the threat explained in plain English, including what has already happened in Minnesota and what leaders have said publicly.
+1. **[50-State Home Rule and Preemption Analysis](legal-foundation/50-state-overview.md)** — state-by-state classification of home rule authority and preemption statutes, with a directory of relevant organizations.
+2. Section 4 of each **[state profile](state-guides/index.md)** — Relevant Legal and Civic Organizations, with contact information and organizational descriptions.
+3. The **[Minnesota](state-guides/minnesota.md)** and **[Wisconsin](state-guides/wisconsin.md)** profiles, which include state-specific municipal-authority analyses.
+4. The "Key Contacts" sections of each state profile, which identify contacts for state election-administration offices.
 
-2. **[Your Rights at the Polling Place](voter-guide/your-rights.md)** — federal and state laws that protect you, what to do if you see armed agents at your polling place, and who to call.
-
-3. **[The Law Explained in Plain English](voter-guide/the-law-explained.md)** — the legal foundation behind this project, without the legal jargon.
-
-4. **[How to Push Your City Council to Act](voter-guide/push-your-city-to-act.md)** — step-by-step guide to advocating for a protection ordinance in your city.
-
-5. **[Election Day Action Plan](voter-guide/election-day-action.md)** — what to prepare before Election Day and what to do if something goes wrong.
-
-6. **[Talk to Your Neighbors](voter-guide/talk-to-your-neighbors.md)** — conversation guides and talking points for spreading the word.
-
-!!! note "You don't need to be a lawyer or an organizer"
-    These pages translate the same legal analysis that attorneys and officials use
-    into language anyone can understand. Every claim links back to the detailed
-    legal documents if you want to go deeper.
+!!! note "Terminology"
+    In states with anti-sanctuary statutes, including Tier 3 states and
+    certain Tier 1 states, the terminology "election integrity," "voter
+    protection," and "polling place security" is more precise than the
+    terminology "sanctuary." The substantive legal content is unaffected; the
+    choice of terminology is relevant to preemption analyses that turn on
+    statutory scope.
 
 ---
 
-## Understanding the Tier System
+## Residents
 
-| Tier | Label | Meaning | Approximate Count |
+**Objective:** Understand the federal and state law applicable to polling places, voter rights, and the procedures available on election day.
+
+**Recommended reading:**
+
+1. **[Factual Record: Federal Statements and Deployments](voter-guide/whats-happening.md)** — factual summary of federal statements and the January 2026 Minnesota deployment.
+2. **[Voter Rights Under Federal and State Law](voter-guide/your-rights.md)** — federal and state statutory protections, with contact information for reporting procedures.
+3. **[18 U.S.C. § 592 and Related Statutes — Plain Language Summary](voter-guide/the-law-explained.md)** — summary of the applicable federal statutes in non-technical language.
+4. **[Municipal Authority and Ordinance Frameworks](voter-guide/push-your-city-to-act.md)** — overview of municipal legal authority under state home rule frameworks.
+5. **[Election Day: Legal Rights and Reporting Procedures](voter-guide/election-day-action.md)** — voter rights and reporting procedures on election day.
+
+!!! note "Accessibility"
+    The pages in the [Polling Place Law — Overview](voter-guide/index.md) section
+    present the same legal analysis set out in the
+    [Legal Framework](legal-foundation/index.md) and
+    [State Legal Profiles](state-guides/index.md) sections, in summary form and
+    without extensive footnoting.
+
+---
+
+## Tier Classification
+
+| Tier | Label | Definition | Approximate Count |
 |---|---|---|---|
-| **GREEN** | Strong Viability | Strong home rule; no anti-sanctuary preemption; favorable precedent | 16–18 states |
-| **YELLOW** | Proceed with Caution | Viable pathway with significant legal or political obstacles | ~10 states |
-| **RED** | Significant Barriers | Anti-sanctuary law in effect; high risk for local officials | ~23 states |
+| **Tier 1** | Strong Home Rule Authority | Constitutional or charter home rule; no state statute preempting local regulation of law-enforcement presence at polling places | 16–18 states |
+| **Tier 2** | Limited or Conditional Home Rule | Home rule authority is statutory, conditional, or subject to specific procedural requirements | ~10 states |
+| **Tier 3** | Dillon's Rule or Preemption Constraints | Dillon's Rule jurisdictions, or states with anti-sanctuary or related preemption statutes | ~23 states |
 
-The tier designation is a starting point, not an absolute ceiling. Several RED-tier swing states (Arizona, Georgia, North Carolina, Pennsylvania) have specific strategic windows — particular types of ordinances or particular legal framings that may survive preemption challenges — detailed in the [50-State Analysis](legal-foundation/50-state-overview.md).
-
----
-
-## Document Conventions
-
-Throughout these guides, the following conventions are used:
-
-**Statutory citations** follow the standard legal format: `18 U.S.C. § 592` (Title 18 of the United States Code, Section 592). State statutes are cited by state abbreviation and code section.
-
-**Case citations** use the standard legal format: *Case Name* (Court, Year). Cases in the text are generally italicized.
-
-**Model ordinance language** appears in code blocks and is designed to be copied and adapted by city attorneys. Always have local counsel review before introduction.
-
-**Coalition contacts** were current as of early 2026. Verify contact information before outreach.
+The tier classification is a starting point. Several Tier 3 states — Arizona, Georgia, North Carolina, and Pennsylvania (Tier 2) — are the subject of state-specific legal analysis in the [50-State Home Rule and Preemption Analysis](legal-foundation/50-state-overview.md).
