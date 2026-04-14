@@ -242,8 +242,4 @@ For cities preparing for 2026:
 4. **Train election workers** on federal protections and response protocols
 5. **Communicate clearly to immigrant communities** about their rights and protections
 
-The legal tools exist. Implementation requires political will and coordinated action.
-
----
-
-*This analysis is provided for policy development and advocacy purposes and does not constitute legal advice. Consultation with election law counsel is recommended for specific litigation strategy.*
+The statutory framework summarized above is analyzed in detail in the subsequent pages of this section.

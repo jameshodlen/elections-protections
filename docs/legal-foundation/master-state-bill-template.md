@@ -559,7 +559,3 @@ This template operates at the state level but intersects with active federal leg
 **The Freedom from Intimidation in Elections Act** (Padilla/Deluzio) would amend the Voting Rights Act to create a rebuttable presumption that visible firearms at election activities constitute voter intimidation. This federal bill and the state template address different dimensions of the same problem — the federal bill focuses on private armed individuals while this template focuses on armed federal *personnel*. Both are needed.
 
 **18 U.S.C. § 592** remains the federal statutory foundation. This template does not replace § 592 — it creates parallel state enforcement that fills the structural gap in federal enforcement. The two operate concurrently: a single act of deploying armed federal agents to a polling place would violate both the federal statute and the state act, exposing the violator to both federal and state penalties.
-
----
-
-*This template is provided for policy development and advocacy purposes and does not constitute legal advice. Consultation with election law counsel in the specific state is recommended for bill drafting, particularly for penalty classification, constitutional provision references, and emergency clause requirements. Contact information for state-specific legal resources is available in each [state guide](../../state-guides/).*

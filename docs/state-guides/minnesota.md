@@ -366,7 +366,3 @@ The following statements were made by administration officials and associates re
 - **February 12, 2026**: Acting ICE Director Todd Lyons, testifying before the Senate, stated: "there's no reason for us to deploy to a polling facility."
 
 The White House has not issued a formal policy statement ruling out the deployment of armed federal agents to polling places.
-
----
-
-*This analysis is provided for legal research and policy development purposes and does not constitute legal advice. Consultation with election law counsel is recommended for jurisdiction-specific questions.*
